@@ -5,7 +5,7 @@
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<title>Project</title>
+	<title>RetroPie Games List</title>
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="">
@@ -28,7 +28,22 @@
 	<script>
 	jQuery(document).ready(function($) {
 
+		$.getJSON('games.json', function(systems) {
 
+			for (system in systems) {
+
+				var games = systems[system];
+
+				if (games.length === 0) {
+					games.push('None')
+				}
+
+				$('#games').append('<h3>' + system + '</h3>');
+				$('#games').append('<ul><li>' + games.join('</li><li>') + '</li></ul>');
+
+			}
+
+		});
 
 	});
 	</script>
@@ -37,14 +52,13 @@
 <body>
 
 	<nav class="navbar navbar-light bg-faded">
-		<a class="navbar-brand" href="#">Navbar</a>
-		<form class="form-inline float-xs-right">
-			<input class="form-control" type="text" name="search" placeholder="Search">
-			<button class="btn btn-outline-success" type="submit">Search</button>
-		</form>
+		<a class="navbar-brand" href="#">
+			<img src="https://cloud.githubusercontent.com/assets/10035308/11631694/6fa8e356-9cc0-11e5-8bce-4b8305f0fe8f.png" height="34" class="d-inline-block align-top" alt="RetroPie">
+			<span>Games List</span>
+		</a>
 	</nav>
 
-	<div class="container-fluid" role="main">
+	<div id="games" class="container-fluid" role="main">
 
 		<noscript>
 			<div class="alert alert-danger" role="alert">
