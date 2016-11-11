@@ -42,75 +42,104 @@
 	</style>
 
 	<script>
+	function renderGames(systems, filters) {
+
+		$('#games').empty();
+
+		for (system in systems) {
+
+			var games = systems[system];
+
+			games.forEach(function(game, index) {
+
+				if (filters.indexOf('multiplayer') != -1 && game.players < 2) {
+					delete games[index];
+				} else if (filters.indexOf('simultaneous-coop') != -1 && game.multiplayer['simultaneous-coop'] === false) {
+					delete games[index];
+				} else if (filters.indexOf('alternating-coop') != -1 && game.multiplayer['alternating-coop'] === false) {
+					delete games[index];
+				} else if (filters.indexOf('simultaneous-vs') != -1 && game.multiplayer['simultaneous-vs'] === false) {
+					delete games[index];
+				} else if (filters.indexOf('alternating-vs') != -1 && game.multiplayer['alternating-vs'] === false) {
+					delete games[index];
+				}
+
+			});
+
+			games = games.filter(function(){return true;});
+
+			if (games.length === 0) {
+				games.push({
+					'name': 'None',
+					'multiplayer': {}
+				})
+			}
+
+			var html = '<h3>' + system + '</h3>';
+
+			html += '<ul>';
+
+			games.forEach(function(game) {
+
+				var checked = '';
+				var multiplayer = '';
+				var simultaneous_coop = '';
+				var simultaneous_vs = '';
+				var alternating_coop = '';
+				var alternating_vs = '';
+
+				if (game.players > 1) {
+					// checked = ' class="checked"';
+					multiplayer = ' <span class="tag tag-info">Multi (' + game.players + ')</span>';
+				}
+
+				if (game.multiplayer['simultaneous-coop']) {
+					simultaneous_coop = ' <span class="tag tag-success">Simo Co-Op</span>';
+				}
+
+				if (game.multiplayer['alternating-coop']) {
+					alternating_coop = ' <span class="tag tag-success">Alt Co-Op</span>';
+				}
+
+				if (game.multiplayer['simultaneous-vs']) {
+					simultaneous_vs = ' <span class="tag tag-danger">Simo Vs</span>';
+				}
+
+				if (game.multiplayer['alternating-vs']) {
+					alternating_vs = ' <span class="tag tag-danger">Alt Vs</span>';
+				}
+
+				html += '<li' + checked + '>' + game.name + multiplayer + simultaneous_coop + alternating_coop + simultaneous_vs + alternating_vs + '</li>';
+
+			});
+
+			html += '</ul>';
+
+			$('#games').append(html);
+
+		}
+
+	}
+
 	jQuery(document).ready(function($) {
 
 		$.getJSON('games.json', function(systems) {
 
-			for (system in systems) {
+			renderGames(systems, []);
 
-				var games = systems[system];
+			$('.filter').on('click', function() {
 
-				if (games.length === 0) {
-					games.push({
-						'name': 'None',
-						'multiplayer': {
-							'co-op': false,
-							'versus': false,
-						}
-					})
-				}
+				$(this).toggleClass('active');
 
-				var html = '<h3>' + system + '</h3>';
+				var filters = [];
 
-				html += '<ul>';
-
-				games.forEach(function(game) {
-
-					var checked = '';
-					var multiplayer = '';
-					var simultaneous_coop = '';
-					var simultaneous_vs = '';
-					var alternating_coop = '';
-					var alternating_vs = '';
-
-					if (game.players > 1) {
-						// checked = ' class="checked"';
-						multiplayer = ' <span class="tag tag-info">Multi (' + game.players + ')</span>';
-					}
-
-					if (game.multiplayer['simultaneous-coop']) {
-						simultaneous_coop = ' <span class="tag tag-success">Simo Co-Op</span>';
-					}
-
-					if (game.multiplayer['alternating-coop']) {
-						alternating_coop = ' <span class="tag tag-success">Alt Co-Op</span>';
-					}
-
-					if (game.multiplayer['simultaneous-vs']) {
-						simultaneous_vs = ' <span class="tag tag-danger">Simo Vs</span>';
-					}
-
-					if (game.multiplayer['alternating-vs']) {
-						alternating_vs = ' <span class="tag tag-danger">Alt Vs</span>';
-					}
-
-					html += '<li' + checked + '>' + game.name + multiplayer + simultaneous_coop + alternating_coop + simultaneous_vs + alternating_vs + '</li>';
-
+				$('.filter.active').each(function() {
+					filters.push($(this).attr('id'));
 				});
 
-				html += '</ul>';
+				renderGames(systems, filters);
 
-				$('#games').append(html);
-
-			}
-
-		});
-
-		$('.btn').on('click', function() {
-
-			$(this).toggleClass('active');
-
-			var type = $(this).attr('id');
+			});
 
 		});
 
@@ -125,11 +154,11 @@
 			<img src="https://cloud.githubusercontent.com/assets/10035308/11631694/6fa8e356-9cc0-11e5-8bce-4b8305f0fe8f.png" height="34" class="d-inline-block align-top" alt="RetroPie">
 			<span>Games List</span>
 		</a>
-		<button id="alternating-vs" type="button" class="btn btn-outline-danger float-xs-right">Alt Vs</button>
-		<button id="simultaneous-vs" type="button" class="btn btn-outline-danger float-xs-right">Simo Vs</button>
-		<button id="alternating-coop" type="button" class="btn btn-outline-success float-xs-right">Alt Co-Op</button>
-		<button id="simultaneous-coop" type="button" class="btn btn-outline-success float-xs-right">Simo Co-Op</button>
-		<button id="multiplayer" type="button" class="btn btn-outline-info float-xs-right">Multi</button>
+		<button id="alternating-vs" type="button" class="filter btn btn-outline-danger float-xs-right">Alt Vs</button>
+		<button id="simultaneous-vs" type="button" class="filter btn btn-outline-danger float-xs-right">Simo Vs</button>
+		<button id="alternating-coop" type="button" class="filter btn btn-outline-success float-xs-right">Alt Co-Op</button>
+		<button id="simultaneous-coop" type="button" class="filter btn btn-outline-success float-xs-right">Simo Co-Op</button>
+		<button id="multiplayer" type="button" class="filter btn btn-outline-info float-xs-right">Multi</button>
 	</nav>
 
 	<div id="games" class="container-fluid" role="main">
