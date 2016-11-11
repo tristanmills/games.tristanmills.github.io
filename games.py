@@ -5,6 +5,10 @@ import xmltodict
 import json
 import collections
 
+
+def str2bool(string):
+	return string.lower() in ('true')
+
 games = {
 	'Arcade': '/retropie/roms/arcade/gamelist.xml',
 	'Atari 2600': '/retropie/roms/atari2600/gamelist.xml',
@@ -51,9 +55,35 @@ for system, path in games.iteritems():
 
 	for game in gameList or []:
 
-		gameName = dict(game.items())['name']
+		game = dict(game.items())
 
-		gameNames.append(gameName)
+		players = 1
+
+		multiplayer = {
+			'simultaneous-coop': False,
+			'alternating-coop': False,
+			'simultaneous-vs': False,
+			'alternating-vs': False,
+		}
+
+		if 'players' in game and game['players'] > 1:
+
+			players = int(game['players'])
+
+		if 'multiplayer' in game:
+
+			_multiplayer = dict(game['multiplayer'])
+
+			multiplayer['simultaneous-coop'] = str2bool(_multiplayer['@simultaneous-coop'])
+			multiplayer['alternating-coop'] = str2bool(_multiplayer['@alternating-coop'])
+			multiplayer['simultaneous-vs'] = str2bool(_multiplayer['@simultaneous-vs'])
+			multiplayer['alternating-vs'] = str2bool(_multiplayer['@alternating-vs'])
+
+		gameNames.append({
+			'name': game['name'],
+			'players': players,
+			'multiplayer': multiplayer
+		})
 
 	games[system] = gameNames
 

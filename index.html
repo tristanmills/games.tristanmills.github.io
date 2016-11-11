@@ -23,6 +23,22 @@
 	.container-fluid {
 		margin-top: 1rem;
 	}
+	.btn {
+		margin: 0 .25rem;
+	}
+	ul {
+		padding-left: 15px;
+		list-style: none;
+	}
+	li:before {
+		content: '\2022';
+		display: inline-block;
+		width: .5rem;
+		margin-right: 1rem;
+	}
+	li.checked:before {
+		content: '\2713';
+	}
 	</style>
 
 	<script>
@@ -35,13 +51,66 @@
 				var games = systems[system];
 
 				if (games.length === 0) {
-					games.push('None')
+					games.push({
+						'name': 'None',
+						'multiplayer': {
+							'co-op': false,
+							'versus': false,
+						}
+					})
 				}
 
-				$('#games').append('<h3>' + system + '</h3>');
-				$('#games').append('<ul><li>' + games.join('</li><li>') + '</li></ul>');
+				var html = '<h3>' + system + '</h3>';
+
+				html += '<ul>';
+
+				games.forEach(function(game) {
+
+					var checked = '';
+					var multiplayer = '';
+					var simultaneous_coop = '';
+					var simultaneous_vs = '';
+					var alternating_coop = '';
+					var alternating_vs = '';
+
+					if (game.players > 1) {
+						// checked = ' class="checked"';
+						multiplayer = ' <span class="tag tag-info">Multi (' + game.players + ')</span>';
+					}
+
+					if (game.multiplayer['simultaneous-coop']) {
+						simultaneous_coop = ' <span class="tag tag-success">Simo Co-Op</span>';
+					}
+
+					if (game.multiplayer['alternating-coop']) {
+						alternating_coop = ' <span class="tag tag-success">Alt Co-Op</span>';
+					}
+
+					if (game.multiplayer['simultaneous-vs']) {
+						simultaneous_vs = ' <span class="tag tag-danger">Simo Vs</span>';
+					}
+
+					if (game.multiplayer['alternating-vs']) {
+						alternating_vs = ' <span class="tag tag-danger">Alt Vs</span>';
+					}
+
+					html += '<li' + checked + '>' + game.name + multiplayer + simultaneous_coop + alternating_coop + simultaneous_vs + alternating_vs + '</li>';
+
+				});
+
+				html += '</ul>';
+
+				$('#games').append(html);
 
 			}
+
+		});
+
+		$('.btn').on('click', function() {
+
+			$(this).toggleClass('active');
+
+			var type = $(this).attr('id');
 
 		});
 
@@ -56,6 +125,11 @@
 			<img src="https://cloud.githubusercontent.com/assets/10035308/11631694/6fa8e356-9cc0-11e5-8bce-4b8305f0fe8f.png" height="34" class="d-inline-block align-top" alt="RetroPie">
 			<span>Games List</span>
 		</a>
+		<button id="alternating-vs" type="button" class="btn btn-outline-danger float-xs-right">Alt Vs</button>
+		<button id="simultaneous-vs" type="button" class="btn btn-outline-danger float-xs-right">Simo Vs</button>
+		<button id="alternating-coop" type="button" class="btn btn-outline-success float-xs-right">Alt Co-Op</button>
+		<button id="simultaneous-coop" type="button" class="btn btn-outline-success float-xs-right">Simo Co-Op</button>
+		<button id="multiplayer" type="button" class="btn btn-outline-info float-xs-right">Multi</button>
 	</nav>
 
 	<div id="games" class="container-fluid" role="main">
