@@ -23,11 +23,8 @@
 	.container-fluid {
 		margin-top: 1rem;
 	}
-	.btn {
-		margin: 0 .25rem;
-	}
 	ul {
-		padding-left: 15px;
+		padding-left: 1rem;
 		list-style: none;
 	}
 	li:before {
@@ -141,7 +138,9 @@
 
 			renderGames(filtered_games);
 
-			$('.filter').on('click', function() {
+			$('.filter').on('click', function(event) {
+
+				event.preventDefault();
 
 				$(this).toggleClass('active');
 
@@ -173,11 +172,11 @@
 			<span>Games List</span>
 		</a>
 		<form class="form-inline float-xs-right">
-			<button id="alternating-vs" type="button" class="filter btn btn-sm btn-outline-danger">Alt Vs</button>
-			<button id="simultaneous-vs" type="button" class="filter btn btn-sm btn-outline-danger">Simo Vs</button>
-			<button id="alternating-coop" type="button" class="filter btn btn-sm btn-outline-success">Alt Co-Op</button>
-			<button id="simultaneous-coop" type="button" class="filter btn btn-sm btn-outline-success">Simo Co-Op</button>
-			<button id="multiplayer" type="button" class="filter btn btn-sm btn-outline-info">Multi</button>
+			<a href="#" id="alternating-vs" role="button" class="filter btn btn-sm btn-outline-danger">Alt Vs</a>
+			<a href="#" id="simultaneous-vs" role="button" class="filter btn btn-sm btn-outline-danger">Simo Vs</a>
+			<a href="#" id="alternating-coop" role="button" class="filter btn btn-sm btn-outline-success">Alt Co-Op</a>
+			<a href="#" id="simultaneous-coop" role="button" class="filter btn btn-sm btn-outline-success">Simo Co-Op</a>
+			<a href="#" id="multiplayer" role="button" class="filter btn btn-sm btn-outline-info">Multi</a>
 		</form>
 	</nav>
 
