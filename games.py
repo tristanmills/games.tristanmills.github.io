@@ -59,6 +59,8 @@ for system, path in games.iteritems():
 
 		players = 1
 
+		tested = False
+
 		multiplayer = {
 			'simultaneous-coop': False,
 			'alternating-coop': False,
@@ -74,6 +76,8 @@ for system, path in games.iteritems():
 
 			_multiplayer = dict(game['multiplayer'])
 
+			tested = True
+
 			multiplayer['simultaneous-coop'] = str2bool(_multiplayer['@simultaneous-coop'])
 			multiplayer['alternating-coop'] = str2bool(_multiplayer['@alternating-coop'])
 			multiplayer['simultaneous-vs'] = str2bool(_multiplayer['@simultaneous-vs'])
@@ -82,7 +86,8 @@ for system, path in games.iteritems():
 		gameNames.append({
 			'name': game['name'],
 			'players': players,
-			'multiplayer': multiplayer
+			'tested': tested,
+			'multiplayer': multiplayer,
 		})
 
 	games[system] = gameNames
