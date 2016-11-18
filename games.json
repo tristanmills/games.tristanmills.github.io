@@ -1,1 +1,3313 @@
-{"Arcade": [], "Atari 2600": [{"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pitfall II: Lost Caverns", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pitfall!", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pole Position", "tested": true}], "Atari 7800": [{"players": 2, "multiplayer": {"alternating-coop": true, "alternating-vs": true, "simultaneous-vs": false, "simultaneous-coop": true}, "name": "Asteroids", "tested": true}, {"players": 2, "multiplayer": {"alternating-coop": true, "alternating-vs": true, "simultaneous-vs": true, "simultaneous-coop": true}, "name": "Centipede", "tested": true}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": true, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "DigDug", "tested": true}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": true, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Galaga", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pole Position II", "tested": true}], "Atari Lynx": [], "Game Boy": [{"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Donkey Kong Land", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Donkey Kong Land 2", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Donkey Kong Land III", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Kirby's Dream Land", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Kirby's Dream Land 2", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Metroid II: Return of Samus", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon Blue Version", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon Red Version", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon Yellow Version", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Mario Land", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Mario Land 2: 6 Golden Coins", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Legend of Zelda: Link's Awakening", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Wario Land: Super Mario Land 3", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Wario Land II", "tested": false}], "Game Boy Advance": [{"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Doom", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Doom II: Hell on Earth", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Duke Nukem Advance", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Gauntlet: Dark Legacy", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Metroid: Zero Mission", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Metroid Fusion", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon Emerald Version", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon FireRed Version", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pokemon LeafGreen Version", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon Ruby Version", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon Sapphire Version", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Spyro: Attack of the Rhynocs", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Spyro: Season of Ice", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Spyro 2: Season of Flame", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Spyro Orange: The Cortex Conspiracy", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Legend of Spyro: The Eternal Night", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Legend of Zelda: A Link to the Past and Four Swords", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Legend of Zelda: The Minish Cap", "tested": false}], "Game Boy Color": [{"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Duke Nukem", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Grand Theft Auto", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Grand Theft Auto 2", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Harvest Moon", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Harvest Moon 2", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Harvest Moon 3", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mario Tennis", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man Xtreme", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man Xtreme 2", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Metal Gear Solid", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mortal Kombat 4", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon Crystal Version", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon Gold Version", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon Pinball", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon Silver Version", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon Trading Card Game", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Star Wars: Yoda Stories", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Mario Bros. Deluxe", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Legend of Zelda: Link's Awakening DX", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Legend of Zelda: Oracle of Ages", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Legend of Zelda: Oracle of Seasons", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Wario Land 3", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Wario Land II", "tested": false}], "Intellivision": [], "MSX / MSX2": [], "Neo Geo Pocket": [], "Neo Geo Pocket (Color)": [], "Nintendo 64": [{"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "007: The World Is Not Enough", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "1080\u00b0 Snowboarding", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Aidyn Chronicles: The First Mage", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Banjo-Kazooie", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Banjo-Tooie", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Bomberman 64", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Bomberman 64: The Second Attack!", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Bomberman Hero", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "California Speed", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Castlevania", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Castlevania: Legacy of Darkness", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Command & Conquer", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Conker's Bad Fur Day", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Cruis'n Exotica", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Cruis'n USA", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Cruis'n World", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Diddy Kong Racing", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Disney's Tarzan", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Donkey Kong 64", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Doom 64", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Duke Nukem 64", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Duke Nukem: Zero Hour", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Earthworm Jim 3D", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Excitebike 64", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "F-Zero X", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "F1 Pole Position 64", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Gauntlet Legends", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Glover", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "GoldenEye 007", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Harvest Moon 64", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Hydro Thunder", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Jet Force Gemini", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Killer Instinct Gold", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Kirby 64: The Crystal Shards", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Lego Racers", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Madden NFL 2000", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Madden NFL 2001", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Madden NFL 2002", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Madden NFL 99", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mario Golf", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mario Kart 64", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mario Party", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mario Party 2", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mario Party 3", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mario Tennis", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man 64", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mortal Kombat 4", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mortal Kombat Trilogy", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Nuclear Strike 64", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Off Road Challenge", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Ogre Battle 64: Person of Lordly Caliber", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Paper Mario", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Perfect Dark", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pokemon Stadium", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pokemon Stadium 2", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Pok\u00e9mon Snap", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Quake", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Quake II", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Quest 64", "tested": false}, {"players": 3, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Rampage 2: Universal Tour", "tested": false}, {"players": 3, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Rampage: World Tour", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Road Rash 64", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Spider-Man", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Star Fox 64", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Star Wars: Episode I - Racer", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Star Wars: Rogue Squadron", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Star Wars: Shadows of the Empire", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "StarCraft 64", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Mario 64", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Smash Bros.", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Superman", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Legend of Zelda: Majora's Mask", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Legend of Zelda: Ocarina of Time", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Tom Clancy's Rainbow Six", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Tony Hawk's Pro Skater", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Tony Hawk's Pro Skater 2", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Tony Hawk's Pro Skater 3", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Turok 2: Seeds of Evil", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Turok 3: Shadow of Oblivion", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Turok: Dinosaur Hunter", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Turok: Rage Wars", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Wave Race 64", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Wipeout 64", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Worms Armageddon", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "WWF Attitude", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "WWF No Mercy", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "WWF War Zone", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "WWF WrestleMania 2000", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Yoshi's Story", "tested": false}], "Nintendo Entertainment System": [{"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Balloon Fight", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Battletoads", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Castlevania", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Castlevania II: Simon's Quest", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Castlevania III: Dracula's Curse", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Contra", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Contra Force", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Donkey Kong", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Donkey Kong 3", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Donkey Kong Jr.", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Double Dragon", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Double Dragon II: The Revenge", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Double Dragon III: The Sacred Stones", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Dr. Mario", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Excitebike", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Final Fantasy", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Gauntlet", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Gauntlet II", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Ghosts 'n Goblins", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Gradius", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Ice Climber", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Ice Hockey", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Kid Icarus", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Kirby's Adventure", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man 2", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man 3", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man 4", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man 5", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man 6", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Metal Gear", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Metroid", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Ninja Gaiden", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Ninja Gaiden II: The Dark Sword of Chaos", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Ninja Gaiden III: The Ancient Ship of Doom", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Punch-Out!!", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Rampage", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Star Wars", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Star Wars: The Empire Strikes Back", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "StarTropics", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "StarTropics II: Zoda's Revenge", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super C", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Mario Bros.", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Mario Bros. 2", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Mario Bros. 3", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Pitfall", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Tecmo Bowl", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Tecmo Super Bowl", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Tetris", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Tetris 2", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Legend of Zelda", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Simpsons: Bart vs. the Space Mutants", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Simpsons: Bart vs. the World", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Simpsons: Bartman Meets Radioactive Man", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Treasure Master", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Zelda II: The Adventure of Link", "tested": false}], "PlayStation": [{"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Ape Escape", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Crash Bandicoot", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Crash Bandicoot 2: Cortex Strikes Back", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Crash Bandicoot 3: Warped", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Resident Evil", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Resident Evil 3: Nemesis (Demo)", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Silent Hill", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Spyro 2: Ripto's Rage!", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Spyro the Dragon", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Spyro: Year of the Dragon", "tested": false}], "Sega 32X": [], "Sega CD": [], "Sega Gamegear": [], "Sega Genesis": [{"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Shining Force", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Shining Force II", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Sonic & Knuckles", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Sonic Blue Sphere", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Knuckles in Sonic 2", "tested": true}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": true}, "name": "Sonic 3 & Knuckles", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Sonic the Hedgehog", "tested": true}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": true}, "name": "Sonic the Hedgehog 2", "tested": true}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": true}, "name": "Sonic the Hedgehog 3", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Vectorman", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Vectorman 2", "tested": true}], "Sega Master System": [], "Sega SG-1000": [], "Super Nintendo": [{"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": true}, "name": "Battletoads & Double Dragon", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Chrono Trigger", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": true}, "name": "Contra III: The Alien Wars", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Desert Strike: Return to the Gulf", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": true, "alternating-vs": true, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Donkey Kong Country", "tested": true}, {"players": 2, "multiplayer": {"alternating-coop": true, "alternating-vs": true, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Donkey Kong Country 2: Diddy's Kong Quest", "tested": true}, {"players": 2, "multiplayer": {"alternating-coop": true, "alternating-vs": true, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Doom", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "EarthBound", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Earthworm Jim", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Earthworm Jim 2", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "F-Zero", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": false}, "name": "F1 Pole Position", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Final Fantasy II", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Final Fantasy III", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Harvest Moon", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Jungle Strike", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Jurassic Park", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": true}, "name": "Jurassic Park Part 2: The Chaos Continues", "tested": true}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Kirby Super Star", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Kirby's Dream Land 3", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Madden NFL '94", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Madden NFL '95", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Madden NFL '96", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Madden NFL 97", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Madden NFL 98", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mario Paint", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "MechWarrior", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": true}, "name": "MechWarrior 3050", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man 7", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man X", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man X2", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Mega Man X3", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": false}, "name": "Mortal Kombat", "tested": true}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": false}, "name": "Mortal Kombat 3", "tested": true}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": false}, "name": "Mortal Kombat II", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Ms. Pac-Man", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": true}, "name": "NBA Jam Tournament Edition", "tested": true}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": false}, "name": "Primal Rage", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "R-Type III: The Third Lightning", "tested": false}, {"players": 3, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Secret of Mana", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": false}, "name": "Shaq Fu", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "SimCity", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Star Fox", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": false}, "name": "Street Fighter II Turbo", "tested": true}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Bomberman", "tested": false}, {"players": 4, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Bomberman 2", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Castlevania IV", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Double Dragon", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Ghouls 'n Ghosts", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": false}, "name": "Super Mario Kart", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Mario RPG: Legend of the Seven Stars", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": true, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Mario World", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Mario World 2: Yoshi's Island", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Metroid", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Punch-Out!!", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super R-Type", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Star Wars", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Star Wars: Return of the Jedi", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Super Star Wars: The Empire Strikes Back", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Legend of Zelda: A Link to the Past", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "The Simpsons: Bart's Nightmare", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Todd McFarlane's Spawn: The Video Game", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": true, "simultaneous-coop": false}, "name": "Ultimate Mortal Kombat 3", "tested": true}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Urban Strike", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "Wolfenstein 3-D", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "X-Men Vs. Street Fighter", "tested": false}, {"players": 1, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": false}, "name": "X-Men: Mutant Apocalypse", "tested": false}, {"players": 2, "multiplayer": {"alternating-coop": false, "alternating-vs": false, "simultaneous-vs": false, "simultaneous-coop": true}, "name": "Zombies Ate My Neighbors", "tested": true}], "TurboGrafx 16": [], "Virtual Boy": []}
+{
+    "Arcade": [], 
+    "Atari 2600": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pitfall II: Lost Caverns", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pitfall!", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pole Position", 
+            "players": 1, 
+            "tested": true
+        }
+    ], 
+    "Atari 7800": [
+        {
+            "multiplayer": {
+                "alternating-coop": true, 
+                "alternating-vs": true, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Asteroids", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": true, 
+                "alternating-vs": true, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Centipede", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": true, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "DigDug", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": true, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Galaga", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pole Position II", 
+            "players": 1, 
+            "tested": true
+        }
+    ], 
+    "Atari Lynx": [], 
+    "Game Boy": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Donkey Kong Land", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Donkey Kong Land 2", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Donkey Kong Land III", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Kirby's Dream Land", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Kirby's Dream Land 2", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Metroid II: Return of Samus", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon Blue Version", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon Red Version", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon Yellow Version", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Mario Land", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Mario Land 2: 6 Golden Coins", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Legend of Zelda: Link's Awakening", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Wario Land: Super Mario Land 3", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Wario Land II", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
+    "Game Boy Advance": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Doom", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Doom II: Hell on Earth", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Duke Nukem Advance", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Gauntlet: Dark Legacy", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Metroid: Zero Mission", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Metroid Fusion", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon Emerald Version", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon FireRed Version", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pokemon LeafGreen Version", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon Ruby Version", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon Sapphire Version", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Spyro: Attack of the Rhynocs", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Spyro: Season of Ice", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Spyro 2: Season of Flame", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Spyro Orange: The Cortex Conspiracy", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Legend of Spyro: The Eternal Night", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Legend of Zelda: A Link to the Past and Four Swords", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Legend of Zelda: The Minish Cap", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
+    "Game Boy Color": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Duke Nukem", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Grand Theft Auto", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Grand Theft Auto 2", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Harvest Moon", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Harvest Moon 2", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Harvest Moon 3", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mario Tennis", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man Xtreme", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man Xtreme 2", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Metal Gear Solid", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mortal Kombat 4", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon Crystal Version", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon Gold Version", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon Pinball", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon Silver Version", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon Trading Card Game", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Star Wars: Yoda Stories", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Mario Bros. Deluxe", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Legend of Zelda: Link's Awakening DX", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Legend of Zelda: Oracle of Ages", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Legend of Zelda: Oracle of Seasons", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Wario Land 3", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Wario Land II", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
+    "Intellivision": [], 
+    "MSX / MSX2": [], 
+    "Neo Geo Pocket": [], 
+    "Neo Geo Pocket (Color)": [], 
+    "Nintendo 64": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "007: The World Is Not Enough", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "1080\u00b0 Snowboarding", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Aidyn Chronicles: The First Mage", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Banjo-Kazooie", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Banjo-Tooie", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Bomberman 64", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Bomberman 64: The Second Attack!", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Bomberman Hero", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "California Speed", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Castlevania", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Castlevania: Legacy of Darkness", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Command & Conquer", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Conker's Bad Fur Day", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Cruis'n Exotica", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Cruis'n USA", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Cruis'n World", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Diddy Kong Racing", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Disney's Tarzan", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Donkey Kong 64", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Doom 64", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Duke Nukem 64", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Duke Nukem: Zero Hour", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Earthworm Jim 3D", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Excitebike 64", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "F-Zero X", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "F1 Pole Position 64", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Gauntlet Legends", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Glover", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "GoldenEye 007", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Harvest Moon 64", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Hydro Thunder", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Jet Force Gemini", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Killer Instinct Gold", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Kirby 64: The Crystal Shards", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Lego Racers", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Madden NFL 2000", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Madden NFL 2001", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Madden NFL 2002", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Madden NFL 99", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mario Golf", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mario Kart 64", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mario Party", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mario Party 2", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mario Party 3", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mario Tennis", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man 64", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mortal Kombat 4", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mortal Kombat Trilogy", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Nuclear Strike 64", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Off Road Challenge", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Ogre Battle 64: Person of Lordly Caliber", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Paper Mario", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Perfect Dark", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pokemon Stadium", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pokemon Stadium 2", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pok\u00e9mon Snap", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Quake", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Quake II", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Quest 64", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Rampage 2: Universal Tour", 
+            "players": 3, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Rampage: World Tour", 
+            "players": 3, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Road Rash 64", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Spider-Man", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Star Fox 64", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Star Wars: Episode I - Racer", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Star Wars: Rogue Squadron", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Star Wars: Shadows of the Empire", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "StarCraft 64", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Mario 64", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Smash Bros.", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Superman", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Legend of Zelda: Majora's Mask", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Legend of Zelda: Ocarina of Time", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Tom Clancy's Rainbow Six", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Tony Hawk's Pro Skater", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Tony Hawk's Pro Skater 2", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Tony Hawk's Pro Skater 3", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Turok 2: Seeds of Evil", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Turok 3: Shadow of Oblivion", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Turok: Dinosaur Hunter", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Turok: Rage Wars", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Wave Race 64", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Wipeout 64", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Worms Armageddon", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "WWF Attitude", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "WWF No Mercy", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "WWF War Zone", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "WWF WrestleMania 2000", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Yoshi's Story", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
+    "Nintendo Entertainment System": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Balloon Fight", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Battletoads", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Castlevania", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Castlevania II: Simon's Quest", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Castlevania III: Dracula's Curse", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Contra", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Contra Force", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Donkey Kong", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Donkey Kong 3", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Donkey Kong Jr.", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Double Dragon", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Double Dragon II: The Revenge", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Double Dragon III: The Sacred Stones", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Dr. Mario", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Excitebike", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Final Fantasy", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Gauntlet", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Gauntlet II", 
+            "players": 4, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Ghosts 'n Goblins", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Gradius", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Ice Climber", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Ice Hockey", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Kid Icarus", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Kirby's Adventure", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man 2", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man 3", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man 4", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man 5", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man 6", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Metal Gear", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Metroid", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Ninja Gaiden", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Ninja Gaiden II: The Dark Sword of Chaos", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Ninja Gaiden III: The Ancient Ship of Doom", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Punch-Out!!", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Rampage", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Star Wars", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Star Wars: The Empire Strikes Back", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "StarTropics", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "StarTropics II: Zoda's Revenge", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super C", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Mario Bros.", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Mario Bros. 2", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Mario Bros. 3", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Pitfall", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Tecmo Bowl", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Tecmo Super Bowl", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Tetris", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Tetris 2", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Legend of Zelda", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Simpsons: Bart vs. the Space Mutants", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Simpsons: Bart vs. the World", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Simpsons: Bartman Meets Radioactive Man", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Treasure Master", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Zelda II: The Adventure of Link", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
+    "PlayStation": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Ape Escape", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Crash Bandicoot", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Crash Bandicoot 2: Cortex Strikes Back", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Crash Bandicoot 3: Warped", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Resident Evil", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Resident Evil 3: Nemesis (Demo)", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Silent Hill", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Spyro 2: Ripto's Rage!", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Spyro the Dragon", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Spyro: Year of the Dragon", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
+    "Sega 32X": [], 
+    "Sega CD": [], 
+    "Sega Gamegear": [], 
+    "Sega Genesis": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Shining Force", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Shining Force II", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Sonic & Knuckles", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Sonic Blue Sphere", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Knuckles in Sonic 2", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Sonic 3 & Knuckles", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Sonic the Hedgehog", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Sonic the Hedgehog 2", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Sonic the Hedgehog 3", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Vectorman", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Vectorman 2", 
+            "players": 1, 
+            "tested": true
+        }
+    ], 
+    "Sega Master System": [], 
+    "Sega SG-1000": [], 
+    "Super Nintendo": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Battletoads & Double Dragon", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Chrono Trigger", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Contra III: The Alien Wars", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Desert Strike: Return to the Gulf", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": true, 
+                "alternating-vs": true, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Donkey Kong Country", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": true, 
+                "alternating-vs": true, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Donkey Kong Country 2: Diddy's Kong Quest", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": true, 
+                "alternating-vs": true, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Doom", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "EarthBound", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Earthworm Jim", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Earthworm Jim 2", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "F-Zero", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": true
+            }, 
+            "name": "F1 Pole Position", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Final Fantasy II", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Final Fantasy III", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Harvest Moon", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Jungle Strike", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Jurassic Park", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Jurassic Park Part 2: The Chaos Continues", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Kirby Super Star", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Kirby's Dream Land 3", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Madden NFL '94", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Madden NFL '95", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Madden NFL '96", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Madden NFL 97", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Madden NFL 98", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mario Paint", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "MechWarrior", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": false
+            }, 
+            "name": "MechWarrior 3050", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man 7", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man X", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man X2", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man X3", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Mortal Kombat", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Mortal Kombat 3", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Mortal Kombat II", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Ms. Pac-Man", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
+            }, 
+            "name": "NBA Jam Tournament Edition", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Primal Rage", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "R-Type III: The Third Lightning", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Secret of Mana", 
+            "players": 3, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Shaq Fu", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "SimCity", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Star Fox", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Street Fighter II Turbo", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Bomberman", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Bomberman 2", 
+            "players": 4, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Castlevania IV", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Double Dragon", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Ghouls 'n Ghosts", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Super Mario Kart", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Mario RPG: Legend of the Seven Stars", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": true, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Mario World", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Mario World 2: Yoshi's Island", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Metroid", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Punch-Out!!", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super R-Type", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Star Wars", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Star Wars: Return of the Jedi", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Star Wars: The Empire Strikes Back", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Legend of Zelda: A Link to the Past", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "The Simpsons: Bart's Nightmare", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Todd McFarlane's Spawn: The Video Game", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Ultimate Mortal Kombat 3", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Urban Strike", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Wolfenstein 3-D", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "X-Men Vs. Street Fighter", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "X-Men: Mutant Apocalypse", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Zombies Ate My Neighbors", 
+            "players": 2, 
+            "tested": true
+        }
+    ], 
+    "TurboGrafx 16": [], 
+    "Virtual Boy": []
+}

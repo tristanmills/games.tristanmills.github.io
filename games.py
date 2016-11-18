@@ -95,7 +95,7 @@ for system, path in games.iteritems():
 
 games = collections.OrderedDict(sorted(games.items()))
 
-_json = json.dumps(games)
+_json = json.dumps(games, indent=4, sort_keys=True)
 
 # print _json
 open('games.json', 'w').write(_json)
