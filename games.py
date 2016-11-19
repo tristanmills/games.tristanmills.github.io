@@ -9,93 +9,95 @@ import collections
 def str2bool(string):
 	return string.lower() in ('true')
 
-games = {
-	'Arcade': '/retropie/roms/arcade/gamelist.xml',
-	'Atari 2600': '/retropie/roms/atari2600/gamelist.xml',
-	'Atari 7800': '/retropie/roms/atari7800/gamelist.xml',
-	'Atari Lynx': '/retropie/roms/atarilynx/gamelist.xml',
-	'Sega Gamegear': '/retropie/roms/gamegear/gamelist.xml',
-	'Game Boy': '/retropie/roms/gb/gamelist.xml',
-	'Game Boy Advance': '/retropie/roms/gba/gamelist.xml',
-	'Game Boy Color': '/retropie/roms/gbc/gamelist.xml',
-	'Intellivision': '/retropie/roms/intellivision/gamelist.xml',
-	'Sega Master System': '/retropie/roms/mastersystem/gamelist.xml',
-	'Sega Genesis': '/retropie/roms/megadrive/gamelist.xml',
-	'MSX / MSX2': '/retropie/roms/msx/gamelist.xml',
-	'Nintendo 64': '/retropie/roms/n64/gamelist.xml',
-	'Nintendo Entertainment System': '/retropie/roms/nes/gamelist.xml',
-	'Neo Geo Pocket': '/retropie/roms/ngp/gamelist.xml',
-	'Neo Geo Pocket (Color)': '/retropie/roms/ngpc/gamelist.xml',
-	'TurboGrafx 16': '/retropie/roms/pcengine/gamelist.xml',
-	'PlayStation': '/retropie/roms/psx/gamelist.xml',
-	'Sega 32X': '/retropie/roms/sega32x/gamelist.xml',
-	'Sega CD': '/retropie/roms/segacd/gamelist.xml',
-	'Sega SG-1000': '/retropie/roms/sg-1000/gamelist.xml',
-	'Super Nintendo': '/retropie/roms/snes/gamelist.xml',
-	'Virtual Boy': '/retropie/roms/virtualboy/gamelist.xml',
-}
 
-for system, path in games.iteritems():
+def getFiles(folder):
+	files = []
+	for dirpath, dirnames, filenames in os.walk(folder):
+		for filename in [file for file in filenames if file == 'gamelist.xml']:
+			path = os.path.join(dirpath, filename).replace('\\', '/')
+			files.append(path)
+	return files
 
-	gameList = None
 
-	gameNames = []
+def parseFile(file):
 
-	if os.path.isfile(path):
+	system = ''
+	games = []
 
-		_xml = open(path, 'r').read()
+	_games = []
+
+	if os.path.isfile(file):
+
+		_xml = open(file, 'r').read()
 
 		_dict = xmltodict.parse(_xml)
 
 		gameList = dict(_dict.items())['gameList']
 
-		if gameList is not None:
+		gameList = dict(gameList.items())
 
-			gameList = dict(gameList.items())['game']
+		system = gameList['@system']
 
-	for game in gameList or []:
+		if 'game' in gameList:
 
-		game = dict(game.items())
+			_games = gameList['game']
 
-		players = 1
+	for _game in _games:
 
-		tested = False
+		_game = dict(_game.items())
 
-		multiplayer = {
-			'simultaneous-coop': False,
-			'alternating-coop': False,
-			'simultaneous-vs': False,
-			'alternating-vs': False,
+		game = {
+			'name': _game['name'],
+			'players': 1,
+			'tested': False,
+			'multiplayer': {
+				'simultaneous-coop': False,
+				'alternating-coop': False,
+				'simultaneous-vs': False,
+				'alternating-vs': False,
+			}
 		}
 
-		if 'players' in game and game['players'] > 1:
+		if 'players' in _game and _game['players'] > 1:
 
-			players = int(game['players'])
+			game['players'] = int(_game['players'])
 
-		if 'multiplayer' in game:
+		if 'multiplayer' in _game:
 
-			_multiplayer = dict(game['multiplayer'])
+			_multiplayer = dict(_game['multiplayer'])
 
-			tested = True
+			game['tested'] = True
 
-			multiplayer['simultaneous-coop'] = str2bool(_multiplayer['@simultaneous-coop'])
-			multiplayer['alternating-coop'] = str2bool(_multiplayer['@alternating-coop'])
-			multiplayer['simultaneous-vs'] = str2bool(_multiplayer['@simultaneous-vs'])
-			multiplayer['alternating-vs'] = str2bool(_multiplayer['@alternating-vs'])
+			game['multiplayer']['simultaneous-coop'] = str2bool(_multiplayer['@simultaneous-coop'])
+			game['multiplayer']['alternating-coop'] = str2bool(_multiplayer['@alternating-coop'])
+			game['multiplayer']['simultaneous-vs'] = str2bool(_multiplayer['@simultaneous-vs'])
+			game['multiplayer']['alternating-vs'] = str2bool(_multiplayer['@alternating-vs'])
 
-		gameNames.append({
-			'name': game['name'],
-			'players': players,
-			'tested': tested,
-			'multiplayer': multiplayer,
-		})
+		games.append(game)
 
-	games[system] = gameNames
+	return system, games
 
 
-games = collections.OrderedDict(sorted(games.items()))
+def getGames(folder):
 
-_json = json.dumps(games, indent=4, sort_keys=True)
+	games = {}
 
-# print _json
-open('games.json', 'w').write(_json)
+	files = getFiles(folder)
+
+	for file in files:
+
+		system, _games = parseFile(file)
+
+		games[system] = _games
+
+	games = collections.OrderedDict(sorted(games.items()))
+
+	games = json.dumps(games, indent=4, sort_keys=True)
+
+	return games
+
+
+games = getGames('/retropie/roms/')
+
+# print games
+open('games.json', 'w').write(games)

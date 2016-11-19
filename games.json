@@ -1,4 +1,5 @@
 {
+    "Amstrad CPC": [], 
     "Arcade": [], 
     "Atari 2600": [
         {
@@ -93,6 +94,8 @@
         }
     ], 
     "Atari Lynx": [], 
+    "Famicom Disk System": [], 
+    "Final Burn Alpha": [], 
     "Game Boy": [
         {
             "multiplayer": {
@@ -704,10 +707,12 @@
             "tested": false
         }
     ], 
-    "Intellivision": [], 
+    "Game Gear": [], 
+    "MAME": [], 
     "MSX / MSX2": [], 
+    "Neo Geo": [], 
     "Neo Geo Pocket": [], 
-    "Neo Geo Pocket (Color)": [], 
+    "Neo Geo Pocket Color": [], 
     "Nintendo 64": [
         {
             "multiplayer": {
@@ -2307,7 +2312,7 @@
             "tested": false
         }
     ], 
-    "PlayStation": [
+    "PlayStation 1": [
         {
             "multiplayer": {
                 "alternating-coop": false, 
@@ -2421,7 +2426,6 @@
     ], 
     "Sega 32X": [], 
     "Sega CD": [], 
-    "Sega Gamegear": [], 
     "Sega Genesis": [
         {
             "multiplayer": {
@@ -3058,12 +3062,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Super Bomberman 2", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -3309,5 +3313,6 @@
         }
     ], 
     "TurboGrafx 16": [], 
-    "Virtual Boy": []
+    "Vectrex": [], 
+    "ZX Spectrum": []
 }
