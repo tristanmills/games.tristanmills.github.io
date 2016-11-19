@@ -88,7 +88,13 @@ def getGames(folder):
 
 		system, _games = parseFile(file)
 
-		games[system] = _games
+		if system in games:
+
+			games[system] = games[system] + _games
+
+		else:
+
+			games[system] = _games
 
 	games = collections.OrderedDict(sorted(games.items()))
 

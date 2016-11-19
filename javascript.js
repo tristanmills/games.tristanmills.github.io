@@ -2,7 +2,21 @@ function filterGames(games, filters) {
 
 	var games = jQuery.extend(true, [], games);
 
+	var ignored = [
+		'Amstrad CPC',
+		'Famicom Disk System',
+		'Final Burn Alpha',
+		'MAME',
+		'Vectrex',
+		'ZX Spectrum',
+	];
+
 	for (system in games) {
+
+		if (ignored.indexOf(system) != -1) {
+			delete games[system];
+			continue;
+		}
 
 		games[system].forEach(function(game, index) {
 
@@ -28,6 +42,7 @@ function filterGames(games, filters) {
 				'multiplayer': {}
 			})
 		}
+
 	}
 
 	return games;
@@ -94,6 +109,8 @@ jQuery(document).ready(function($) {
 	$.getJSON('games.json', function(games) {
 
 		var filtered_games = filterGames(games, []);
+
+		console.log(filtered_games);
 
 		renderGames(filtered_games);
 
