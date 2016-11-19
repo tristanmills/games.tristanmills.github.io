@@ -106,7 +106,7 @@
             }, 
             "name": "Donkey Kong Land", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -117,7 +117,7 @@
             }, 
             "name": "Donkey Kong Land 2", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -128,7 +128,7 @@
             }, 
             "name": "Donkey Kong Land III", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -139,7 +139,7 @@
             }, 
             "name": "Kirby's Dream Land", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -150,7 +150,7 @@
             }, 
             "name": "Kirby's Dream Land 2", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -161,7 +161,7 @@
             }, 
             "name": "Metroid II: Return of Samus", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -172,7 +172,7 @@
             }, 
             "name": "Pok\u00e9mon Blue Version", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -183,7 +183,7 @@
             }, 
             "name": "Pok\u00e9mon Red Version", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -194,7 +194,7 @@
             }, 
             "name": "Pok\u00e9mon Yellow Version", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -205,7 +205,7 @@
             }, 
             "name": "Super Mario Land", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -227,7 +227,7 @@
             }, 
             "name": "The Legend of Zelda: Link's Awakening", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -238,7 +238,7 @@
             }, 
             "name": "Wario Land: Super Mario Land 3", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -249,7 +249,7 @@
             }, 
             "name": "Wario Land II", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }
     ], 
     "Game Boy Advance": [

@@ -110,8 +110,6 @@ jQuery(document).ready(function($) {
 
 		var filtered_games = filterGames(games, []);
 
-		console.log(filtered_games);
-
 		renderGames(filtered_games);
 
 		$('.filter').on('click', function(event) {
