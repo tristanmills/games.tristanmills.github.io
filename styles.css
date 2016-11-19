@@ -1,0 +1,26 @@
+.container-fluid {
+	margin-top: 1rem;
+}
+
+#games ul {
+	padding-left: 1rem;
+	list-style: none;
+}
+
+#games li:before {
+	content: '\2022';
+	display: inline-block;
+	width: .5rem;
+	margin-right: 1rem;
+}
+
+#games li.checked:before {
+	content: '\2713';
+}
+
+@media (max-width: 991px) {
+	.navbar-toggleable-md .navbar-nav .nav-item {
+		margin-top: .425rem;
+		margin-bottom: .425rem;
+	}
+}

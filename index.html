@@ -14,154 +14,12 @@
 
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css">
+	<link rel="stylesheet" href="styles.css">
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.3.7/js/tether.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js"></script>
-
-	<style>
-	.container-fluid {
-		margin-top: 1rem;
-	}
-	ul {
-		padding-left: 1rem;
-		list-style: none;
-	}
-	li:before {
-		content: '\2022';
-		display: inline-block;
-		width: .5rem;
-		margin-right: 1rem;
-	}
-	li.checked:before {
-		content: '\2713';
-	}
-	</style>
-
-	<script>
-	function filterGames(games, filters) {
-
-		var games = jQuery.extend(true, [], games);
-
-		for (system in games) {
-
-			games[system].forEach(function(game, index) {
-
-				if (filters.indexOf('multiplayer') != -1 && game.players < 2) {
-					delete games[system][index];
-				} else if (filters.indexOf('simultaneous-coop') != -1 && game.multiplayer['simultaneous-coop'] === false) {
-					delete games[system][index];
-				} else if (filters.indexOf('alternating-coop') != -1 && game.multiplayer['alternating-coop'] === false) {
-					delete games[system][index];
-				} else if (filters.indexOf('simultaneous-vs') != -1 && game.multiplayer['simultaneous-vs'] === false) {
-					delete games[system][index];
-				} else if (filters.indexOf('alternating-vs') != -1 && game.multiplayer['alternating-vs'] === false) {
-					delete games[system][index];
-				}
-
-			});
-
-			games[system] = games[system].filter(function(){return true;});
-
-			if (games[system].length === 0) {
-				games[system].push({
-					'name': 'None',
-					'multiplayer': {}
-				})
-			}
-		}
-
-		return games;
-
-	}
-
-	function renderGames(games) {
-
-		$('#games').empty();
-
-		for (system in games) {
-
-			var html = '<h3>' + system + '</h3>';
-
-			html += '<ul>';
-
-			games[system].forEach(function(game) {
-
-				var tested = '';
-				var multiplayer = '';
-				var simultaneous_coop = '';
-				var simultaneous_vs = '';
-				var alternating_coop = '';
-				var alternating_vs = '';
-
-				if (game.tested) {
-					tested = ' class="checked"';
-				}
-
-				if (game.players > 1) {
-					multiplayer = ' <span class="tag tag-info">Multi (' + game.players + ')</span>';
-				}
-
-				if (game.multiplayer['simultaneous-coop']) {
-					simultaneous_coop = ' <span class="tag tag-success">Simo Co-Op</span>';
-				}
-
-				if (game.multiplayer['alternating-coop']) {
-					alternating_coop = ' <span class="tag tag-success">Alt Co-Op</span>';
-				}
-
-				if (game.multiplayer['simultaneous-vs']) {
-					simultaneous_vs = ' <span class="tag tag-danger">Simo Vs</span>';
-				}
-
-				if (game.multiplayer['alternating-vs']) {
-					alternating_vs = ' <span class="tag tag-danger">Alt Vs</span>';
-				}
-
-				html += '<li' + tested + '>' + game.name + multiplayer + simultaneous_coop + alternating_coop + simultaneous_vs + alternating_vs + '</li>';
-
-			});
-
-			html += '</ul>';
-
-			$('#games').append(html);
-
-		}
-
-	}
-
-	jQuery(document).ready(function($) {
-
-		$.getJSON('games.json', function(games) {
-
-			var filtered_games = filterGames(games, []);
-
-			renderGames(filtered_games);
-
-			$('.filter').on('click', function(event) {
-
-				event.preventDefault();
-
-				$(this).toggleClass('active');
-
-				$(this).blur();
-
-				var filters = [];
-
-				$('.filter.active').each(function() {
-					filters.push($(this).attr('id'));
-				});
-
-				filtered_games = filterGames(games, filters);
-
-				renderGames(filtered_games);
-
-			});
-
-		});
-
-	});
-	</script>
+	<script src="javascript.js"></script>
 
 </head>
 <body>
@@ -171,22 +29,41 @@
 			<img src="https://cloud.githubusercontent.com/assets/10035308/11631694/6fa8e356-9cc0-11e5-8bce-4b8305f0fe8f.png" height="34" class="d-inline-block align-top" alt="RetroPie">
 			<span>Games List</span>
 		</a>
-		<form class="form-inline float-xs-right">
-			<button id="alternating-vs" type="button" class="filter btn btn-sm btn-outline-danger">Alt Vs</button>
-			<button id="simultaneous-vs" type="button" class="filter btn btn-sm btn-outline-danger">Simo Vs</button>
-			<button id="alternating-coop" type="button" class="filter btn btn-sm btn-outline-success">Alt Co-Op</button>
-			<button id="simultaneous-coop" type="button" class="filter btn btn-sm btn-outline-success">Simo Co-Op</button>
-			<button id="multiplayer" type="button" class="filter btn btn-sm btn-outline-info">Multi</button>
-		</form>
+		<div class="hidden-lg-up clearfix">
+			<!-- <button class="navbar-toggler float-xs-right" type="button" data-toggle="collapse" data-target="#filters" aria-controls="filters" aria-expanded="false" aria-label="Toggle Game Filters"></button> -->
+			<button class="btn btn-secondary float-xs-right" type="button" data-toggle="collapse" data-target="#filters" aria-controls="filters" aria-expanded="false" aria-label="Toggle Game Filters">Filter Games</button>
+		</div>
+
+		<div class="collapse navbar-toggleable-md float-lg-right float-xs-left" id="filters">
+			<ul class="nav navbar-nav">
+				<li class="nav-item">
+					<button id="multiplayer" type="button" class="filter btn btn-sm btn-outline-info">Multiplayer</button>
+				</li>
+				<li class="nav-item">
+					<button id="simultaneous-vs" type="button" class="filter btn btn-sm btn-outline-danger">Simultaneous Vs</button>
+				</li>
+				<li class="nav-item">
+					<button id="alternating-vs" type="button" class="filter btn btn-sm btn-outline-danger">Alternating Vs</button>
+				</li>
+				<li class="nav-item">
+					<button id="simultaneous-coop" type="button" class="filter btn btn-sm btn-outline-success">Simultaneous Co-Op</button>
+				</li>
+				<li class="nav-item">
+					<button id="alternating-coop" type="button" class="filter btn btn-sm btn-outline-success">Alternating Co-Op</button>
+				</li>
+			</ul>
+		</div>
 	</nav>
 
-	<div id="games" class="container-fluid" role="main">
+	<div class="container-fluid" role="main">
 
 		<noscript>
 			<div class="alert alert-danger" role="alert">
 				<span>JavaScript is disabled in your web browser. JavaScript is required use this tool. Here are the <a class="alert-link" href="http://enable-javascript.com/" target="_blank">instructions how to enable JavaScript in your web browser</a>.</span>
 			</div>
 		</noscript>
+
+		<div id="games"></div>
 
 	</div>
 
