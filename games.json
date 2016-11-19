@@ -713,23 +713,23 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "007: The World Is Not Enough", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "1080\u00b0 Snowboarding", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -779,12 +779,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Bomberman 64: The Second Attack!", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -802,11 +802,11 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "California Speed", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -890,11 +890,11 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Diddy Kong Racing", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -933,23 +933,23 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Duke Nukem 64", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Duke Nukem: Zero Hour", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1705,12 +1705,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
+                "simultaneous-coop": true, 
                 "simultaneous-vs": false
             }, 
             "name": "Battletoads", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1760,12 +1760,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
+                "simultaneous-coop": true, 
                 "simultaneous-vs": false
             }, 
             "name": "Contra Force", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1826,12 +1826,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
+                "simultaneous-coop": true, 
                 "simultaneous-vs": false
             }, 
             "name": "Double Dragon III: The Sacred Stones", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2772,12 +2772,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
+                "simultaneous-coop": true, 
                 "simultaneous-vs": false
             }, 
             "name": "Kirby's Dream Land 3", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2794,45 +2794,45 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Madden NFL '95", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Madden NFL '96", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Madden NFL 97", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Madden NFL 98", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -3047,12 +3047,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Super Bomberman", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
