@@ -258,7 +258,7 @@
                 "simultaneous-vs": false
             }, 
             "name": "Doom", 
-            "players": 4, 
+            "players": 1, 
             "tested": false
         }, 
         {
@@ -269,7 +269,7 @@
                 "simultaneous-vs": false
             }, 
             "name": "Doom II: Hell on Earth", 
-            "players": 4, 
+            "players": 1, 
             "tested": false
         }, 
         {
@@ -280,7 +280,7 @@
                 "simultaneous-vs": false
             }, 
             "name": "Duke Nukem Advance", 
-            "players": 2, 
+            "players": 1, 
             "tested": false
         }, 
         {
@@ -291,7 +291,7 @@
                 "simultaneous-vs": false
             }, 
             "name": "Gauntlet: Dark Legacy", 
-            "players": 4, 
+            "players": 1, 
             "tested": false
         }, 
         {
@@ -324,7 +324,7 @@
                 "simultaneous-vs": false
             }, 
             "name": "Pok\u00e9mon Emerald Version", 
-            "players": 4, 
+            "players": 1, 
             "tested": false
         }, 
         {
@@ -357,7 +357,7 @@
                 "simultaneous-vs": false
             }, 
             "name": "Pok\u00e9mon Ruby Version", 
-            "players": 4, 
+            "players": 1, 
             "tested": false
         }, 
         {
@@ -368,7 +368,7 @@
                 "simultaneous-vs": false
             }, 
             "name": "Pok\u00e9mon Sapphire Version", 
-            "players": 4, 
+            "players": 1, 
             "tested": false
         }, 
         {
@@ -379,7 +379,7 @@
                 "simultaneous-vs": false
             }, 
             "name": "Spyro: Attack of the Rhynocs", 
-            "players": 2, 
+            "players": 1, 
             "tested": false
         }, 
         {
@@ -412,7 +412,7 @@
                 "simultaneous-vs": false
             }, 
             "name": "Spyro Orange: The Cortex Conspiracy", 
-            "players": 2, 
+            "players": 1, 
             "tested": false
         }, 
         {
@@ -434,7 +434,7 @@
                 "simultaneous-vs": false
             }, 
             "name": "The Legend of Zelda: A Link to the Past and Four Swords", 
-            "players": 4, 
+            "players": 1, 
             "tested": false
         }, 
         {
