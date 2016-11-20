@@ -307,7 +307,7 @@
             }, 
             "name": "Metroid Fusion", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -507,7 +507,7 @@
             }, 
             "name": "Harvest Moon 3", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -518,7 +518,7 @@
             }, 
             "name": "Mario Tennis", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -529,7 +529,7 @@
             }, 
             "name": "Mega Man Xtreme", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -540,7 +540,7 @@
             }, 
             "name": "Mega Man Xtreme 2", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -551,7 +551,7 @@
             }, 
             "name": "Metal Gear Solid", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -573,7 +573,7 @@
             }, 
             "name": "Pok\u00e9mon Crystal Version", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -584,7 +584,7 @@
             }, 
             "name": "Pok\u00e9mon Gold Version", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -595,7 +595,7 @@
             }, 
             "name": "Pok\u00e9mon Pinball", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -606,7 +606,7 @@
             }, 
             "name": "Pok\u00e9mon Silver Version", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -617,7 +617,7 @@
             }, 
             "name": "Pok\u00e9mon Trading Card Game", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2494,8 +2494,32 @@
             "tested": false
         }
     ], 
-    "Sega 32X": [], 
-    "Sega CD": [], 
+    "Sega 32X": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Knuckles' Chaotix", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
+    "Sega CD": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Sonic CD", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
     "Sega Genesis": [
         {
             "multiplayer": {
@@ -2619,8 +2643,32 @@
             "tested": true
         }
     ], 
-    "Sega Master System": [], 
-    "Sega SG-1000": [], 
+    "Sega Master System": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Phantasy Star", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
+    "Sega SG-1000": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Orguss", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
     "Super Nintendo": [
         {
             "multiplayer": {
