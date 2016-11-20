@@ -272,9 +272,9 @@
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
             }, 
-            "name": "Doom II: Hell on Earth", 
+            "name": "Doom II", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -285,7 +285,7 @@
             }, 
             "name": "Duke Nukem Advance", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -295,6 +295,17 @@
                 "simultaneous-vs": false
             }, 
             "name": "Gauntlet: Dark Legacy", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Metroid Fusion", 
             "players": 1, 
             "tested": false
         }, 
@@ -316,7 +327,7 @@
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
             }, 
-            "name": "Metroid Fusion", 
+            "name": "Pokemon LeafGreen Version", 
             "players": 1, 
             "tested": true
         }, 
@@ -329,7 +340,7 @@
             }, 
             "name": "Pok\u00e9mon Emerald Version", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -349,20 +360,9 @@
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
             }, 
-            "name": "Pokemon LeafGreen Version", 
-            "players": 1, 
-            "tested": true
-        }, 
-        {
-            "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
-            }, 
             "name": "Pok\u00e9mon Ruby Version", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -372,28 +372,6 @@
                 "simultaneous-vs": false
             }, 
             "name": "Pok\u00e9mon Sapphire Version", 
-            "players": 1, 
-            "tested": false
-        }, 
-        {
-            "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
-            }, 
-            "name": "Spyro: Attack of the Rhynocs", 
-            "players": 1, 
-            "tested": true
-        }, 
-        {
-            "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
-            }, 
-            "name": "Spyro: Season of Ice", 
             "players": 1, 
             "tested": true
         }, 
@@ -416,6 +394,28 @@
                 "simultaneous-vs": false
             }, 
             "name": "Spyro Orange: The Cortex Conspiracy", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Spyro: Attack of the Rhynocs", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Spyro: Season of Ice", 
             "players": 1, 
             "tested": true
         }, 
@@ -452,7 +452,7 @@
             }, 
             "name": "Duke Nukem", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -463,7 +463,7 @@
             }, 
             "name": "Grand Theft Auto", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -474,7 +474,7 @@
             }, 
             "name": "Grand Theft Auto 2", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -485,7 +485,7 @@
             }, 
             "name": "Harvest Moon", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -496,7 +496,7 @@
             }, 
             "name": "Harvest Moon 2", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -746,7 +746,7 @@
                 "simultaneous-vs": false
             }, 
             "name": "King of Fighters R-2", 
-            "players": 1, 
+            "players": 2, 
             "tested": false
         }, 
         {
