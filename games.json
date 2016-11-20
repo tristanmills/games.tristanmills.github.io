@@ -628,7 +628,7 @@
             }, 
             "name": "Star Wars: Yoda Stories", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -639,7 +639,7 @@
             }, 
             "name": "Super Mario Bros. Deluxe", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -650,7 +650,7 @@
             }, 
             "name": "The Legend of Zelda: Link's Awakening DX", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -661,7 +661,7 @@
             }, 
             "name": "The Legend of Zelda: Oracle of Ages", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -672,7 +672,7 @@
             }, 
             "name": "The Legend of Zelda: Oracle of Seasons", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -683,7 +683,7 @@
             }, 
             "name": "Wario Land 3", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -694,7 +694,7 @@
             }, 
             "name": "Wario Land II", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }
     ], 
     "Game Gear": [
@@ -3430,7 +3430,96 @@
             "tested": true
         }
     ], 
-    "TurboGrafx 16": [], 
+    "TurboGrafx 16": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Blazing Lazers", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Bonk 3: Bonk's Big Adventure", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Bonk's Adventure", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Bonk's Revenge", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Neutopia", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Neutopia II", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "New Adventure Island", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Splatterhouse", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
     "Vectrex": [], 
     "Virtual Boy": [
         {
