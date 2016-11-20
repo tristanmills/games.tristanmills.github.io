@@ -384,7 +384,7 @@
             }, 
             "name": "Spyro: Attack of the Rhynocs", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -395,7 +395,7 @@
             }, 
             "name": "Spyro: Season of Ice", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -406,7 +406,7 @@
             }, 
             "name": "Spyro 2: Season of Flame", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -417,7 +417,7 @@
             }, 
             "name": "Spyro Orange: The Cortex Conspiracy", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -428,18 +428,7 @@
             }, 
             "name": "The Legend of Spyro: The Eternal Night", 
             "players": 1, 
-            "tested": false
-        }, 
-        {
-            "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
-            }, 
-            "name": "The Legend of Zelda: A Link to the Past and Four Swords", 
-            "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -450,7 +439,7 @@
             }, 
             "name": "The Legend of Zelda: The Minish Cap", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }
     ], 
     "Game Boy Color": [
