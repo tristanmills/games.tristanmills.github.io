@@ -7,6 +7,7 @@ function filterGames(games, filters) {
 		'Famicom Disk System',
 		'Final Burn Alpha',
 		'MAME',
+		'MSX / MSX2',
 		'Vectrex',
 		'ZX Spectrum',
 	];

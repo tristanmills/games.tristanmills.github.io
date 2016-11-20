@@ -73,17 +73,6 @@
         {
             "multiplayer": {
                 "alternating-coop": false, 
-                "alternating-vs": true, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
-            }, 
-            "name": "Galaga", 
-            "players": 2, 
-            "tested": true
-        }, 
-        {
-            "multiplayer": {
-                "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
@@ -262,7 +251,7 @@
             }, 
             "name": "Doom", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -306,7 +295,7 @@
             }, 
             "name": "Metroid: Zero Mission", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -317,7 +306,7 @@
             }, 
             "name": "Metroid Fusion", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -339,7 +328,7 @@
             }, 
             "name": "Pok\u00e9mon FireRed Version", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -350,7 +339,7 @@
             }, 
             "name": "Pokemon LeafGreen Version", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -3314,6 +3303,18 @@
     ], 
     "TurboGrafx 16": [], 
     "Vectrex": [], 
-    "Virtual Boy": [], 
+    "Virtual Boy": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mario's Tennis", 
+            "players": 1, 
+            "tested": true
+        }
+    ], 
     "ZX Spectrum": []
 }

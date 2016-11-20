@@ -42,6 +42,10 @@ def parseFile(file):
 
 			_games = gameList['game']
 
+			if isinstance(_games, list) is False:
+
+				_games = [_games]
+
 	for _game in _games:
 
 		_game = dict(_game.items())
