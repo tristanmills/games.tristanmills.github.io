@@ -82,7 +82,19 @@
             "tested": true
         }
     ], 
-    "Atari Lynx": [], 
+    "Atari Lynx": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "California Games", 
+            "players": 4, 
+            "tested": false
+        }
+    ], 
     "Famicom Disk System": [], 
     "Final Burn Alpha": [], 
     "Game Boy": [
@@ -696,12 +708,81 @@
             "tested": false
         }
     ], 
-    "Game Gear": [], 
+    "Game Gear": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Sonic Labyrinth", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
     "MAME": [], 
     "MSX / MSX2": [], 
     "Neo Geo": [], 
-    "Neo Geo Pocket": [], 
-    "Neo Geo Pocket Color": [], 
+    "Neo Geo Pocket": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "King of Fighters R-1", 
+            "players": 2, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Samurai Shodown!", 
+            "players": 2, 
+            "tested": false
+        }
+    ], 
+    "Neo Geo Pocket Color": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "King of Fighters R-2", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Samurai Shodown! 2", 
+            "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "SNK vs. Capcom: Match of the Millennium", 
+            "players": 1, 
+            "tested": false
+        }
+    ], 
     "Nintendo 64": [
         {
             "multiplayer": {
@@ -1858,6 +1939,17 @@
             }, 
             "name": "Final Fantasy", 
             "players": 1, 
+            "tested": false
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Galaga", 
+            "players": 2, 
             "tested": false
         }, 
         {
@@ -3313,7 +3405,7 @@
             }, 
             "name": "Mario's Tennis", 
             "players": 1, 
-            "tested": true
+            "tested": false
         }
     ], 
     "ZX Spectrum": []
