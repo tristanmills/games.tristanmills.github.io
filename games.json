@@ -1042,11 +1042,11 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "F-Zero X", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1086,11 +1086,11 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "GoldenEye 007", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1108,44 +1108,44 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Hydro Thunder", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Jet Force Gemini", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Killer Instinct Gold", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Kirby 64: The Crystal Shards", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1195,78 +1195,78 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Madden NFL 99", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Mario Golf", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Mario Kart 64", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Mario Party", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Mario Party 2", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Mario Party 3", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Mario Tennis", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1295,11 +1295,11 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Mortal Kombat Trilogy", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1361,11 +1361,11 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Pokemon Stadium", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1405,11 +1405,11 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Quake II", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1427,33 +1427,33 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Rampage 2: Universal Tour", 
             "players": 3, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Rampage: World Tour", 
             "players": 3, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Road Rash 64", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1471,22 +1471,22 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Star Fox 64", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Star Wars: Episode I - Racer", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1536,12 +1536,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Super Smash Bros.", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1580,12 +1580,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Tom Clancy's Rainbow Six", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
