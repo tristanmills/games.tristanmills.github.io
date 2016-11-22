@@ -91,8 +91,8 @@
                 "simultaneous-vs": false
             }, 
             "name": "California Games", 
-            "players": 4, 
-            "tested": false
+            "players": 1, 
+            "tested": true
         }
     ], 
     "Famicom Disk System": [], 
@@ -707,7 +707,7 @@
             }, 
             "name": "Sonic Labyrinth", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }
     ], 
     "MAME": [], 
@@ -722,8 +722,8 @@
                 "simultaneous-vs": false
             }, 
             "name": "King of Fighters R-1", 
-            "players": 2, 
-            "tested": false
+            "players": 1, 
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -733,8 +733,8 @@
                 "simultaneous-vs": false
             }, 
             "name": "Samurai Shodown!", 
-            "players": 2, 
-            "tested": false
+            "players": 1, 
+            "tested": true
         }
     ], 
     "Neo Geo Pocket Color": [
@@ -746,8 +746,8 @@
                 "simultaneous-vs": false
             }, 
             "name": "King of Fighters R-2", 
-            "players": 2, 
-            "tested": false
+            "players": 1, 
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -757,8 +757,8 @@
                 "simultaneous-vs": false
             }, 
             "name": "Samurai Shodown! 2", 
-            "players": 2, 
-            "tested": false
+            "players": 1, 
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -768,8 +768,8 @@
                 "simultaneous-vs": false
             }, 
             "name": "SNK vs. Capcom: Match of the Millennium", 
-            "players": 2, 
-            "tested": false
+            "players": 1, 
+            "tested": true
         }
     ], 
     "Nintendo 64": [
@@ -2403,7 +2403,7 @@
             }, 
             "name": "Crash Bandicoot", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2447,7 +2447,7 @@
             }, 
             "name": "Resident Evil 3: Nemesis (Demo)", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2480,7 +2480,7 @@
             }, 
             "name": "Spyro the Dragon", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2653,7 +2653,7 @@
             }, 
             "name": "Phantasy Star", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }
     ], 
     "Sega SG-1000": [
@@ -3531,7 +3531,7 @@
             }, 
             "name": "Mario's Tennis", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }
     ], 
     "ZX Spectrum": []
