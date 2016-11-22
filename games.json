@@ -804,7 +804,7 @@
             }, 
             "name": "Aidyn Chronicles: The First Mage", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -815,7 +815,7 @@
             }, 
             "name": "Banjo-Kazooie", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -881,7 +881,7 @@
             }, 
             "name": "Castlevania", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -892,7 +892,7 @@
             }, 
             "name": "Castlevania: Legacy of Darkness", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -903,7 +903,7 @@
             }, 
             "name": "Command & Conquer", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -980,7 +980,7 @@
             }, 
             "name": "Donkey Kong 64", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -991,7 +991,7 @@
             }, 
             "name": "Doom 64", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1024,7 +1024,7 @@
             }, 
             "name": "Earthworm Jim 3D", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1057,7 +1057,7 @@
             }, 
             "name": "F1 Pole Position 64", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1101,7 +1101,7 @@
             }, 
             "name": "Harvest Moon 64", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1277,7 +1277,7 @@
             }, 
             "name": "Mega Man 64", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1310,7 +1310,7 @@
             }, 
             "name": "Nuclear Strike 64", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1343,7 +1343,7 @@
             }, 
             "name": "Paper Mario", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1420,7 +1420,7 @@
             }, 
             "name": "Quest 64", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
