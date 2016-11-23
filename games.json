@@ -1868,12 +1868,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Double Dragon", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2016,7 +2016,7 @@
             }, 
             "name": "Kid Icarus", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2414,7 +2414,7 @@
             }, 
             "name": "Crash Bandicoot 2: Cortex Strikes Back", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2425,7 +2425,7 @@
             }, 
             "name": "Crash Bandicoot 3: Warped", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2436,7 +2436,7 @@
             }, 
             "name": "Resident Evil", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2458,7 +2458,7 @@
             }, 
             "name": "Silent Hill", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2469,7 +2469,7 @@
             }, 
             "name": "Spyro 2: Ripto's Rage!", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2491,7 +2491,7 @@
             }, 
             "name": "Spyro: Year of the Dragon", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }
     ], 
     "Sega 32X": [
@@ -3440,7 +3440,7 @@
             }, 
             "name": "Blazing Lazers", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -3451,7 +3451,7 @@
             }, 
             "name": "Bonk 3: Bonk's Big Adventure", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -3462,7 +3462,7 @@
             }, 
             "name": "Bonk's Adventure", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -3473,7 +3473,7 @@
             }, 
             "name": "Bonk's Revenge", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -3484,7 +3484,7 @@
             }, 
             "name": "Neutopia", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -3495,7 +3495,7 @@
             }, 
             "name": "Neutopia II", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -3506,7 +3506,7 @@
             }, 
             "name": "New Adventure Island", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -3517,7 +3517,7 @@
             }, 
             "name": "Splatterhouse", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }
     ], 
     "Vectrex": [], 
