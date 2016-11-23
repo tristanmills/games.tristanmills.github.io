@@ -1,6 +1,41 @@
 {
     "Amstrad CPC": [], 
     "Arcade": [], 
+    "Atari 2600": [
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pitfall II: Lost Caverns", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pitfall!", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Pole Position", 
+            "players": 1, 
+            "tested": true
+        }
+    ], 
     "Atari 7800": [
         {
             "multiplayer": {
@@ -3483,41 +3518,6 @@
             "name": "Splatterhouse", 
             "players": 1, 
             "tested": false
-        }
-    ], 
-    "Unknown": [
-        {
-            "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
-            }, 
-            "name": "Pitfall II: Lost Caverns", 
-            "players": 1, 
-            "tested": true
-        }, 
-        {
-            "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
-            }, 
-            "name": "Pitfall!", 
-            "players": 1, 
-            "tested": true
-        }, 
-        {
-            "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
-            }, 
-            "name": "Pole Position", 
-            "players": 1, 
-            "tested": true
         }
     ], 
     "Vectrex": [], 
