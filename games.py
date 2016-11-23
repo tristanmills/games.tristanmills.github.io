@@ -121,8 +121,8 @@ def getGames(folder):
 	return games
 
 
-games = getGames('/retropie/roms/')
-# games = getGames('R://')
+# games = getGames('/retropie/roms/')
+games = getGames('R://')
 
 # print games
 open('games.json', 'w').write(games)

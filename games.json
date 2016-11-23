@@ -2641,6 +2641,127 @@
             "name": "Vectorman 2", 
             "players": 1, 
             "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Shining Force", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Shining Force II", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Sonic & Knuckles", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Sonic Blue Sphere", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Knuckles in Sonic 2", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Sonic 3 & Knuckles", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Sonic the Hedgehog", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Sonic the Hedgehog 2", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
+            }, 
+            "name": "Sonic the Hedgehog 3", 
+            "players": 2, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Vectorman", 
+            "players": 1, 
+            "tested": true
+        }, 
+        {
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Vectorman 2", 
+            "players": 1, 
+            "tested": true
         }
     ], 
     "Sega Master System": [
@@ -2653,7 +2774,7 @@
             }, 
             "name": "Phantasy Star", 
             "players": 1, 
-            "tested": true
+            "tested": false
         }
     ], 
     "Sega SG-1000": [
