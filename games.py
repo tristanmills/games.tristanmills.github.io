@@ -28,31 +28,30 @@ def getFiles(folder):
 def parseFile(file):
 
 	system = 'Unknown'
+
 	games = []
 
-	if os.path.isfile(file):
+	_xml = open(file, 'r').read()
 
-		_xml = open(file, 'r').read()
+	_dict = xmltodict.parse(_xml)
 
-		_dict = xmltodict.parse(_xml)
+	gameList = _dict['gameList']
 
-		gameList = _dict['gameList']
+	if gameList is None:
 
-		if gameList is None:
+		gameList = {}
 
-			gameList = {}
+	if '@system' in gameList:
 
-		if '@system' in gameList:
+		system = gameList['@system']
 
-			system = gameList['@system']
+	if 'game' in gameList:
 
-		if 'game' in gameList:
+		games = gameList['game']
 
-			games = gameList['game']
+	if isinstance(games, list) is False:
 
-		if isinstance(games, list) is False:
-
-			games = [games]
+		games = [games]
 
 	return system, games
 
@@ -106,7 +105,7 @@ def getGames(folder):
 
 		processedGames = processGames(unprocessedGames)
 
-		if system in games:
+		if system in games and games[system] != processedGames:
 
 			games[system] = games[system] + processedGames
 
@@ -121,8 +120,6 @@ def getGames(folder):
 	return games
 
 
-# games = getGames('/retropie/roms/')
-games = getGames('R://')
+games = getGames('//RETROPIE/roms/')
 
-# print games
 open('games.json', 'w').write(games)
