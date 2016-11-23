@@ -11,20 +11,24 @@ def str2bool(string):
 
 
 def getFiles(folder):
+
 	files = []
+
 	for dirpath, dirnames, filenames in os.walk(folder):
+
 		for filename in [file for file in filenames if file == 'gamelist.xml']:
+
 			path = os.path.join(dirpath, filename).replace('\\', '/')
+
 			files.append(path)
+
 	return files
 
 
 def parseFile(file):
 
-	system = ''
+	system = 'Unknown'
 	games = []
-
-	_games = []
 
 	if os.path.isfile(file):
 
@@ -32,26 +36,35 @@ def parseFile(file):
 
 		_dict = xmltodict.parse(_xml)
 
-		gameList = dict(_dict.items())['gameList']
+		gameList = _dict['gameList']
 
-		gameList = dict(gameList.items())
+		if gameList is None:
 
-		system = gameList['@system']
+			gameList = {}
+
+		if '@system' in gameList:
+
+			system = gameList['@system']
 
 		if 'game' in gameList:
 
-			_games = gameList['game']
+			games = gameList['game']
 
-			if isinstance(_games, list) is False:
+		if isinstance(games, list) is False:
 
-				_games = [_games]
+			games = [games]
 
-	for _game in _games:
+	return system, games
 
-		_game = dict(_game.items())
 
-		game = {
-			'name': _game['name'],
+def processGames(games):
+
+	processedGames = []
+
+	for game in games:
+
+		processedGame = {
+			'name': game['name'],
 			'players': 1,
 			'tested': False,
 			'multiplayer': {
@@ -62,24 +75,23 @@ def parseFile(file):
 			}
 		}
 
-		if 'players' in _game and _game['players'] > 1:
+		if 'players' in game and game['players'] is not None:
 
-			game['players'] = int(_game['players'])
+			processedGame['players'] = game['players'].strip('+')
+			processedGame['players'] = int(processedGame['players'])
 
-		if 'multiplayer' in _game:
+		if 'multiplayer' in game:
 
-			_multiplayer = dict(_game['multiplayer'])
+			processedGame['tested'] = True
 
-			game['tested'] = True
+			processedGame['multiplayer']['simultaneous-coop'] = str2bool(game['multiplayer']['@simultaneous-coop'])
+			processedGame['multiplayer']['alternating-coop'] = str2bool(game['multiplayer']['@alternating-coop'])
+			processedGame['multiplayer']['simultaneous-vs'] = str2bool(game['multiplayer']['@simultaneous-vs'])
+			processedGame['multiplayer']['alternating-vs'] = str2bool(game['multiplayer']['@alternating-vs'])
 
-			game['multiplayer']['simultaneous-coop'] = str2bool(_multiplayer['@simultaneous-coop'])
-			game['multiplayer']['alternating-coop'] = str2bool(_multiplayer['@alternating-coop'])
-			game['multiplayer']['simultaneous-vs'] = str2bool(_multiplayer['@simultaneous-vs'])
-			game['multiplayer']['alternating-vs'] = str2bool(_multiplayer['@alternating-vs'])
+		processedGames.append(processedGame)
 
-		games.append(game)
-
-	return system, games
+	return processedGames
 
 
 def getGames(folder):
@@ -90,15 +102,17 @@ def getGames(folder):
 
 	for file in files:
 
-		system, _games = parseFile(file)
+		system, unprocessedGames = parseFile(file)
+
+		processedGames = processGames(unprocessedGames)
 
 		if system in games:
 
-			games[system] = games[system] + _games
+			games[system] = games[system] + processedGames
 
 		else:
 
-			games[system] = _games
+			games[system] = processedGames
 
 	games = collections.OrderedDict(sorted(games.items()))
 
@@ -108,6 +122,7 @@ def getGames(folder):
 
 
 games = getGames('/retropie/roms/')
+# games = getGames('R://')
 
 # print games
 open('games.json', 'w').write(games)
