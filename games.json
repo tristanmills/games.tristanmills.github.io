@@ -3404,13 +3404,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Chrono Trigger", 
             "players": 1
@@ -3432,13 +3432,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Desert Strike: Return to the Gulf", 
             "players": 1
@@ -3488,13 +3488,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Doom", 
             "players": 1
@@ -3502,13 +3502,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "EarthBound", 
             "players": 1
@@ -3516,13 +3516,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Earthworm Jim", 
             "players": 1
@@ -3530,13 +3530,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Earthworm Jim 2", 
             "players": 1
@@ -3544,13 +3544,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "F-Zero", 
             "players": 1
@@ -3572,13 +3572,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Final Fantasy II", 
             "players": 1
@@ -3586,13 +3586,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Final Fantasy III", 
             "players": 1
@@ -3600,13 +3600,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Harvest Moon", 
             "players": 1
@@ -3614,13 +3614,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Jungle Strike", 
             "players": 1
@@ -3628,13 +3628,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Jurassic Park", 
             "players": 1
