@@ -23,13 +23,13 @@ function filterGames(games, filters) {
 
 			if (filters.indexOf('multiplayer') != -1 && game.players < 2) {
 				delete games[system][index];
-			} else if (filters.indexOf('simultaneous-coop') != -1 && game.multiplayer['simultaneous-coop'] === false) {
+			} else if (filters.indexOf('simultaneous-coop') != -1 && game.multiplayer['simultaneous-coop'] !== true) {
 				delete games[system][index];
-			} else if (filters.indexOf('alternating-coop') != -1 && game.multiplayer['alternating-coop'] === false) {
+			} else if (filters.indexOf('alternating-coop') != -1 && game.multiplayer['alternating-coop'] !== true) {
 				delete games[system][index];
-			} else if (filters.indexOf('simultaneous-vs') != -1 && game.multiplayer['simultaneous-vs'] === false) {
+			} else if (filters.indexOf('simultaneous-vs') != -1 && game.multiplayer['simultaneous-vs'] !== true) {
 				delete games[system][index];
-			} else if (filters.indexOf('alternating-vs') != -1 && game.multiplayer['alternating-vs'] === false) {
+			} else if (filters.indexOf('alternating-vs') != -1 && game.multiplayer['alternating-vs'] !== true) {
 				delete games[system][index];
 			}
 
@@ -40,7 +40,8 @@ function filterGames(games, filters) {
 		if (games[system].length === 0) {
 			games[system].push({
 				'name': 'None',
-				'multiplayer': {}
+				'multiplayer': {},
+				'tested': {},
 			})
 		}
 
@@ -56,7 +57,7 @@ function renderGames(games) {
 
 	for (system in games) {
 
-		var html = '<h3>' + system + '</h3>';
+		var html = '<h3 id="' + system + '">' + system + '</h3>';
 
 		html += '<ul>';
 
@@ -69,8 +70,10 @@ function renderGames(games) {
 			var alternating_coop = '';
 			var alternating_vs = '';
 
-			if (game.tested) {
-				tested = ' class="checked"';
+			if (game.tested['pi3'] === true) {
+				tested = ' class="pass"';
+			} else if (game.tested['pi3'] === false) {
+				tested = ' class="fail"';
 			}
 
 			if (game.players > 1) {

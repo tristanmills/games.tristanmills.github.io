@@ -65,12 +65,15 @@ def processGames(games):
 		processedGame = {
 			'name': game['name'],
 			'players': 1,
-			'tested': False,
+			'tested': {
+				'pi0': None,
+				'pi3': None,
+			},
 			'multiplayer': {
-				'simultaneous-coop': False,
-				'alternating-coop': False,
-				'simultaneous-vs': False,
-				'alternating-vs': False,
+				'simultaneous-coop': None,
+				'alternating-coop': None,
+				'simultaneous-vs': None,
+				'alternating-vs': None,
 			}
 		}
 
@@ -81,12 +84,20 @@ def processGames(games):
 
 		if 'multiplayer' in game:
 
-			processedGame['tested'] = True
-
 			processedGame['multiplayer']['simultaneous-coop'] = str2bool(game['multiplayer']['@simultaneous-coop'])
 			processedGame['multiplayer']['alternating-coop'] = str2bool(game['multiplayer']['@alternating-coop'])
 			processedGame['multiplayer']['simultaneous-vs'] = str2bool(game['multiplayer']['@simultaneous-vs'])
 			processedGame['multiplayer']['alternating-vs'] = str2bool(game['multiplayer']['@alternating-vs'])
+
+		if 'tested' in game:
+
+			if '@pi0' in game['tested']:
+
+				processedGame['tested']['pi0'] = str2bool(game['tested']['@pi0'])
+
+			if '@pi3' in game['tested']:
+
+				processedGame['tested']['pi3'] = str2bool(game['tested']['@pi3'])
 
 		processedGames.append(processedGame)
 
@@ -120,6 +131,9 @@ def getGames(folder):
 	return games
 
 
-games = getGames('//RETROPIE/roms/')
+folder = '/retropie/roms/'
+# folder = '//RETROPIE/roms/'
+
+games = getGames(folder)
 
 open('games.json', 'w').write(games)

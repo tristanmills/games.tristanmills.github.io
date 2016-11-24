@@ -11,7 +11,10 @@
             }, 
             "name": "Pitfall II: Lost Caverns", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -22,7 +25,10 @@
             }, 
             "name": "Pitfall!", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -33,7 +39,10 @@
             }, 
             "name": "Pole Position", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Atari 7800": [
@@ -46,7 +55,10 @@
             }, 
             "name": "Asteroids", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -57,7 +69,10 @@
             }, 
             "name": "Centipede", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -68,7 +83,10 @@
             }, 
             "name": "DigDug", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -79,7 +97,10 @@
             }, 
             "name": "Pole Position II", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Atari Lynx": [
@@ -92,7 +113,10 @@
             }, 
             "name": "California Games", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Famicom Disk System": [], 
@@ -107,7 +131,10 @@
             }, 
             "name": "Donkey Kong Land", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -118,7 +145,10 @@
             }, 
             "name": "Donkey Kong Land 2", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -129,7 +159,10 @@
             }, 
             "name": "Donkey Kong Land III", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -140,7 +173,10 @@
             }, 
             "name": "Kirby's Dream Land", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -151,7 +187,10 @@
             }, 
             "name": "Kirby's Dream Land 2", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -162,7 +201,10 @@
             }, 
             "name": "Metroid II: Return of Samus", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -173,7 +215,10 @@
             }, 
             "name": "Pok\u00e9mon Blue Version", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -184,7 +229,10 @@
             }, 
             "name": "Pok\u00e9mon Red Version", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -195,7 +243,10 @@
             }, 
             "name": "Pok\u00e9mon Yellow Version", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -206,7 +257,10 @@
             }, 
             "name": "Super Mario Land", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -217,7 +271,10 @@
             }, 
             "name": "Super Mario Land 2: 6 Golden Coins", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -228,7 +285,10 @@
             }, 
             "name": "The Legend of Zelda: Link's Awakening", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -239,7 +299,10 @@
             }, 
             "name": "Wario Land: Super Mario Land 3", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -250,7 +313,10 @@
             }, 
             "name": "Wario Land II", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Game Boy Advance": [
@@ -263,7 +329,10 @@
             }, 
             "name": "Doom", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -274,7 +343,10 @@
             }, 
             "name": "Doom II", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -285,7 +357,10 @@
             }, 
             "name": "Duke Nukem Advance", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -296,7 +371,10 @@
             }, 
             "name": "Gauntlet: Dark Legacy", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -307,7 +385,10 @@
             }, 
             "name": "Metroid Fusion", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -318,7 +399,10 @@
             }, 
             "name": "Metroid: Zero Mission", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -329,7 +413,10 @@
             }, 
             "name": "Pokemon LeafGreen Version", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -340,7 +427,10 @@
             }, 
             "name": "Pok\u00e9mon Emerald Version", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -351,7 +441,10 @@
             }, 
             "name": "Pok\u00e9mon FireRed Version", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -362,7 +455,10 @@
             }, 
             "name": "Pok\u00e9mon Ruby Version", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -373,7 +469,10 @@
             }, 
             "name": "Pok\u00e9mon Sapphire Version", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -384,7 +483,10 @@
             }, 
             "name": "Spyro 2: Season of Flame", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -395,7 +497,10 @@
             }, 
             "name": "Spyro Orange: The Cortex Conspiracy", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -406,7 +511,10 @@
             }, 
             "name": "Spyro: Attack of the Rhynocs", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -417,7 +525,10 @@
             }, 
             "name": "Spyro: Season of Ice", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -428,7 +539,10 @@
             }, 
             "name": "The Legend of Spyro: The Eternal Night", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -439,7 +553,10 @@
             }, 
             "name": "The Legend of Zelda: The Minish Cap", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Game Boy Color": [
@@ -452,7 +569,10 @@
             }, 
             "name": "Duke Nukem", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -463,7 +583,10 @@
             }, 
             "name": "Grand Theft Auto", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -474,7 +597,10 @@
             }, 
             "name": "Grand Theft Auto 2", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -485,7 +611,10 @@
             }, 
             "name": "Harvest Moon", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -496,7 +625,10 @@
             }, 
             "name": "Harvest Moon 2", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -507,7 +639,10 @@
             }, 
             "name": "Harvest Moon 3", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -518,7 +653,10 @@
             }, 
             "name": "Mario Tennis", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -529,7 +667,10 @@
             }, 
             "name": "Mega Man Xtreme", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -540,7 +681,10 @@
             }, 
             "name": "Mega Man Xtreme 2", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -551,7 +695,10 @@
             }, 
             "name": "Metal Gear Solid", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -562,7 +709,10 @@
             }, 
             "name": "Mortal Kombat 4", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -573,7 +723,10 @@
             }, 
             "name": "Pok\u00e9mon Crystal Version", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -584,7 +737,10 @@
             }, 
             "name": "Pok\u00e9mon Gold Version", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -595,7 +751,10 @@
             }, 
             "name": "Pok\u00e9mon Pinball", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -606,7 +765,10 @@
             }, 
             "name": "Pok\u00e9mon Silver Version", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -617,7 +779,10 @@
             }, 
             "name": "Pok\u00e9mon Trading Card Game", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -628,7 +793,10 @@
             }, 
             "name": "Star Wars: Yoda Stories", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -639,7 +807,10 @@
             }, 
             "name": "Super Mario Bros. Deluxe", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -650,7 +821,10 @@
             }, 
             "name": "The Legend of Zelda: Link's Awakening DX", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -661,7 +835,10 @@
             }, 
             "name": "The Legend of Zelda: Oracle of Ages", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -672,7 +849,10 @@
             }, 
             "name": "The Legend of Zelda: Oracle of Seasons", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -683,7 +863,10 @@
             }, 
             "name": "Wario Land 3", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -694,7 +877,10 @@
             }, 
             "name": "Wario Land II", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Game Gear": [
@@ -707,7 +893,10 @@
             }, 
             "name": "Sonic Labyrinth", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "MAME": [], 
@@ -723,7 +912,10 @@
             }, 
             "name": "King of Fighters R-1", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -734,7 +926,10 @@
             }, 
             "name": "Samurai Shodown!", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Neo Geo Pocket Color": [
@@ -747,7 +942,10 @@
             }, 
             "name": "King of Fighters R-2", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -758,7 +956,10 @@
             }, 
             "name": "Samurai Shodown! 2", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -769,7 +970,10 @@
             }, 
             "name": "SNK vs. Capcom: Match of the Millennium", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Nintendo 64": [
@@ -782,7 +986,10 @@
             }, 
             "name": "007: The World Is Not Enough", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -793,7 +1000,10 @@
             }, 
             "name": "1080\u00b0 Snowboarding", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -804,7 +1014,10 @@
             }, 
             "name": "Aidyn Chronicles: The First Mage", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -815,7 +1028,10 @@
             }, 
             "name": "Banjo-Kazooie", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -826,18 +1042,24 @@
             }, 
             "name": "Banjo-Tooie", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Bomberman 64", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -848,7 +1070,10 @@
             }, 
             "name": "Bomberman 64: The Second Attack!", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -859,7 +1084,10 @@
             }, 
             "name": "Bomberman Hero", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -870,7 +1098,10 @@
             }, 
             "name": "California Speed", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -881,7 +1112,10 @@
             }, 
             "name": "Castlevania", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -892,7 +1126,10 @@
             }, 
             "name": "Castlevania: Legacy of Darkness", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -903,51 +1140,66 @@
             }, 
             "name": "Command & Conquer", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Conker's Bad Fur Day", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Cruis'n Exotica", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Cruis'n USA", 
             "players": 2, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Cruis'n World", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -958,7 +1210,10 @@
             }, 
             "name": "Diddy Kong Racing", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -969,7 +1224,10 @@
             }, 
             "name": "Disney's Tarzan", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -980,7 +1238,10 @@
             }, 
             "name": "Donkey Kong 64", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -991,7 +1252,10 @@
             }, 
             "name": "Doom 64", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1002,7 +1266,10 @@
             }, 
             "name": "Duke Nukem 64", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1013,7 +1280,10 @@
             }, 
             "name": "Duke Nukem: Zero Hour", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1024,18 +1294,24 @@
             }, 
             "name": "Earthworm Jim 3D", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Excitebike 64", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1046,7 +1322,10 @@
             }, 
             "name": "F-Zero X", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1057,18 +1336,24 @@
             }, 
             "name": "F1 Pole Position 64", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
+                "simultaneous-coop": true, 
                 "simultaneous-vs": false
             }, 
             "name": "Gauntlet Legends", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1079,7 +1364,10 @@
             }, 
             "name": "Glover", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1090,7 +1378,10 @@
             }, 
             "name": "GoldenEye 007", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1101,7 +1392,10 @@
             }, 
             "name": "Harvest Moon 64", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1112,7 +1406,10 @@
             }, 
             "name": "Hydro Thunder", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1123,7 +1420,10 @@
             }, 
             "name": "Jet Force Gemini", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1134,7 +1434,10 @@
             }, 
             "name": "Killer Instinct Gold", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1145,51 +1448,66 @@
             }, 
             "name": "Kirby 64: The Crystal Shards", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Lego Racers", 
             "players": 2, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Madden NFL 2000", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Madden NFL 2001", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Madden NFL 2002", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1200,7 +1518,10 @@
             }, 
             "name": "Madden NFL 99", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1211,7 +1532,10 @@
             }, 
             "name": "Mario Golf", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1222,7 +1546,10 @@
             }, 
             "name": "Mario Kart 64", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1233,7 +1560,10 @@
             }, 
             "name": "Mario Party", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1244,7 +1574,10 @@
             }, 
             "name": "Mario Party 2", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1255,18 +1588,24 @@
             }, 
             "name": "Mario Party 3", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
+                "simultaneous-coop": true, 
                 "simultaneous-vs": true
             }, 
             "name": "Mario Tennis", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1277,18 +1616,24 @@
             }, 
             "name": "Mega Man 64", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Mortal Kombat 4", 
             "players": 2, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1299,7 +1644,10 @@
             }, 
             "name": "Mortal Kombat Trilogy", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1310,18 +1658,24 @@
             }, 
             "name": "Nuclear Strike 64", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Off Road Challenge", 
             "players": 2, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1332,7 +1686,10 @@
             }, 
             "name": "Ogre Battle 64: Person of Lordly Caliber", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1343,18 +1700,24 @@
             }, 
             "name": "Paper Mario", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Perfect Dark", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1365,18 +1728,24 @@
             }, 
             "name": "Pokemon Stadium", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Pokemon Stadium 2", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1387,18 +1756,24 @@
             }, 
             "name": "Pok\u00e9mon Snap", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Quake", 
             "players": 2, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1409,7 +1784,10 @@
             }, 
             "name": "Quake II", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1420,7 +1798,10 @@
             }, 
             "name": "Quest 64", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1431,7 +1812,10 @@
             }, 
             "name": "Rampage 2: Universal Tour", 
             "players": 3, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1442,7 +1826,10 @@
             }, 
             "name": "Rampage: World Tour", 
             "players": 3, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1453,7 +1840,10 @@
             }, 
             "name": "Road Rash 64", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1464,7 +1854,10 @@
             }, 
             "name": "Spider-Man", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1475,7 +1868,10 @@
             }, 
             "name": "Star Fox 64", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1486,7 +1882,10 @@
             }, 
             "name": "Star Wars: Episode I - Racer", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1497,7 +1896,10 @@
             }, 
             "name": "Star Wars: Rogue Squadron", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1508,18 +1910,24 @@
             }, 
             "name": "Star Wars: Shadows of the Empire", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
+                "simultaneous-coop": true, 
                 "simultaneous-vs": false
             }, 
             "name": "StarCraft 64", 
             "players": 2, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1530,7 +1938,10 @@
             }, 
             "name": "Super Mario 64", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1541,18 +1952,24 @@
             }, 
             "name": "Super Smash Bros.", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Superman", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1563,7 +1980,10 @@
             }, 
             "name": "The Legend of Zelda: Majora's Mask", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1574,7 +1994,10 @@
             }, 
             "name": "The Legend of Zelda: Ocarina of Time", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1585,7 +2008,10 @@
             }, 
             "name": "Tom Clancy's Rainbow Six", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1596,7 +2022,10 @@
             }, 
             "name": "Tony Hawk's Pro Skater", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1607,18 +2036,24 @@
             }, 
             "name": "Tony Hawk's Pro Skater 2", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Tony Hawk's Pro Skater 3", 
             "players": 2, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -1629,7 +2064,10 @@
             }, 
             "name": "Turok 2: Seeds of Evil", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1640,7 +2078,10 @@
             }, 
             "name": "Turok 3: Shadow of Oblivion", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1651,7 +2092,10 @@
             }, 
             "name": "Turok: Dinosaur Hunter", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1662,7 +2106,10 @@
             }, 
             "name": "Turok: Rage Wars", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1673,7 +2120,10 @@
             }, 
             "name": "Wave Race 64", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1684,7 +2134,10 @@
             }, 
             "name": "Wipeout 64", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1695,7 +2148,10 @@
             }, 
             "name": "Worms Armageddon", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1706,7 +2162,10 @@
             }, 
             "name": "WWF Attitude", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1717,7 +2176,10 @@
             }, 
             "name": "WWF No Mercy", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1728,7 +2190,10 @@
             }, 
             "name": "WWF War Zone", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1739,7 +2204,10 @@
             }, 
             "name": "WWF WrestleMania 2000", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1750,7 +2218,10 @@
             }, 
             "name": "Yoshi's Story", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }
     ], 
     "Nintendo Entertainment System": [
@@ -1763,7 +2234,10 @@
             }, 
             "name": "Balloon Fight", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1774,7 +2248,10 @@
             }, 
             "name": "Battletoads", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1785,7 +2262,10 @@
             }, 
             "name": "Castlevania", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1796,7 +2276,10 @@
             }, 
             "name": "Castlevania II: Simon's Quest", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1807,7 +2290,10 @@
             }, 
             "name": "Castlevania III: Dracula's Curse", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1818,7 +2304,10 @@
             }, 
             "name": "Contra", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1829,7 +2318,10 @@
             }, 
             "name": "Contra Force", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1840,7 +2332,10 @@
             }, 
             "name": "Donkey Kong", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1851,7 +2346,10 @@
             }, 
             "name": "Donkey Kong 3", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1862,7 +2360,10 @@
             }, 
             "name": "Donkey Kong Jr.", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1873,7 +2374,10 @@
             }, 
             "name": "Double Dragon", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1884,7 +2388,10 @@
             }, 
             "name": "Double Dragon II: The Revenge", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1895,7 +2402,10 @@
             }, 
             "name": "Double Dragon III: The Sacred Stones", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1906,7 +2416,10 @@
             }, 
             "name": "Dr. Mario", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1917,7 +2430,10 @@
             }, 
             "name": "Excitebike", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1928,7 +2444,10 @@
             }, 
             "name": "Final Fantasy", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1939,7 +2458,10 @@
             }, 
             "name": "Galaga", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1950,7 +2472,10 @@
             }, 
             "name": "Gauntlet", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1961,7 +2486,10 @@
             }, 
             "name": "Gauntlet II", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1972,7 +2500,10 @@
             }, 
             "name": "Ghosts 'n Goblins", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1983,7 +2514,10 @@
             }, 
             "name": "Gradius", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -1994,7 +2528,10 @@
             }, 
             "name": "Ice Climber", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2005,7 +2542,10 @@
             }, 
             "name": "Ice Hockey", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2016,7 +2556,10 @@
             }, 
             "name": "Kid Icarus", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2027,7 +2570,10 @@
             }, 
             "name": "Kirby's Adventure", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2038,7 +2584,10 @@
             }, 
             "name": "Mega Man", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2049,7 +2598,10 @@
             }, 
             "name": "Mega Man 2", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2060,7 +2612,10 @@
             }, 
             "name": "Mega Man 3", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2071,7 +2626,10 @@
             }, 
             "name": "Mega Man 4", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2082,7 +2640,10 @@
             }, 
             "name": "Mega Man 5", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2093,7 +2654,10 @@
             }, 
             "name": "Mega Man 6", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2104,7 +2668,10 @@
             }, 
             "name": "Metal Gear", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2115,7 +2682,10 @@
             }, 
             "name": "Metroid", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2126,7 +2696,10 @@
             }, 
             "name": "Ninja Gaiden", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2137,7 +2710,10 @@
             }, 
             "name": "Ninja Gaiden II: The Dark Sword of Chaos", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2148,7 +2724,10 @@
             }, 
             "name": "Ninja Gaiden III: The Ancient Ship of Doom", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2159,7 +2738,10 @@
             }, 
             "name": "Punch-Out!!", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2170,7 +2752,10 @@
             }, 
             "name": "Rampage", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2181,7 +2766,10 @@
             }, 
             "name": "Star Wars", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2192,7 +2780,10 @@
             }, 
             "name": "Star Wars: The Empire Strikes Back", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2203,7 +2794,10 @@
             }, 
             "name": "StarTropics", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2214,7 +2808,10 @@
             }, 
             "name": "StarTropics II: Zoda's Revenge", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2225,7 +2822,10 @@
             }, 
             "name": "Super C", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2236,7 +2836,10 @@
             }, 
             "name": "Super Mario Bros.", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2247,7 +2850,10 @@
             }, 
             "name": "Super Mario Bros. 2", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2258,7 +2864,10 @@
             }, 
             "name": "Super Mario Bros. 3", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2269,7 +2878,10 @@
             }, 
             "name": "Super Pitfall", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2280,7 +2892,10 @@
             }, 
             "name": "Tecmo Bowl", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2291,7 +2906,10 @@
             }, 
             "name": "Tecmo Super Bowl", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2302,7 +2920,10 @@
             }, 
             "name": "Tetris", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2313,7 +2934,10 @@
             }, 
             "name": "Tetris 2", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2324,7 +2948,10 @@
             }, 
             "name": "The Legend of Zelda", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2335,7 +2962,10 @@
             }, 
             "name": "The Simpsons: Bart vs. the Space Mutants", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2346,7 +2976,10 @@
             }, 
             "name": "The Simpsons: Bart vs. the World", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2357,7 +2990,10 @@
             }, 
             "name": "The Simpsons: Bartman Meets Radioactive Man", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2368,7 +3004,10 @@
             }, 
             "name": "Treasure Master", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2379,7 +3018,10 @@
             }, 
             "name": "Zelda II: The Adventure of Link", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "PlayStation 1": [
@@ -2392,7 +3034,10 @@
             }, 
             "name": "Ape Escape", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -2403,7 +3048,10 @@
             }, 
             "name": "Crash Bandicoot", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2414,7 +3062,10 @@
             }, 
             "name": "Crash Bandicoot 2: Cortex Strikes Back", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2425,7 +3076,10 @@
             }, 
             "name": "Crash Bandicoot 3: Warped", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2436,7 +3090,10 @@
             }, 
             "name": "Resident Evil", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2447,7 +3104,10 @@
             }, 
             "name": "Resident Evil 3: Nemesis (Demo)", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2458,7 +3118,10 @@
             }, 
             "name": "Silent Hill", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": false
+            }
         }, 
         {
             "multiplayer": {
@@ -2469,7 +3132,10 @@
             }, 
             "name": "Spyro 2: Ripto's Rage!", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2480,7 +3146,10 @@
             }, 
             "name": "Spyro the Dragon", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2491,7 +3160,10 @@
             }, 
             "name": "Spyro: Year of the Dragon", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Sega 32X": [
@@ -2504,7 +3176,10 @@
             }, 
             "name": "Knuckles' Chaotix", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Sega CD": [
@@ -2517,7 +3192,10 @@
             }, 
             "name": "Sonic CD", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Sega Genesis": [
@@ -2530,7 +3208,10 @@
             }, 
             "name": "Shining Force", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2541,7 +3222,10 @@
             }, 
             "name": "Shining Force II", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2552,7 +3236,10 @@
             }, 
             "name": "Sonic & Knuckles", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2563,7 +3250,10 @@
             }, 
             "name": "Sonic Blue Sphere", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2574,7 +3264,10 @@
             }, 
             "name": "Knuckles in Sonic 2", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2585,7 +3278,10 @@
             }, 
             "name": "Sonic 3 & Knuckles", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2596,7 +3292,10 @@
             }, 
             "name": "Sonic the Hedgehog", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2607,7 +3306,10 @@
             }, 
             "name": "Sonic the Hedgehog 2", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2618,7 +3320,10 @@
             }, 
             "name": "Sonic the Hedgehog 3", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2629,7 +3334,10 @@
             }, 
             "name": "Vectorman", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2640,7 +3348,10 @@
             }, 
             "name": "Vectorman 2", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Sega Master System": [
@@ -2653,7 +3364,10 @@
             }, 
             "name": "Phantasy Star", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Sega SG-1000": [
@@ -2666,7 +3380,10 @@
             }, 
             "name": "Orguss", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Super Nintendo": [
@@ -2679,18 +3396,24 @@
             }, 
             "name": "Battletoads & Double Dragon", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Chrono Trigger", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -2701,18 +3424,24 @@
             }, 
             "name": "Contra III: The Alien Wars", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Desert Strike: Return to the Gulf", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -2723,7 +3452,10 @@
             }, 
             "name": "Donkey Kong Country", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2734,7 +3466,10 @@
             }, 
             "name": "Donkey Kong Country 2: Diddy's Kong Quest", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2745,62 +3480,80 @@
             }, 
             "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Doom", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "EarthBound", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Earthworm Jim", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Earthworm Jim 2", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "F-Zero", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -2811,62 +3564,80 @@
             }, 
             "name": "F1 Pole Position", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Final Fantasy II", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Final Fantasy III", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Harvest Moon", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Jungle Strike", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Jurassic Park", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -2877,7 +3648,10 @@
             }, 
             "name": "Jurassic Park Part 2: The Chaos Continues", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2888,7 +3662,10 @@
             }, 
             "name": "Kirby Super Star", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2899,18 +3676,24 @@
             }, 
             "name": "Kirby's Dream Land 3", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Madden NFL '94", 
             "players": 4, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -2921,7 +3704,10 @@
             }, 
             "name": "Madden NFL '95", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2932,7 +3718,10 @@
             }, 
             "name": "Madden NFL '96", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2943,7 +3732,10 @@
             }, 
             "name": "Madden NFL 97", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -2954,29 +3746,38 @@
             }, 
             "name": "Madden NFL 98", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Mario Paint", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "MechWarrior", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -2987,51 +3788,66 @@
             }, 
             "name": "MechWarrior 3050", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Mega Man 7", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Mega Man X", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Mega Man X2", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Mega Man X3", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -3042,7 +3858,10 @@
             }, 
             "name": "Mortal Kombat", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3053,7 +3872,10 @@
             }, 
             "name": "Mortal Kombat 3", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3064,18 +3886,24 @@
             }, 
             "name": "Mortal Kombat II", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Ms. Pac-Man", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -3086,7 +3914,10 @@
             }, 
             "name": "NBA Jam Tournament Edition", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3097,18 +3928,24 @@
             }, 
             "name": "Primal Rage", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "R-Type III: The Third Lightning", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -3119,7 +3956,10 @@
             }, 
             "name": "Secret of Mana", 
             "players": 3, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3130,29 +3970,38 @@
             }, 
             "name": "Shaq Fu", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "SimCity", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Star Fox", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -3163,7 +4012,10 @@
             }, 
             "name": "Street Fighter II Turbo", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3174,7 +4026,10 @@
             }, 
             "name": "Super Bomberman", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3185,40 +4040,52 @@
             }, 
             "name": "Super Bomberman 2", 
             "players": 4, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Super Castlevania IV", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Super Double Dragon", 
             "players": 2, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Super Ghouls 'n Ghosts", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -3229,18 +4096,24 @@
             }, 
             "name": "Super Mario Kart", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Super Mario RPG: Legend of the Seven Stars", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -3251,117 +4124,150 @@
             }, 
             "name": "Super Mario World", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Super Mario World 2: Yoshi's Island", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Super Metroid", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Super Punch-Out!!", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Super R-Type", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Super Star Wars", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Super Star Wars: Return of the Jedi", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Super Star Wars: The Empire Strikes Back", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "The Legend of Zelda: A Link to the Past", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "The Simpsons: Bart's Nightmare", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Todd McFarlane's Spawn: The Video Game", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -3372,51 +4278,66 @@
             }, 
             "name": "Ultimate Mortal Kombat 3", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Urban Strike", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "Wolfenstein 3-D", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "X-Men Vs. Street Fighter", 
             "players": 2, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
             }, 
             "name": "X-Men: Mutant Apocalypse", 
             "players": 1, 
-            "tested": false
+            "tested": {
+                "pi0": null, 
+                "pi3": null
+            }
         }, 
         {
             "multiplayer": {
@@ -3427,7 +4348,10 @@
             }, 
             "name": "Zombies Ate My Neighbors", 
             "players": 2, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "TurboGrafx 16": [
@@ -3440,7 +4364,10 @@
             }, 
             "name": "Blazing Lazers", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3451,7 +4378,10 @@
             }, 
             "name": "Bonk 3: Bonk's Big Adventure", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3462,7 +4392,10 @@
             }, 
             "name": "Bonk's Adventure", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3473,7 +4406,10 @@
             }, 
             "name": "Bonk's Revenge", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3484,7 +4420,10 @@
             }, 
             "name": "Neutopia", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3495,7 +4434,10 @@
             }, 
             "name": "Neutopia II", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3506,7 +4448,10 @@
             }, 
             "name": "New Adventure Island", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }, 
         {
             "multiplayer": {
@@ -3517,7 +4462,10 @@
             }, 
             "name": "Splatterhouse", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "Vectrex": [], 
@@ -3531,7 +4479,10 @@
             }, 
             "name": "Mario's Tennis", 
             "players": 1, 
-            "tested": true
+            "tested": {
+                "pi0": null, 
+                "pi3": true
+            }
         }
     ], 
     "ZX Spectrum": []
