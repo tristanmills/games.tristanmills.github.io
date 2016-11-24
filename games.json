@@ -2392,7 +2392,7 @@
             }, 
             "name": "Ape Escape", 
             "players": 1, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -2499,12 +2499,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
+                "simultaneous-coop": true, 
                 "simultaneous-vs": false
             }, 
             "name": "Knuckles' Chaotix", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }
     ], 
     "Sega CD": [
@@ -2883,12 +2883,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Kirby Super Star", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -3114,12 +3114,12 @@
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
+                "simultaneous-coop": true, 
                 "simultaneous-vs": false
             }, 
             "name": "Secret of Mana", 
             "players": 3, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
