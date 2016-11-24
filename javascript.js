@@ -114,7 +114,44 @@ function renderGames(games) {
 
 }
 
+function preloadImages(images) {
+
+	for (var i = 0; i < images.length; i++) {
+
+		$('<img />').attr('src', images[i]);
+
+	}
+
+}
+
+var systems = [
+	'/img/arcade.png',
+	'/img/atari-2600.png',
+	'/img/atari-7800.png',
+	'/img/atari-lynx.png',
+	'/img/game-boy-advance.png',
+	'/img/game-boy-color.png',
+	'/img/game-boy.png',
+	'/img/neo-geo-pocket-color.png',
+	'/img/neo-geo-pocket.png',
+	'/img/neo-geo.png',
+	'/img/nintendo-64.png',
+	'/img/nintendo-entertainment-system.png',
+	'/img/playstation.png',
+	'/img/sega-32x.png',
+	'/img/sega-cd.png',
+	'/img/sega-game-gear.png',
+	'/img/sega-genesis.png',
+	'/img/sega-master-system.png',
+	'/img/sega-sg-1000.png',
+	'/img/super-nintendo.png',
+	'/img/turbografx-16.png',
+	'/img/virtual-boy.png',
+];
+
 jQuery(document).ready(function($) {
+
+	preloadImages(systems);
 
 	$.getJSON('games.json', function(games) {
 
