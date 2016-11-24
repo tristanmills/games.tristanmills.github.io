@@ -41,7 +41,7 @@ function filterGames(games, filters) {
 			games[system].push({
 				'name': 'None',
 				'multiplayer': {},
-				'tested': {},
+				'compatibility': {},
 			})
 		}
 
@@ -63,17 +63,17 @@ function renderGames(games) {
 
 		games[system].forEach(function(game) {
 
-			var tested = '';
+			var compatibility = '';
 			var multiplayer = '';
 			var simultaneous_coop = '';
 			var simultaneous_vs = '';
 			var alternating_coop = '';
 			var alternating_vs = '';
 
-			if (game.tested['pi3'] === true) {
-				tested = ' class="pass"';
-			} else if (game.tested['pi3'] === false) {
-				tested = ' class="fail"';
+			if (game.compatibility['pi3'] === true) {
+				compatibility = ' class="pass"';
+			} else if (game.compatibility['pi3'] === false) {
+				compatibility = ' class="fail"';
 			}
 
 			if (game.players > 1) {
@@ -96,7 +96,7 @@ function renderGames(games) {
 				alternating_vs = ' <span class="tag tag-danger">Alt Vs</span>';
 			}
 
-			html += '<li' + tested + '>' + game.name + multiplayer + simultaneous_coop + alternating_coop + simultaneous_vs + alternating_vs + '</li>';
+			html += '<li' + compatibility + '>' + game.name + multiplayer + simultaneous_coop + alternating_coop + simultaneous_vs + alternating_vs + '</li>';
 
 		});
 

@@ -65,7 +65,7 @@ def processGames(games):
 		processedGame = {
 			'name': game['name'],
 			'players': 1,
-			'tested': {
+			'compatibility': {
 				'pi0': None,
 				'pi3': None,
 			},
@@ -89,15 +89,15 @@ def processGames(games):
 			processedGame['multiplayer']['simultaneous-vs'] = str2bool(game['multiplayer']['@simultaneous-vs'])
 			processedGame['multiplayer']['alternating-vs'] = str2bool(game['multiplayer']['@alternating-vs'])
 
-		if 'tested' in game:
+		if 'compatibility' in game:
 
-			if '@pi0' in game['tested']:
+			if '@pi0' in game['compatibility']:
 
-				processedGame['tested']['pi0'] = str2bool(game['tested']['@pi0'])
+				processedGame['compatibility']['pi0'] = str2bool(game['compatibility']['@pi0'])
 
-			if '@pi3' in game['tested']:
+			if '@pi3' in game['compatibility']:
 
-				processedGame['tested']['pi3'] = str2bool(game['tested']['@pi3'])
+				processedGame['compatibility']['pi3'] = str2bool(game['compatibility']['@pi3'])
 
 		processedGames.append(processedGame)
 
