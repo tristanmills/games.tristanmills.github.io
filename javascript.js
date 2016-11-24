@@ -56,7 +56,8 @@ function renderGames(games) {
 
 		html += '<h5 id="' + system_heading + '">';
 			html += '<a data-toggle="collapse" data-parent="#games" href="#' + system_content + '" aria-controls="' + system_content + '">';
-				html += system + ' (' + games[system].length + ')';
+				html += '<img class="system-icon" src="/img/' + system_heading + '.png">';
+				html += '<span>' + system + ' (' + games[system].length + ')</span>';
 			html += '</a>';
 		html += '</h5>';
 

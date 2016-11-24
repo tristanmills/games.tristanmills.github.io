@@ -24,6 +24,10 @@
 	color: #d9534f;
 }
 
+.system-icon {
+	margin-right: .5rem;
+}
+
 @media (max-width: 991px) {
 	.navbar-toggleable-md .navbar-nav .nav-item {
 		margin-top: .425rem;
