@@ -3683,16 +3683,16 @@
         }, 
         {
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Madden NFL '94", 
             "players": 4, 
             "tested": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": false
             }
         }, 
         {
@@ -4061,16 +4061,16 @@
         }, 
         {
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": false
             }, 
             "name": "Super Double Dragon", 
             "players": 2, 
             "tested": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": false
             }
         }, 
         {
@@ -4313,16 +4313,16 @@
         }, 
         {
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "X-Men Vs. Street Fighter", 
             "players": 2, 
             "tested": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": false
             }
         }, 
         {
