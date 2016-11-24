@@ -37,14 +37,6 @@ function filterGames(games, filters) {
 
 		games[system] = games[system].filter(function(){return true;});
 
-		if (games[system].length === 0) {
-			games[system].push({
-				'name': 'None',
-				'multiplayer': {},
-				'compatibility': {},
-			})
-		}
-
 	}
 
 	return games;
@@ -57,9 +49,18 @@ function renderGames(games) {
 
 	for (system in games) {
 
-		var html = '<h3 id="' + system + '">' + system + '</h3>';
+		var system_heading = system.replace(/\s+/g, '-').toLowerCase();
+		var system_content = system_heading + '-games';
 
-		html += '<ul>';
+		var html = '';
+
+		html += '<h5 id="' + system_heading + '">';
+			html += '<a data-toggle="collapse" data-parent="#games" href="#' + system_content + '" aria-controls="' + system_content + '">';
+				html += system + ' (' + games[system].length + ')';
+			html += '</a>';
+		html += '</h5>';
+
+		html += '<ul id="' + system_content + '" class="collapse" role="tabpanel" aria-labelledby="' + system_heading + '">';
 
 		games[system].forEach(function(game) {
 
@@ -99,6 +100,10 @@ function renderGames(games) {
 			html += '<li' + compatibility + '>' + game.name + multiplayer + simultaneous_coop + alternating_coop + simultaneous_vs + alternating_vs + '</li>';
 
 		});
+
+		if (games[system].length === 0) {
+			html += '<li>None</li>';
+		}
 
 		html += '</ul>';
 
