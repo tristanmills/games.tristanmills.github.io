@@ -883,22 +883,6 @@
             "players": 1
         }
     ], 
-    "Game Gear": [
-        {
-            "compatibility": {
-                "pi0": null, 
-                "pi3": true
-            }, 
-            "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
-            }, 
-            "name": "Sonic Labyrinth", 
-            "players": 1
-        }
-    ], 
     "MAME": [], 
     "MSX / MSX2": [], 
     "Neo Geo": [], 
@@ -3024,7 +3008,7 @@
             "players": 1
         }
     ], 
-    "PlayStation 1": [
+    "PlayStation": [
         {
             "compatibility": {
                 "pi0": null, 
@@ -3195,6 +3179,22 @@
                 "simultaneous-vs": false
             }, 
             "name": "Sonic CD", 
+            "players": 1
+        }
+    ], 
+    "Sega Game Gear": [
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": true
+            }, 
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Sonic Labyrinth", 
             "players": 1
         }
     ], 
