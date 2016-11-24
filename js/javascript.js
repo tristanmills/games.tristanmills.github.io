@@ -21,7 +21,11 @@ function filterGames(games, filters) {
 
 		games[system].forEach(function(game, index) {
 
-			if (filters.indexOf('multiplayer') != -1 && game.players < 2) {
+			if (filters.indexOf('pi3') != -1 && game.compatibility['pi3'] !== true) {
+				delete games[system][index];
+			} else if (filters.indexOf('pi0') != -1 && game.compatibility['pi0'] !== true) {
+				delete games[system][index];
+			} else if (filters.indexOf('multiplayer') != -1 && game.players < 2) {
 				delete games[system][index];
 			} else if (filters.indexOf('simultaneous-coop') != -1 && game.multiplayer['simultaneous-coop'] !== true) {
 				delete games[system][index];
@@ -56,7 +60,7 @@ function renderGames(games) {
 
 		html += '<h5 id="' + system_heading + '">';
 			html += '<a data-toggle="collapse" data-parent="#games" href="#' + system_content + '" aria-controls="' + system_content + '">';
-				html += '<img class="system-icon" src="/img/' + system_heading + '.png">';
+				html += '<img class="system-icon" src="/img/systems/' + system_heading + '.png">';
 				html += '<span>' + system + ' (' + games[system].length + ')</span>';
 			html += '</a>';
 		html += '</h5>';
@@ -125,28 +129,28 @@ function preloadImages(images) {
 }
 
 var systems = [
-	'/img/arcade.png',
-	'/img/atari-2600.png',
-	'/img/atari-7800.png',
-	'/img/atari-lynx.png',
-	'/img/game-boy-advance.png',
-	'/img/game-boy-color.png',
-	'/img/game-boy.png',
-	'/img/neo-geo-pocket-color.png',
-	'/img/neo-geo-pocket.png',
-	'/img/neo-geo.png',
-	'/img/nintendo-64.png',
-	'/img/nintendo-entertainment-system.png',
-	'/img/playstation.png',
-	'/img/sega-32x.png',
-	'/img/sega-cd.png',
-	'/img/sega-game-gear.png',
-	'/img/sega-genesis.png',
-	'/img/sega-master-system.png',
-	'/img/sega-sg-1000.png',
-	'/img/super-nintendo.png',
-	'/img/turbografx-16.png',
-	'/img/virtual-boy.png',
+	'/img/systems/arcade.png',
+	'/img/systems/atari-2600.png',
+	'/img/systems/atari-7800.png',
+	'/img/systems/atari-lynx.png',
+	'/img/systems/game-boy-advance.png',
+	'/img/systems/game-boy-color.png',
+	'/img/systems/game-boy.png',
+	'/img/systems/neo-geo-pocket-color.png',
+	'/img/systems/neo-geo-pocket.png',
+	'/img/systems/neo-geo.png',
+	'/img/systems/nintendo-64.png',
+	'/img/systems/nintendo-entertainment-system.png',
+	'/img/systems/playstation.png',
+	'/img/systems/sega-32x.png',
+	'/img/systems/sega-cd.png',
+	'/img/systems/sega-game-gear.png',
+	'/img/systems/sega-genesis.png',
+	'/img/systems/sega-master-system.png',
+	'/img/systems/sega-sg-1000.png',
+	'/img/systems/super-nintendo.png',
+	'/img/systems/turbografx-16.png',
+	'/img/systems/virtual-boy.png',
 ];
 
 jQuery(document).ready(function($) {
@@ -170,7 +174,7 @@ jQuery(document).ready(function($) {
 			var filters = [];
 
 			$('.filter.active').each(function() {
-				filters.push($(this).attr('id'));
+				filters.push($(this).attr('id').replace('filter-', ''));
 			});
 
 			filtered_games = filterGames(games, filters);
