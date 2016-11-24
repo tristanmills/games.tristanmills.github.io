@@ -1592,22 +1592,22 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Tony Hawk's Pro Skater", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Tony Hawk's Pro Skater 2", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1625,22 +1625,22 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Turok 2: Seeds of Evil", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Turok 3: Shadow of Oblivion", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
@@ -1658,88 +1658,88 @@
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Turok: Rage Wars", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Wave Race 64", 
             "players": 2, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "Wipeout 64", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Worms Armageddon", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "WWF Attitude", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "WWF No Mercy", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "WWF War Zone", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
             "name": "WWF WrestleMania 2000", 
             "players": 4, 
-            "tested": false
+            "tested": true
         }, 
         {
             "multiplayer": {
