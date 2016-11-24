@@ -3936,16 +3936,16 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": true, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "R-Type III: The Third Lightning", 
-            "players": 1
+            "players": 2
         }, 
         {
             "compatibility": {
@@ -3978,13 +3978,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "SimCity", 
             "players": 1
@@ -3992,13 +3992,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Star Fox", 
             "players": 1
@@ -4048,13 +4048,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Super Castlevania IV", 
             "players": 1
@@ -4062,7 +4062,7 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": false
+                "pi3": true
             }, 
             "multiplayer": {
                 "alternating-coop": false, 
@@ -4076,13 +4076,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Super Ghouls 'n Ghosts", 
             "players": 1
@@ -4104,13 +4104,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Super Mario RPG: Legend of the Seven Stars", 
             "players": 1
@@ -4132,13 +4132,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Super Mario World 2: Yoshi's Island", 
             "players": 1
@@ -4146,13 +4146,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Super Metroid", 
             "players": 1
@@ -4160,13 +4160,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Super Punch-Out!!", 
             "players": 1
@@ -4174,13 +4174,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Super R-Type", 
             "players": 1
@@ -4188,13 +4188,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Super Star Wars", 
             "players": 1
@@ -4202,13 +4202,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Super Star Wars: Return of the Jedi", 
             "players": 1
@@ -4216,13 +4216,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Super Star Wars: The Empire Strikes Back", 
             "players": 1
@@ -4230,13 +4230,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "The Legend of Zelda: A Link to the Past", 
             "players": 1
@@ -4244,13 +4244,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "The Simpsons: Bart's Nightmare", 
             "players": 1
@@ -4258,13 +4258,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Todd McFarlane's Spawn: The Video Game", 
             "players": 1
@@ -4286,13 +4286,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Urban Strike", 
             "players": 1
@@ -4300,13 +4300,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Wolfenstein 3-D", 
             "players": 1
@@ -4328,13 +4328,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "X-Men: Mutant Apocalypse", 
             "players": 1
