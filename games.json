@@ -3754,13 +3754,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": false
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Mario Paint", 
             "players": 1
@@ -3768,13 +3768,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "MechWarrior", 
             "players": 1
@@ -3796,13 +3796,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Mega Man 7", 
             "players": 1
@@ -3810,13 +3810,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Mega Man X", 
             "players": 1
@@ -3824,13 +3824,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Mega Man X2", 
             "players": 1
@@ -3838,13 +3838,13 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
             }, 
             "name": "Mega Man X3", 
             "players": 1
@@ -3894,16 +3894,16 @@
         {
             "compatibility": {
                 "pi0": null, 
-                "pi3": null
+                "pi3": true
             }, 
             "multiplayer": {
-                "alternating-coop": null, 
-                "alternating-vs": null, 
-                "simultaneous-coop": null, 
-                "simultaneous-vs": null
+                "alternating-coop": false, 
+                "alternating-vs": true, 
+                "simultaneous-coop": true, 
+                "simultaneous-vs": true
             }, 
             "name": "Ms. Pac-Man", 
-            "players": 1
+            "players": 2
         }, 
         {
             "compatibility": {
