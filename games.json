@@ -13,6 +13,34 @@
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
             }, 
+            "name": "Frogger", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": true
+            }, 
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Frogger II: Threeedeep!", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": true
+            }, 
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
             "name": "Pitfall II: Lost Caverns", 
             "players": 1
         }, 
@@ -3596,6 +3624,20 @@
             }, 
             "name": "Final Fantasy III", 
             "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": true
+            }, 
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": true, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Frogger", 
+            "players": 2
         }, 
         {
             "compatibility": {
