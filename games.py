@@ -10,40 +10,34 @@ def str2bool(string):
 	return string.lower() in ('true')
 
 
-def getFiles(folder):
+def get_system_folders(folder):
 
-	files = []
+	system_folders = []
 
 	for dirpath, dirnames, filenames in os.walk(folder):
 
 		for filename in [file for file in filenames if file == 'gamelist.xml']:
 
-			path = os.path.join(dirpath, filename).replace('\\', '/')
+			system_folders.append(dirpath + '/')
 
-			files.append(path)
-
-	return files
+	return system_folders
 
 
-def parseFile(file):
-
-	system = 'Unknown'
+def get_games(file):
 
 	games = []
 
-	_xml = open(file, 'r').read()
+	processedGames = []
 
-	_dict = xmltodict.parse(_xml)
+	xml_ = open(file, 'r').read()
 
-	gameList = _dict['gameList']
+	dict_ = xmltodict.parse(xml_)
+
+	gameList = dict_['gameList']
 
 	if gameList is None:
 
 		gameList = {}
-
-	if '@system' in gameList:
-
-		system = gameList['@system']
 
 	if 'game' in gameList:
 
@@ -53,29 +47,44 @@ def parseFile(file):
 
 		games = [games]
 
-	return system, games
-
-
-def processGames(games):
-
-	processedGames = []
-
 	for game in games:
 
 		processedGame = {
 			'name': game['name'],
+			'description': game['desc'],
+			'image': game['image'],
+			'releaseDate': None,
+			'developer': None,
+			'publisher': None,
+			'genre': None,
 			'players': 1,
-			'compatibility': {
-				'pi0': None,
-				'pi3': None,
-			},
 			'multiplayer': {
 				'simultaneous-coop': None,
 				'alternating-coop': None,
 				'simultaneous-vs': None,
 				'alternating-vs': None,
-			}
+			},
+			'compatibility': {
+				'pi0': None,
+				'pi3': None,
+			},
 		}
+
+		if 'releasedate' in game:
+
+			processedGame['releaseDate'] = game['releasedate']
+
+		if 'developer' in game:
+
+			processedGame['developer'] = game['developer']
+
+		if 'publisher' in game:
+
+			processedGame['publisher'] = game['publisher']
+
+		if 'genre' in game:
+
+			processedGame['genre'] = game['genre']
 
 		if 'players' in game and game['players'] is not None:
 
@@ -104,36 +113,90 @@ def processGames(games):
 	return processedGames
 
 
-def getGames(folder):
+def get_metadata(file):
+
+	json_ = open(file, 'r').read()
+
+	metadata = json.loads(json_)
+
+	system = metadata.keys()[0]
+
+	games2 = metadata.values()[0]
 
 	games = {}
 
-	files = getFiles(folder)
+	for game in games2:
 
-	for file in files:
+		games[game['name']] = game
 
-		system, unprocessedGames = parseFile(file)
+	metadata['system'] = system
 
-		processedGames = processGames(unprocessedGames)
+	metadata['games'] = games
 
-		if system in games and games[system] != processedGames:
+	return metadata
 
-			games[system] = games[system] + processedGames
+
+def put_metadata(file, metadata):
+
+	metadata = {metadata['system']: metadata['games'].values()}
+
+	metadata = json.dumps(metadata, indent=4, sort_keys=True)
+
+	open(file, 'w').write(metadata)
+
+
+def update_metadata(system_folders):
+
+	for system_folder in system_folders:
+
+		games_file = system_folder + 'gamelist.xml'
+
+		metadata_file = system_folder + 'games.json'
+
+		games = get_games(games_file)
+
+		metadata = get_metadata(metadata_file)
+
+		for game in games:
+
+			if game['name'] not in metadata['games']:
+
+				metadata['games'][game['name']] = game
+
+		put_metadata(metadata_file, metadata)
+
+
+def combine_metadata(system_folders):
+
+	collection = {}
+
+	for system_folder in system_folders:
+
+		metadata_file = system_folder + 'games.json'
+
+		metadata = get_metadata(metadata_file)
+
+		system = metadata['system']
+
+		games = metadata['games'].values()
+
+		if system in collection and collection[system] != games:
+
+			collection[system] = collection[system] + games
 
 		else:
 
-			games[system] = processedGames
+			collection[system] = games
 
-	games = collections.OrderedDict(sorted(games.items()))
+	# collection = collections.OrderedDict(sorted(collection.items()))
 
-	games = json.dumps(games, indent=4, sort_keys=True)
+	collection = json.dumps(collection, indent=4, sort_keys=True)
 
-	return games
+	open('games.json', 'w').write(collection)
 
 
-folder = '/retropie/roms/'
-# folder = '//RETROPIE/roms/'
+system_folders = get_system_folders('/retropie/roms/')
+# system_folders = get_system_folders('//RETROPIE/roms/')
 
-games = getGames(folder)
-
-open('games.json', 'w').write(games)
+update_metadata(system_folders)
+combine_metadata(system_folders)
