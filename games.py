@@ -3,7 +3,6 @@
 import os
 import xmltodict
 import json
-import collections
 
 
 def str2bool(string):
@@ -138,7 +137,11 @@ def get_metadata(file):
 
 def put_metadata(file, metadata):
 
-	metadata = {metadata['system']: metadata['games'].values()}
+	system = metadata['system']
+
+	games = sorted(metadata['games'].values())
+
+	metadata = {system: games}
 
 	metadata = json.dumps(metadata, indent=4, sort_keys=True)
 
@@ -178,7 +181,7 @@ def combine_metadata(system_folders):
 
 		system = metadata['system']
 
-		games = metadata['games'].values()
+		games = sorted(metadata['games'].values())
 
 		if system in collection and collection[system] != games:
 
@@ -187,8 +190,6 @@ def combine_metadata(system_folders):
 		else:
 
 			collection[system] = games
-
-	collection = collections.OrderedDict(sorted(collection.items()))
 
 	collection = json.dumps(collection, indent=4, sort_keys=True)
 
