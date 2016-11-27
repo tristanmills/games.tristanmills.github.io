@@ -3,26 +3,29 @@
 import os
 import xmltodict
 import json
+import collections
 
 
 def str2bool(string):
 	return string.lower() in ('true')
 
 
-def get_system_folders(folder):
+def get_gameslists(folder):
 
-	system_folders = []
+	gameslists = []
 
 	for dirpath, dirnames, filenames in os.walk(folder):
 
 		for filename in [file for file in filenames if file == 'gamelist.xml']:
 
-			system_folders.append(dirpath + '/')
+			path = os.path.join(dirpath, filename).replace('\\', '/')
 
-	return system_folders
+			gameslists.append(path)
+
+	return gameslists
 
 
-def get_games(file):
+def parse_gameslist(file):
 
 	games = []
 
@@ -37,6 +40,10 @@ def get_games(file):
 	if gameList is None:
 
 		gameList = {}
+
+	if '@system' in gameList:
+
+		system = gameList['@system']
 
 	if 'game' in gameList:
 
@@ -109,95 +116,86 @@ def get_games(file):
 
 		processedGames.append(processedGame)
 
-	return processedGames
+	return system, processedGames
 
 
-def get_metadata(file):
+def get_metadata():
 
-	json_ = open(file, 'r').read()
+	json_ = open('metadata.json', 'r').read()
 
 	metadata = json.loads(json_)
 
-	system = metadata.keys()[0]
+	for system, games in metadata.iteritems():
 
-	games2 = metadata.values()[0]
+		_games = {}
 
-	games = {}
+		for game in games:
 
-	for game in games2:
+			_games[game['name']] = game
 
-		games[game['name']] = game
-
-	metadata['system'] = system
-
-	metadata['games'] = games
+		metadata[system] = _games
 
 	return metadata
 
 
-def put_metadata(file, metadata):
+def put_metadata(metadata):
 
-	system = metadata['system']
+	for system, games in metadata.iteritems():
 
-	games = sorted(metadata['games'].values())
+		metadata[system] = sorted(games.values(), key=lambda k: k['name'])
 
-	metadata = {system: games}
+	metadata = collections.OrderedDict(sorted(metadata.items()))
 
 	metadata = json.dumps(metadata, indent=4, sort_keys=True)
 
-	open(file, 'w').write(metadata)
+	open('metadata.json', 'w').write(metadata)
 
 
-def update_metadata(system_folders):
+def update_metadata():
 
-	for system_folder in system_folders:
+	metadata = get_metadata()
 
-		games_file = system_folder + 'gamelist.xml'
+	gameslists = get_gameslists('/retropie/roms/')
+	# gameslists = get_gameslists('//RETROPIE/roms/')
 
-		metadata_file = system_folder + 'games.json'
+	for gameslist in gameslists:
 
-		games = get_games(games_file)
+		system, games = parse_gameslist(gameslist)
 
-		metadata = get_metadata(metadata_file)
+		if system not in metadata:
+
+			metadata[system] = {}
 
 		for game in games:
 
-			if game['name'] not in metadata['games']:
+			if game['name'] not in metadata[system]:
 
-				metadata['games'][game['name']] = game
+				metadata[system][game['name']] = game
 
-		put_metadata(metadata_file, metadata)
-
-
-def combine_metadata(system_folders):
-
-	collection = {}
-
-	for system_folder in system_folders:
-
-		metadata_file = system_folder + 'games.json'
-
-		metadata = get_metadata(metadata_file)
-
-		system = metadata['system']
-
-		games = sorted(metadata['games'].values())
-
-		if system in collection and collection[system] != games:
-
-			collection[system] = collection[system] + games
-
-		else:
-
-			collection[system] = games
-
-	collection = json.dumps(collection, indent=4, sort_keys=True)
-
-	open('games.json', 'w').write(collection)
+	put_metadata(metadata)
 
 
-system_folders = get_system_folders('/retropie/roms/')
-# system_folders = get_system_folders('//RETROPIE/roms/')
+def update_games():
 
-update_metadata(system_folders)
-combine_metadata(system_folders)
+	json_ = open('metadata.json', 'r').read()
+
+	metadata = json.loads(json_)
+
+	for system, games in metadata.iteritems():
+
+		for game in games:
+
+			del game['description']
+			del game['image']
+			del game['releaseDate']
+			del game['developer']
+			del game['publisher']
+			del game['genre']
+
+	metadata = json.dumps(metadata, indent=4, sort_keys=True)
+
+	open('games.json', 'w').write(metadata)
+
+
+update_metadata()
+update_games()
