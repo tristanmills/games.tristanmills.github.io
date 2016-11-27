@@ -335,6 +335,26 @@
                 "pi0": null, 
                 "pi3": true
             }, 
+            "description": "Donkey Kong Land is a Jump & Run classic, developed by Rareware and released by Nintendo for the Game Boy in June 1995.\n\nCranky Kong, jealous of all the success Donkey Kong and Diddy Kong have had from Donkey Kong Country on the SNES, challenges the Kongs to beat another adventure on an 8-bit system (Game Boy). As King K. Rool agrees with Cranky and steals the bananas again, Donkey & Diddy Kong set out to go throuth another adventure!", 
+            "developer": "Rare", 
+            "genre": "Platform", 
+            "image": "./images/Donkey Kong Land-image.jpg", 
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Donkey Kong Land", 
+            "players": 1, 
+            "publisher": "Nintendo", 
+            "releaseDate": "19950726T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": true
+            }, 
             "description": "Donkey Kong Land 3 ist the last part in the Donkey Kong Land series and was released f\u00fcr the Game Boy by Nintendo in 1997.\n\nFame-and-fortune seekers have flooded Donkey Kong Country in search of the fabled Lost World. Dixie Kong & Kiddy Kong rush through 36 Kong-sized levels of action and adventure. Use your animal friends - Squitter the spider, Squawks the parrot, Ellie the elephant, Enguarde the swordfish and Parry the parallel bird - to help you prove your adventuring skills and find the Lost World before someone else does!", 
             "developer": "Rare", 
             "genre": "Platform", 
@@ -349,26 +369,6 @@
             "players": 1, 
             "publisher": "Nintendo", 
             "releaseDate": "19971001T000000"
-        }, 
-        {
-            "compatibility": {
-                "pi0": null, 
-                "pi3": true
-            }, 
-            "description": "Donkey Kong Land 2 is the first sequel to Donkey Kong Land for the Nintendo Game Boy and was released in 1996.\n\nThe story mainly complies to its SNES counterpart; K. Rool kidnapped Donkey Kong, demanding the entire Banana Hoard as ransom, so it's up to Diddy Kong and Dixie Kong to rescue their kidnapped pal. A wild assortment of friendly animals like Rambi the Rhino, Squitter the Spider, Squawks the Parrot, Rattly the Rattlesnake and Enguarde the Swordfish help the two little monkeys in their adventurous mission. Each exciting level is filled with special traps, hidden items and dastardly Kremlings! Prepare yourself for the biggest Game Boy adventure yet!", 
-            "developer": "Rare", 
-            "genre": "Platform", 
-            "image": "./images/Donkey Kong Land 2-image.jpg", 
-            "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
-            }, 
-            "name": "Donkey Kong Land 2", 
-            "players": 1, 
-            "publisher": "Nintendo", 
-            "releaseDate": "19960116T000000"
         }, 
         {
             "compatibility": {
@@ -395,20 +395,20 @@
                 "pi0": null, 
                 "pi3": true
             }, 
-            "description": "Donkey Kong Land is a Jump & Run classic, developed by Rareware and released by Nintendo for the Game Boy in June 1995.\n\nCranky Kong, jealous of all the success Donkey Kong and Diddy Kong have had from Donkey Kong Country on the SNES, challenges the Kongs to beat another adventure on an 8-bit system (Game Boy). As King K. Rool agrees with Cranky and steals the bananas again, Donkey & Diddy Kong set out to go throuth another adventure!", 
+            "description": "Donkey Kong Land 2 is the first sequel to Donkey Kong Land for the Nintendo Game Boy and was released in 1996.\n\nThe story mainly complies to its SNES counterpart; K. Rool kidnapped Donkey Kong, demanding the entire Banana Hoard as ransom, so it's up to Diddy Kong and Dixie Kong to rescue their kidnapped pal. A wild assortment of friendly animals like Rambi the Rhino, Squitter the Spider, Squawks the Parrot, Rattly the Rattlesnake and Enguarde the Swordfish help the two little monkeys in their adventurous mission. Each exciting level is filled with special traps, hidden items and dastardly Kremlings! Prepare yourself for the biggest Game Boy adventure yet!", 
             "developer": "Rare", 
             "genre": "Platform", 
-            "image": "./images/Donkey Kong Land-image.jpg", 
+            "image": "./images/Donkey Kong Land 2-image.jpg", 
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
             }, 
-            "name": "Donkey Kong Land", 
+            "name": "Donkey Kong Land 2", 
             "players": 1, 
             "publisher": "Nintendo", 
-            "releaseDate": "19950726T000000"
+            "releaseDate": "19960116T000000"
         }, 
         {
             "compatibility": {
@@ -435,20 +435,20 @@
                 "pi0": null, 
                 "pi3": true
             }, 
-            "description": "You\u2019ve finally been granted your Pok\u00e9mon trainer\u2019s license.  Now, it\u2019s time to head out to become the world\u2019s greatest Pok\u00e9mon trainer.  It\u2019s going to take all you\u2019ve got to collect 150 Pok\u00e9mon in this enormous world.  Catch and train monsters like the shockingly-cute Pikachu.  Face off against Blastoise\u2019s torrential water cannons.  Stand strong when facing Pidgeot\u2019s stormy Gust.  Trade with friends and watch your Pok\u00e9mon evolve.  Important - no single Pok\u00e9mon can win it all.  Can you develop the ultimate Pok\u00e9mon strategy to defeat the eight GYM Leaders and become the greatest Pok\u00e9mon Master of all time?\n\n* Collect up to 139 different Pok\u00e9mon playing the Blue version.  Using the Game Link cable, trade with a friend who has the Red version to capture all 150.\n* You\u2019ll need to use both versions (Red and Blue) to collect all of the Pok\u00e9mon.\n* Test your training skills by battling against a friend using the Game Link cable.\n* Save your Pok\u00e9mon and game progress on the Game Pak memory.", 
-            "developer": "Game Freak", 
+            "description": "A Game Boy fantasy adventure like no other!\n\nNintendo's fantasy adventure hero, Link of Hyrule, returns in this new epic quest...Link's Awakening. Link's newest challenge is set on the mysterious Koholint Island, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule.\n\nBut it won't be as easy as chartering a boat. The island's inhabitants have no knowledge of the outside world. One creature, a talking Owl, may know the solution to Link's dilemma, but first Link must tackle eight dungeons full of treacherous monsters and tricky taps. His goal: find the eight Instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.\n\nLink will battle new enemies and make new friends in one of the most in-depth fantasy adventures for Game Boy yet!\n\nA battery-backed memory will save up to three games so you never have to start your journey empty-handed.", 
+            "developer": "Nintendo", 
             "genre": "Adventure", 
-            "image": "./images/Pokemon Blue Version-image.jpg", 
+            "image": "./images/The Legend of Zelda - Link's Awakening-image.png", 
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
             }, 
-            "name": "Pok\u00e9mon Blue Version", 
+            "name": "The Legend of Zelda: Link's Awakening", 
             "players": 1, 
             "publisher": "Nintendo", 
-            "releaseDate": "19961015T000000"
+            "releaseDate": "19930606T000000"
         }, 
         {
             "compatibility": {
@@ -495,20 +495,20 @@
                 "pi0": null, 
                 "pi3": true
             }, 
-            "description": "A Game Boy fantasy adventure like no other!\n\nNintendo's fantasy adventure hero, Link of Hyrule, returns in this new epic quest...Link's Awakening. Link's newest challenge is set on the mysterious Koholint Island, a place where dreams and reality collide. As a castaway, Link must find a way to escape from the island and return to his beloved homeland of Hyrule.\n\nBut it won't be as easy as chartering a boat. The island's inhabitants have no knowledge of the outside world. One creature, a talking Owl, may know the solution to Link's dilemma, but first Link must tackle eight dungeons full of treacherous monsters and tricky taps. His goal: find the eight Instruments of the Sirens and awaken the omnipotent Wind Fish which rules the island.\n\nLink will battle new enemies and make new friends in one of the most in-depth fantasy adventures for Game Boy yet!\n\nA battery-backed memory will save up to three games so you never have to start your journey empty-handed.", 
-            "developer": "Nintendo", 
+            "description": "You\u2019ve finally been granted your Pok\u00e9mon trainer\u2019s license.  Now, it\u2019s time to head out to become the world\u2019s greatest Pok\u00e9mon trainer.  It\u2019s going to take all you\u2019ve got to collect 150 Pok\u00e9mon in this enormous world.  Catch and train monsters like the shockingly-cute Pikachu.  Face off against Blastoise\u2019s torrential water cannons.  Stand strong when facing Pidgeot\u2019s stormy Gust.  Trade with friends and watch your Pok\u00e9mon evolve.  Important - no single Pok\u00e9mon can win it all.  Can you develop the ultimate Pok\u00e9mon strategy to defeat the eight GYM Leaders and become the greatest Pok\u00e9mon Master of all time?\n\n* Collect up to 139 different Pok\u00e9mon playing the Blue version.  Using the Game Link cable, trade with a friend who has the Red version to capture all 150.\n* You\u2019ll need to use both versions (Red and Blue) to collect all of the Pok\u00e9mon.\n* Test your training skills by battling against a friend using the Game Link cable.\n* Save your Pok\u00e9mon and game progress on the Game Pak memory.", 
+            "developer": "Game Freak", 
             "genre": "Adventure", 
-            "image": "./images/The Legend of Zelda - Link's Awakening-image.png", 
+            "image": "./images/Pokemon Blue Version-image.jpg", 
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
             }, 
-            "name": "The Legend of Zelda: Link's Awakening", 
+            "name": "Pok\u00e9mon Blue Version", 
             "players": 1, 
             "publisher": "Nintendo", 
-            "releaseDate": "19930606T000000"
+            "releaseDate": "19961015T000000"
         }
     ], 
     "Game Boy Advance": [
@@ -3290,6 +3290,26 @@
                 "pi0": null, 
                 "pi3": true
             }, 
+            "description": "It's MEGA MAN versus the powerful leaders and fighting forces of Monsteropolis - that strange multi-layered land of robot-like humanoids created by the wrongly-performed experiments with human beings by Dr. Wily. Mega Man - the chosen defender of the human race. For he dares to single-handedly penetrate Monsteropolis' seven separate societies to stop the rapid expansion of strange misrepresentations of humans.\n\nMega Man's goal is monumental. He must infiltrate seven separate heavily-guarded empires. By himself, he must break down and destroy the following empire leaders: Cutman, Gutsman, Iceman, Bombman, Fireman, Elecman, and Dr. Wily. The action involves Mega Man armed only with laser beam weapons, encountering strangely-configured humanoids. They're atop, in and out of fortified prison-like structures strengthened with thick walls. Hidden amid gun turrets embedded in concrete uprights, even in subterranean passages below icefields. WOW!", 
+            "developer": "Capcom", 
+            "genre": "Action", 
+            "image": "./images/Mega Man-image.jpg", 
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Mega Man", 
+            "players": 1, 
+            "publisher": "Capcom", 
+            "releaseDate": "19871217T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": true
+            }, 
             "description": "Only one man knows the real story behind Marion's disappearance... and he's dead! Now the Double Dragons must rely on a mysterious fortune teller to locate Marion and her ransom - the Sacred Stones of Power! You'll fend off vicious street thugs, evil ninja warriors, deadly gladiators, Manchurian barbarians and more! Defeat your most dreaded enemies and out of pure respect they'll join your side - adding their Iron Claws and Shangai Stars to your all-new martial arts maneuvers - like the awesome mid-air somersault. Double Dragon III. If you survive the action, you'll rescue Marion, retain your honor and discover the truth behind the Sacred Stones. If you fail...", 
             "developer": "East Technology", 
             "genre": "Action", 
@@ -3510,26 +3530,6 @@
                 "pi0": null, 
                 "pi3": true
             }, 
-            "description": "The first player controls Popo, a boy wearing a blue Eskimo parka, while the second player controls Nana, a girl wearing a pink Eskimo parka. The only tool they carry is a wooden mallet to carve openings in the ice above and to club enemies. Each mountain level consists of eight layers of colorful ice and a bonus stage. Standard, dull ice blocks pose no threat other than an easily disposed of barrier and platform. Square ice blocks with higher detail are indestructible forcing the player to take another path", 
-            "developer": "Nintendo", 
-            "genre": "Action", 
-            "image": "./images/Ice Climber-image.jpg", 
-            "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": true
-            }, 
-            "name": "Ice Climber", 
-            "players": 2, 
-            "publisher": "Nintendo", 
-            "releaseDate": "19850130T000000"
-        }, 
-        {
-            "compatibility": {
-                "pi0": null, 
-                "pi3": true
-            }, 
             "description": "The story begins with Mike Jones, the protagonist, receiving a telepathic message from Mica, the princess of the Argonians, whom Mike had rescued in the previous game. She tells Mike how to solve a cipher that he and his uncle, referred to as Dr. J, found on the side of the Argonians\u2019 space pod. Mike goes to see Dr. J, and together, they solve the cipher and read it aloud. This causes Mike to be flung into the past. He arrives in the Stone Age. After helping a tribe of cave men retrieve their children from a flesh-eating wild boar, he finds an object, which Mica telepathically identifies as a Tetrad (\"Block\" in the Virtual Console version). He must travel to different eras throughout Earth\u2019s history and retrieve the rest of the Tetrads.", 
             "developer": "Nintendo", 
             "genre": "Action", 
@@ -3550,20 +3550,20 @@
                 "pi0": null, 
                 "pi3": true
             }, 
-            "description": "It's MEGA MAN versus the powerful leaders and fighting forces of Monsteropolis - that strange multi-layered land of robot-like humanoids created by the wrongly-performed experiments with human beings by Dr. Wily. Mega Man - the chosen defender of the human race. For he dares to single-handedly penetrate Monsteropolis' seven separate societies to stop the rapid expansion of strange misrepresentations of humans.\n\nMega Man's goal is monumental. He must infiltrate seven separate heavily-guarded empires. By himself, he must break down and destroy the following empire leaders: Cutman, Gutsman, Iceman, Bombman, Fireman, Elecman, and Dr. Wily. The action involves Mega Man armed only with laser beam weapons, encountering strangely-configured humanoids. They're atop, in and out of fortified prison-like structures strengthened with thick walls. Hidden amid gun turrets embedded in concrete uprights, even in subterranean passages below icefields. WOW!", 
-            "developer": "Capcom", 
-            "genre": "Action", 
-            "image": "./images/Mega Man-image.jpg", 
+            "description": "TECMO BOWL! You've trained for it in the arcade. Now, strap on your helmet and go for it! Choose your team and select plays for your own game plan. From the snap, total control of every pass, block, run, and tackle is in your hands. Tecmo Bowl! The game of guts and glory!", 
+            "developer": "Tecmo", 
+            "genre": "Sports", 
+            "image": "./images/Tecmo Bowl-image.jpg", 
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
-                "simultaneous-vs": false
+                "simultaneous-vs": true
             }, 
-            "name": "Mega Man", 
-            "players": 1, 
-            "publisher": "Capcom", 
-            "releaseDate": "19871217T000000"
+            "name": "Tecmo Bowl", 
+            "players": 2, 
+            "publisher": "Tecmo", 
+            "releaseDate": "19890201T000000"
         }, 
         {
             "compatibility": {
@@ -3710,20 +3710,20 @@
                 "pi0": null, 
                 "pi3": true
             }, 
-            "description": "The objective of Galaga is to score as many points as possible by destroying insect-like enemies. The player controls a starfighter that can move left and right along the bottom of the playfield. Enemies swarm in groups in a formation near the top of the screen, and then begin flying down toward the player, firing bombs at the fighter. The game ends when the player's last fighter is lost, either by colliding with an enemy or one of its bullets, or by being captured.\nGalaga introduces a number of new features over its predecessor, Galaxian. Among these is the ability to fire more than one bullet at a time, a count of the player's \"hit/miss ratio\" at the end of the game, and a bonus \"Challenging Stage\" that occurs every few levels, in which a series of enemies fly onto and out of the screen in set patterns without firing at the player's ship or trying to crash into it. These stages award a large point bonus if the player manages to destroy every enemy.\nAnother gameplay feature new to Galaga is the ability for enemies to capture the player's fighter. While the player is in control of just one fighter, a \"boss Galaga\" (which takes two shots to kill) periodically attempts to capture the fighter using a tractor beam. If successful, the fighter joins the enemy formation. If the player has more lives remaining, play resumes with a new fighter. The captured fighter flies down with the enemy that captured it, firing upon the player just like normal enemies, and can be shot and destroyed. The player can free the fighter by destroying the boss Galaga while in flight, causing the captured fighter to link up with the player's current fighter, doubling his or her firepower but also making a target twice as large.\nGalaga has an exploitable bug that can cause the attackers to stop firing bullets at the player, due to a coding error. In addition, similar to the famous \"Split-Screen bug\" in Pac-Man, a bug exists in Galaga in which the game \"rolls over\" from Level 255 to Level 0. Depending on the difficulty setting of the machine, this can cause the game to stall, requiring that the machine be reset or power-cycled in order to start a new game.", 
-            "developer": "Namco", 
-            "genre": "Shooter", 
-            "image": "./images/Galaga-image.jpg", 
+            "description": "Whether the player chooses to race solo or against computer-assisted riders, he/she races against a certain time limit. The goal is to qualify for the Excitebike (the championship) race by coming in at third place or above in the challenge race (preliminary race). The times to beat are located on the stadium walls (for first place) and in the lower left corner (for third place). In any race, the best time is 8 seconds ahead of third place. When the player places first, then they get a message: \"It's a new record!\" Additional points are earned by beating the previously-set record time.", 
+            "developer": "Nintendo Research & Development 1", 
+            "genre": "Racing", 
+            "image": "./images/Excitebike-image.jpg", 
             "multiplayer": {
                 "alternating-coop": false, 
-                "alternating-vs": true, 
+                "alternating-vs": false, 
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
             }, 
-            "name": "Galaga", 
-            "players": 2, 
-            "publisher": "Midway", 
-            "releaseDate": "19880101T000000"
+            "name": "Excitebike", 
+            "players": 1, 
+            "publisher": "Nintendo", 
+            "releaseDate": "19841130T000000"
         }, 
         {
             "compatibility": {
@@ -4170,20 +4170,20 @@
                 "pi0": null, 
                 "pi3": true
             }, 
-            "description": "Whether the player chooses to race solo or against computer-assisted riders, he/she races against a certain time limit. The goal is to qualify for the Excitebike (the championship) race by coming in at third place or above in the challenge race (preliminary race). The times to beat are located on the stadium walls (for first place) and in the lower left corner (for third place). In any race, the best time is 8 seconds ahead of third place. When the player places first, then they get a message: \"It's a new record!\" Additional points are earned by beating the previously-set record time.", 
-            "developer": "Nintendo Research & Development 1", 
-            "genre": "Racing", 
-            "image": "./images/Excitebike-image.jpg", 
+            "description": "The objective of Galaga is to score as many points as possible by destroying insect-like enemies. The player controls a starfighter that can move left and right along the bottom of the playfield. Enemies swarm in groups in a formation near the top of the screen, and then begin flying down toward the player, firing bombs at the fighter. The game ends when the player's last fighter is lost, either by colliding with an enemy or one of its bullets, or by being captured.\nGalaga introduces a number of new features over its predecessor, Galaxian. Among these is the ability to fire more than one bullet at a time, a count of the player's \"hit/miss ratio\" at the end of the game, and a bonus \"Challenging Stage\" that occurs every few levels, in which a series of enemies fly onto and out of the screen in set patterns without firing at the player's ship or trying to crash into it. These stages award a large point bonus if the player manages to destroy every enemy.\nAnother gameplay feature new to Galaga is the ability for enemies to capture the player's fighter. While the player is in control of just one fighter, a \"boss Galaga\" (which takes two shots to kill) periodically attempts to capture the fighter using a tractor beam. If successful, the fighter joins the enemy formation. If the player has more lives remaining, play resumes with a new fighter. The captured fighter flies down with the enemy that captured it, firing upon the player just like normal enemies, and can be shot and destroyed. The player can free the fighter by destroying the boss Galaga while in flight, causing the captured fighter to link up with the player's current fighter, doubling his or her firepower but also making a target twice as large.\nGalaga has an exploitable bug that can cause the attackers to stop firing bullets at the player, due to a coding error. In addition, similar to the famous \"Split-Screen bug\" in Pac-Man, a bug exists in Galaga in which the game \"rolls over\" from Level 255 to Level 0. Depending on the difficulty setting of the machine, this can cause the game to stall, requiring that the machine be reset or power-cycled in order to start a new game.", 
+            "developer": "Namco", 
+            "genre": "Shooter", 
+            "image": "./images/Galaga-image.jpg", 
             "multiplayer": {
                 "alternating-coop": false, 
-                "alternating-vs": false, 
+                "alternating-vs": true, 
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
             }, 
-            "name": "Excitebike", 
-            "players": 1, 
-            "publisher": "Nintendo", 
-            "releaseDate": "19841130T000000"
+            "name": "Galaga", 
+            "players": 2, 
+            "publisher": "Midway", 
+            "releaseDate": "19880101T000000"
         }, 
         {
             "compatibility": {
@@ -4270,20 +4270,20 @@
                 "pi0": null, 
                 "pi3": true
             }, 
-            "description": "TECMO BOWL! You've trained for it in the arcade. Now, strap on your helmet and go for it! Choose your team and select plays for your own game plan. From the snap, total control of every pass, block, run, and tackle is in your hands. Tecmo Bowl! The game of guts and glory!", 
-            "developer": "Tecmo", 
-            "genre": "Sports", 
-            "image": "./images/Tecmo Bowl-image.jpg", 
+            "description": "The first player controls Popo, a boy wearing a blue Eskimo parka, while the second player controls Nana, a girl wearing a pink Eskimo parka. The only tool they carry is a wooden mallet to carve openings in the ice above and to club enemies. Each mountain level consists of eight layers of colorful ice and a bonus stage. Standard, dull ice blocks pose no threat other than an easily disposed of barrier and platform. Square ice blocks with higher detail are indestructible forcing the player to take another path", 
+            "developer": "Nintendo", 
+            "genre": "Action", 
+            "image": "./images/Ice Climber-image.jpg", 
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
                 "simultaneous-vs": true
             }, 
-            "name": "Tecmo Bowl", 
+            "name": "Ice Climber", 
             "players": 2, 
-            "publisher": "Tecmo", 
-            "releaseDate": "19890201T000000"
+            "publisher": "Nintendo", 
+            "releaseDate": "19850130T000000"
         }, 
         {
             "compatibility": {
@@ -5366,26 +5366,6 @@
                 "pi0": null, 
                 "pi3": true
             }, 
-            "description": "Intergalactic terror stikes the small town of Onett as a blazing extraterrestrial object crashes in the night! The earth now faces imminent destruction by the universal evil threat known as Giygas! Armed with a cracked baseball bat, a cookie and an ATM card, a courageous boy named Ness vows to save the planet from hideous destruction. He must first find his heroic companions, Paula, Jeff and Poo. Will Ness succeed in his attempts to ambush countless frightening monsters as he travels? The ultimate test lies in the impending encounter with the all powerful Giygas!", 
-            "developer": "Ape Studios", 
-            "genre": "Role-Playing", 
-            "image": "./images/EarthBound-image.png", 
-            "multiplayer": {
-                "alternating-coop": false, 
-                "alternating-vs": false, 
-                "simultaneous-coop": false, 
-                "simultaneous-vs": false
-            }, 
-            "name": "EarthBound", 
-            "players": 1, 
-            "publisher": "Nintendo", 
-            "releaseDate": "19940827T000000"
-        }, 
-        {
-            "compatibility": {
-                "pi0": null, 
-                "pi3": true
-            }, 
             "description": "A crow is chasing a worm named Jim while in outer space Psy-Crow is chasing a renegade ship. The ship's captain has stolen an ultra-high-tech-indestructible-super-space-cyber-suit and Queen Slug-for-a-Butt has ordered Psy-Crow to get it, since it can make her more beautiful than Princess-What's-Her-Name. Psy-Crow blasts the captain and the suit falls to Planet Earth.\n\nBack on earth Jim wonders if he is finally safe when an ultra-high-tech-indestructible-super-space-cyber-suit lands on him. Luckily Jim rests in the neck ring of the suit. Then the space particles begin interacting with Jim, causing a light-speed evolution. Jim soon realizes he is in control of the suit.\n\nJim overhears the Queen's plans for the suit and decides to meet this Princess...", 
             "developer": "Shiny Entertainment, Inc.", 
             "genre": "Action", 
@@ -5926,6 +5906,26 @@
                 "pi0": null, 
                 "pi3": true
             }, 
+            "description": "The first of several full-length hacks of 'Super Mario World 2: Yoshi's Island' created by Golden Yoshi.  This hack brings a total of 54 entirely original levels to the classic Yoshi's Island that we all love.  While not as polished as his second (and most popular) hack, this one still features excellent level design with some of the most challenging Yoshi stages you'll see.  Make no mistake, these stages are tough, but not unfair.  Veteran players rejoice, but newbies beware; Conquer the original Yoshi's Island first, then give this one a try.", 
+            "developer": "GoldenYoshi", 
+            "genre": "Platform", 
+            "image": "./images/Super Mario World 2 - Yoshi's Island-image.jpg", 
+            "multiplayer": {
+                "alternating-coop": false, 
+                "alternating-vs": false, 
+                "simultaneous-coop": false, 
+                "simultaneous-vs": false
+            }, 
+            "name": "Super Mario World 2: Yoshi's Island", 
+            "players": 1, 
+            "publisher": "Nintendo", 
+            "releaseDate": "20050822T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": true
+            }, 
             "description": "SimCity sets you as the mayor of a new municipality, with the responsibility of building and maintaining a place where citizens can move to and work and be happy. The first task is to place essentials such as housing, transport links, schools, factories and shops. There are 50 types of these, allowing for homes of all standards and different types of businesses. Make sure to consider which sites are effective for which tasks. Some power sources pollute, others don't but are more expensive. Taxes must be raised to ensure an income, and then portions allocated to public services such as policing and roads. Earthquakes, floods and fires are all emergency situations that must be dealt to contain any damage.", 
             "developer": "Intelligent Systems", 
             "genre": "Construction and Management Simulation", 
@@ -6166,20 +6166,20 @@
                 "pi0": null, 
                 "pi3": true
             }, 
-            "description": "The first of several full-length hacks of 'Super Mario World 2: Yoshi's Island' created by Golden Yoshi.  This hack brings a total of 54 entirely original levels to the classic Yoshi's Island that we all love.  While not as polished as his second (and most popular) hack, this one still features excellent level design with some of the most challenging Yoshi stages you'll see.  Make no mistake, these stages are tough, but not unfair.  Veteran players rejoice, but newbies beware; Conquer the original Yoshi's Island first, then give this one a try.", 
-            "developer": "GoldenYoshi", 
-            "genre": "Platform", 
-            "image": "./images/Super Mario World 2 - Yoshi's Island-image.jpg", 
+            "description": "Intergalactic terror stikes the small town of Onett as a blazing extraterrestrial object crashes in the night! The earth now faces imminent destruction by the universal evil threat known as Giygas! Armed with a cracked baseball bat, a cookie and an ATM card, a courageous boy named Ness vows to save the planet from hideous destruction. He must first find his heroic companions, Paula, Jeff and Poo. Will Ness succeed in his attempts to ambush countless frightening monsters as he travels? The ultimate test lies in the impending encounter with the all powerful Giygas!", 
+            "developer": "Ape Studios", 
+            "genre": "Role-Playing", 
+            "image": "./images/EarthBound-image.png", 
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
             }, 
-            "name": "Super Mario World 2: Yoshi's Island", 
+            "name": "EarthBound", 
             "players": 1, 
             "publisher": "Nintendo", 
-            "releaseDate": "20050822T000000"
+            "releaseDate": "19940827T000000"
         }, 
         {
             "compatibility": {
@@ -6288,20 +6288,20 @@
                 "pi0": null, 
                 "pi3": true
             }, 
-            "description": "Blazing Lazers is a top-down shooter featuring 9 levels of varied and fast-paced action. The story here is the usual save-the-world variety. You must pilot your ship against 8 super-weapons and ultimately destroy the menace once and for all.\n\nThe power-up system in Blazing Lazers deserves special mention. There are four main types of weapons, and each type of weapon can be upgraded several times to produce an incredible amount of firepower. In addition, there are secondary weapons systems that provide you with shields, homing missiles, multi-fire units, or super weapon power.", 
-            "developer": "Compile", 
-            "genre": "Shooter", 
-            "image": "./images/Blazing Lazers-image.jpg", 
+            "description": "Two college students, Rick Taylor and Jennifer Willis, take refuge from a storm in West Mansion, a local landmark known as \"Splatterhouse\" for the rumors of hideous experiments purportedly conducted there by Dr. West, a renowned and missing parapsychologist. At the mansion, the two are attacked by demonic creatures that drag Jennifer inside and fatally wound Rick, leaving him for dead.", 
+            "developer": "Namco", 
+            "genre": "Action", 
+            "image": "./images/Splatterhouse-image.jpg", 
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
             }, 
-            "name": "Blazing Lazers", 
+            "name": "Splatterhouse", 
             "players": 1, 
             "publisher": "NEC", 
-            "releaseDate": "19890101T000000"
+            "releaseDate": "19900101T000000"
         }, 
         {
             "compatibility": {
@@ -6328,20 +6328,20 @@
                 "pi0": null, 
                 "pi3": true
             }, 
-            "description": "Two college students, Rick Taylor and Jennifer Willis, take refuge from a storm in West Mansion, a local landmark known as \"Splatterhouse\" for the rumors of hideous experiments purportedly conducted there by Dr. West, a renowned and missing parapsychologist. At the mansion, the two are attacked by demonic creatures that drag Jennifer inside and fatally wound Rick, leaving him for dead.", 
-            "developer": "Namco", 
-            "genre": "Action", 
-            "image": "./images/Splatterhouse-image.jpg", 
+            "description": "Blazing Lazers is a top-down shooter featuring 9 levels of varied and fast-paced action. The story here is the usual save-the-world variety. You must pilot your ship against 8 super-weapons and ultimately destroy the menace once and for all.\n\nThe power-up system in Blazing Lazers deserves special mention. There are four main types of weapons, and each type of weapon can be upgraded several times to produce an incredible amount of firepower. In addition, there are secondary weapons systems that provide you with shields, homing missiles, multi-fire units, or super weapon power.", 
+            "developer": "Compile", 
+            "genre": "Shooter", 
+            "image": "./images/Blazing Lazers-image.jpg", 
             "multiplayer": {
                 "alternating-coop": false, 
                 "alternating-vs": false, 
                 "simultaneous-coop": false, 
                 "simultaneous-vs": false
             }, 
-            "name": "Splatterhouse", 
+            "name": "Blazing Lazers", 
             "players": 1, 
             "publisher": "NEC", 
-            "releaseDate": "19900101T000000"
+            "releaseDate": "19890101T000000"
         }, 
         {
             "compatibility": {

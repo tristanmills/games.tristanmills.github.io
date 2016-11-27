@@ -188,7 +188,7 @@ def combine_metadata(system_folders):
 
 			collection[system] = games
 
-	# collection = collections.OrderedDict(sorted(collection.items()))
+	collection = collections.OrderedDict(sorted(collection.items()))
 
 	collection = json.dumps(collection, indent=4, sort_keys=True)
 
