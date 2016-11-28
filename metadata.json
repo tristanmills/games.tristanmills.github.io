@@ -72,7 +72,7 @@
             },
             "description": "Let me introduce myself. I'm Pitfall Harry, veteran jungle explorer. Fortune hunting's my game, and yours, too, if you're daring enough to take this trip with me. Don't be nervous; I'll be your guide through the jungle, and I'm one of the best. Untold riches are waiting for us in there, but so are dangers a dozen times over. We'll be swinging on vines over bottomless tarpits. We'll be hopping across swamps, using crocodile heads like stepping stones. We'll be searching underground through dark passageways crawling with killer scorpions. So pack up your backpack and meet me at the jungle at dawn - and we'll be off to seek a king's ransom in gold, diamonds and lost treasures - in Pitfall Harry's Jungle Adventure.",
             "developer": "Activision",
-            "genre": "Action",
+            "genre": "Platform",
             "image": "./images/Pitfall!-image.jpg",
             "licensed": true,
             "multiplayer": {
@@ -4866,7 +4866,7 @@
             },
             "description": "One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons.\n\nPlayers control a lone starship rushing to destroy oncoming asteroids and alien vessels before they annihilate defenseless human miners and colonies. Asteroids break apart into smaller rocks, which much also be hunted down and destroyed. Aliens likewise arrive in larger, more dangerous vessels.",
             "developer": "Frontier Developments",
-            "genre": null,
+            "genre": "Shooter",
             "image": "./images/DarXide-image.jpg",
             "licensed": true,
             "multiplayer": {
@@ -5097,7 +5097,7 @@
             },
             "description": "Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive\u2014and quick. Or prepare to die.",
             "developer": "Activision",
-            "genre": null,
+            "genre": "Platform",
             "image": "./images/Pitfall - The Mayan Adventure-image.jpg",
             "licensed": true,
             "multiplayer": {
@@ -5307,7 +5307,7 @@
             },
             "description": "Toughman Contest is a game based on the world famous boxing competition of the same name. You pick one of 24 fighters, compete in one of 5 locations from around the world, and re-create the Toughman tournament as seen on TV.\n\nThe boxing action is viewed from behind the back of fighter you control. Your fighter is rendered as an outline, so you can see what your opponent is up to and react accordingly. Toughman matches consist of three one minute rounds. Your goal is to KO your opponent by causing their stamina meter to decrease to the point where they fall down, or beating on them enough that you are scored the winner at end of the third round.",
             "developer": "High Score",
-            "genre": null,
+            "genre": "Sports",
             "image": "./images/Toughman Contest-image.jpg",
             "licensed": true,
             "multiplayer": {
@@ -5403,7 +5403,7 @@
             "name": "World Series Baseball Starring Deion Sanders",
             "players": 1,
             "publisher": "Sega",
-            "releaseDate": null
+            "releaseDate": "19951117T000000"
         },
         {
             "compatibility": {
