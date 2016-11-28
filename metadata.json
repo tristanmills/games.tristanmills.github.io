@@ -5263,6 +5263,27 @@
                 "pi0": null,
                 "pi3": null
             },
+            "description": "T-Mek is essentially an updated Battlezone. You are a warrior battling in the T-Mek competition, a hugely popular event in the future. You control a hovercraft and try to blow up everyone else.\n\nThe action is viewed from your perspective as you travel around the arena. You also have an overall view of where your opponents are. Terrain surfaces and characteristics vary in each battle. In most levels you need to reach a certain score to progress, however there are out-and-out one-off Deathmatch duels to deal with periodically.",
+            "developer": "Atari",
+            "genre": "Action",
+            "image": "./images/T-MEK-image.png",
+            "licensed": null,
+            "multiplayer": {
+                "alternating-coop": null,
+                "alternating-vs": null,
+                "simultaneous-coop": null,
+                "simultaneous-vs": null
+            },
+            "name": "T-MEK",
+            "players": 2,
+            "publisher": "Time Warner",
+            "releaseDate": "19950101T000000"
+        },
+        {
+            "compatibility": {
+                "pi0": null,
+                "pi3": null
+            },
             "description": "King Dirge is trying to steal the rhythm out of Planet Rhythmia! It is up to Tempo, the hyper groovin' grasshopper with special \"Sound Energy\" to save the world of music from the evil clutches of King Dirge.",
             "developer": "Red Company",
             "genre": "Action",
@@ -5362,6 +5383,27 @@
             "players": 2,
             "publisher": "Sega",
             "releaseDate": "19940205T000000"
+        },
+        {
+            "compatibility": {
+                "pi0": null,
+                "pi3": null
+            },
+            "description": "WWF RAW is a video game based on the television show of the same name produced by the World Wrestling Federation, released for the SNES, Sega 32X, Mega Drive/Genesis, and Game Boy in late 1994 and early 1995 by Acclaim Entertainment. It is the sequel to the WWF Royal Rumble game that was released in 1993, and is the final part of LJN's 16-bit WWF trilogy. Players can play either One-on-One, Tag Team, Bedlam, Survivor Series, Royal Rumble, or a Raw Endurance Match.\n\nWWF RAW introduces differences between the characters in that they not only have their own signature moves, but differing move sets altogether (including new over-the-top \"mega moves\"). The game adds many moves not seen in the previous games, such as a DDT, a fallaway slam, and various types of suplexes. Additionally, wrestlers differ in attributes of speed, strength, stamina, and weight.",
+            "developer": "Sculptured Software",
+            "genre": "Fighting",
+            "image": "./images/WWF RAW-image.png",
+            "licensed": null,
+            "multiplayer": {
+                "alternating-coop": null,
+                "alternating-vs": null,
+                "simultaneous-coop": null,
+                "simultaneous-vs": null
+            },
+            "name": "WWF RAW",
+            "players": 4,
+            "publisher": "Acclaim",
+            "releaseDate": "19950131T000000"
         },
         {
             "compatibility": {

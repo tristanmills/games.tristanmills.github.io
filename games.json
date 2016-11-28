@@ -3769,6 +3769,21 @@
                 "pi0": null,
                 "pi3": null
             },
+            "licensed": null,
+            "multiplayer": {
+                "alternating-coop": null,
+                "alternating-vs": null,
+                "simultaneous-coop": null,
+                "simultaneous-vs": null
+            },
+            "name": "T-MEK",
+            "players": 2
+        },
+        {
+            "compatibility": {
+                "pi0": null,
+                "pi3": null
+            },
             "licensed": true,
             "multiplayer": {
                 "alternating-coop": null,
@@ -3838,6 +3853,21 @@
             },
             "name": "Virtua Racing Deluxe",
             "players": 2
+        },
+        {
+            "compatibility": {
+                "pi0": null,
+                "pi3": null
+            },
+            "licensed": null,
+            "multiplayer": {
+                "alternating-coop": null,
+                "alternating-vs": null,
+                "simultaneous-coop": null,
+                "simultaneous-vs": null
+            },
+            "name": "WWF RAW",
+            "players": 4
         },
         {
             "compatibility": {
