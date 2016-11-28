@@ -177,6 +177,12 @@ def update_metadata():
 
 				metadata[system][game['name']] = game
 
+			for key, value in game.iteritems():
+
+				if key not in metadata[system][game['name']]:
+
+					metadata[system][game['name']][game[key]] = value
+
 	put_metadata(metadata)
 
 
