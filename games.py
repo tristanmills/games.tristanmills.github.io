@@ -79,7 +79,7 @@ def parse_gameslist(file):
 
 		if 'licensed' in game:
 
-			processedGame['licensed'] = game['licensed']
+			processedGame['licensed'] = str2bool(game['licensed'])
 
 		if 'releasedate' in game:
 
