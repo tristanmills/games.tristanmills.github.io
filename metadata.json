@@ -4532,6 +4532,195 @@
         {
             "compatibility": {
                 "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "The game allows the player to control a F-14 Tomcat jet, which must destroy a series of enemy jets throughout 18 stages. At the start of the game, the player takes off from an aircraft carrier called the SEGA Enterprise, which shares a similar name to the one used in the 1986 film Top Gun.", 
+            "developer": "Sega", 
+            "genre": "Action", 
+            "image": "./images/After Burner-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "After Burner", 
+            "players": 1, 
+            "publisher": "Sega", 
+            "releaseDate": "19950113T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "It\u2019s pre-hysterical!  Millionaire playboy caveman Millstone Rockafella arranges a wild n\u2019 wacky BC bike race, the winner of which receives the ultimate boulderdash bike.  Cool n\u2019 crazy Cliff Ace has had his sunglasses set on a boulderdash bike since he was knee-high, so he signs up for the race - taking his cave-babe Roxy along for the ride!  The 32X pushes graphics to the limit with 256 colors for in-game graphics and full 24-bit for static display.  The stone-age never looked better!", 
+            "developer": "Core Design", 
+            "genre": "Racing", 
+            "image": "./images/BC Racers-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "BC Racers", 
+            "players": 2, 
+            "publisher": "Front Street", 
+            "releaseDate": "19951019T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Through the dark vastness of space, exiled prince Kyle Blackthorne returns to Tuul to avenge his murdered father and restore the shattered Lightstone.  The conqueror Sarlac opposes his vicious troops against the enraged prince.  But the evil lord will soon find out\u2026 an army is not enough against a single fierce fighter with a vengeance!", 
+            "developer": "Blizzard", 
+            "genre": "Action", 
+            "image": "./images/Blackthorne-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Blackthorne", 
+            "players": 1, 
+            "publisher": "Interplay", 
+            "releaseDate": "19950824T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Under the watchful eye of the great master Dali Llama, the worlds greatest martial artists would return to a place they knew well\u2026 Brutal Island.  Each will use their own unique mental and physical martial arts style and training, in a tournament to prove the worlds one true champion.\n\nBrutal, Above the Claw, is a brilliantly rendered game of humorous cartoon style combat, combined with depth, philosophy, and an attention to detail not found in any other fighting game.\n\nGo ahead and Unleash the Animal, it\u2019s time to get Brutal.", 
+            "developer": "GameTek", 
+            "genre": "Fighting", 
+            "image": "./images/Brutal - Above the Claw-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Brutal: Above the Claw", 
+            "players": 2, 
+            "publisher": "GameTek", 
+            "releaseDate": "19950101T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "What kind of un-be-leev-ably ugly monster is this? Chunks of armor fly off as you pound its body. This beefed-up, maxed-out monstrosity has jetted across the cosmos to beat your brains out! But is it the alien? Or is it YOU?", 
+            "developer": "Almanic", 
+            "genre": "Fighting", 
+            "image": "./images/Cosmic Carnage-image.png", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Cosmic Carnage", 
+            "players": 2, 
+            "publisher": "Sega", 
+            "releaseDate": "19940302T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons.\n\nPlayers control a lone starship rushing to destroy oncoming asteroids and alien vessels before they annihilate defenseless human miners and colonies. Asteroids break apart into smaller rocks, which much also be hunted down and destroyed. Aliens likewise arrive in larger, more dangerous vessels.", 
+            "developer": "Frontier Developments", 
+            "genre": null, 
+            "image": "./images/DarXide-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "DarXide", 
+            "players": 1, 
+            "publisher": "SEGA", 
+            "releaseDate": "19951201T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "All Hell has run amok!  Monstrous demons from another dimension use their gruesome talents to turn your space station into a blood-splattered slaughterhouse.\n\nThey got black magic.  You got firepower.  Fireballs and lost souls face shotguns, chainsaws, and rocket launchers!\n\nButcher the hordes of Hell.  Or get butchered, if you don\u2019t have the skill and pure guts to save your skin!", 
+            "developer": "id Software", 
+            "genre": "Shooter", 
+            "image": "./images/Doom-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Doom", 
+            "players": 1, 
+            "publisher": "Sega", 
+            "releaseDate": "19940101T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "FIFA Soccer '96 (\uff26\uff29\uff26\uff21\u30b5\u30c3\u30ab\u30fc'\uff19\uff16) is an entry to the FIFA series of video games, and was developed by Extended Play Productions and published by Electronic Arts. Though it was not the first FIFA game (both FIFA Soccer '95 and FIFA International Soccer had come before it), FIFA 96 is often considered the first truly successful FIFA game, and opened the doors to annual sequels that continue to this day. It was released for the Sega Mega Drive, Sega 32X and Sega Game Gear, with a different version of the game being released on the Sega Saturn.", 
+            "developer": "Electronic Arts", 
+            "genre": "Sports", 
+            "image": "./images/FIFA Soccer 96-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "FIFA Soccer 96", 
+            "players": 2, 
+            "publisher": "Electronic Arts", 
+            "releaseDate": "19951130T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "There are seven different modes (Stroke Play, Tournament, Skins, Shoot-out, Scramble, Practice and Match Play) and three different types of golf club heads including wood, metal and graphite. There is a battery back-up to keep track of 16 different categories of stats and does feature the voice of Fred Couples, even though he is not a playable character.", 
+            "developer": "Flashpoint", 
+            "genre": "Sports", 
+            "image": "./images/Golf Magazine - 36 Great Holes Starring Fred Couples-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Golf Magazine: 36 Great Holes Starring Fred Couples", 
+            "players": 1, 
+            "publisher": "SEGA", 
+            "releaseDate": "19940101T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
                 "pi3": true
             }, 
             "description": "A mysterious island rose from the sea shortly after the events of Sonic & Knuckles. Dr. Robotnik discovered the island, and found a mysterious ring inscribed with descriptions of the Chaos Rings, ancient Rings infused with Chaos Emerald energy. In order to find these Rings, Robotnik built his base, the Newtrogic High Zone, on the island. Mighty the Armadillo, Espio the Chameleon, Vector the Crocodile, and Charmy Bee also arrived at the island, and ended up being captured by Robotnik and Metal Sonic, and placed in Robotnik's Combi Catcher machine. Knuckles, curious about the strange island, goes there as well, and manages to rescue Espio. The two then go on to stop Robotnik from getting the Chaos Rings.", 
@@ -4548,6 +4737,468 @@
             "players": 2, 
             "publisher": "Sega", 
             "releaseDate": "19950421T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Deep in the Earth, a powerful ancient crystal hums, fueling the balance of nature. But when its toxic twin plummets to Earth, nature totters on the edge of extinction! Only one hope survives - Kolibri. Though small and alone, the hummingbird must battle the invasive mutation in all its malignant form to restore Earth. But at what cost?", 
+            "developer": "Novotrade", 
+            "genre": "Shooter", 
+            "image": "./images/Kolibri-image.png", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Kolibri", 
+            "players": 1, 
+            "publisher": "Sega", 
+            "releaseDate": "19950908T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Bullets fly and circuits try in heavy-duty cyborg techno-slaughter. You control Metal Head, the ultimate cyborg warrior, patrolling the charred urban destruction of the great war. And a murderous mecha-force is gunning for you!\n\nINCREDIBLE 3-D textured polygon graphics engulf Metal Head in searing firefights as cyber troops, hover craft and ground attack vehicles annihilate the planet!\n\nYou are the ultimate tech-destroyer - with chain guns, missiles, radar tracking and Heads-up Display!\n\nHead-banging heavy-metal music amps you up for pure warfare!\n\n24 megs of cyber-combat rock through war torn urban streets, bombed out farmland, scorched forests and bullet-riddled 'burbs!", 
+            "developer": "Sega", 
+            "genre": "Action", 
+            "image": "./images/Metal Head-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Metal Head", 
+            "players": 1, 
+            "publisher": "Sega", 
+            "releaseDate": "19950224T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Following his failure to defeat Liu Kang in the first Mortal Kombat game, the evil sorcerer Shang Tsung begs his master, Shao Kahn, to spare his life. He tells Shao Kahn that the invitation for Mortal Kombat cannot be turned down, and if they hold it in Outworld, the Earthrealm warriors must attend. Kahn agrees to this plan, and even restores Tsung's youth. He then extends the invitation to Raiden, who gathers his warriors and takes them into Outworld. The new tournament is much more dangerous, as Shao Kahn has the home field advantage, and an Outworld victory will allow him to subdue Earthrealm.", 
+            "developer": "Acclaim", 
+            "genre": "Fighting", 
+            "image": "./images/Mortal Kombat II-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Mortal Kombat II", 
+            "players": 1, 
+            "publisher": "Midway", 
+            "releaseDate": "19941204T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Motocross Championship is the only dirtbike racing game for the 32X. The action takes place from a behind-the-bike perspective, and makes use of the 32X's hardware bitmap scaling to present a 3D graphical effect.", 
+            "developer": "Artech Digital Entertainment", 
+            "genre": "Racing", 
+            "image": "./images/Motocross Championship-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Motocross Championship", 
+            "players": 2, 
+            "publisher": "Sega", 
+            "releaseDate": "19940101T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Up to four human players can take part, each always controlling a single player for their team, and AI for missing players. This allows for four players to face each other in teams of two, or for two players to team up against a third player with a CPU team-mate.\n\nThe Tournament Edition ups each team's roster to three players, and allows for substitutions between quarters. Shoving players now results in injuries, which lower a player's stats; encouraging you to sub them out and let them recover. Aside from the usual secret characters and cheat modes, the T.E. also includes four new additions you can individually enable from the special options menu.", 
+            "developer": "Midway", 
+            "genre": "Sports", 
+            "image": "./images/NBA Jam Tournament Edition-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "NBA Jam Tournament Edition", 
+            "players": 4, 
+            "publisher": "Acclaim", 
+            "releaseDate": "19950501T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "NFL Quarterback Club, called NFL Quarterback Club '95 in Japan, is an American football game released for the Sega Mega Drive, Sega 32X and Sega Game Gear. It was the first in the NFL Quarterback Club series and was followed by NFL Quarterback Club 96.", 
+            "developer": "Iguana Entertainment", 
+            "genre": "Sports", 
+            "image": "./images/NFL Quarterback Club-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "NFL Quarterback Club", 
+            "players": 4, 
+            "publisher": "Acclaim", 
+            "releaseDate": "19950101T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Pitfall: The Mayan Adventure is a side-scrolling action game in which you play adventurer Pitfall Harry Jr in search of his father Pitfall Harry. You battle your way through the Mayan jungles, waterfalls, deserted mines and can bungee jump and boomerang your way to safety. There are 13 levels and the action is fast and gripping. You will need to be attentive\u2014and quick. Or prepare to die.", 
+            "developer": "Activision", 
+            "genre": null, 
+            "image": "./images/Pitfall - The Mayan Adventure-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Pitfall: The Mayan Adventure", 
+            "players": 1, 
+            "publisher": "Activision", 
+            "releaseDate": "19951001T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.", 
+            "developer": "Atari", 
+            "genre": "Fighting", 
+            "image": "./images/Primal Rage-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Primal Rage", 
+            "players": 2, 
+            "publisher": "Time Warner", 
+            "releaseDate": "19950101T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "This version is an updated follow-up to the R.B.I. series. Many of the same features from other baseball games are present and has three different game modes to choose from: exhibition, playoff, and home run derby, but what makes this version different from the others is a lack of MLB license, though it does feature a MLBPA license with top players of the time such as Roger Clemens, Otis Nixon, Bobby Larkin among many others.", 
+            "developer": "Time Warner", 
+            "genre": "Sports", 
+            "image": "./images/RBI Baseball '95-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "RBI Baseball '95", 
+            "players": 1, 
+            "publisher": "Time Warner", 
+            "releaseDate": "19950101T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "It's the era of the Second Han Dynasty, and China is being overrun by powerful warlords. A struggle for power among the court families has spawned a time known as the Three Kingdoms, and it's up to you (as the current ruler) to restore peace to your troubled country. Rebuild the land by creating a strong military or try to outwit your opponents using negotiation.\n\nRomance of the Three Kingdoms IV: Wall of Fire (Sangokushi IV in Japan) is the fourth game in Koei's Romance of the Three Kingdoms series. Wall of Fire was the first game for the Playstation & Saturn consoles and the last in the series to be released on PC in the U.S. until Romance of the Three Kingdoms XI.", 
+            "developer": "Koei", 
+            "genre": "Strategy", 
+            "image": "./images/Romance of the Three Kingdoms IV - Wall of Fire-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Romance of the Three Kingdoms IV: Wall of Fire", 
+            "players": 1, 
+            "publisher": "Koei", 
+            "releaseDate": "19950728T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Shadow Squadron is a 3D space combat shooter. The player controls a space fighter in a series of battles against huge enemy ships. There are 2 different types of ships to fly, and 6 different missions. In most missions, the player has to destroy several locations on a large ship in order to blow up the whole thing.\n\nThere are two ways to play the game. First, one can directly control the ship and maneuver it around the 3D polygon environments. Second, the player can let the 32X do the flying, and simply control a gun turret.", 
+            "developer": "SEGA", 
+            "genre": "Shooter", 
+            "image": "./images/Shadow Squadron-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Shadow Squadron", 
+            "players": 2, 
+            "publisher": "Sega", 
+            "releaseDate": "19950525T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Space Harrier is set in the \"Fantasy Zone\", a surreal world composed of bright colors and a checkerboard-styled ground. The enemies are also unique, featuring prehistoric animals, Chinese dragons, and alien pods. The player is forced along the levels, running or flying around enemy fire, while shooting back with fireballs via the character's under-arm cannon (which doubles as a rocket-esque device allowing the character to fly).", 
+            "developer": "Sega", 
+            "genre": "Shooter", 
+            "image": "./images/Space Harrier-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Space Harrier", 
+            "players": 1, 
+            "publisher": "Sega", 
+            "releaseDate": "19941203T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "The game is viewed from the bridge of your vessel (there are 5 different ones in total), with polygons used to display the action. Information on the world situation at the time of the game is supplied within the game. There are quick missions bringing scenes from Star Trek movies to life.", 
+            "developer": "Interplay", 
+            "genre": "Flight Simulator", 
+            "image": "./images/Star Trek - Starfleet Academy - Starship Bridge Simulator-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Star Trek: Starfleet Academy - Starship Bridge Simulator", 
+            "players": 2, 
+            "publisher": "Interplay", 
+            "releaseDate": "19950101T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Launch your X-wing fighter for the final Death Star assault! The Force is with you as you pursue Darth Vader through an exploding galaxy! You are the last hope for the Rebel Alliance!\n\n-2 Flight Views: \"Cockpit\" surrounds you with HUD, target info and videocom. \"Bird'sEye\" tracks the X-wing as it slingshots into battle!\n-8 Levels of staggering space warfare straight from the Star Wars trilogy. Astounding 3-D graphics and digitized sound!\n-Pilot the X-wing alone or draft a Gunner for 2 Player mode.", 
+            "developer": "Sega", 
+            "genre": "Action", 
+            "image": "./images/Star Wars Arcade-image.png", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Star Wars Arcade", 
+            "players": 2, 
+            "publisher": "Sega", 
+            "releaseDate": "19941202T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "King Dirge is trying to steal the rhythm out of Planet Rhythmia! It is up to Tempo, the hyper groovin' grasshopper with special \"Sound Energy\" to save the world of music from the evil clutches of King Dirge.", 
+            "developer": "Red Company", 
+            "genre": "Action", 
+            "image": "./images/Tempo-image.png", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Tempo", 
+            "players": 1, 
+            "publisher": "Sega", 
+            "releaseDate": "19950324T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "A massive electrical plasma grid has shrouded New York City in a blanket of hysteria and destruction. Skyscrapers are crumbling. Civilians are frying. It's only a matter of time before The Big Apple becomes the Baked Apple.\n\nWho will prevail, The Net or The Web?", 
+            "developer": "Bluesky", 
+            "genre": "Action", 
+            "image": "./images/The Amazing Spider-Man - Web of Fire-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "The Amazing Spider-Man: Web of Fire", 
+            "players": 1, 
+            "publisher": "Sega", 
+            "releaseDate": "19960426T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Toughman Contest is a game based on the world famous boxing competition of the same name. You pick one of 24 fighters, compete in one of 5 locations from around the world, and re-create the Toughman tournament as seen on TV.\n\nThe boxing action is viewed from behind the back of fighter you control. Your fighter is rendered as an outline, so you can see what your opponent is up to and react accordingly. Toughman matches consist of three one minute rounds. Your goal is to KO your opponent by causing their stamina meter to decrease to the point where they fall down, or beating on them enough that you are scored the winner at end of the third round.", 
+            "developer": "High Score", 
+            "genre": null, 
+            "image": "./images/Toughman Contest-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Toughman Contest", 
+            "players": 1, 
+            "publisher": "EA Sports", 
+            "releaseDate": "19950101T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Virtua Fighter was the first of it's kind: A one-on-one fighting game featuring fully 3D environments and characters. The fighters and arenas are rendered in flat-shaded polygons. Unlike many fighting games, Virtua Fighter focuses on deep gameplay based on actual fighting styles, rather than outrageous special moves and story lines.\n\nThere are 8 fighters to choose from in Virtua Fighter, and an equal number of fighting backdrops in which to compete. Each fighter has a distinctive fighting style, and their own set of signature moves.", 
+            "developer": "SEGA AM-2", 
+            "genre": "Fighting", 
+            "image": "./images/Virtua Fighter-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Virtua Fighter", 
+            "players": 1, 
+            "publisher": "Sega", 
+            "releaseDate": "19950101T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Virtua Racing Deluxe is an enhanced arcade-to-console conversion of Sega's 3D racing game. This game is primarily an arcade-style affair; Players compete in a 5 lap race with timed checkpoints. It's also possible to play with 2 players in a split-screen mode.\n\nThe 32X version of Virtua Racing adds a couple of new features. There are now 3 different types of cars to drive, including a stock car and a prototype racer. Furthermore, there are two all-new tracks.", 
+            "developer": "SEGA", 
+            "genre": "Racing", 
+            "image": "./images/Virtua Racing Deluxe-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Virtua Racing Deluxe", 
+            "players": 2, 
+            "publisher": "Sega", 
+            "releaseDate": "19940205T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "Take on wrestling to the EXTREME with intense action straight from the arcade smash! It's in-your-face mayhem with punishing head-to-head and team matchups! No pain, no game!", 
+            "developer": "Midway", 
+            "genre": "Sports", 
+            "image": "./images/WWF Wrestlemania - The Arcade Game-image.png", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "WWF WrestleMania: The Arcade Game", 
+            "players": 2, 
+            "publisher": "Midway", 
+            "releaseDate": "19950721T000000"
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "World Series Baseball Starring Deion Sanders is an entry in the World Series Baseball series, and was released exclusively on the Sega 32X in 1995. It was not released outside of North America.", 
+            "developer": "BlueSky Software", 
+            "genre": "Sports", 
+            "image": "./images/World Series Baseball Starring Deion Sanders-image.png", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "World Series Baseball Starring Deion Sanders", 
+            "players": 1, 
+            "publisher": "Sega", 
+            "releaseDate": null
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "description": "This 32X-exclusive sci-fi shooter is similar gameplay-wise to Sega's arcade game Zaxxon. The graphics consist of a diagonally scrolling playfield which creates a pseudo 3D environment. The backgrounds are drawn using 2D scrolling planes, but the enemy and ship objects are drawn using 3D flat-shaded polygons.\n\nAlthough the basic goal of each of the 9 levels is to shoot everything without getting shot, the game has a strategic element. Your basic spacecraft has very little firepower, and can only sustain one hit. To make matters worse, there are very few power-ups. In order to survive, you have to jump on top of enemies and take control of their weapons systems. This system allows for a large variety of player-controllable ships.", 
+            "developer": "CSK", 
+            "genre": "Shooter", 
+            "image": "./images/Zaxxon's Motherbase 2000-image.jpg", 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Zaxxon's Motherbase 2000", 
+            "players": 2, 
+            "publisher": "Sega", 
+            "releaseDate": "19950101T000000"
         }
     ], 
     "Sega CD": [

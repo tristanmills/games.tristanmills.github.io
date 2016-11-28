@@ -3182,6 +3182,141 @@
         {
             "compatibility": {
                 "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "After Burner", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "BC Racers", 
+            "players": 2
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Blackthorne", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Brutal: Above the Claw", 
+            "players": 2
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Cosmic Carnage", 
+            "players": 2
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "DarXide", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Doom", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "FIFA Soccer 96", 
+            "players": 2
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Golf Magazine: 36 Great Holes Starring Fred Couples", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
                 "pi3": true
             }, 
             "multiplayer": {
@@ -3191,6 +3326,336 @@
                 "simultaneous-vs": false
             }, 
             "name": "Knuckles' Chaotix", 
+            "players": 2
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Kolibri", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Metal Head", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Mortal Kombat II", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Motocross Championship", 
+            "players": 2
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "NBA Jam Tournament Edition", 
+            "players": 4
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "NFL Quarterback Club", 
+            "players": 4
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Pitfall: The Mayan Adventure", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Primal Rage", 
+            "players": 2
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "RBI Baseball '95", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Romance of the Three Kingdoms IV: Wall of Fire", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Shadow Squadron", 
+            "players": 2
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Space Harrier", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Star Trek: Starfleet Academy - Starship Bridge Simulator", 
+            "players": 2
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Star Wars Arcade", 
+            "players": 2
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Tempo", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "The Amazing Spider-Man: Web of Fire", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Toughman Contest", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Virtua Fighter", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Virtua Racing Deluxe", 
+            "players": 2
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "WWF WrestleMania: The Arcade Game", 
+            "players": 2
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "World Series Baseball Starring Deion Sanders", 
+            "players": 1
+        }, 
+        {
+            "compatibility": {
+                "pi0": null, 
+                "pi3": null
+            }, 
+            "licensed": null, 
+            "multiplayer": {
+                "alternating-coop": null, 
+                "alternating-vs": null, 
+                "simultaneous-coop": null, 
+                "simultaneous-vs": null
+            }, 
+            "name": "Zaxxon's Motherbase 2000", 
             "players": 2
         }
     ], 

@@ -59,6 +59,7 @@ def parse_gameslist(file):
 			'name': game['name'],
 			'description': game['desc'],
 			'image': game['image'],
+			'licensed': None,
 			'releaseDate': None,
 			'developer': None,
 			'publisher': None,
@@ -75,6 +76,10 @@ def parse_gameslist(file):
 				'pi3': None,
 			},
 		}
+
+		if 'licensed' in game:
+
+			processedGame['licensed'] = game['licensed']
 
 		if 'releasedate' in game:
 
