@@ -3769,7 +3769,7 @@
                 "pi0": null,
                 "pi3": null
             },
-            "licensed": null,
+            "licensed": true,
             "multiplayer": {
                 "alternating-coop": null,
                 "alternating-vs": null,
@@ -3859,7 +3859,7 @@
                 "pi0": null,
                 "pi3": null
             },
-            "licensed": null,
+            "licensed": true,
             "multiplayer": {
                 "alternating-coop": null,
                 "alternating-vs": null,

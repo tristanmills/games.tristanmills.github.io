@@ -5267,7 +5267,7 @@
             "developer": "Atari",
             "genre": "Action",
             "image": "./images/T-MEK-image.png",
-            "licensed": null,
+            "licensed": true,
             "multiplayer": {
                 "alternating-coop": null,
                 "alternating-vs": null,
@@ -5393,7 +5393,7 @@
             "developer": "Sculptured Software",
             "genre": "Fighting",
             "image": "./images/WWF RAW-image.png",
-            "licensed": null,
+            "licensed": true,
             "multiplayer": {
                 "alternating-coop": null,
                 "alternating-vs": null,
