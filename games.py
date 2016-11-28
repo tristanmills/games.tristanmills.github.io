@@ -151,7 +151,7 @@ def put_metadata(metadata):
 
 	metadata = collections.OrderedDict(sorted(metadata.items()))
 
-	metadata = json.dumps(metadata, indent=4, sort_keys=True)
+	metadata = json.dumps(metadata, indent=4, sort_keys=True, separators=(',', ': '))
 
 	open('metadata.json', 'w').write(metadata)
 
@@ -203,7 +203,7 @@ def update_games():
 			del game['publisher']
 			del game['genre']
 
-	metadata = json.dumps(metadata, indent=4, sort_keys=True)
+	metadata = json.dumps(metadata, indent=4, sort_keys=True, separators=(',', ': '))
 
 	open('games.json', 'w').write(metadata)
 
