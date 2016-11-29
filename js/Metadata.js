@@ -53,68 +53,110 @@ var Metadata = (function() {
 
 	};
 
+	var renderGames = function(games) {
+
+		var html = '';
+
+		html += '<ul>';
+
+		games.forEach(function(game) {
+
+			var compatibility = '';
+			var multiplayer = '';
+			var simultaneousCoOp = '';
+			var simultaneousVS = '';
+			var alternatingCoOp = '';
+			var alternatingVS = '';
+
+			if (game.compatibility.pi3 === true) {
+				compatibility = ' class="pass"';
+			} else if (game.compatibility.pi3 === false) {
+				compatibility = ' class="fail"';
+			}
+
+			if (game.players > 1) {
+				multiplayer = ' <span class="tag tag-info">Multi (' + game.players + ')</span>';
+			}
+
+			if (game.multiplayer['simultaneous-coop']) {
+				simultaneousCoOp = ' <span class="tag tag-success">Simo Co-Op</span>';
+			}
+
+			if (game.multiplayer['alternating-coop']) {
+				alternatingCoOp = ' <span class="tag tag-success">Alt Co-Op</span>';
+			}
+
+			if (game.multiplayer['simultaneous-vs']) {
+				simultaneousVS = ' <span class="tag tag-danger">Simo Vs</span>';
+			}
+
+			if (game.multiplayer['alternating-vs']) {
+				alternatingVS = ' <span class="tag tag-danger">Alt Vs</span>';
+			}
+
+			html += '<li' + compatibility + '>' + game.name + multiplayer + simultaneousCoOp + alternatingCoOp + simultaneousVS + alternatingVS + '</li>';
+
+		});
+
+		if (games.length === 0) {
+			html += '<li>None</li>';
+		}
+
+		html += '</ul>';
+
+		return html;
+	};
+
 	var renderMetadata = function(metadata) {
 
 		var html = '';
 
 		metadata.forEach(function(system) {
 
-			var system_heading = system.name.replace(/\s+/g, '-').toLowerCase();
-			var system_content = system_heading + '-games';
-
-			html += '<h5 id="' + system_heading + '">';
-				html += '<a data-toggle="collapse" data-parent="#games" href="#' + system_content + '" aria-controls="' + system_content + '">';
-					html += '<img class="system-icon" src="/img/systems/' + system_heading + '.png">';
-					html += '<span>' + system.name + ' (' + system.games.length + ')</span>';
-				html += '</a>';
-			html += '</h5>';
-
-			html += '<ul id="' + system_content + '" class="collapse" role="tabpanel" aria-labelledby="' + system_heading + '">';
+			var licensedGames = [];
+			var unlicensedGames = [];
 
 			system.games.forEach(function(game) {
 
-				var compatibility = '';
-				var multiplayer = '';
-				var simultaneous_coop = '';
-				var simultaneous_vs = '';
-				var alternating_coop = '';
-				var alternating_vs = '';
+				if (game.licensed) {
 
-				if (game.compatibility.pi3 === true) {
-					compatibility = ' class="pass"';
-				} else if (game.compatibility.pi3 === false) {
-					compatibility = ' class="fail"';
+					licensedGames.push(game);
+
+				} else {
+
+					unlicensedGames.push(game);
+
 				}
-
-				if (game.players > 1) {
-					multiplayer = ' <span class="tag tag-info">Multi (' + game.players + ')</span>';
-				}
-
-				if (game.multiplayer['simultaneous-coop']) {
-					simultaneous_coop = ' <span class="tag tag-success">Simo Co-Op</span>';
-				}
-
-				if (game.multiplayer['alternating-coop']) {
-					alternating_coop = ' <span class="tag tag-success">Alt Co-Op</span>';
-				}
-
-				if (game.multiplayer['simultaneous-vs']) {
-					simultaneous_vs = ' <span class="tag tag-danger">Simo Vs</span>';
-				}
-
-				if (game.multiplayer['alternating-vs']) {
-					alternating_vs = ' <span class="tag tag-danger">Alt Vs</span>';
-				}
-
-				html += '<li' + compatibility + '>' + game.name + multiplayer + simultaneous_coop + alternating_coop + simultaneous_vs + alternating_vs + '</li>';
 
 			});
 
-			if (system.games.length === 0) {
-				html += '<li>None</li>';
+			var systemHeading = system.name.replace(/\s+/g, '-').toLowerCase();
+			var systemContent = systemHeading + '-games';
+
+			var complete = '';
+
+			if (system.licensed !== null) {
+				complete = ' (Complete)';
 			}
 
-			html += '</ul>';
+			html += '<h5 id="' + systemHeading + '">';
+				html += '<a data-toggle="collapse" data-parent="#games" href="#' + systemContent + '" aria-controls="' + systemContent + '">';
+					html += '<img class="system-icon" src="/img/systems/' + systemHeading + '.png">';
+					html += '<span>' + system.name + complete + ' (' + system.games.length + ')</span>';
+				html += '</a>';
+			html += '</h5>';
+
+			html += '<div id="' + systemContent + '" class="collapse" role="tabpanel" aria-labelledby="' + systemHeading + '">';
+
+			html += '<h6>Licensed</h6>';
+
+			html += renderGames(licensedGames);
+
+			html += '<h6>Unlicensed</h6>';
+
+			html += renderGames(unlicensedGames);
+
+			html += '</div>';
 
 		});
 
