@@ -140,7 +140,7 @@ def convert_metadata_to_systems(metadata):
 
 			games[game['name']] = game
 
-		system[_system['name']] = games
+		systems[_system['name']] = games
 
 	return systems
 
@@ -205,6 +205,8 @@ def update_metadata():
 		for game in games:
 
 			if game['name'] not in systems[system]:
+
+				# print game['name']
 
 				systems[system][game['name']] = game
 
