@@ -7550,6 +7550,132 @@
             {
                 "compatibility": {
                     "pi0": null,
+                    "pi3": null
+                },
+                "description": "The mesmerizing force of Tetris returns with virtual style! This thrilling animated puzzler takes dexterity and split-second timing to the extreme with dimensional blocks and challenging planes. 3-D Tetris propels players at a demanding pace where quick response and strategy rule. Tetris devotees of all levels will crave this latest sensation of brain-teasing fun!",
+                "developer": "T&E Soft",
+                "genre": "Puzzle",
+                "image": "./images/3-D Tetris-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "3-D Tetris",
+                "players": 1,
+                "publisher": "Nintendo",
+                "releaseDate": "19960322T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Bomberman Blasts the Island of Ever Mist!\n\nGet ready for explosive puzzler action with Bomberman! Detonate the worlds of Scary Ruins, Sinister Forest, and Desert Desolation. Conquer the Island of Ever Mist and capture the three celestial models of power.\n\nDon't panic! Or you might get scorched by greedy Ms. Flashy or the deadly Count Dracu-Doom. Ignite the dreaded Doom Castle with bombastic moves and combustive strategy. Only then can you open the gates to the legendary Golden Statue of Bomberman. It's a puzzling blast!",
+                "developer": "Hudson Soft",
+                "genre": "Puzzle",
+                "image": "./images/Bomberman - Panic Bomber-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Bomberman: Panic Bomber",
+                "players": 1,
+                "publisher": "Nintendo",
+                "releaseDate": "19950101T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Prepare to enter the vast expanse of the Milky Way. Put your pinball skills to an interstellar test with four incredible space tables.\n\nBlast your pinball at rotating planets and turn them into dust in the Cosmic world. Send your puck flying through galactic formations in the deep-space Colony. Defeat an evil skeleton and hit the ultimate UFO jackpot! Knock down multiple rings and destroy wicked assailants in an Alien place. Defy arduous obstacles and save the world from impending devastation!",
+                "developer": "Intelligent Systems",
+                "genre": null,
+                "image": "./images/Galactic Pinball-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Galactic Pinball",
+                "players": 1,
+                "publisher": "Nintendo",
+                "releaseDate": "19950814T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Tee off for 18 holes of realistic 3-D links! Virtual Boy Golf elevates the game to an incredible new level!\n\nDetermine your strategy as you ponder the conditions. Check your position and the distance to the pin. Select a club and adjust your swing. Consider the wind factor carefully or you could end up out of bounds! Each dimensional fairway provides harrowing hazards to challenge players of all handicaps. Swing into action and go for a hole in one!",
+                "developer": "T&E Soft",
+                "genre": "Sports",
+                "image": "./images/Golf-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Golf",
+                "players": 1,
+                "publisher": "Nintendo",
+                "releaseDate": "19951101T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "The portal between Earth and another mysterious dimension has opened, and the intrepid Jack Brothers have come through for an adventure in our world. Having lost track of time, they now have only one hour to return to their home or be banished forever. Help them battle hoards of loathsome enemies through six electrifying 3-D levels, each with many floors to explore and conquer. This is one phenomenal adventure you can't afford to miss!",
+                "developer": "Atlus",
+                "genre": "Action",
+                "image": "./images/Jack Bros.-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Jack Bros.",
+                "players": 1,
+                "publisher": "Atlus",
+                "releaseDate": "19951001T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Mario finds himself pitted against a host of evil and nasty enemies. You must help him outwit the Spikes, Para-Goombahs, and other beasts and evils that lurk inside a tower that reaches to the clouds. After stunning a Koopa, he uses it as ammo against his enemies! The attack is relentless!\n\nBut watch out, there are also creatures made of fire and ice that must be avoided -- hazards at every turn. Even the narrow ledges on which Mario teeters and the pipes he races through must be traversed with caution!\n\nThe pace gets hotter at each level, and the action jumps right out at you! Hold on! This 3-D Virtual Boy game offers a white-knuckled adventure that will keep you on the edge of your seat!",
+                "developer": "Nintendo",
+                "genre": "Action",
+                "image": "./images/Mario Clash-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Mario Clash",
+                "players": 1,
+                "publisher": "Nintendo",
+                "releaseDate": "19951001T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
                     "pi3": true
                 },
                 "description": "Smashing tennis action with incredible depth on a realistic 3-D court! Experience the ultimate Virtual Boy sports game in either singles or doubles mode.",
@@ -7567,6 +7693,153 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "19950814T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Nester, the one-time bad boy of comic fame, brings you the funkiest game of bowling you'll ever experience in 3-D. Finally fans can throw a strike without putting on ill-fitting shoes!\n\nHester, the unknown twin sister, makes her debut appearance. Watch out as the action picks up and the tensions build for these hot-headed bowlers. Their egos clash with outlandish gestures and funky expressions.",
+                "developer": "Saffire Corporation",
+                "genre": "Sports",
+                "image": "./images/Nester's Funky Bowling-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Nester's Funky Bowling",
+                "players": 1,
+                "publisher": "Nintendo",
+                "releaseDate": "19960226T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Bursting through incredible dimensions of Virtual space the final mission is clear. Obliterate all enemies and obstacles created by KAOS and terminate this menacing battle system from within.\n\nEmploying an impressive arsenal of high-tech weapons and evasive maneuvers the Tech-Wing Fighter speeds on. Spinning deaths, spy pods and mosquito mechs appear from everywhere! The fate of humanity will soon be defined. Red Alarm! Red Alarm! Alarm Condition Red!!",
+                "developer": "T&E Soft",
+                "genre": "Shooter",
+                "image": "./images/Red Alarm-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Red Alarm",
+                "players": 1,
+                "publisher": "Nintendo",
+                "releaseDate": "19950814T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "In a savage display of pounding moves and lightning action, robotic boxers from around the globe step into a futuristic ring. Mirroring the movements of the humans in control, each Teleroboxer is capable of surviving defense matches unbearable to mankind.\n\nSlug it out to the staggering end to determine the true world champion. Created with specialized Techtronic powers and unique personalities, these responsive machines show no mercy on their way to the brutal top.",
+                "developer": "Nintendo",
+                "genre": "Fighting",
+                "image": "./images/Teleroboxer-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Teleroboxer",
+                "players": 1,
+                "publisher": "Nintendo",
+                "releaseDate": "19950814T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Pilot a Futuristic Star Fighter in a Battle for Mankind!\n\nGALACTIC YEAR 210. The earth and its colonies face annihilation in a futuristic war against the human race. YOU have been chosen to pilot RAGNAROK, a star fighter from an advanced alien civilization.\n\nReinforced by fearless AI CHARACTERS, you must locate and destroy menacing fighters and enemy droids. With sheer VERTICAL FORCE blast your way into another dimension to the final Virtual frontier. This mission for mankind is brutal. Be prepared, for it has only just begun!",
+                "developer": "Hudson Soft",
+                "genre": null,
+                "image": "./images/Vertical Force-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Vertical Force",
+                "players": 1,
+                "publisher": "Nintendo",
+                "releaseDate": "19951201T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Yikes!!! Get ready for a devious treasure hunt with the infamous scheming Wario. Capture the shining gold and vast treasures locked deep inside a hidden cave. But, beware of poison ponds, perilous prisons, endless walls and creepy woods! Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths. Blow away enemy cave defenders with body attacks and power actions. Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!",
+                "developer": "Nintendo",
+                "genre": "Platform",
+                "image": "./images/Virtual Boy Wario Land-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Virtual Boy Wario Land",
+                "players": 1,
+                "publisher": "Nintendo",
+                "releaseDate": "19951127T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Hey batta batta swing! You're in the virtual big leagues now. Playing 18 teams from around the world. Throwing fast balls, forkballs, sinkers, sliders and changeups. Swinging for the fence, and laying down bunts. Shagging flies. Snagging drives. And tagging out runners. All in bigger-than-life 3D. With single game, all star and pennant race modes. And catch this: it's the only baseball game good enough to play in the virtual boy ball park. So don't drop the ball. Pick up a starting pitcher. Set your DH. And step up to the plate.",
+                "developer": "Kemco",
+                "genre": "Sports",
+                "image": "./images/Virtual League Baseball-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Virtual League Baseball",
+                "players": 1,
+                "publisher": "Kemco",
+                "releaseDate": "19950911T000000"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "THE DEACON AWAITS!\n\nThe Deacon will stop at nothing to control the world's most precious resource...\n\nAnd he's turned his blood-thirsty Smokers loose on the Atoller civilization in a frantic search for Enola - the tattooed girl who holds the secret to Dryland. Only you can smoke the Smokers and deck the Deacon!\n\nWaterworld brings your Virtual Boy screaming to life with incredibly smooth and realistic 3D animations, particle effects and texture mapped rendered graphics. So step into this action packed arcade experience today and learn what 3D gaming is all about.",
+                "developer": "Ocean Software",
+                "genre": "Action",
+                "image": "./images/Waterworld-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Waterworld",
+                "players": 1,
+                "publisher": "Ocean Software",
+                "releaseDate": "19951221T000000"
             }
         ],
         "licensed": 14,
