@@ -1,7 +1,6 @@
 import os
-import xmltodict
 import json
-import collections
+import xmltodict
 
 
 def str2bool(string):
