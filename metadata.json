@@ -577,7 +577,7 @@
         ],
         "id": 4,
         "licensed": null,
-        "name": "Game Boy"
+        "name": "Nintendo Game Boy"
     },
     {
         "games": [
@@ -958,7 +958,7 @@
         ],
         "id": 5,
         "licensed": null,
-        "name": "Game Boy Advance"
+        "name": "Nintendo Game Boy Advance"
     },
     {
         "games": [
@@ -1471,7 +1471,7 @@
         ],
         "id": 41,
         "licensed": null,
-        "name": "Game Boy Color"
+        "name": "Nintendo Game Boy Color"
     },
     {
         "games": [],
@@ -1483,7 +1483,7 @@
         "games": [],
         "id": 4929,
         "licensed": null,
-        "name": "MSX / MSX2"
+        "name": "MSX"
     },
     {
         "games": [],
@@ -4839,7 +4839,7 @@
         ],
         "id": 7,
         "licensed": null,
-        "name": "Nintendo Entertainment System"
+        "name": "Nintendo Entertainment System (NES)"
     },
     {
         "games": [
@@ -5066,7 +5066,7 @@
         ],
         "id": 10,
         "licensed": null,
-        "name": "PlayStation"
+        "name": "Sony PlayStation"
     },
     {
         "games": [
@@ -7733,7 +7733,7 @@
         ],
         "id": 6,
         "licensed": null,
-        "name": "Super Nintendo"
+        "name": "Super Nintendo (SNES)"
     },
     {
         "games": [
@@ -8237,12 +8237,12 @@
         ],
         "id": 4918,
         "licensed": 14,
-        "name": "Virtual Boy"
+        "name": "Nintendo Virtual Boy"
     },
     {
         "games": [],
         "id": 4913,
         "licensed": null,
-        "name": "ZX Spectrum"
+        "name": "Sinclair ZX Spectrum"
     }
 ]

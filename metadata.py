@@ -1,5 +1,3 @@
-# python -m SimpleHTTPServer 8080
-
 import os
 import xmltodict
 import json

@@ -7,9 +7,9 @@ var Metadata = (function() {
 		'Famicom Disk System',
 		'Final Burn Alpha',
 		'MAME',
-		'MSX / MSX2',
+		'MSX',
 		'Vectrex',
-		'ZX Spectrum',
+		'Sinclair ZX Spectrum',
 	];
 
 	var filterMetadata = function(metadata, filters) {
