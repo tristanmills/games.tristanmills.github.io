@@ -31,25 +31,25 @@ def parse_gameslist(file):
 
 	games = []
 
-	processedGames = []
+	processed_games = []
 
 	xml_ = open(file, 'r').read()
 
 	dict_ = xmltodict.parse(xml_)
 
-	gameList = dict_['gameList']
+	gamelist = dict_['gameList']
 
-	if gameList is None:
+	if gamelist is None:
 
-		gameList = {}
+		gamelist = {}
 
-	if '@system' in gameList:
+	if '@system' in gamelist:
 
-		system = gameList['@system']
+		system = gamelist['@system']
 
-	if 'game' in gameList:
+	if 'game' in gamelist:
 
-		games = gameList['game']
+		games = gamelist['game']
 
 	if isinstance(games, list) is False:
 
@@ -57,7 +57,7 @@ def parse_gameslist(file):
 
 	for game in games:
 
-		processedGame = {
+		processed_game = {
 			'name': game['name'],
 			'description': game['desc'],
 			'image': game['image'],
@@ -81,58 +81,49 @@ def parse_gameslist(file):
 
 		if 'licensed' in game:
 
-			processedGame['licensed'] = str2bool(game['licensed'])
+			processed_game['licensed'] = str2bool(game['licensed'])
 
 		if 'releasedate' in game:
 
-			processedGame['releaseDate'] = game['releasedate']
+			processed_game['releaseDate'] = game['releasedate']
 
 		if 'developer' in game:
 
-			processedGame['developer'] = game['developer']
+			processed_game['developer'] = game['developer']
 
 		if 'publisher' in game:
 
-			processedGame['publisher'] = game['publisher']
+			processed_game['publisher'] = game['publisher']
 
 		if 'genre' in game:
 
-			processedGame['genre'] = game['genre']
+			processed_game['genre'] = game['genre']
 
 		if 'players' in game and game['players'] is not None:
 
-			processedGame['players'] = game['players'].strip('+')
-			processedGame['players'] = int(processedGame['players'])
+			processed_game['players'] = game['players'].strip('+')
+			processed_game['players'] = int(processed_game['players'])
 
 		if 'multiplayer' in game:
 
-			processedGame['multiplayer']['simultaneous-coop'] = str2bool(game['multiplayer']['@simultaneous-coop'])
-			processedGame['multiplayer']['alternating-coop'] = str2bool(game['multiplayer']['@alternating-coop'])
-			processedGame['multiplayer']['simultaneous-vs'] = str2bool(game['multiplayer']['@simultaneous-vs'])
-			processedGame['multiplayer']['alternating-vs'] = str2bool(game['multiplayer']['@alternating-vs'])
+			processed_game['multiplayer']['simultaneous-coop'] = str2bool(game['multiplayer']['@simultaneous-coop'])
+			processed_game['multiplayer']['alternating-coop'] = str2bool(game['multiplayer']['@alternating-coop'])
+			processed_game['multiplayer']['simultaneous-vs'] = str2bool(game['multiplayer']['@simultaneous-vs'])
+			processed_game['multiplayer']['alternating-vs'] = str2bool(game['multiplayer']['@alternating-vs'])
 
 		if 'compatibility' in game:
 
 			if '@pi0' in game['compatibility']:
 
-				processedGame['compatibility']['pi0'] = str2bool(game['compatibility']['@pi0'])
+				processed_game['compatibility']['pi0'] = str2bool(game['compatibility']['@pi0'])
 
 			if '@pi3' in game['compatibility']:
 
-				processedGame['compatibility']['pi3'] = str2bool(game['compatibility']['@pi3'])
+				processed_game['compatibility']['pi3'] = str2bool(game['compatibility']['@pi3'])
 
-		processedGames.append(processedGame)
+		processed_games.append(processed_game)
 
-	return system, processedGames
-
-
-def get_metadata():
-
-	json_ = open('metadata.json', 'r').read()
-
-	metadata = json.loads(json_)
-
-	return metadata
+	return system, processed_games
 
 
 def convert_metadata_to_systems(metadata):
@@ -164,7 +155,7 @@ def merge_systems_into_metadata(systems, metadata):
 
 			metadata[key]['games'] = sorted(games.values(), key=lambda k: k['name'])
 
-	metadata = sorted(metadata.values(), key=lambda k: k['name'])
+	metadata = sorted(metadata, key=lambda k: k['name'])
 
 	return metadata
 
@@ -176,9 +167,29 @@ def put_metadata(metadata):
 	open('metadata.json', 'w').write(metadata)
 
 
+def put_metadata_partial(metadata):
+
+	for system in metadata:
+
+		for game in system['games']:
+
+			del game['description']
+			del game['image']
+			del game['releaseDate']
+			del game['developer']
+			del game['publisher']
+			del game['genre']
+
+	metadata = json.dumps(metadata, indent=4, sort_keys=True, separators=(',', ': '))
+
+	open('partial-metadata.json', 'w').write(metadata)
+
+
 def update_metadata():
 
-	metadata = get_metadata()
+	json_ = open('metadata.json', 'r').read()
+
+	metadata = json.loads(json_)
 
 	systems = convert_metadata_to_systems(metadata)
 
@@ -203,30 +214,10 @@ def update_metadata():
 
 					systems[system][game['name']][key] = value
 
+	merge_systems_into_metadata(systems, metadata)
+
 	put_metadata(metadata)
-
-
-def update_games():
-
-	json_ = open('metadata.json', 'r').read()
-
-	metadata = json.loads(json_)
-
-	for system in metadata:
-
-		for game in system['games']:
-
-			del game['description']
-			del game['image']
-			del game['releaseDate']
-			del game['developer']
-			del game['publisher']
-			del game['genre']
-
-	metadata = json.dumps(metadata, indent=4, sort_keys=True, separators=(',', ': '))
-
-	open('games.json', 'w').write(metadata)
+	put_metadata_partial(metadata)
 
 
 update_metadata()
-update_games()
