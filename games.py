@@ -12,7 +12,7 @@ def str2bool(string):
 
 def get_gameslists(folder):
 
-	gameslists = []
+	gameslists = {}
 
 	for dirpath, dirnames, filenames in os.walk(folder):
 
@@ -20,7 +20,9 @@ def get_gameslists(folder):
 
 			path = os.path.join(dirpath, filename).replace('\\', '/')
 
-			gameslists.append(path)
+			system_name, games = parse_gameslist(path)
+
+			gameslists[system_name] = games
 
 	return gameslists
 
@@ -130,26 +132,44 @@ def get_metadata():
 
 	metadata = json.loads(json_)
 
-	for system, games in metadata.iteritems():
+	return metadata
 
-		_games = {}
 
-		for game in games:
+def convert_metadata_to_systems(metadata):
 
-			_games[game['name']] = game
+	systems = {}
 
-		metadata[system] = _games
+	for _system in metadata:
+
+		system = {}
+
+		games = {}
+
+		for game in _system['games']:
+
+			games[game['name']] = game
+
+		system[_system['name']] = games
+
+	return systems
+
+
+def merge_systems_into_metadata(systems, metadata):
+
+	for key, system in enumerate(metadata):
+
+		if system['name'] in systems:
+
+			games = systems[system['name']]
+
+			metadata[key]['games'] = sorted(games.values(), key=lambda k: k['name'])
+
+	metadata = sorted(metadata.values(), key=lambda k: k['name'])
 
 	return metadata
 
 
 def put_metadata(metadata):
-
-	for system, games in metadata.iteritems():
-
-		metadata[system] = sorted(games.values(), key=lambda k: k['name'])
-
-	metadata = collections.OrderedDict(sorted(metadata.items()))
 
 	metadata = json.dumps(metadata, indent=4, sort_keys=True, separators=(',', ': '))
 
@@ -160,28 +180,28 @@ def update_metadata():
 
 	metadata = get_metadata()
 
+	systems = convert_metadata_to_systems(metadata)
+
 	gameslists = get_gameslists('/retropie/roms/')
 	# gameslists = get_gameslists('//RETROPIE/roms/')
 
-	for gameslist in gameslists:
+	for system, games in gameslists.iteritems():
 
-		system, games = parse_gameslist(gameslist)
+		if system not in systems:
 
-		if system not in metadata:
-
-			metadata[system] = {}
+			systems[system] = {}
 
 		for game in games:
 
-			if game['name'] not in metadata[system]:
+			if game['name'] not in systems[system]:
 
-				metadata[system][game['name']] = game
+				systems[system][game['name']] = game
 
 			for key, value in game.iteritems():
 
-				if key not in metadata[system][game['name']]:
+				if key not in systems[system][game['name']]:
 
-					metadata[system][game['name']][key] = value
+					systems[system][game['name']][key] = value
 
 	put_metadata(metadata)
 
@@ -192,9 +212,9 @@ def update_games():
 
 	metadata = json.loads(json_)
 
-	for system, games in metadata.iteritems():
+	for system in metadata:
 
-		for game in games:
+		for game in system['games']:
 
 			del game['description']
 			del game['image']
