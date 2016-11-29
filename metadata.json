@@ -7556,7 +7556,7 @@
                 "developer": "T&E Soft",
                 "genre": "Puzzle",
                 "image": "./images/3-D Tetris-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -7577,7 +7577,7 @@
                 "developer": "Hudson Soft",
                 "genre": "Puzzle",
                 "image": "./images/Bomberman - Panic Bomber-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -7598,7 +7598,7 @@
                 "developer": "Intelligent Systems",
                 "genre": null,
                 "image": "./images/Galactic Pinball-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -7619,7 +7619,7 @@
                 "developer": "T&E Soft",
                 "genre": "Sports",
                 "image": "./images/Golf-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -7640,7 +7640,7 @@
                 "developer": "Atlus",
                 "genre": "Action",
                 "image": "./images/Jack Bros.-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -7661,7 +7661,7 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "image": "./images/Mario Clash-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -7703,7 +7703,7 @@
                 "developer": "Saffire Corporation",
                 "genre": "Sports",
                 "image": "./images/Nester's Funky Bowling-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -7724,7 +7724,7 @@
                 "developer": "T&E Soft",
                 "genre": "Shooter",
                 "image": "./images/Red Alarm-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -7745,7 +7745,7 @@
                 "developer": "Nintendo",
                 "genre": "Fighting",
                 "image": "./images/Teleroboxer-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -7766,7 +7766,7 @@
                 "developer": "Hudson Soft",
                 "genre": null,
                 "image": "./images/Vertical Force-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -7787,7 +7787,7 @@
                 "developer": "Nintendo",
                 "genre": "Platform",
                 "image": "./images/Virtual Boy Wario Land-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -7808,7 +7808,7 @@
                 "developer": "Kemco",
                 "genre": "Sports",
                 "image": "./images/Virtual League Baseball-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -7829,7 +7829,7 @@
                 "developer": "Ocean Software",
                 "genre": "Action",
                 "image": "./images/Waterworld-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
