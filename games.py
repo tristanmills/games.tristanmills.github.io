@@ -58,6 +58,7 @@ def parse_gameslist(file):
 	for game in games:
 
 		processed_game = {
+			'id': None,
 			'name': game['name'],
 			'description': game['desc'],
 			'image': game['image'],
@@ -78,6 +79,10 @@ def parse_gameslist(file):
 				'pi3': None,
 			},
 		}
+
+		if 'id' in game:
+
+			processed_game['id'] = int(game['id'])
 
 		if 'licensed' in game:
 
@@ -173,6 +178,7 @@ def put_metadata_partial(metadata):
 
 		for game in system['games']:
 
+			del game['id']
 			del game['description']
 			del game['image']
 			del game['releaseDate']

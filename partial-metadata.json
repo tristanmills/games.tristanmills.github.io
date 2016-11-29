@@ -1,11 +1,13 @@
 [
     {
         "games": [],
+        "id": 4914,
         "licensed": null,
         "name": "Amstrad CPC"
     },
     {
         "games": [],
+        "id": 23,
         "licensed": null,
         "name": "Arcade"
     },
@@ -87,6 +89,7 @@
                 "players": 1
             }
         ],
+        "id": 22,
         "licensed": null,
         "name": "Atari 2600"
     },
@@ -153,6 +156,7 @@
                 "players": 1
             }
         ],
+        "id": 27,
         "licensed": null,
         "name": "Atari 7800"
     },
@@ -174,16 +178,19 @@
                 "players": 1
             }
         ],
+        "id": 4924,
         "licensed": null,
         "name": "Atari Lynx"
     },
     {
         "games": [],
+        "id": 4936,
         "licensed": null,
         "name": "Famicom Disk System"
     },
     {
         "games": [],
+        "id": null,
         "licensed": null,
         "name": "Final Burn Alpha"
     },
@@ -400,6 +407,7 @@
                 "players": 1
             }
         ],
+        "id": 4,
         "licensed": null,
         "name": "Game Boy"
     },
@@ -661,6 +669,7 @@
                 "players": 1
             }
         ],
+        "id": 5,
         "licensed": null,
         "name": "Game Boy Advance"
     },
@@ -1012,21 +1021,25 @@
                 "players": 1
             }
         ],
+        "id": 41,
         "licensed": null,
         "name": "Game Boy Color"
     },
     {
         "games": [],
+        "id": null,
         "licensed": null,
         "name": "MAME"
     },
     {
         "games": [],
+        "id": 4929,
         "licensed": null,
         "name": "MSX / MSX2"
     },
     {
         "games": [],
+        "id": 24,
         "licensed": null,
         "name": "Neo Geo"
     },
@@ -1063,6 +1076,7 @@
                 "players": 1
             }
         ],
+        "id": 4922,
         "licensed": null,
         "name": "Neo Geo Pocket"
     },
@@ -1114,6 +1128,7 @@
                 "players": 1
             }
         ],
+        "id": 4923,
         "licensed": null,
         "name": "Neo Geo Pocket Color"
     },
@@ -2455,6 +2470,7 @@
                 "players": 1
             }
         ],
+        "id": 3,
         "licensed": null,
         "name": "Nintendo 64"
     },
@@ -3316,6 +3332,7 @@
                 "players": 1
             }
         ],
+        "id": 7,
         "licensed": null,
         "name": "Nintendo Entertainment System"
     },
@@ -3472,6 +3489,7 @@
                 "players": 1
             }
         ],
+        "id": 10,
         "licensed": null,
         "name": "PlayStation"
     },
@@ -3988,6 +4006,7 @@
                 "players": 2
             }
         ],
+        "id": 33,
         "licensed": 34,
         "name": "Sega 32X"
     },
@@ -4009,6 +4028,7 @@
                 "players": 1
             }
         ],
+        "id": 21,
         "licensed": null,
         "name": "Sega CD"
     },
@@ -4030,6 +4050,7 @@
                 "players": 1
             }
         ],
+        "id": 20,
         "licensed": null,
         "name": "Sega Game Gear"
     },
@@ -4201,6 +4222,7 @@
                 "players": 1
             }
         ],
+        "id": 18,
         "licensed": null,
         "name": "Sega Genesis"
     },
@@ -4222,6 +4244,7 @@
                 "players": 1
             }
         ],
+        "id": 35,
         "licensed": null,
         "name": "Sega Master System"
     },
@@ -4243,6 +4266,7 @@
                 "players": 1
             }
         ],
+        "id": 4949,
         "licensed": null,
         "name": "Sega SG-1000"
     },
@@ -5299,6 +5323,7 @@
                 "players": 2
             }
         ],
+        "id": 6,
         "licensed": null,
         "name": "Super Nintendo"
     },
@@ -5425,11 +5450,13 @@
                 "players": 1
             }
         ],
+        "id": 34,
         "licensed": null,
         "name": "TurboGrafx 16"
     },
     {
         "games": [],
+        "id": 4939,
         "licensed": null,
         "name": "Vectrex"
     },
@@ -5646,11 +5673,13 @@
                 "players": 1
             }
         ],
+        "id": 4918,
         "licensed": 14,
         "name": "Virtual Boy"
     },
     {
         "games": [],
+        "id": 4913,
         "licensed": null,
         "name": "ZX Spectrum"
     }
