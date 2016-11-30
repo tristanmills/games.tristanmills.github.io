@@ -1,6 +1,7 @@
 import os
 import json
 import xmltodict
+import datetime
 
 
 def str2bool(string):
@@ -87,7 +88,7 @@ def parse_gameslist(file):
 
 		if 'releasedate' in game:
 
-			processed_game['releaseDate'] = game['releasedate']
+			processed_game['releaseDate'] = datetime.datetime.strptime(game['releasedate'], '%Y%m%dT000000').strftime('%Y-%m-%d')
 
 		if 'developer' in game:
 
@@ -103,8 +104,7 @@ def parse_gameslist(file):
 
 		if 'players' in game and game['players'] is not None:
 
-			processed_game['players'] = game['players'].strip('+')
-			processed_game['players'] = int(processed_game['players'])
+			processed_game['players'] = int(game['players'].strip('+'))
 
 		if 'multiplayer' in game:
 

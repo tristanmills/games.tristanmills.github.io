@@ -2,6 +2,7 @@ import json
 import xmltodict
 import urllib
 import requests
+import datetime
 
 
 def parse_data(data):
@@ -18,7 +19,7 @@ def parse_data(data):
 
 	if 'ReleaseDate' in data['Game']:
 
-		game['releaseDate'] = data['Game']['ReleaseDate']
+		game['releaseDate'] = processed_game['releaseDate'] = datetime.datetime.strptime(data['Game']['ReleaseDate'], '%m/%d/%Y').strftime('%Y-%m-%d')
 
 	if 'Developer' in data['Game']:
 
@@ -34,7 +35,7 @@ def parse_data(data):
 
 	if 'Players' in data['Game']:
 
-		game['players'] = data['Game']['Players'].strip('+')
+		game['players'] = int(data['Game']['Players'].strip('+'))
 
 	return game
 
@@ -90,3 +91,6 @@ def validate_metadata():
 			else:
 
 				print system['name'] + ' - ' + game['name'] + ' - Failed\n'
+
+
+validate_metadata()

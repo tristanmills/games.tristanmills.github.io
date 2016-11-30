@@ -77,7 +77,7 @@
                 "name": "Pitfall II: Lost Caverns",
                 "players": 1,
                 "publisher": "Activision",
-                "releaseDate": "19830916T000000"
+                "releaseDate": "1983-09-16"
             },
             {
                 "compatibility": {
@@ -99,7 +99,7 @@
                 "name": "Pitfall!",
                 "players": 1,
                 "publisher": "Activision",
-                "releaseDate": "19820420T000000"
+                "releaseDate": "1982-04-20"
             },
             {
                 "compatibility": {
@@ -121,7 +121,7 @@
                 "name": "Pole Position",
                 "players": 1,
                 "publisher": "Atari",
-                "releaseDate": "19830101T000000"
+                "releaseDate": "1983-01-01"
             }
         ],
         "id": 22,
@@ -150,7 +150,7 @@
                 "name": "Asteroids",
                 "players": 2,
                 "publisher": "Atari",
-                "releaseDate": "19871101T000000"
+                "releaseDate": "1987-11-01"
             },
             {
                 "compatibility": {
@@ -172,7 +172,7 @@
                 "name": "Centipede",
                 "players": 2,
                 "publisher": "Atari",
-                "releaseDate": "19870601T000000"
+                "releaseDate": "1987-06-01"
             },
             {
                 "compatibility": {
@@ -194,7 +194,7 @@
                 "name": "DigDug",
                 "players": 2,
                 "publisher": "Atari",
-                "releaseDate": "19870601T000000"
+                "releaseDate": "1987-06-01"
             },
             {
                 "compatibility": {
@@ -216,7 +216,7 @@
                 "name": "Pole Position II",
                 "players": 1,
                 "publisher": "Atari",
-                "releaseDate": "19870101T000000"
+                "releaseDate": "1987-01-01"
             }
         ],
         "id": 27,
@@ -245,7 +245,7 @@
                 "name": "California Games",
                 "players": 1,
                 "publisher": "Atari",
-                "releaseDate": "19890707T000000"
+                "releaseDate": "1989-07-07"
             }
         ],
         "id": 4924,
@@ -286,7 +286,7 @@
                 "name": "Donkey Kong Land",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19950726T000000"
+                "releaseDate": "1995-07-26"
             },
             {
                 "compatibility": {
@@ -308,7 +308,7 @@
                 "name": "Donkey Kong Land 2",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19960116T000000"
+                "releaseDate": "1996-01-16"
             },
             {
                 "compatibility": {
@@ -330,7 +330,7 @@
                 "name": "Donkey Kong Land III",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19971001T000000"
+                "releaseDate": "1997-10-01"
             },
             {
                 "compatibility": {
@@ -352,7 +352,7 @@
                 "name": "Kirby's Dream Land",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19920801T000000"
+                "releaseDate": "1992-08-01"
             },
             {
                 "compatibility": {
@@ -374,7 +374,7 @@
                 "name": "Kirby's Dream Land 2",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19950501T000000"
+                "releaseDate": "1995-05-01"
             },
             {
                 "compatibility": {
@@ -396,7 +396,7 @@
                 "name": "Metroid II: Return of Samus",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19911101T000000"
+                "releaseDate": "1991-11-01"
             },
             {
                 "compatibility": {
@@ -418,7 +418,7 @@
                 "name": "Pok\u00e9mon Blue Version",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19961015T000000"
+                "releaseDate": "1996-10-15"
             },
             {
                 "compatibility": {
@@ -440,7 +440,7 @@
                 "name": "Pok\u00e9mon Red Version",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19960227T000000"
+                "releaseDate": "1996-02-27"
             },
             {
                 "compatibility": {
@@ -462,7 +462,7 @@
                 "name": "Pok\u00e9mon Yellow Version",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19980912T000000"
+                "releaseDate": "1998-09-12"
             },
             {
                 "compatibility": {
@@ -484,7 +484,7 @@
                 "name": "Super Mario Land",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19890421T000000"
+                "releaseDate": "1989-04-21"
             },
             {
                 "compatibility": {
@@ -506,7 +506,7 @@
                 "name": "Super Mario Land 2: 6 Golden Coins",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19921021T000000"
+                "releaseDate": "1992-10-21"
             },
             {
                 "compatibility": {
@@ -528,7 +528,7 @@
                 "name": "The Legend of Zelda: Link's Awakening",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19930606T000000"
+                "releaseDate": "1993-06-06"
             },
             {
                 "compatibility": {
@@ -550,7 +550,7 @@
                 "name": "Wario Land II",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19980302T000000"
+                "releaseDate": "1998-03-02"
             },
             {
                 "compatibility": {
@@ -572,7 +572,7 @@
                 "name": "Wario Land: Super Mario Land 3",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19940121T000000"
+                "releaseDate": "1994-01-21"
             }
         ],
         "id": 4,
@@ -601,7 +601,7 @@
                 "name": "Doom",
                 "players": 1,
                 "publisher": "Activision",
-                "releaseDate": "20011028T000000"
+                "releaseDate": "2001-10-28"
             },
             {
                 "compatibility": {
@@ -623,7 +623,7 @@
                 "name": "Doom II",
                 "players": 1,
                 "publisher": "Activision",
-                "releaseDate": "20021029T000000"
+                "releaseDate": "2002-10-29"
             },
             {
                 "compatibility": {
@@ -645,7 +645,7 @@
                 "name": "Duke Nukem Advance",
                 "players": 1,
                 "publisher": "Take-Two Interactive",
-                "releaseDate": "20020813T000000"
+                "releaseDate": "2002-08-13"
             },
             {
                 "compatibility": {
@@ -667,7 +667,7 @@
                 "name": "Gauntlet: Dark Legacy",
                 "players": 1,
                 "publisher": "Midway",
-                "releaseDate": "20021125T000000"
+                "releaseDate": "2002-11-25"
             },
             {
                 "compatibility": {
@@ -689,7 +689,7 @@
                 "name": "Metroid Fusion",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20021101T000000"
+                "releaseDate": "2002-11-01"
             },
             {
                 "compatibility": {
@@ -711,7 +711,7 @@
                 "name": "Metroid: Zero Mission",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20040209T000000"
+                "releaseDate": "2004-02-09"
             },
             {
                 "compatibility": {
@@ -733,7 +733,7 @@
                 "name": "Pokemon LeafGreen Version",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20040129T000000"
+                "releaseDate": "2004-01-29"
             },
             {
                 "compatibility": {
@@ -755,7 +755,7 @@
                 "name": "Pok\u00e9mon Emerald Version",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20040916T000000"
+                "releaseDate": "2004-09-16"
             },
             {
                 "compatibility": {
@@ -777,7 +777,7 @@
                 "name": "Pok\u00e9mon FireRed Version",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20040129T000000"
+                "releaseDate": "2004-01-29"
             },
             {
                 "compatibility": {
@@ -799,7 +799,7 @@
                 "name": "Pok\u00e9mon Ruby Version",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20021121T000000"
+                "releaseDate": "2002-11-21"
             },
             {
                 "compatibility": {
@@ -821,7 +821,7 @@
                 "name": "Pok\u00e9mon Sapphire Version",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20021121T000000"
+                "releaseDate": "2002-11-21"
             },
             {
                 "compatibility": {
@@ -843,7 +843,7 @@
                 "name": "Spyro 2: Season of Flame",
                 "players": 1,
                 "publisher": "Universal Interactive",
-                "releaseDate": "20020925T000000"
+                "releaseDate": "2002-09-25"
             },
             {
                 "compatibility": {
@@ -865,7 +865,7 @@
                 "name": "Spyro Orange: The Cortex Conspiracy",
                 "players": 1,
                 "publisher": "Vivendi Universal Games",
-                "releaseDate": "20040603T000000"
+                "releaseDate": "2004-06-03"
             },
             {
                 "compatibility": {
@@ -887,7 +887,7 @@
                 "name": "Spyro: Attack of the Rhynocs",
                 "players": 1,
                 "publisher": "VU Games",
-                "releaseDate": "20031027T000000"
+                "releaseDate": "2003-10-27"
             },
             {
                 "compatibility": {
@@ -909,7 +909,7 @@
                 "name": "Spyro: Season of Ice",
                 "players": 1,
                 "publisher": "Universal Interactive",
-                "releaseDate": "20011029T000000"
+                "releaseDate": "2001-10-29"
             },
             {
                 "compatibility": {
@@ -931,7 +931,7 @@
                 "name": "The Legend of Spyro: The Eternal Night",
                 "players": 1,
                 "publisher": "Sierra Entertainment",
-                "releaseDate": "20071002T000000"
+                "releaseDate": "2007-10-02"
             },
             {
                 "compatibility": {
@@ -953,7 +953,7 @@
                 "name": "The Legend of Zelda: The Minish Cap",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20050110T000000"
+                "releaseDate": "2005-01-10"
             }
         ],
         "id": 5,
@@ -982,7 +982,7 @@
                 "name": "Duke Nukem",
                 "players": 1,
                 "publisher": "GT Interactive",
-                "releaseDate": "19990910T000000"
+                "releaseDate": "1999-09-10"
             },
             {
                 "compatibility": {
@@ -1004,7 +1004,7 @@
                 "name": "Grand Theft Auto",
                 "players": 1,
                 "publisher": "Rockstar Games",
-                "releaseDate": "19991101T000000"
+                "releaseDate": "1999-11-01"
             },
             {
                 "compatibility": {
@@ -1026,7 +1026,7 @@
                 "name": "Grand Theft Auto 2",
                 "players": 1,
                 "publisher": "Rockstar",
-                "releaseDate": "20001215T000000"
+                "releaseDate": "2000-12-15"
             },
             {
                 "compatibility": {
@@ -1048,7 +1048,7 @@
                 "name": "Harvest Moon",
                 "players": 1,
                 "publisher": "Natsume, Inc.",
-                "releaseDate": "19991101T000000"
+                "releaseDate": "1999-11-01"
             },
             {
                 "compatibility": {
@@ -1070,7 +1070,7 @@
                 "name": "Harvest Moon 2",
                 "players": 1,
                 "publisher": "Natsume",
-                "releaseDate": "20001107T000000"
+                "releaseDate": "2000-11-07"
             },
             {
                 "compatibility": {
@@ -1092,7 +1092,7 @@
                 "name": "Harvest Moon 3",
                 "players": 1,
                 "publisher": "Natsume",
-                "releaseDate": "20000929T000000"
+                "releaseDate": "2000-09-29"
             },
             {
                 "compatibility": {
@@ -1114,7 +1114,7 @@
                 "name": "Mario Tennis",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20010616T000000"
+                "releaseDate": "2001-06-16"
             },
             {
                 "compatibility": {
@@ -1136,7 +1136,7 @@
                 "name": "Mega Man Xtreme",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "20010111T000000"
+                "releaseDate": "2001-01-11"
             },
             {
                 "compatibility": {
@@ -1158,7 +1158,7 @@
                 "name": "Mega Man Xtreme 2",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "20011030T000000"
+                "releaseDate": "2001-10-30"
             },
             {
                 "compatibility": {
@@ -1180,7 +1180,7 @@
                 "name": "Metal Gear Solid",
                 "players": 1,
                 "publisher": "Konami",
-                "releaseDate": "20000505T000000"
+                "releaseDate": "2000-05-05"
             },
             {
                 "compatibility": {
@@ -1202,7 +1202,7 @@
                 "name": "Mortal Kombat 4",
                 "players": 1,
                 "publisher": "Midway",
-                "releaseDate": "19981201T000000"
+                "releaseDate": "1998-12-01"
             },
             {
                 "compatibility": {
@@ -1224,7 +1224,7 @@
                 "name": "Pok\u00e9mon Crystal Version",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20001214T000000"
+                "releaseDate": "2000-12-14"
             },
             {
                 "compatibility": {
@@ -1246,7 +1246,7 @@
                 "name": "Pok\u00e9mon Gold Version",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19991121T000000"
+                "releaseDate": "1999-11-21"
             },
             {
                 "compatibility": {
@@ -1268,7 +1268,7 @@
                 "name": "Pok\u00e9mon Pinball",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19990628T000000"
+                "releaseDate": "1999-06-28"
             },
             {
                 "compatibility": {
@@ -1290,7 +1290,7 @@
                 "name": "Pok\u00e9mon Silver Version",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19991121T000000"
+                "releaseDate": "1999-11-21"
             },
             {
                 "compatibility": {
@@ -1312,7 +1312,7 @@
                 "name": "Pok\u00e9mon Trading Card Game",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20000410T000000"
+                "releaseDate": "2000-04-10"
             },
             {
                 "compatibility": {
@@ -1334,7 +1334,7 @@
                 "name": "Star Wars: Yoda Stories",
                 "players": 1,
                 "publisher": "THQ",
-                "releaseDate": "19991201T000000"
+                "releaseDate": "1999-12-01"
             },
             {
                 "compatibility": {
@@ -1356,7 +1356,7 @@
                 "name": "Super Mario Bros. Deluxe",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19990430T000000"
+                "releaseDate": "1999-04-30"
             },
             {
                 "compatibility": {
@@ -1378,7 +1378,7 @@
                 "name": "The Legend of Zelda: Link's Awakening DX",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19981201T000000"
+                "releaseDate": "1998-12-01"
             },
             {
                 "compatibility": {
@@ -1400,7 +1400,7 @@
                 "name": "The Legend of Zelda: Oracle of Ages",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20010514T000000"
+                "releaseDate": "2001-05-14"
             },
             {
                 "compatibility": {
@@ -1422,7 +1422,7 @@
                 "name": "The Legend of Zelda: Oracle of Seasons",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20010514T000000"
+                "releaseDate": "2001-05-14"
             },
             {
                 "compatibility": {
@@ -1444,7 +1444,7 @@
                 "name": "Wario Land 3",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20000501T000000"
+                "releaseDate": "2000-05-01"
             },
             {
                 "compatibility": {
@@ -1466,7 +1466,7 @@
                 "name": "Wario Land II",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19990331T000000"
+                "releaseDate": "1999-03-31"
             }
         ],
         "id": 41,
@@ -1513,7 +1513,7 @@
                 "name": "King of Fighters R-1",
                 "players": 1,
                 "publisher": "SNK",
-                "releaseDate": "19990316T000000"
+                "releaseDate": "1999-03-16"
             },
             {
                 "compatibility": {
@@ -1535,7 +1535,7 @@
                 "name": "Samurai Shodown!",
                 "players": 1,
                 "publisher": "SNK",
-                "releaseDate": "19981225T000000"
+                "releaseDate": "1998-12-25"
             }
         ],
         "id": 4922,
@@ -1564,7 +1564,7 @@
                 "name": "King of Fighters R-2",
                 "players": 1,
                 "publisher": "SNK",
-                "releaseDate": "19990319T000000"
+                "releaseDate": "1999-03-19"
             },
             {
                 "compatibility": {
@@ -1586,7 +1586,7 @@
                 "name": "SNK vs. Capcom: Match of the Millennium",
                 "players": 1,
                 "publisher": "SNK",
-                "releaseDate": "19991222T000000"
+                "releaseDate": "1999-12-22"
             },
             {
                 "compatibility": {
@@ -1608,7 +1608,7 @@
                 "name": "Samurai Shodown! 2",
                 "players": 1,
                 "publisher": "SNK",
-                "releaseDate": "19990430T000000"
+                "releaseDate": "1999-04-30"
             }
         ],
         "id": 4923,
@@ -1637,7 +1637,7 @@
                 "name": "007: The World Is Not Enough",
                 "players": 4,
                 "publisher": "Electronic Arts",
-                "releaseDate": "20001017T000000"
+                "releaseDate": "2000-10-17"
             },
             {
                 "compatibility": {
@@ -1659,7 +1659,7 @@
                 "name": "1080\u00b0 Snowboarding",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19980401T000000"
+                "releaseDate": "1998-04-01"
             },
             {
                 "compatibility": {
@@ -1681,7 +1681,7 @@
                 "name": "Aidyn Chronicles: The First Mage",
                 "players": 1,
                 "publisher": "THQ",
-                "releaseDate": "20010314T000000"
+                "releaseDate": "2001-03-14"
             },
             {
                 "compatibility": {
@@ -1703,7 +1703,7 @@
                 "name": "Banjo-Kazooie",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19980630T000000"
+                "releaseDate": "1998-06-30"
             },
             {
                 "compatibility": {
@@ -1725,7 +1725,7 @@
                 "name": "Banjo-Tooie",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20001119T000000"
+                "releaseDate": "2000-11-19"
             },
             {
                 "compatibility": {
@@ -1747,7 +1747,7 @@
                 "name": "Bomberman 64",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "19971201T000000"
+                "releaseDate": "1997-12-01"
             },
             {
                 "compatibility": {
@@ -1769,7 +1769,7 @@
                 "name": "Bomberman 64: The Second Attack!",
                 "players": 4,
                 "publisher": "Vatical Entertainment",
-                "releaseDate": "20000518T000000"
+                "releaseDate": "2000-05-18"
             },
             {
                 "compatibility": {
@@ -1791,7 +1791,7 @@
                 "name": "Bomberman Hero",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19980901T000000"
+                "releaseDate": "1998-09-01"
             },
             {
                 "compatibility": {
@@ -1813,7 +1813,7 @@
                 "name": "California Speed",
                 "players": 2,
                 "publisher": "Midway",
-                "releaseDate": "19990228T000000"
+                "releaseDate": "1999-02-28"
             },
             {
                 "compatibility": {
@@ -1835,7 +1835,7 @@
                 "name": "Castlevania",
                 "players": 1,
                 "publisher": "Konami",
-                "releaseDate": "19990126T000000"
+                "releaseDate": "1999-01-26"
             },
             {
                 "compatibility": {
@@ -1857,7 +1857,7 @@
                 "name": "Castlevania: Legacy of Darkness",
                 "players": 1,
                 "publisher": "Konami",
-                "releaseDate": "19991130T000000"
+                "releaseDate": "1999-11-30"
             },
             {
                 "compatibility": {
@@ -1879,7 +1879,7 @@
                 "name": "Command & Conquer",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19990629T000000"
+                "releaseDate": "1999-06-29"
             },
             {
                 "compatibility": {
@@ -1901,7 +1901,7 @@
                 "name": "Conker's Bad Fur Day",
                 "players": 4,
                 "publisher": "Rare Ltd.",
-                "releaseDate": "20010304T000000"
+                "releaseDate": "2001-03-04"
             },
             {
                 "compatibility": {
@@ -1923,7 +1923,7 @@
                 "name": "Cruis'n Exotica",
                 "players": 4,
                 "publisher": "Midway Games",
-                "releaseDate": "19980101T000000"
+                "releaseDate": "1998-01-01"
             },
             {
                 "compatibility": {
@@ -1945,7 +1945,7 @@
                 "name": "Cruis'n USA",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19961218T000000"
+                "releaseDate": "1996-12-18"
             },
             {
                 "compatibility": {
@@ -1967,7 +1967,7 @@
                 "name": "Cruis'n World",
                 "players": 4,
                 "publisher": "Midway Games",
-                "releaseDate": "19960101T000000"
+                "releaseDate": "1996-01-01"
             },
             {
                 "compatibility": {
@@ -1989,7 +1989,7 @@
                 "name": "Diddy Kong Racing",
                 "players": 4,
                 "publisher": "Rareware",
-                "releaseDate": "19971121T000000"
+                "releaseDate": "1997-11-21"
             },
             {
                 "compatibility": {
@@ -2011,7 +2011,7 @@
                 "name": "Disney's Tarzan",
                 "players": 1,
                 "publisher": "Activision",
-                "releaseDate": "19990715T000000"
+                "releaseDate": "1999-07-15"
             },
             {
                 "compatibility": {
@@ -2033,7 +2033,7 @@
                 "name": "Donkey Kong 64",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19991124T000000"
+                "releaseDate": "1999-11-24"
             },
             {
                 "compatibility": {
@@ -2055,7 +2055,7 @@
                 "name": "Doom 64",
                 "players": 1,
                 "publisher": "Midway",
-                "releaseDate": "19970331T000000"
+                "releaseDate": "1997-03-31"
             },
             {
                 "compatibility": {
@@ -2077,7 +2077,7 @@
                 "name": "Duke Nukem 64",
                 "players": 4,
                 "publisher": "Eurocom",
-                "releaseDate": "19971031T000000"
+                "releaseDate": "1997-10-31"
             },
             {
                 "compatibility": {
@@ -2099,7 +2099,7 @@
                 "name": "Duke Nukem: Zero Hour",
                 "players": 4,
                 "publisher": "GT Interactive",
-                "releaseDate": "19990801T000000"
+                "releaseDate": "1999-08-01"
             },
             {
                 "compatibility": {
@@ -2121,7 +2121,7 @@
                 "name": "Earthworm Jim 3D",
                 "players": 1,
                 "publisher": "Interplay/Rockstar",
-                "releaseDate": "19991030T000000"
+                "releaseDate": "1999-10-30"
             },
             {
                 "compatibility": {
@@ -2143,7 +2143,7 @@
                 "name": "Excitebike 64",
                 "players": 4,
                 "publisher": "Ninteno",
-                "releaseDate": "20000430T000000"
+                "releaseDate": "2000-04-30"
             },
             {
                 "compatibility": {
@@ -2165,7 +2165,7 @@
                 "name": "F-Zero X",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "19980714T000000"
+                "releaseDate": "1998-07-14"
             },
             {
                 "compatibility": {
@@ -2187,7 +2187,7 @@
                 "name": "F1 Pole Position 64",
                 "players": 1,
                 "publisher": "Ubisoft",
-                "releaseDate": "19971015T000000"
+                "releaseDate": "1997-10-15"
             },
             {
                 "compatibility": {
@@ -2209,7 +2209,7 @@
                 "name": "Gauntlet Legends",
                 "players": 4,
                 "publisher": "Atari Games",
-                "releaseDate": "19990831T000000"
+                "releaseDate": "1999-08-31"
             },
             {
                 "compatibility": {
@@ -2231,7 +2231,7 @@
                 "name": "Glover",
                 "players": 1,
                 "publisher": "Hasbro Interactive",
-                "releaseDate": "19981031T000000"
+                "releaseDate": "1998-10-31"
             },
             {
                 "compatibility": {
@@ -2253,7 +2253,7 @@
                 "name": "GoldenEye 007",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "19970823T000000"
+                "releaseDate": "1997-08-23"
             },
             {
                 "compatibility": {
@@ -2275,7 +2275,7 @@
                 "name": "Harvest Moon 64",
                 "players": 1,
                 "publisher": "Natsume",
-                "releaseDate": "19991130T000000"
+                "releaseDate": "1999-11-30"
             },
             {
                 "compatibility": {
@@ -2297,7 +2297,7 @@
                 "name": "Hydro Thunder",
                 "players": 4,
                 "publisher": "Midway Games",
-                "releaseDate": "19990909T000000"
+                "releaseDate": "1999-09-09"
             },
             {
                 "compatibility": {
@@ -2319,7 +2319,7 @@
                 "name": "Jet Force Gemini",
                 "players": 4,
                 "publisher": "Rare",
-                "releaseDate": "19991011T000000"
+                "releaseDate": "1999-10-11"
             },
             {
                 "compatibility": {
@@ -2341,7 +2341,7 @@
                 "name": "Killer Instinct Gold",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19961125T000000"
+                "releaseDate": "1996-11-25"
             },
             {
                 "compatibility": {
@@ -2363,7 +2363,7 @@
                 "name": "Kirby 64: The Crystal Shards",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "20000626T000000"
+                "releaseDate": "2000-06-26"
             },
             {
                 "compatibility": {
@@ -2385,7 +2385,7 @@
                 "name": "Lego Racers",
                 "players": 2,
                 "publisher": "Lego Media",
-                "releaseDate": "19991031T000000"
+                "releaseDate": "1999-10-31"
             },
             {
                 "compatibility": {
@@ -2407,7 +2407,7 @@
                 "name": "Madden NFL 2000",
                 "players": 4,
                 "publisher": "Ea",
-                "releaseDate": "19990831T000000"
+                "releaseDate": "1999-08-31"
             },
             {
                 "compatibility": {
@@ -2429,7 +2429,7 @@
                 "name": "Madden NFL 2001",
                 "players": 4,
                 "publisher": "EA",
-                "releaseDate": "20000905T000000"
+                "releaseDate": "2000-09-05"
             },
             {
                 "compatibility": {
@@ -2451,7 +2451,7 @@
                 "name": "Madden NFL 2002",
                 "players": 4,
                 "publisher": "Electronic Arts",
-                "releaseDate": "20010912T000000"
+                "releaseDate": "2001-09-12"
             },
             {
                 "compatibility": {
@@ -2473,7 +2473,7 @@
                 "name": "Madden NFL 99",
                 "players": 4,
                 "publisher": "Electronic Arts",
-                "releaseDate": "19980901T000000"
+                "releaseDate": "1998-09-01"
             },
             {
                 "compatibility": {
@@ -2495,7 +2495,7 @@
                 "name": "Mario Golf",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "19990730T000000"
+                "releaseDate": "1999-07-30"
             },
             {
                 "compatibility": {
@@ -2517,7 +2517,7 @@
                 "name": "Mario Kart 64",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "19961214T000000"
+                "releaseDate": "1996-12-14"
             },
             {
                 "compatibility": {
@@ -2539,7 +2539,7 @@
                 "name": "Mario Party",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "19981214T000000"
+                "releaseDate": "1998-12-14"
             },
             {
                 "compatibility": {
@@ -2561,7 +2561,7 @@
                 "name": "Mario Party 2",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "19991217T000000"
+                "releaseDate": "1999-12-17"
             },
             {
                 "compatibility": {
@@ -2583,7 +2583,7 @@
                 "name": "Mario Party 3",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "20001207T000000"
+                "releaseDate": "2000-12-07"
             },
             {
                 "compatibility": {
@@ -2605,7 +2605,7 @@
                 "name": "Mario Tennis",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "20000721T000000"
+                "releaseDate": "2000-07-21"
             },
             {
                 "compatibility": {
@@ -2627,7 +2627,7 @@
                 "name": "Mega Man 64",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "20001122T000000"
+                "releaseDate": "2000-11-22"
             },
             {
                 "compatibility": {
@@ -2649,7 +2649,7 @@
                 "name": "Mortal Kombat 4",
                 "players": 2,
                 "publisher": "Midway",
-                "releaseDate": "19980623T000000"
+                "releaseDate": "1998-06-23"
             },
             {
                 "compatibility": {
@@ -2671,7 +2671,7 @@
                 "name": "Mortal Kombat Trilogy",
                 "players": 2,
                 "publisher": "Midway",
-                "releaseDate": "19961031T000000"
+                "releaseDate": "1996-10-31"
             },
             {
                 "compatibility": {
@@ -2693,7 +2693,7 @@
                 "name": "Nuclear Strike 64",
                 "players": 1,
                 "publisher": "THQ",
-                "releaseDate": "19991202T000000"
+                "releaseDate": "1999-12-02"
             },
             {
                 "compatibility": {
@@ -2715,7 +2715,7 @@
                 "name": "Off Road Challenge",
                 "players": 2,
                 "publisher": "Midway",
-                "releaseDate": "19980630T000000"
+                "releaseDate": "1998-06-30"
             },
             {
                 "compatibility": {
@@ -2737,7 +2737,7 @@
                 "name": "Ogre Battle 64: Person of Lordly Caliber",
                 "players": 1,
                 "publisher": "Atlus",
-                "releaseDate": "20001007T000000"
+                "releaseDate": "2000-10-07"
             },
             {
                 "compatibility": {
@@ -2759,7 +2759,7 @@
                 "name": "Paper Mario",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20010205T000000"
+                "releaseDate": "2001-02-05"
             },
             {
                 "compatibility": {
@@ -2781,7 +2781,7 @@
                 "name": "Perfect Dark",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "20000522T000000"
+                "releaseDate": "2000-05-22"
             },
             {
                 "compatibility": {
@@ -2803,7 +2803,7 @@
                 "name": "Pokemon Stadium",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "20000229T000000"
+                "releaseDate": "2000-02-29"
             },
             {
                 "compatibility": {
@@ -2825,7 +2825,7 @@
                 "name": "Pokemon Stadium 2",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "20010328T000000"
+                "releaseDate": "2001-03-28"
             },
             {
                 "compatibility": {
@@ -2847,7 +2847,7 @@
                 "name": "Pok\u00e9mon Snap",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19990630T000000"
+                "releaseDate": "1999-06-30"
             },
             {
                 "compatibility": {
@@ -2869,7 +2869,7 @@
                 "name": "Quake",
                 "players": 2,
                 "publisher": "Midway",
-                "releaseDate": "19980324T000000"
+                "releaseDate": "1998-03-24"
             },
             {
                 "compatibility": {
@@ -2891,7 +2891,7 @@
                 "name": "Quake II",
                 "players": 4,
                 "publisher": "Activision",
-                "releaseDate": "19990630T000000"
+                "releaseDate": "1999-06-30"
             },
             {
                 "compatibility": {
@@ -2913,7 +2913,7 @@
                 "name": "Quest 64",
                 "players": 1,
                 "publisher": "THQ",
-                "releaseDate": "19980611T000000"
+                "releaseDate": "1998-06-11"
             },
             {
                 "compatibility": {
@@ -2935,7 +2935,7 @@
                 "name": "Rampage 2: Universal Tour",
                 "players": 3,
                 "publisher": "Midway",
-                "releaseDate": "19990301T000000"
+                "releaseDate": "1999-03-01"
             },
             {
                 "compatibility": {
@@ -2957,7 +2957,7 @@
                 "name": "Rampage: World Tour",
                 "players": 3,
                 "publisher": "Midway",
-                "releaseDate": "19980330T000000"
+                "releaseDate": "1998-03-30"
             },
             {
                 "compatibility": {
@@ -2979,7 +2979,7 @@
                 "name": "Road Rash 64",
                 "players": 4,
                 "publisher": "THQ",
-                "releaseDate": "19990922T000000"
+                "releaseDate": "1999-09-22"
             },
             {
                 "compatibility": {
@@ -3001,7 +3001,7 @@
                 "name": "Spider-Man",
                 "players": 1,
                 "publisher": "Activision",
-                "releaseDate": "20001121T000000"
+                "releaseDate": "2000-11-21"
             },
             {
                 "compatibility": {
@@ -3023,7 +3023,7 @@
                 "name": "Star Fox 64",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "19970427T000000"
+                "releaseDate": "1997-04-27"
             },
             {
                 "compatibility": {
@@ -3045,7 +3045,7 @@
                 "name": "Star Wars: Episode I - Racer",
                 "players": 2,
                 "publisher": "LucasArts",
-                "releaseDate": "19990517T000000"
+                "releaseDate": "1999-05-17"
             },
             {
                 "compatibility": {
@@ -3067,7 +3067,7 @@
                 "name": "Star Wars: Rogue Squadron",
                 "players": 1,
                 "publisher": "LucasArts",
-                "releaseDate": "19981203T000000"
+                "releaseDate": "1998-12-03"
             },
             {
                 "compatibility": {
@@ -3089,7 +3089,7 @@
                 "name": "Star Wars: Shadows of the Empire",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19961203T000000"
+                "releaseDate": "1996-12-03"
             },
             {
                 "compatibility": {
@@ -3111,7 +3111,7 @@
                 "name": "StarCraft 64",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "20000613T000000"
+                "releaseDate": "2000-06-13"
             },
             {
                 "compatibility": {
@@ -3133,7 +3133,7 @@
                 "name": "Super Mario 64",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19960623T000000"
+                "releaseDate": "1996-06-23"
             },
             {
                 "compatibility": {
@@ -3155,7 +3155,7 @@
                 "name": "Super Smash Bros.",
                 "players": 4,
                 "publisher": "Nintendo",
-                "releaseDate": "19990121T000000"
+                "releaseDate": "1999-01-21"
             },
             {
                 "compatibility": {
@@ -3177,7 +3177,7 @@
                 "name": "Superman",
                 "players": 4,
                 "publisher": "Titus",
-                "releaseDate": "19990531T000000"
+                "releaseDate": "1999-05-31"
             },
             {
                 "compatibility": {
@@ -3199,7 +3199,7 @@
                 "name": "The Legend of Zelda: Majora's Mask",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20001026T000000"
+                "releaseDate": "2000-10-26"
             },
             {
                 "compatibility": {
@@ -3221,7 +3221,7 @@
                 "name": "The Legend of Zelda: Ocarina of Time",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19981121T000000"
+                "releaseDate": "1998-11-21"
             },
             {
                 "compatibility": {
@@ -3243,7 +3243,7 @@
                 "name": "Tom Clancy's Rainbow Six",
                 "players": 2,
                 "publisher": "Red Storm Entertainment",
-                "releaseDate": "19980515T000000"
+                "releaseDate": "1998-05-15"
             },
             {
                 "compatibility": {
@@ -3265,7 +3265,7 @@
                 "name": "Tony Hawk's Pro Skater",
                 "players": 2,
                 "publisher": "Activision",
-                "releaseDate": "20000329T000000"
+                "releaseDate": "2000-03-29"
             },
             {
                 "compatibility": {
@@ -3287,7 +3287,7 @@
                 "name": "Tony Hawk's Pro Skater 2",
                 "players": 2,
                 "publisher": "Activision",
-                "releaseDate": "20010821T000000"
+                "releaseDate": "2001-08-21"
             },
             {
                 "compatibility": {
@@ -3309,7 +3309,7 @@
                 "name": "Tony Hawk's Pro Skater 3",
                 "players": 2,
                 "publisher": "Activision",
-                "releaseDate": "20020820T000000"
+                "releaseDate": "2002-08-20"
             },
             {
                 "compatibility": {
@@ -3331,7 +3331,7 @@
                 "name": "Turok 2: Seeds of Evil",
                 "players": 4,
                 "publisher": "Acclaim",
-                "releaseDate": "19981021T000000"
+                "releaseDate": "1998-10-21"
             },
             {
                 "compatibility": {
@@ -3353,7 +3353,7 @@
                 "name": "Turok 3: Shadow of Oblivion",
                 "players": 4,
                 "publisher": "Acclaim",
-                "releaseDate": "20000830T000000"
+                "releaseDate": "2000-08-30"
             },
             {
                 "compatibility": {
@@ -3375,7 +3375,7 @@
                 "name": "Turok: Dinosaur Hunter",
                 "players": 1,
                 "publisher": "Acclaim Entertainment",
-                "releaseDate": "19970304T000000"
+                "releaseDate": "1997-03-04"
             },
             {
                 "compatibility": {
@@ -3397,7 +3397,7 @@
                 "name": "Turok: Rage Wars",
                 "players": 4,
                 "publisher": "Acclaim",
-                "releaseDate": "19991031T000000"
+                "releaseDate": "1999-10-31"
             },
             {
                 "compatibility": {
@@ -3419,7 +3419,7 @@
                 "name": "WWF Attitude",
                 "players": 4,
                 "publisher": "Acclaim",
-                "releaseDate": "19990731T000000"
+                "releaseDate": "1999-07-31"
             },
             {
                 "compatibility": {
@@ -3441,7 +3441,7 @@
                 "name": "WWF No Mercy",
                 "players": 4,
                 "publisher": "THQ",
-                "releaseDate": "20001117T000000"
+                "releaseDate": "2000-11-17"
             },
             {
                 "compatibility": {
@@ -3463,7 +3463,7 @@
                 "name": "WWF War Zone",
                 "players": 4,
                 "publisher": "Acclaim",
-                "releaseDate": "19980811T000000"
+                "releaseDate": "1998-08-11"
             },
             {
                 "compatibility": {
@@ -3485,7 +3485,7 @@
                 "name": "WWF WrestleMania 2000",
                 "players": 4,
                 "publisher": "THQ",
-                "releaseDate": "19991031T000000"
+                "releaseDate": "1999-10-31"
             },
             {
                 "compatibility": {
@@ -3507,7 +3507,7 @@
                 "name": "Wave Race 64",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19960927T000000"
+                "releaseDate": "1996-09-27"
             },
             {
                 "compatibility": {
@@ -3529,7 +3529,7 @@
                 "name": "Wipeout 64",
                 "players": 4,
                 "publisher": "Midway Games",
-                "releaseDate": "19981103T000000"
+                "releaseDate": "1998-11-03"
             },
             {
                 "compatibility": {
@@ -3551,7 +3551,7 @@
                 "name": "Worms Armageddon",
                 "players": 4,
                 "publisher": "Infogrames",
-                "releaseDate": "19990423T000000"
+                "releaseDate": "1999-04-23"
             },
             {
                 "compatibility": {
@@ -3573,7 +3573,7 @@
                 "name": "Yoshi's Story",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19980301T000000"
+                "releaseDate": "1998-03-01"
             }
         ],
         "id": 3,
@@ -3602,7 +3602,7 @@
                 "name": "Balloon Fight",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19850102T000000"
+                "releaseDate": "1985-01-02"
             },
             {
                 "compatibility": {
@@ -3624,7 +3624,7 @@
                 "name": "Battletoads",
                 "players": 2,
                 "publisher": "Tradewest",
-                "releaseDate": "19910601T000000"
+                "releaseDate": "1991-06-01"
             },
             {
                 "compatibility": {
@@ -3646,7 +3646,7 @@
                 "name": "Castlevania",
                 "players": 1,
                 "publisher": "Konami",
-                "releaseDate": "19860926T000000"
+                "releaseDate": "1986-09-26"
             },
             {
                 "compatibility": {
@@ -3668,7 +3668,7 @@
                 "name": "Castlevania II: Simon's Quest",
                 "players": 1,
                 "publisher": "Konami",
-                "releaseDate": "19870828T000000"
+                "releaseDate": "1987-08-28"
             },
             {
                 "compatibility": {
@@ -3690,7 +3690,7 @@
                 "name": "Castlevania III: Dracula's Curse",
                 "players": 1,
                 "publisher": "Konami",
-                "releaseDate": "19921222T000000"
+                "releaseDate": "1992-12-22"
             },
             {
                 "compatibility": {
@@ -3712,7 +3712,7 @@
                 "name": "Contra",
                 "players": 2,
                 "publisher": "Konami",
-                "releaseDate": "19870220T000000"
+                "releaseDate": "1987-02-20"
             },
             {
                 "compatibility": {
@@ -3734,7 +3734,7 @@
                 "name": "Contra Force",
                 "players": 2,
                 "publisher": "Konami",
-                "releaseDate": "19920930T000000"
+                "releaseDate": "1992-09-30"
             },
             {
                 "compatibility": {
@@ -3756,7 +3756,7 @@
                 "name": "Donkey Kong",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19820101T000000"
+                "releaseDate": "1982-01-01"
             },
             {
                 "compatibility": {
@@ -3778,7 +3778,7 @@
                 "name": "Donkey Kong 3",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19840704T000000"
+                "releaseDate": "1984-07-04"
             },
             {
                 "compatibility": {
@@ -3800,7 +3800,7 @@
                 "name": "Donkey Kong Jr.",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19870715T000000"
+                "releaseDate": "1987-07-15"
             },
             {
                 "compatibility": {
@@ -3822,7 +3822,7 @@
                 "name": "Double Dragon",
                 "players": 2,
                 "publisher": "Taito",
-                "releaseDate": "19870101T000000"
+                "releaseDate": "1987-01-01"
             },
             {
                 "compatibility": {
@@ -3844,7 +3844,7 @@
                 "name": "Double Dragon II: The Revenge",
                 "players": 2,
                 "publisher": "Technos Japan",
-                "releaseDate": "19881201T000000"
+                "releaseDate": "1988-12-01"
             },
             {
                 "compatibility": {
@@ -3866,7 +3866,7 @@
                 "name": "Double Dragon III: The Sacred Stones",
                 "players": 2,
                 "publisher": "Technos Japan",
-                "releaseDate": "19901101T000000"
+                "releaseDate": "1990-11-01"
             },
             {
                 "compatibility": {
@@ -3888,7 +3888,7 @@
                 "name": "Dr. Mario",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19900727T000000"
+                "releaseDate": "1990-07-27"
             },
             {
                 "compatibility": {
@@ -3910,7 +3910,7 @@
                 "name": "Excitebike",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19841130T000000"
+                "releaseDate": "1984-11-30"
             },
             {
                 "compatibility": {
@@ -3932,7 +3932,7 @@
                 "name": "Final Fantasy",
                 "players": 1,
                 "publisher": "Squaresoft",
-                "releaseDate": "19901010T000000"
+                "releaseDate": "1990-10-10"
             },
             {
                 "compatibility": {
@@ -3954,7 +3954,7 @@
                 "name": "Galaga",
                 "players": 2,
                 "publisher": "Midway",
-                "releaseDate": "19880101T000000"
+                "releaseDate": "1988-01-01"
             },
             {
                 "compatibility": {
@@ -3976,7 +3976,7 @@
                 "name": "Gauntlet",
                 "players": 2,
                 "publisher": "Tengen",
-                "releaseDate": "19870101T000000"
+                "releaseDate": "1987-01-01"
             },
             {
                 "compatibility": {
@@ -3998,7 +3998,7 @@
                 "name": "Gauntlet II",
                 "players": 4,
                 "publisher": "Mindscape",
-                "releaseDate": "19900901T000000"
+                "releaseDate": "1990-09-01"
             },
             {
                 "compatibility": {
@@ -4020,7 +4020,7 @@
                 "name": "Ghosts 'n Goblins",
                 "players": 2,
                 "publisher": "Capcom",
-                "releaseDate": "19860919T000000"
+                "releaseDate": "1986-09-19"
             },
             {
                 "compatibility": {
@@ -4042,7 +4042,7 @@
                 "name": "Gradius",
                 "players": 2,
                 "publisher": "Konami",
-                "releaseDate": "19850529T000000"
+                "releaseDate": "1985-05-29"
             },
             {
                 "compatibility": {
@@ -4064,7 +4064,7 @@
                 "name": "Ice Climber",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19850130T000000"
+                "releaseDate": "1985-01-30"
             },
             {
                 "compatibility": {
@@ -4086,7 +4086,7 @@
                 "name": "Ice Hockey",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19880415T000000"
+                "releaseDate": "1988-04-15"
             },
             {
                 "compatibility": {
@@ -4108,7 +4108,7 @@
                 "name": "Kid Icarus",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19861218T000000"
+                "releaseDate": "1986-12-18"
             },
             {
                 "compatibility": {
@@ -4130,7 +4130,7 @@
                 "name": "Kirby's Adventure",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19930326T000000"
+                "releaseDate": "1993-03-26"
             },
             {
                 "compatibility": {
@@ -4152,7 +4152,7 @@
                 "name": "Mega Man",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19871217T000000"
+                "releaseDate": "1987-12-17"
             },
             {
                 "compatibility": {
@@ -4174,7 +4174,7 @@
                 "name": "Mega Man 2",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19881124T000000"
+                "releaseDate": "1988-11-24"
             },
             {
                 "compatibility": {
@@ -4196,7 +4196,7 @@
                 "name": "Mega Man 3",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19900928T000000"
+                "releaseDate": "1990-09-28"
             },
             {
                 "compatibility": {
@@ -4218,7 +4218,7 @@
                 "name": "Mega Man 4",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19911206T000000"
+                "releaseDate": "1991-12-06"
             },
             {
                 "compatibility": {
@@ -4240,7 +4240,7 @@
                 "name": "Mega Man 5",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19921204T000000"
+                "releaseDate": "1992-12-04"
             },
             {
                 "compatibility": {
@@ -4262,7 +4262,7 @@
                 "name": "Mega Man 6",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19921006T000000"
+                "releaseDate": "1992-10-06"
             },
             {
                 "compatibility": {
@@ -4284,7 +4284,7 @@
                 "name": "Metal Gear",
                 "players": 1,
                 "publisher": "Ultra Games",
-                "releaseDate": "19870707T000000"
+                "releaseDate": "1987-07-07"
             },
             {
                 "compatibility": {
@@ -4306,7 +4306,7 @@
                 "name": "Metroid",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19860806T000000"
+                "releaseDate": "1986-08-06"
             },
             {
                 "compatibility": {
@@ -4328,7 +4328,7 @@
                 "name": "Ninja Gaiden",
                 "players": 1,
                 "publisher": "Tecmo",
-                "releaseDate": "19881209T000000"
+                "releaseDate": "1988-12-09"
             },
             {
                 "compatibility": {
@@ -4350,7 +4350,7 @@
                 "name": "Ninja Gaiden II: The Dark Sword of Chaos",
                 "players": 1,
                 "publisher": "Tecmo",
-                "releaseDate": "19900501T000000"
+                "releaseDate": "1990-05-01"
             },
             {
                 "compatibility": {
@@ -4372,7 +4372,7 @@
                 "name": "Ninja Gaiden III: The Ancient Ship of Doom",
                 "players": 1,
                 "publisher": "Tecmo",
-                "releaseDate": "19910801T000000"
+                "releaseDate": "1991-08-01"
             },
             {
                 "compatibility": {
@@ -4394,7 +4394,7 @@
                 "name": "Punch-Out!!",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19900801T000000"
+                "releaseDate": "1990-08-01"
             },
             {
                 "compatibility": {
@@ -4416,7 +4416,7 @@
                 "name": "Rampage",
                 "players": 2,
                 "publisher": "Data East",
-                "releaseDate": "19881201T000000"
+                "releaseDate": "1988-12-01"
             },
             {
                 "compatibility": {
@@ -4438,7 +4438,7 @@
                 "name": "Star Wars",
                 "players": 1,
                 "publisher": "JVC, Lucasfilm Games",
-                "releaseDate": "19911115T000000"
+                "releaseDate": "1991-11-15"
             },
             {
                 "compatibility": {
@@ -4460,7 +4460,7 @@
                 "name": "Star Wars: The Empire Strikes Back",
                 "players": 1,
                 "publisher": "JVC",
-                "releaseDate": "19920313T000000"
+                "releaseDate": "1992-03-13"
             },
             {
                 "compatibility": {
@@ -4482,7 +4482,7 @@
                 "name": "StarTropics",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19901201T000000"
+                "releaseDate": "1990-12-01"
             },
             {
                 "compatibility": {
@@ -4504,7 +4504,7 @@
                 "name": "StarTropics II: Zoda's Revenge",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19940301T000000"
+                "releaseDate": "1994-03-01"
             },
             {
                 "compatibility": {
@@ -4526,7 +4526,7 @@
                 "name": "Super C",
                 "players": 2,
                 "publisher": "Konami",
-                "releaseDate": "19900401T000000"
+                "releaseDate": "1990-04-01"
             },
             {
                 "compatibility": {
@@ -4548,7 +4548,7 @@
                 "name": "Super Mario Bros.",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19850913T000000"
+                "releaseDate": "1985-09-13"
             },
             {
                 "compatibility": {
@@ -4570,7 +4570,7 @@
                 "name": "Super Mario Bros. 2",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19881001T000000"
+                "releaseDate": "1988-10-01"
             },
             {
                 "compatibility": {
@@ -4592,7 +4592,7 @@
                 "name": "Super Mario Bros. 3",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19881023T000000"
+                "releaseDate": "1988-10-23"
             },
             {
                 "compatibility": {
@@ -4614,7 +4614,7 @@
                 "name": "Super Pitfall",
                 "players": 2,
                 "publisher": "Activision",
-                "releaseDate": "19860101T000000"
+                "releaseDate": "1986-01-01"
             },
             {
                 "compatibility": {
@@ -4636,7 +4636,7 @@
                 "name": "Tecmo Bowl",
                 "players": 2,
                 "publisher": "Tecmo",
-                "releaseDate": "19890201T000000"
+                "releaseDate": "1989-02-01"
             },
             {
                 "compatibility": {
@@ -4658,7 +4658,7 @@
                 "name": "Tecmo Super Bowl",
                 "players": 2,
                 "publisher": "Tecmo",
-                "releaseDate": "19911201T000000"
+                "releaseDate": "1991-12-01"
             },
             {
                 "compatibility": {
@@ -4680,7 +4680,7 @@
                 "name": "Tetris",
                 "players": 1,
                 "publisher": "Bullet-Proof Software",
-                "releaseDate": "19880715T000000"
+                "releaseDate": "1988-07-15"
             },
             {
                 "compatibility": {
@@ -4702,7 +4702,7 @@
                 "name": "Tetris 2",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19931013T000000"
+                "releaseDate": "1993-10-13"
             },
             {
                 "compatibility": {
@@ -4724,7 +4724,7 @@
                 "name": "The Legend of Zelda",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19860221T000000"
+                "releaseDate": "1986-02-21"
             },
             {
                 "compatibility": {
@@ -4746,7 +4746,7 @@
                 "name": "The Simpsons: Bart vs. the Space Mutants",
                 "players": 1,
                 "publisher": "Acclaim",
-                "releaseDate": "19910201T000000"
+                "releaseDate": "1991-02-01"
             },
             {
                 "compatibility": {
@@ -4768,7 +4768,7 @@
                 "name": "The Simpsons: Bart vs. the World",
                 "players": 1,
                 "publisher": "Acclaim",
-                "releaseDate": "19911213T000000"
+                "releaseDate": "1991-12-13"
             },
             {
                 "compatibility": {
@@ -4790,7 +4790,7 @@
                 "name": "The Simpsons: Bartman Meets Radioactive Man",
                 "players": 1,
                 "publisher": "Acclaim",
-                "releaseDate": "19921201T000000"
+                "releaseDate": "1992-12-01"
             },
             {
                 "compatibility": {
@@ -4812,7 +4812,7 @@
                 "name": "Treasure Master",
                 "players": 1,
                 "publisher": "American Softworks",
-                "releaseDate": "19911201T000000"
+                "releaseDate": "1991-12-01"
             },
             {
                 "compatibility": {
@@ -4834,7 +4834,7 @@
                 "name": "Zelda II: The Adventure of Link",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19880926T000000"
+                "releaseDate": "1988-09-26"
             }
         ],
         "id": 7,
@@ -4863,7 +4863,7 @@
                 "name": "Ape Escape",
                 "players": 1,
                 "publisher": "Sony",
-                "releaseDate": "19990618T000000"
+                "releaseDate": "1999-06-18"
             },
             {
                 "compatibility": {
@@ -4885,7 +4885,7 @@
                 "name": "Crash Bandicoot",
                 "players": 1,
                 "publisher": "Sony Computer Entertainment",
-                "releaseDate": "19960831T000000"
+                "releaseDate": "1996-08-31"
             },
             {
                 "compatibility": {
@@ -4907,7 +4907,7 @@
                 "name": "Crash Bandicoot 2: Cortex Strikes Back",
                 "players": 1,
                 "publisher": "Sony Computer Entertainment",
-                "releaseDate": "19971031T000000"
+                "releaseDate": "1997-10-31"
             },
             {
                 "compatibility": {
@@ -4929,7 +4929,7 @@
                 "name": "Crash Bandicoot 3: Warped",
                 "players": 1,
                 "publisher": "Sony",
-                "releaseDate": "19981031T000000"
+                "releaseDate": "1998-10-31"
             },
             {
                 "compatibility": {
@@ -4951,7 +4951,7 @@
                 "name": "Resident Evil",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19960322T000000"
+                "releaseDate": "1996-03-22"
             },
             {
                 "compatibility": {
@@ -4973,7 +4973,7 @@
                 "name": "Resident Evil 3: Nemesis (Demo)",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19990922T000000"
+                "releaseDate": "1999-09-22"
             },
             {
                 "compatibility": {
@@ -4995,7 +4995,7 @@
                 "name": "Silent Hill",
                 "players": 1,
                 "publisher": "Konami Digital Entertainment",
-                "releaseDate": "19990131T000000"
+                "releaseDate": "1999-01-31"
             },
             {
                 "compatibility": {
@@ -5017,7 +5017,7 @@
                 "name": "Spyro 2: Ripto's Rage!",
                 "players": 1,
                 "publisher": "Sony",
-                "releaseDate": "19991031T000000"
+                "releaseDate": "1999-10-31"
             },
             {
                 "compatibility": {
@@ -5039,7 +5039,7 @@
                 "name": "Spyro the Dragon",
                 "players": 1,
                 "publisher": "Sony",
-                "releaseDate": "19980910T000000"
+                "releaseDate": "1998-09-10"
             },
             {
                 "compatibility": {
@@ -5061,7 +5061,7 @@
                 "name": "Spyro: Year of the Dragon",
                 "players": 1,
                 "publisher": "Sony",
-                "releaseDate": "20001023T000000"
+                "releaseDate": "2000-10-23"
             }
         ],
         "id": 10,
@@ -5090,7 +5090,7 @@
                 "name": "After Burner",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19950113T000000"
+                "releaseDate": "1995-01-13"
             },
             {
                 "compatibility": {
@@ -5112,7 +5112,7 @@
                 "name": "BC Racers",
                 "players": 2,
                 "publisher": "Front Street",
-                "releaseDate": "19951019T000000"
+                "releaseDate": "1995-10-19"
             },
             {
                 "compatibility": {
@@ -5134,7 +5134,7 @@
                 "name": "Blackthorne",
                 "players": 1,
                 "publisher": "Interplay",
-                "releaseDate": "19950824T000000"
+                "releaseDate": "1995-08-24"
             },
             {
                 "compatibility": {
@@ -5156,7 +5156,7 @@
                 "name": "Brutal: Above the Claw",
                 "players": 2,
                 "publisher": "GameTek",
-                "releaseDate": "19950101T000000"
+                "releaseDate": "1995-01-01"
             },
             {
                 "compatibility": {
@@ -5178,7 +5178,7 @@
                 "name": "Cosmic Carnage",
                 "players": 2,
                 "publisher": "Sega",
-                "releaseDate": "19940302T000000"
+                "releaseDate": "1994-03-02"
             },
             {
                 "compatibility": {
@@ -5200,7 +5200,7 @@
                 "name": "DarXide",
                 "players": 1,
                 "publisher": "SEGA",
-                "releaseDate": "19951201T000000"
+                "releaseDate": "1995-12-01"
             },
             {
                 "compatibility": {
@@ -5222,7 +5222,7 @@
                 "name": "Doom",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19940101T000000"
+                "releaseDate": "1994-01-01"
             },
             {
                 "compatibility": {
@@ -5244,7 +5244,7 @@
                 "name": "FIFA Soccer 96",
                 "players": 2,
                 "publisher": "Electronic Arts",
-                "releaseDate": "19951130T000000"
+                "releaseDate": "1995-11-30"
             },
             {
                 "compatibility": {
@@ -5266,7 +5266,7 @@
                 "name": "Golf Magazine: 36 Great Holes Starring Fred Couples",
                 "players": 1,
                 "publisher": "SEGA",
-                "releaseDate": "19940101T000000"
+                "releaseDate": "1994-01-01"
             },
             {
                 "compatibility": {
@@ -5288,7 +5288,7 @@
                 "name": "Knuckles' Chaotix",
                 "players": 2,
                 "publisher": "Sega",
-                "releaseDate": "19950421T000000"
+                "releaseDate": "1995-04-21"
             },
             {
                 "compatibility": {
@@ -5310,7 +5310,7 @@
                 "name": "Kolibri",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19950908T000000"
+                "releaseDate": "1995-09-08"
             },
             {
                 "compatibility": {
@@ -5332,7 +5332,7 @@
                 "name": "Metal Head",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19950224T000000"
+                "releaseDate": "1995-02-24"
             },
             {
                 "compatibility": {
@@ -5354,7 +5354,7 @@
                 "name": "Mortal Kombat II",
                 "players": 1,
                 "publisher": "Midway",
-                "releaseDate": "19941204T000000"
+                "releaseDate": "1994-12-04"
             },
             {
                 "compatibility": {
@@ -5376,7 +5376,7 @@
                 "name": "Motocross Championship",
                 "players": 2,
                 "publisher": "Sega",
-                "releaseDate": "19940101T000000"
+                "releaseDate": "1994-01-01"
             },
             {
                 "compatibility": {
@@ -5398,7 +5398,7 @@
                 "name": "NBA Jam Tournament Edition",
                 "players": 4,
                 "publisher": "Acclaim",
-                "releaseDate": "19950501T000000"
+                "releaseDate": "1995-05-01"
             },
             {
                 "compatibility": {
@@ -5420,7 +5420,7 @@
                 "name": "NFL Quarterback Club",
                 "players": 4,
                 "publisher": "Acclaim",
-                "releaseDate": "19950101T000000"
+                "releaseDate": "1995-01-01"
             },
             {
                 "compatibility": {
@@ -5442,7 +5442,7 @@
                 "name": "Pitfall: The Mayan Adventure",
                 "players": 1,
                 "publisher": "Activision",
-                "releaseDate": "19951001T000000"
+                "releaseDate": "1995-10-01"
             },
             {
                 "compatibility": {
@@ -5464,7 +5464,7 @@
                 "name": "Primal Rage",
                 "players": 2,
                 "publisher": "Time Warner",
-                "releaseDate": "19950101T000000"
+                "releaseDate": "1995-01-01"
             },
             {
                 "compatibility": {
@@ -5486,7 +5486,7 @@
                 "name": "RBI Baseball '95",
                 "players": 1,
                 "publisher": "Time Warner",
-                "releaseDate": "19950101T000000"
+                "releaseDate": "1995-01-01"
             },
             {
                 "compatibility": {
@@ -5508,7 +5508,7 @@
                 "name": "Romance of the Three Kingdoms IV: Wall of Fire",
                 "players": 1,
                 "publisher": "Koei",
-                "releaseDate": "19950728T000000"
+                "releaseDate": "1995-07-28"
             },
             {
                 "compatibility": {
@@ -5530,7 +5530,7 @@
                 "name": "Shadow Squadron",
                 "players": 2,
                 "publisher": "Sega",
-                "releaseDate": "19950525T000000"
+                "releaseDate": "1995-05-25"
             },
             {
                 "compatibility": {
@@ -5552,7 +5552,7 @@
                 "name": "Space Harrier",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19941203T000000"
+                "releaseDate": "1994-12-03"
             },
             {
                 "compatibility": {
@@ -5574,7 +5574,7 @@
                 "name": "Star Trek: Starfleet Academy - Starship Bridge Simulator",
                 "players": 2,
                 "publisher": "Interplay",
-                "releaseDate": "19950101T000000"
+                "releaseDate": "1995-01-01"
             },
             {
                 "compatibility": {
@@ -5596,7 +5596,7 @@
                 "name": "Star Wars Arcade",
                 "players": 2,
                 "publisher": "Sega",
-                "releaseDate": "19941202T000000"
+                "releaseDate": "1994-12-02"
             },
             {
                 "compatibility": {
@@ -5618,7 +5618,7 @@
                 "name": "T-MEK",
                 "players": 2,
                 "publisher": "Time Warner",
-                "releaseDate": "19950101T000000"
+                "releaseDate": "1995-01-01"
             },
             {
                 "compatibility": {
@@ -5640,7 +5640,7 @@
                 "name": "Tempo",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19950324T000000"
+                "releaseDate": "1995-03-24"
             },
             {
                 "compatibility": {
@@ -5662,7 +5662,7 @@
                 "name": "The Amazing Spider-Man: Web of Fire",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19960426T000000"
+                "releaseDate": "1996-04-26"
             },
             {
                 "compatibility": {
@@ -5684,7 +5684,7 @@
                 "name": "Toughman Contest",
                 "players": 1,
                 "publisher": "EA Sports",
-                "releaseDate": "19950101T000000"
+                "releaseDate": "1995-01-01"
             },
             {
                 "compatibility": {
@@ -5706,7 +5706,7 @@
                 "name": "Virtua Fighter",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19950101T000000"
+                "releaseDate": "1995-01-01"
             },
             {
                 "compatibility": {
@@ -5728,7 +5728,7 @@
                 "name": "Virtua Racing Deluxe",
                 "players": 2,
                 "publisher": "Sega",
-                "releaseDate": "19940205T000000"
+                "releaseDate": "1994-02-05"
             },
             {
                 "compatibility": {
@@ -5750,7 +5750,7 @@
                 "name": "WWF RAW",
                 "players": 4,
                 "publisher": "Acclaim",
-                "releaseDate": "19950131T000000"
+                "releaseDate": "1995-01-31"
             },
             {
                 "compatibility": {
@@ -5772,7 +5772,7 @@
                 "name": "WWF WrestleMania: The Arcade Game",
                 "players": 2,
                 "publisher": "Midway",
-                "releaseDate": "19950721T000000"
+                "releaseDate": "1995-07-21"
             },
             {
                 "compatibility": {
@@ -5794,7 +5794,7 @@
                 "name": "World Series Baseball Starring Deion Sanders",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19951117T000000"
+                "releaseDate": "1995-11-17"
             },
             {
                 "compatibility": {
@@ -5816,7 +5816,7 @@
                 "name": "Zaxxon's Motherbase 2000",
                 "players": 2,
                 "publisher": "Sega",
-                "releaseDate": "19950101T000000"
+                "releaseDate": "1995-01-01"
             }
         ],
         "id": 33,
@@ -5845,7 +5845,7 @@
                 "name": "Sonic CD",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19930923T000000"
+                "releaseDate": "1993-09-23"
             }
         ],
         "id": 21,
@@ -5874,7 +5874,7 @@
                 "name": "Sonic Labyrinth",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19950101T000000"
+                "releaseDate": "1995-01-01"
             }
         ],
         "id": 20,
@@ -5903,7 +5903,7 @@
                 "name": "Knuckles in Sonic 2",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19941018T000000"
+                "releaseDate": "1994-10-18"
             },
             {
                 "compatibility": {
@@ -5925,7 +5925,7 @@
                 "name": "Shining Force",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19920319T000000"
+                "releaseDate": "1992-03-19"
             },
             {
                 "compatibility": {
@@ -5947,7 +5947,7 @@
                 "name": "Shining Force II",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19941019T000000"
+                "releaseDate": "1994-10-19"
             },
             {
                 "compatibility": {
@@ -5969,7 +5969,7 @@
                 "name": "Sonic & Knuckles",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19941018T000000"
+                "releaseDate": "1994-10-18"
             },
             {
                 "compatibility": {
@@ -5991,7 +5991,7 @@
                 "name": "Sonic 3 & Knuckles",
                 "players": 2,
                 "publisher": "Sega",
-                "releaseDate": "19941018T000000"
+                "releaseDate": "1994-10-18"
             },
             {
                 "compatibility": {
@@ -6013,7 +6013,7 @@
                 "name": "Sonic Blue Sphere",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19941018T000000"
+                "releaseDate": "1994-10-18"
             },
             {
                 "compatibility": {
@@ -6035,7 +6035,7 @@
                 "name": "Sonic the Hedgehog",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19910623T000000"
+                "releaseDate": "1991-06-23"
             },
             {
                 "compatibility": {
@@ -6057,7 +6057,7 @@
                 "name": "Sonic the Hedgehog 2",
                 "players": 2,
                 "publisher": "Sega",
-                "releaseDate": "19921121T000000"
+                "releaseDate": "1992-11-21"
             },
             {
                 "compatibility": {
@@ -6079,7 +6079,7 @@
                 "name": "Sonic the Hedgehog 3",
                 "players": 2,
                 "publisher": "Sega",
-                "releaseDate": "19940202T000000"
+                "releaseDate": "1994-02-02"
             },
             {
                 "compatibility": {
@@ -6101,7 +6101,7 @@
                 "name": "Vectorman",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19951024T000000"
+                "releaseDate": "1995-10-24"
             },
             {
                 "compatibility": {
@@ -6123,7 +6123,7 @@
                 "name": "Vectorman 2",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19961115T000000"
+                "releaseDate": "1996-11-15"
             }
         ],
         "id": 18,
@@ -6152,7 +6152,7 @@
                 "name": "Phantasy Star",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19871220T000000"
+                "releaseDate": "1987-12-20"
             }
         ],
         "id": 35,
@@ -6181,7 +6181,7 @@
                 "name": "Orguss",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "19840101T000000"
+                "releaseDate": "1984-01-01"
             }
         ],
         "id": 4949,
@@ -6210,7 +6210,7 @@
                 "name": "Battletoads & Double Dragon",
                 "players": 2,
                 "publisher": "Tradewest",
-                "releaseDate": "19931001T000000"
+                "releaseDate": "1993-10-01"
             },
             {
                 "compatibility": {
@@ -6232,7 +6232,7 @@
                 "name": "Chrono Trigger",
                 "players": 1,
                 "publisher": "Squaresoft",
-                "releaseDate": "19950311T000000"
+                "releaseDate": "1995-03-11"
             },
             {
                 "compatibility": {
@@ -6254,7 +6254,7 @@
                 "name": "Contra III: The Alien Wars",
                 "players": 2,
                 "publisher": "Konami",
-                "releaseDate": "19920406T000000"
+                "releaseDate": "1992-04-06"
             },
             {
                 "compatibility": {
@@ -6276,7 +6276,7 @@
                 "name": "Desert Strike: Return to the Gulf",
                 "players": 1,
                 "publisher": "Electronic Arts",
-                "releaseDate": "19920101T000000"
+                "releaseDate": "1992-01-01"
             },
             {
                 "compatibility": {
@@ -6298,7 +6298,7 @@
                 "name": "Donkey Kong Country",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19941121T000000"
+                "releaseDate": "1994-11-21"
             },
             {
                 "compatibility": {
@@ -6320,7 +6320,7 @@
                 "name": "Donkey Kong Country 2: Diddy's Kong Quest",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19951120T000000"
+                "releaseDate": "1995-11-20"
             },
             {
                 "compatibility": {
@@ -6342,7 +6342,7 @@
                 "name": "Donkey Kong Country 3: Dixie Kong's Double Trouble!",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19961122T000000"
+                "releaseDate": "1996-11-22"
             },
             {
                 "compatibility": {
@@ -6364,7 +6364,7 @@
                 "name": "Doom",
                 "players": 1,
                 "publisher": "Williams Entertainment",
-                "releaseDate": "19950901T000000"
+                "releaseDate": "1995-09-01"
             },
             {
                 "compatibility": {
@@ -6386,7 +6386,7 @@
                 "name": "EarthBound",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19940827T000000"
+                "releaseDate": "1994-08-27"
             },
             {
                 "compatibility": {
@@ -6408,7 +6408,7 @@
                 "name": "Earthworm Jim",
                 "players": 1,
                 "publisher": "Playmates Interactive Entertainment, Inc.",
-                "releaseDate": "19940802T000000"
+                "releaseDate": "1994-08-02"
             },
             {
                 "compatibility": {
@@ -6430,7 +6430,7 @@
                 "name": "Earthworm Jim 2",
                 "players": 1,
                 "publisher": "Playmates",
-                "releaseDate": "19960125T000000"
+                "releaseDate": "1996-01-25"
             },
             {
                 "compatibility": {
@@ -6452,7 +6452,7 @@
                 "name": "F-Zero",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19910823T000000"
+                "releaseDate": "1991-08-23"
             },
             {
                 "compatibility": {
@@ -6474,7 +6474,7 @@
                 "name": "F1 Pole Position",
                 "players": 2,
                 "publisher": "Ubisoft",
-                "releaseDate": "19930101T000000"
+                "releaseDate": "1993-01-01"
             },
             {
                 "compatibility": {
@@ -6496,7 +6496,7 @@
                 "name": "Final Fantasy II",
                 "players": 1,
                 "publisher": "Squaresoft",
-                "releaseDate": "19911101T000000"
+                "releaseDate": "1991-11-01"
             },
             {
                 "compatibility": {
@@ -6518,7 +6518,7 @@
                 "name": "Final Fantasy III",
                 "players": 1,
                 "publisher": "Squaresoft",
-                "releaseDate": "19940402T000000"
+                "releaseDate": "1994-04-02"
             },
             {
                 "compatibility": {
@@ -6540,7 +6540,7 @@
                 "name": "Frogger",
                 "players": 2,
                 "publisher": "Majesco Games",
-                "releaseDate": "19980101T000000"
+                "releaseDate": "1998-01-01"
             },
             {
                 "compatibility": {
@@ -6562,7 +6562,7 @@
                 "name": "Harvest Moon",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19960809T000000"
+                "releaseDate": "1996-08-09"
             },
             {
                 "compatibility": {
@@ -6584,7 +6584,7 @@
                 "name": "Jungle Strike",
                 "players": 1,
                 "publisher": "Electronic Arts",
-                "releaseDate": "19950601T000000"
+                "releaseDate": "1995-06-01"
             },
             {
                 "compatibility": {
@@ -6606,7 +6606,7 @@
                 "name": "Jurassic Park",
                 "players": 1,
                 "publisher": "Ocean",
-                "releaseDate": "19931101T000000"
+                "releaseDate": "1993-11-01"
             },
             {
                 "compatibility": {
@@ -6628,7 +6628,7 @@
                 "name": "Jurassic Park Part 2: The Chaos Continues",
                 "players": 2,
                 "publisher": "Ocean Software",
-                "releaseDate": "19941101T000000"
+                "releaseDate": "1994-11-01"
             },
             {
                 "compatibility": {
@@ -6650,7 +6650,7 @@
                 "name": "Kirby Super Star",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19960920T000000"
+                "releaseDate": "1996-09-20"
             },
             {
                 "compatibility": {
@@ -6672,7 +6672,7 @@
                 "name": "Kirby's Dream Land 3",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19971101T000000"
+                "releaseDate": "1997-11-01"
             },
             {
                 "compatibility": {
@@ -6694,7 +6694,7 @@
                 "name": "Madden NFL '94",
                 "players": 4,
                 "publisher": "Electronic Arts",
-                "releaseDate": "19931001T000000"
+                "releaseDate": "1993-10-01"
             },
             {
                 "compatibility": {
@@ -6716,7 +6716,7 @@
                 "name": "Madden NFL '95",
                 "players": 4,
                 "publisher": "Electronic Arts",
-                "releaseDate": "19941101T000000"
+                "releaseDate": "1994-11-01"
             },
             {
                 "compatibility": {
@@ -6738,7 +6738,7 @@
                 "name": "Madden NFL '96",
                 "players": 2,
                 "publisher": "EA Sports",
-                "releaseDate": "19951130T000000"
+                "releaseDate": "1995-11-30"
             },
             {
                 "compatibility": {
@@ -6760,7 +6760,7 @@
                 "name": "Madden NFL 97",
                 "players": 4,
                 "publisher": "Electronic Arts",
-                "releaseDate": "19961001T000000"
+                "releaseDate": "1996-10-01"
             },
             {
                 "compatibility": {
@@ -6782,7 +6782,7 @@
                 "name": "Madden NFL 98",
                 "players": 4,
                 "publisher": "Electronic Arts",
-                "releaseDate": "19971101T000000"
+                "releaseDate": "1997-11-01"
             },
             {
                 "compatibility": {
@@ -6804,7 +6804,7 @@
                 "name": "Mario Paint",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19920505T000000"
+                "releaseDate": "1992-05-05"
             },
             {
                 "compatibility": {
@@ -6826,7 +6826,7 @@
                 "name": "MechWarrior",
                 "players": 1,
                 "publisher": "Activision",
-                "releaseDate": "19930501T000000"
+                "releaseDate": "1993-05-01"
             },
             {
                 "compatibility": {
@@ -6848,7 +6848,7 @@
                 "name": "MechWarrior 3050",
                 "players": 2,
                 "publisher": "Tiburon Entertainment",
-                "releaseDate": "19950101T000000"
+                "releaseDate": "1995-01-01"
             },
             {
                 "compatibility": {
@@ -6870,7 +6870,7 @@
                 "name": "Mega Man 7",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19950324T000000"
+                "releaseDate": "1995-03-24"
             },
             {
                 "compatibility": {
@@ -6892,7 +6892,7 @@
                 "name": "Mega Man X",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19940121T000000"
+                "releaseDate": "1994-01-21"
             },
             {
                 "compatibility": {
@@ -6914,7 +6914,7 @@
                 "name": "Mega Man X2",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19950127T000000"
+                "releaseDate": "1995-01-27"
             },
             {
                 "compatibility": {
@@ -6936,7 +6936,7 @@
                 "name": "Mega Man X3",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19960126T000000"
+                "releaseDate": "1996-01-26"
             },
             {
                 "compatibility": {
@@ -6958,7 +6958,7 @@
                 "name": "Mortal Kombat",
                 "players": 2,
                 "publisher": "Acclaim",
-                "releaseDate": "19930913T000000"
+                "releaseDate": "1993-09-13"
             },
             {
                 "compatibility": {
@@ -6980,7 +6980,7 @@
                 "name": "Mortal Kombat 3",
                 "players": 2,
                 "publisher": "Williams",
-                "releaseDate": "19951001T000000"
+                "releaseDate": "1995-10-01"
             },
             {
                 "compatibility": {
@@ -7002,7 +7002,7 @@
                 "name": "Mortal Kombat II",
                 "players": 2,
                 "publisher": "Acclaim",
-                "releaseDate": "19940901T000000"
+                "releaseDate": "1994-09-01"
             },
             {
                 "compatibility": {
@@ -7024,7 +7024,7 @@
                 "name": "Ms. Pac-Man",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19960101T000000"
+                "releaseDate": "1996-01-01"
             },
             {
                 "compatibility": {
@@ -7046,7 +7046,7 @@
                 "name": "NBA Jam Tournament Edition",
                 "players": 2,
                 "publisher": "Acclaim",
-                "releaseDate": "19950223T000000"
+                "releaseDate": "1995-02-23"
             },
             {
                 "compatibility": {
@@ -7068,7 +7068,7 @@
                 "name": "Primal Rage",
                 "players": 2,
                 "publisher": "Time Warner Interactive",
-                "releaseDate": "19950801T000000"
+                "releaseDate": "1995-08-01"
             },
             {
                 "compatibility": {
@@ -7090,7 +7090,7 @@
                 "name": "R-Type III: The Third Lightning",
                 "players": 2,
                 "publisher": "Jaleco",
-                "releaseDate": "19941001T000000"
+                "releaseDate": "1994-10-01"
             },
             {
                 "compatibility": {
@@ -7112,7 +7112,7 @@
                 "name": "Secret of Mana",
                 "players": 3,
                 "publisher": "Squaresoft",
-                "releaseDate": "19930806T000000"
+                "releaseDate": "1993-08-06"
             },
             {
                 "compatibility": {
@@ -7134,7 +7134,7 @@
                 "name": "Shaq Fu",
                 "players": 2,
                 "publisher": "Electronic Arts",
-                "releaseDate": "19941001T000000"
+                "releaseDate": "1994-10-01"
             },
             {
                 "compatibility": {
@@ -7156,7 +7156,7 @@
                 "name": "SimCity",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19910813T000000"
+                "releaseDate": "1991-08-13"
             },
             {
                 "compatibility": {
@@ -7178,7 +7178,7 @@
                 "name": "Star Fox",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19930221T000000"
+                "releaseDate": "1993-02-21"
             },
             {
                 "compatibility": {
@@ -7200,7 +7200,7 @@
                 "name": "Street Fighter II Turbo",
                 "players": 2,
                 "publisher": "Capcom",
-                "releaseDate": "19930710T000000"
+                "releaseDate": "1993-07-10"
             },
             {
                 "compatibility": {
@@ -7222,7 +7222,7 @@
                 "name": "Super Bomberman",
                 "players": 4,
                 "publisher": "Hudson Soft",
-                "releaseDate": "19930901T000000"
+                "releaseDate": "1993-09-01"
             },
             {
                 "compatibility": {
@@ -7244,7 +7244,7 @@
                 "name": "Super Bomberman 2",
                 "players": 4,
                 "publisher": "Hudson Soft",
-                "releaseDate": "19941212T000000"
+                "releaseDate": "1994-12-12"
             },
             {
                 "compatibility": {
@@ -7266,7 +7266,7 @@
                 "name": "Super Castlevania IV",
                 "players": 1,
                 "publisher": "Konami",
-                "releaseDate": "19911201T000000"
+                "releaseDate": "1991-12-01"
             },
             {
                 "compatibility": {
@@ -7288,7 +7288,7 @@
                 "name": "Super Double Dragon",
                 "players": 2,
                 "publisher": "Tradewest",
-                "releaseDate": "19921001T000000"
+                "releaseDate": "1992-10-01"
             },
             {
                 "compatibility": {
@@ -7310,7 +7310,7 @@
                 "name": "Super Ghouls 'n Ghosts",
                 "players": 1,
                 "publisher": "Capcom",
-                "releaseDate": "19911101T000000"
+                "releaseDate": "1991-11-01"
             },
             {
                 "compatibility": {
@@ -7332,7 +7332,7 @@
                 "name": "Super Mario Kart",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19920901T000000"
+                "releaseDate": "1992-09-01"
             },
             {
                 "compatibility": {
@@ -7354,7 +7354,7 @@
                 "name": "Super Mario RPG: Legend of the Seven Stars",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19960513T000000"
+                "releaseDate": "1996-05-13"
             },
             {
                 "compatibility": {
@@ -7376,7 +7376,7 @@
                 "name": "Super Mario World",
                 "players": 2,
                 "publisher": "Nintendo",
-                "releaseDate": "19901121T000000"
+                "releaseDate": "1990-11-21"
             },
             {
                 "compatibility": {
@@ -7398,7 +7398,7 @@
                 "name": "Super Mario World 2: Yoshi's Island",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "20050822T000000"
+                "releaseDate": "2005-08-22"
             },
             {
                 "compatibility": {
@@ -7420,7 +7420,7 @@
                 "name": "Super Metroid",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19940418T000000"
+                "releaseDate": "1994-04-18"
             },
             {
                 "compatibility": {
@@ -7442,7 +7442,7 @@
                 "name": "Super Punch-Out!!",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19941001T000000"
+                "releaseDate": "1994-10-01"
             },
             {
                 "compatibility": {
@@ -7464,7 +7464,7 @@
                 "name": "Super R-Type",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19910901T000000"
+                "releaseDate": "1991-09-01"
             },
             {
                 "compatibility": {
@@ -7486,7 +7486,7 @@
                 "name": "Super Star Wars",
                 "players": 1,
                 "publisher": "JVC",
-                "releaseDate": "19921101T000000"
+                "releaseDate": "1992-11-01"
             },
             {
                 "compatibility": {
@@ -7508,7 +7508,7 @@
                 "name": "Super Star Wars: Return of the Jedi",
                 "players": 1,
                 "publisher": "JVC",
-                "releaseDate": "19941001T000000"
+                "releaseDate": "1994-10-01"
             },
             {
                 "compatibility": {
@@ -7530,7 +7530,7 @@
                 "name": "Super Star Wars: The Empire Strikes Back",
                 "players": 1,
                 "publisher": "JVC",
-                "releaseDate": "19931001T000000"
+                "releaseDate": "1993-10-01"
             },
             {
                 "compatibility": {
@@ -7552,7 +7552,7 @@
                 "name": "The Legend of Zelda: A Link to the Past",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19920413T000000"
+                "releaseDate": "1992-04-13"
             },
             {
                 "compatibility": {
@@ -7574,7 +7574,7 @@
                 "name": "The Simpsons: Bart's Nightmare",
                 "players": 1,
                 "publisher": "Acclaim",
-                "releaseDate": "19920101T000000"
+                "releaseDate": "1992-01-01"
             },
             {
                 "compatibility": {
@@ -7596,7 +7596,7 @@
                 "name": "Todd McFarlane's Spawn: The Video Game",
                 "players": 1,
                 "publisher": "Acclaim",
-                "releaseDate": "19951001T000000"
+                "releaseDate": "1995-10-01"
             },
             {
                 "compatibility": {
@@ -7618,7 +7618,7 @@
                 "name": "Ultimate Mortal Kombat 3",
                 "players": 2,
                 "publisher": "Williams",
-                "releaseDate": "19961001T000000"
+                "releaseDate": "1996-10-01"
             },
             {
                 "compatibility": {
@@ -7640,7 +7640,7 @@
                 "name": "Urban Strike",
                 "players": 1,
                 "publisher": "Black Pearl",
-                "releaseDate": "19951101T000000"
+                "releaseDate": "1995-11-01"
             },
             {
                 "compatibility": {
@@ -7662,7 +7662,7 @@
                 "name": "Wolfenstein 3-D",
                 "players": 1,
                 "publisher": "Imagineer",
-                "releaseDate": "19940301T000000"
+                "releaseDate": "1994-03-01"
             },
             {
                 "compatibility": {
@@ -7684,7 +7684,7 @@
                 "name": "X-Men Vs. Street Fighter",
                 "players": 2,
                 "publisher": "DVS Electronic",
-                "releaseDate": "19980101T000000"
+                "releaseDate": "1998-01-01"
             },
             {
                 "compatibility": {
@@ -7706,7 +7706,7 @@
                 "name": "X-Men: Mutant Apocalypse",
                 "players": 1,
                 "publisher": "Avalon",
-                "releaseDate": "19940101T000000"
+                "releaseDate": "1994-01-01"
             },
             {
                 "compatibility": {
@@ -7728,7 +7728,7 @@
                 "name": "Zombies Ate My Neighbors",
                 "players": 2,
                 "publisher": "Konami",
-                "releaseDate": "19930901T000000"
+                "releaseDate": "1993-09-01"
             }
         ],
         "id": 6,
@@ -7757,7 +7757,7 @@
                 "name": "Blazing Lazers",
                 "players": 1,
                 "publisher": "NEC",
-                "releaseDate": "19890101T000000"
+                "releaseDate": "1989-01-01"
             },
             {
                 "compatibility": {
@@ -7779,7 +7779,7 @@
                 "name": "Bonk 3: Bonk's Big Adventure",
                 "players": 1,
                 "publisher": "NEC",
-                "releaseDate": "19930402T000000"
+                "releaseDate": "1993-04-02"
             },
             {
                 "compatibility": {
@@ -7801,7 +7801,7 @@
                 "name": "Bonk's Adventure",
                 "players": 1,
                 "publisher": "NEC",
-                "releaseDate": "19891215T000000"
+                "releaseDate": "1989-12-15"
             },
             {
                 "compatibility": {
@@ -7823,7 +7823,7 @@
                 "name": "Bonk's Revenge",
                 "players": 1,
                 "publisher": "NEC",
-                "releaseDate": "19910308T000000"
+                "releaseDate": "1991-03-08"
             },
             {
                 "compatibility": {
@@ -7845,7 +7845,7 @@
                 "name": "Neutopia",
                 "players": 1,
                 "publisher": "NEC",
-                "releaseDate": "19891117T000000"
+                "releaseDate": "1989-11-17"
             },
             {
                 "compatibility": {
@@ -7867,7 +7867,7 @@
                 "name": "Neutopia II",
                 "players": 1,
                 "publisher": "NEC",
-                "releaseDate": "19910927T000000"
+                "releaseDate": "1991-09-27"
             },
             {
                 "compatibility": {
@@ -7889,7 +7889,7 @@
                 "name": "New Adventure Island",
                 "players": 1,
                 "publisher": "Hudson",
-                "releaseDate": "19920626T000000"
+                "releaseDate": "1992-06-26"
             },
             {
                 "compatibility": {
@@ -7911,7 +7911,7 @@
                 "name": "Splatterhouse",
                 "players": 1,
                 "publisher": "NEC",
-                "releaseDate": "19900101T000000"
+                "releaseDate": "1990-01-01"
             }
         ],
         "id": 34,
@@ -7946,7 +7946,7 @@
                 "name": "3-D Tetris",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19960322T000000"
+                "releaseDate": "1996-03-22"
             },
             {
                 "compatibility": {
@@ -7968,7 +7968,7 @@
                 "name": "Bomberman: Panic Bomber",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19950101T000000"
+                "releaseDate": "1995-01-01"
             },
             {
                 "compatibility": {
@@ -7990,7 +7990,7 @@
                 "name": "Galactic Pinball",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19950814T000000"
+                "releaseDate": "1995-08-14"
             },
             {
                 "compatibility": {
@@ -8012,7 +8012,7 @@
                 "name": "Golf",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19951101T000000"
+                "releaseDate": "1995-11-01"
             },
             {
                 "compatibility": {
@@ -8034,7 +8034,7 @@
                 "name": "Jack Bros.",
                 "players": 1,
                 "publisher": "Atlus",
-                "releaseDate": "19951001T000000"
+                "releaseDate": "1995-10-01"
             },
             {
                 "compatibility": {
@@ -8056,7 +8056,7 @@
                 "name": "Mario Clash",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19951001T000000"
+                "releaseDate": "1995-10-01"
             },
             {
                 "compatibility": {
@@ -8078,7 +8078,7 @@
                 "name": "Mario's Tennis",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19950814T000000"
+                "releaseDate": "1995-08-14"
             },
             {
                 "compatibility": {
@@ -8100,7 +8100,7 @@
                 "name": "Nester's Funky Bowling",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19960226T000000"
+                "releaseDate": "1996-02-26"
             },
             {
                 "compatibility": {
@@ -8122,7 +8122,7 @@
                 "name": "Red Alarm",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19950814T000000"
+                "releaseDate": "1995-08-14"
             },
             {
                 "compatibility": {
@@ -8144,7 +8144,7 @@
                 "name": "Teleroboxer",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19950814T000000"
+                "releaseDate": "1995-08-14"
             },
             {
                 "compatibility": {
@@ -8166,7 +8166,7 @@
                 "name": "Vertical Force",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19951201T000000"
+                "releaseDate": "1995-12-01"
             },
             {
                 "compatibility": {
@@ -8188,7 +8188,7 @@
                 "name": "Virtual Boy Wario Land",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "19951127T000000"
+                "releaseDate": "1995-11-27"
             },
             {
                 "compatibility": {
@@ -8210,7 +8210,7 @@
                 "name": "Virtual League Baseball",
                 "players": 1,
                 "publisher": "Kemco",
-                "releaseDate": "19950911T000000"
+                "releaseDate": "1995-09-11"
             },
             {
                 "compatibility": {
@@ -8232,11 +8232,11 @@
                 "name": "Waterworld",
                 "players": 1,
                 "publisher": "Ocean Software",
-                "releaseDate": "19951221T000000"
+                "releaseDate": "1995-12-21"
             }
         ],
         "id": 4918,
-        "licensed": 14,
+        "licensed": 22,
         "name": "Nintendo Virtual Boy"
     },
     {
