@@ -4,56 +4,89 @@ import urllib
 import requests
 
 
-json_ = open('metadata.json', 'r').read()
+def parse_data(data):
 
-metadata = json.loads(json_)
+	game = {
+		'name': data['Game']['GameTitle'],
+		'description': data['Game']['Overview'],
+		'releaseDate': None,
+		'developer': None,
+		'publisher': None,
+		'genre': [],
+		'players': None,
+	}
 
-for system in metadata:
+	if 'ReleaseDate' in data['Game']:
 
-	base_url = 'http://thegamesdb.net/api/GetGame.php?platform=' + urllib.quote(system['name'].encode('utf8')) + '&exactname='
+		game['releaseDate'] = data['Game']['ReleaseDate']
 
-	for game in system['games']:
+	if 'Developer' in data['Game']:
 
-		url = base_url + urllib.quote(game['name'].encode('utf8'))
+		game['developer'] = data['Game']['Developer']
 
-		response = requests.get(url)
+	if 'Publisher' in data['Game']:
 
-		if response.status_code == 200:
+		game['publisher'] = data['Game']['Publisher']
 
-			dict_ = xmltodict.parse(response.text)['Data']['Game']
+	if 'Genres' in data['Game']:
 
-			_game = {
-				'name': dict_['GameTitle'],
-				'description': dict_['Overview'],
-				'releaseDate': None,
-				'developer': None,
-				'publisher': None,
-				'genre': [],
-				'players': None,
-			}
+		game['genre'] = data['Game']['Genres']['genre']
 
-			if 'ReleaseDate' in dict_:
+	if 'Players' in data['Game']:
 
-				_game['releaseDate'] = dict_['ReleaseDate']
+		game['players'] = data['Game']['Players'].strip('+')
 
-			if 'Developer' in dict_:
+	return game
 
-				_game['developer'] = dict_['Developer']
 
-			if 'Publisher' in dict_:
+def validate_metadata():
 
-				_game['publisher'] = dict_['Publisher']
+	json_ = open('metadata.json', 'r').read()
 
-			if 'Genres' in dict_:
+	metadata = json.loads(json_)
 
-				_game['genre'] = dict_['Genres']
+	for system in metadata:
 
-			if 'Players' in dict_:
+		base_url = 'http://thegamesdb.net/api/GetGame.php?platform=' + urllib.quote(system['name'].encode('utf8')) + '&exactname='
 
-				_game['players'] = dict_['Players']
+		for game in system['games']:
 
-			print _game
+			url = base_url + urllib.quote(game['name'].encode('utf8'))
 
-		else:
+			response = requests.get(url)
 
-			print system['name'] + ' - ' + game['name']
+			if response.status_code == 200:
+
+				data = xmltodict.parse(response.text)['Data']
+
+				if 'Game' in data:
+
+					_game = parse_data(data)
+
+					if game['releaseDate'] != _game['releaseDate']:
+
+						print system['name'] + ' - ' + game['name'] + ' - Wrong releaseDate\n'
+
+					if game['developer'] != _game['developer']:
+
+						print system['name'] + ' - ' + game['name'] + ' - Wrong developer\n'
+
+					if game['publisher'] != _game['publisher']:
+
+						print system['name'] + ' - ' + game['name'] + ' - Wrong publisher\n'
+
+					if game['players'] != _game['players']:
+
+						print system['name'] + ' - ' + game['name'] + ' - Wrong players\n'
+
+					if game['genre'] not in _game['genre']:
+
+						print system['name'] + ' - ' + game['name'] + ' - Wrong genre\n'
+
+				else:
+
+					print system['name'] + ' - ' + game['name'] + ' - Wrong Name\n'
+
+			else:
+
+				print system['name'] + ' - ' + game['name'] + ' - Failed\n'
