@@ -4,10 +4,12 @@ var Metadata = (function() {
 
 	var ignoredSystems = [
 		'Amstrad CPC',
+		'Arcade',
 		'Famicom Disk System',
 		'Final Burn Alpha',
 		'MAME',
 		'MSX',
+		'Neo Geo',
 		'Vectrex',
 		'Sinclair ZX Spectrum',
 	];
