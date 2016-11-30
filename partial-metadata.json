@@ -1048,6 +1048,21 @@
             {
                 "compatibility": {
                     "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Baseball Stars",
+                "players": 2
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
                     "pi3": true
                 },
                 "licensed": true,
@@ -1063,6 +1078,96 @@
             {
                 "compatibility": {
                     "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Melon-chan no Seichou Nikki",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Neo Cherry Master",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Neo Geo Cup '98",
+                "players": 2
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Neo Geo Cup '98 Plus",
+                "players": 2
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Pocket Tennis",
+                "players": 2
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Renketsu Puzzle Tsunagete Pon!",
+                "players": 2
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
                     "pi3": true
                 },
                 "licensed": true,
@@ -1074,6 +1179,21 @@
                 },
                 "name": "Samurai Shodown!",
                 "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Shogi no Tatsujin",
+                "players": 2
             }
         ],
         "id": 4922,
@@ -1096,6 +1216,51 @@
                 },
                 "name": "King of Fighters R-2",
                 "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Neo Geo Cup '98 Plus Color",
+                "players": 2
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Puzzle Link",
+                "players": 2
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Puzzle Link 2",
+                "players": 2
             },
             {
                 "compatibility": {
@@ -5527,6 +5692,21 @@
                     "pi0": null,
                     "pi3": null
                 },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Insmouse no Yakata",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
                 "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
@@ -5602,6 +5782,51 @@
                     "pi0": null,
                     "pi3": null
                 },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "SD Gundam Dimension War",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Space Invaders: Virtual Collection",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Space Squash",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
                 "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
@@ -5610,6 +5835,21 @@
                     "simultaneous-vs": null
                 },
                 "name": "Teleroboxer",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "V-Tetris",
                 "players": 1
             },
             {
@@ -5632,6 +5872,21 @@
                     "pi0": null,
                     "pi3": null
                 },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Virtual Bowling",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
                 "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
@@ -5640,6 +5895,36 @@
                     "simultaneous-vs": null
                 },
                 "name": "Virtual Boy Wario Land",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Virtual Fishing",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Virtual Lab",
                 "players": 1
             },
             {
@@ -5674,7 +5959,7 @@
             }
         ],
         "id": 4918,
-        "licensed": 14,
+        "licensed": 22,
         "name": "Nintendo Virtual Boy"
     },
     {

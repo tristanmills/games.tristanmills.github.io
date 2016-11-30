@@ -1496,6 +1496,28 @@
             {
                 "compatibility": {
                     "pi0": null,
+                    "pi3": null
+                },
+                "description": "Baseball Stars is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics, like stamina.",
+                "developer": "SNK",
+                "genre": "Sports",
+                "id": null,
+                "image": "./images/Baseball Stars-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Baseball Stars",
+                "players": 2,
+                "publisher": "SNK",
+                "releaseDate": "1998-10-28"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
                     "pi3": true
                 },
                 "description": "The King of Fighters: R1 marks SNK's first time bringing the KOF series onto a handheld... and what better system than their own Neo Geo Pocket to do just that? 14 of the most well known KOF characters make their appearance in KOF: R-1, along with some recognizable backgrounds and gameplay features based on The King of Fighters '97. Players can choose from \"Extra\" & \"Advance\" play modes similar to KOF '97, and most characters play closely to their original versions.",
@@ -1518,6 +1540,138 @@
             {
                 "compatibility": {
                     "pi0": null,
+                    "pi3": null
+                },
+                "description": "Melon Chan's Growth Diary (Japan: Melon-chan no Seichouki) is a Life simulation game it is comparable to Tamagotchi and other virtual life simulations. In Melon Chan's Growth Diary the player raises and nurtures little girl Melon Chan. The games was only released in Japan and was one of the earliest titles released for the Neo Geo Pocket.\n\nThe game was released for the Neo Geo Pocket and features monochrome graphics; however the Neo Geo Pocket Color is backwards compatible with the game.",
+                "developer": "ADK",
+                "genre": "Life Simulation",
+                "id": null,
+                "image": "./images/Melon-chan no Seichou Nikki-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Melon-chan no Seichou Nikki",
+                "players": 1,
+                "publisher": "SNK",
+                "releaseDate": "1998-01-01"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Neo Cherry Master (or Real Casino Series: Neo Cherry Master) is a fruit machine/\"one-armed bandit\" simulator. Simple - spin the reels and wait for luck - identical fruits in the row. Controls are simple: player push A button to spin the reels and the B button to increase \"credits\". No real gambling \u2013 player can't lose real money.",
+                "developer": "DYNA",
+                "genre": "Puzzle",
+                "id": null,
+                "image": "./images/Neo Cherry Master-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Neo Cherry Master",
+                "players": 1,
+                "publisher": "SNK",
+                "releaseDate": "1998-01-01"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Neo Geo Cup '98 is a football/soccer game for the Neo Geo Pocket. This version is different from Neo Geo Cup '98: The Road to the Victory \u2014 here playing field is vertical-scrolling, not side-scrolling. The game has less national teams than the bigger version \u2014 the player can choose one from 16 teams. Neo Geo Cup '98 is an unofficial adaptation of the World Cup - SNK has made a fictional Neo Geo Cup. Gameplay is quite simple; the player controls a football team and must win matches against rival teams. The game uses simple \"2-buttons and stick\" controls (limits of the Neo Geo Pocket)",
+                "developer": "SNK",
+                "genre": "Sports",
+                "id": null,
+                "image": "./images/Neo Geo Cup '98-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Neo Geo Cup '98",
+                "players": 2,
+                "publisher": "SNK",
+                "releaseDate": "1998-10-28"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Neo Geo Cup '98 Plus is a soccer game for the Neo Geo Pocket. The game features single match play, head-to-head play (using a link cable), and story mode. You can choose to play one of 16 international teams. Each team has their own collective stats. On the field you can perform passes, shots, dribbles, slidings and charges. In the story mode you have to win as many matches as possible in a series of tournaments. Before and during matches you can change the field formations and switch players. Each won match gives you prize money, this can be used to buy items for your team. These items usually improve one stat, but decrease another.",
+                "developer": "SNK",
+                "genre": "Sports",
+                "id": null,
+                "image": "./images/Neo Geo Cup '98 Plus-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Neo Geo Cup '98 Plus",
+                "players": 2,
+                "publisher": "SNK",
+                "releaseDate": "1998-01-01"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Pocket Tennis a simple tennis game with two play modes: Exhibition and Tournament.\n\nExhibition is a single match against computer or human opponent (requires link cable). There do exist eight player characters with different skills (human player must select one of those eight characters too) and four (five in the color version) different courts. Also amount of sets per game can be selected (1, 3 or 5).\n\nTournament is only against computer. Human player can pick his/her character but not the computer opponent. Also selection of courts and amount of sets is missing. Three games will be played: quarter and semifinals and of course the final.",
+                "developer": "Yumekobo",
+                "genre": "Sports",
+                "id": null,
+                "image": "./images/Pocket Tennis-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Pocket Tennis",
+                "players": 2,
+                "publisher": "SNK",
+                "releaseDate": "1998-01-01"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Renketsu Puzzle Tsunagete Pon! is a game where blocks  have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen.",
+                "developer": "Yumekobo",
+                "genre": "Puzzle",
+                "id": null,
+                "image": "./images/Puzzle Tsunagete Pon!-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Renketsu Puzzle Tsunagete Pon!",
+                "players": 2,
+                "publisher": "SNK",
+                "releaseDate": "1998-01-01"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
                     "pi3": true
                 },
                 "description": "Iza To! En Garde! Dude! Twelve of the mightiest samurai, ninja, knights, and warriors from Japan, France, the United States, and China lock swords in NEO GEO's SAMURAI SHODOWN. With blades, bare knuckles, rage, and various Methods of Mayhem, fight your way to the final battle with Satan's Shogun. Use all powers at your disposal to get a head!",
@@ -1536,6 +1690,28 @@
                 "players": 1,
                 "publisher": "SNK",
                 "releaseDate": "1998-12-25"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Shougi no Tatsujin is a Japanese style chess game. In single player mode the player must compete against computerized opponents (represented by a digitized photograph) to win the tournament. In two player mode, each player competes against each another.",
+                "developer": "ADK",
+                "genre": "Strategy",
+                "id": null,
+                "image": "./images/Shougi no Tatsujin-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Shogi no Tatsujin",
+                "players": 2,
+                "publisher": "SNK",
+                "releaseDate": "1998-11-20"
             }
         ],
         "id": 4922,
@@ -1565,6 +1741,72 @@
                 "players": 1,
                 "publisher": "SNK",
                 "releaseDate": "1999-03-19"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Wherever you go. Wherever you like. Its Kick Off Time! Easy! Simple! And Exciting!\n\nNeoGeo Cup '98 Plus is a soccer game for the Neo Geo Pocket. The game features single match play, head-to-head play (using a link cable), and story mode. You can choose to play one of 16 international teams. Each team has their own collective stats. On the field you can perform passes, shots, dribbles, slidings and charges. In the story mode you have to win as many matches as possible in a series of tournaments. Before and during matches you can change the field formations and switch players. Each won match gives you prize money, this can be used to buy items for your team. These items usually improve one stat, but decrease another.",
+                "developer": "SNK",
+                "genre": "Sports",
+                "id": null,
+                "image": "./images/NeoGeo Cup '98 Plus Color-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Neo Geo Cup '98 Plus Color",
+                "players": 2,
+                "publisher": "SNK",
+                "releaseDate": "1998-10-28"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve.\n\nThere are three different modes: In \"Normal\" you have to link two special blocks that appear after some time. If you manage to finish the level within the time limit you will unlock one of 50 collectible cards. In \"Clear Mode\" you have to clear a given constellation of blocks. \"Battle Mode\" is a two player link-cable mode.",
+                "developer": "Yumekobo",
+                "genre": "Puzzle",
+                "id": null,
+                "image": "./images/Puzzle Link-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Puzzle Link",
+                "players": 2,
+                "publisher": "SNK",
+                "releaseDate": "1999-09-30"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "The gameplay of Puzzle Link 2 is generally identical to the first game: Puzzle Link is a game where blocks of matching color have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen. You can dissolve blocks by shooting at them. The shots form a line where they impact. If that line connects otherwise unconnected blocks of the same color they will dissolve.\n\nThere are new modes in Puzzle Link 2. Like the original, there are the standard challenge and puzzle rounds. But new to the series is the marathon-style game where you continue eliminating pieces as the game gradually increases speed. In this mode, more power-ups appear as the player performs faster. Here, you get three shots that will eliminate the same color tile from the board. The game also has link cable support for two players.",
+                "developer": "Yumekobo",
+                "genre": "Puzzle",
+                "id": null,
+                "image": "./images/Puzzle Link 2-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Puzzle Link 2",
+                "players": 2,
+                "publisher": "SNK",
+                "releaseDate": "2000-04-01"
             },
             {
                 "compatibility": {
@@ -8019,6 +8261,28 @@
                     "pi0": null,
                     "pi3": null
                 },
+                "description": "Innsmouth no Yakata is an Action game, developed by Betop and published by I'Max, which was released in Japan in 1995.",
+                "developer": "Betop",
+                "genre": null,
+                "id": null,
+                "image": "./images/Innsmouth no Yakata-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Insmouse no Yakata",
+                "players": 1,
+                "publisher": "I'Max",
+                "releaseDate": null
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
                 "description": "The portal between Earth and another mysterious dimension has opened, and the intrepid Jack Brothers have come through for an adventure in our world. Having lost track of time, they now have only one hour to return to their home or be banished forever. Help them battle hoards of loathsome enemies through six electrifying 3-D levels, each with many floors to explore and conquer. This is one phenomenal adventure you can't afford to miss!",
                 "developer": "Atlus",
                 "genre": "Action",
@@ -8129,6 +8393,72 @@
                     "pi0": null,
                     "pi3": null
                 },
+                "description": "SD Gundam Dimension War is a Strategy game, developed by Locomotive Corporation and published by Bandai, which was released in Japan in 1995.",
+                "developer": "Locomotive Corporation",
+                "genre": "Strategy",
+                "id": null,
+                "image": "./images/SD Gundam Dimension War-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "SD Gundam Dimension War",
+                "players": 1,
+                "publisher": "Bandai",
+                "releaseDate": null
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Attention all Earthlings! Relentless alien hordes have been identified near you. Prevent the dangerous Space Invaders from landing on your territory. Use your cannon to defend against waves of descending alien invaders. Don't let them hit the ground or it's all over for you and the Earth! Destroy them and score points!",
+                "developer": null,
+                "genre": "Shooter",
+                "id": null,
+                "image": "./images/Space Invaders - Virtual Collection-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Space Invaders: Virtual Collection",
+                "players": 1,
+                "publisher": null,
+                "releaseDate": null
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Space Squash is a Sports game, developed by Tomcat System and published by Coconuts Japan, which was released in Japan in 1995.",
+                "developer": "Tomcat System",
+                "genre": null,
+                "id": null,
+                "image": "./images/Space Squash-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Space Squash",
+                "players": 1,
+                "publisher": "Coconuts Japan",
+                "releaseDate": null
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
                 "description": "In a savage display of pounding moves and lightning action, robotic boxers from around the globe step into a futuristic ring. Mirroring the movements of the humans in control, each Teleroboxer is capable of surviving defense matches unbearable to mankind.\n\nSlug it out to the staggering end to determine the true world champion. Created with specialized Techtronic powers and unique personalities, these responsive machines show no mercy on their way to the brutal top.",
                 "developer": "Nintendo",
                 "genre": "Fighting",
@@ -8145,6 +8475,28 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-08-14"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "V-Tetris is a Miscellaneous game, developed by Locomotive Corporation and published by Bullet Proof Software, which was released in Japan in 1995.",
+                "developer": "Locomotive Corporation",
+                "genre": "Puzzle",
+                "id": null,
+                "image": "./images/V-Tetris-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "V-Tetris",
+                "players": 1,
+                "publisher": "Bullet Proof Software",
+                "releaseDate": null
             },
             {
                 "compatibility": {
@@ -8173,6 +8525,28 @@
                     "pi0": null,
                     "pi3": null
                 },
+                "description": "Virtual Bowling is a Sports game, developed and published by Athena, which was released in Japan in 1995.",
+                "developer": "Athena",
+                "genre": "Sports",
+                "id": null,
+                "image": "./images/Virtual Bowling-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Virtual Bowling",
+                "players": 1,
+                "publisher": "Athena",
+                "releaseDate": null
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
                 "description": "Yikes!!! Get ready for a devious treasure hunt with the infamous scheming Wario. Capture the shining gold and vast treasures locked deep inside a hidden cave. But, beware of poison ponds, perilous prisons, endless walls and creepy woods! Make a quick change into Sea Dragon Wario, Eagle Wario or Bull Wario and utilize their mighty strengths. Blow away enemy cave defenders with body attacks and power actions. Succeed in this greedy plot to seize the riches of this underground world and find this key to freedom!",
                 "developer": "Nintendo",
                 "genre": "Platform",
@@ -8189,6 +8563,50 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-11-27"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Virtual Fishing is a Sports game, developed by Locomotive Corporation and published by Pack-In-Video, which was released in Japan in 1995.",
+                "developer": "Locomotive Corporation",
+                "genre": "Sports",
+                "id": null,
+                "image": "./images/Virtual Fishing-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Virtual Fishing",
+                "players": 1,
+                "publisher": "Pack-In-Video",
+                "releaseDate": "1995-10-06"
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Virtual Lab is a Miscellaneous game, developed and published by J-Wing, which was released in Japan in 1995.",
+                "developer": null,
+                "genre": null,
+                "id": null,
+                "image": "./images/Virtual Lab-image.jpg",
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Virtual Lab",
+                "players": 1,
+                "publisher": null,
+                "releaseDate": null
             },
             {
                 "compatibility": {

@@ -19,7 +19,8 @@ def parse_data(data):
 
 	if 'ReleaseDate' in data['Game']:
 
-		game['releaseDate'] = processed_game['releaseDate'] = datetime.datetime.strptime(data['Game']['ReleaseDate'], '%m/%d/%Y').strftime('%Y-%m-%d')
+		pass
+		# game['releaseDate'] = datetime.datetime.strptime(data['Game']['ReleaseDate'], '%m/%d/%Y').strftime('%Y-%m-%d')
 
 	if 'Developer' in data['Game']:
 
@@ -66,31 +67,32 @@ def validate_metadata():
 
 					if game['releaseDate'] != _game['releaseDate']:
 
-						print system['name'] + ' - ' + game['name'] + ' - Wrong releaseDate\n'
+						pass
+						# print system['name'] + ' - ' + game['name'] + ' - Wrong releaseDate'
 
 					if game['developer'] != _game['developer']:
 
-						print system['name'] + ' - ' + game['name'] + ' - Wrong developer\n'
+						print system['name'] + ' - ' + game['name'] + ' - Wrong developer'
 
 					if game['publisher'] != _game['publisher']:
 
-						print system['name'] + ' - ' + game['name'] + ' - Wrong publisher\n'
+						print system['name'] + ' - ' + game['name'] + ' - Wrong publisher'
 
 					if game['players'] != _game['players']:
 
-						print system['name'] + ' - ' + game['name'] + ' - Wrong players\n'
+						print system['name'] + ' - ' + game['name'] + ' - Wrong players'
 
 					if game['genre'] not in _game['genre']:
 
-						print system['name'] + ' - ' + game['name'] + ' - Wrong genre\n'
+						print system['name'] + ' - ' + game['name'] + ' - Wrong genre'
 
 				else:
 
-					print system['name'] + ' - ' + game['name'] + ' - Wrong Name\n'
+					print system['name'] + ' - ' + game['name'] + ' - Wrong Name'
 
 			else:
 
-				print system['name'] + ' - ' + game['name'] + ' - Failed\n'
+				print system['name'] + ' - ' + game['name'] + ' - Failed'
 
 
 validate_metadata()
