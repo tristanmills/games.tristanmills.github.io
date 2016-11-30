@@ -130,7 +130,7 @@ var Metadata = (function() {
 
 			});
 
-			var systemHeading = system.name.replace(/\s+/g, '-').toLowerCase();
+			var systemHeading = system.name.replace(/\s+/g, '-').replace(/\(|\)/g, '').toLowerCase();
 			var systemContent = systemHeading + '-games';
 
 			var complete = '';

@@ -10,7 +10,7 @@ var systemImages = [
 	'/img/systems/neo-geo-pocket.png',
 	'/img/systems/neo-geo.png',
 	'/img/systems/nintendo-64.png',
-	'/img/systems/nintendo-entertainment-system-(nes).png',
+	'/img/systems/nintendo-entertainment-system-nes.png',
 	'/img/systems/sony-playstation.png',
 	'/img/systems/sega-32x.png',
 	'/img/systems/sega-cd.png',
@@ -18,7 +18,7 @@ var systemImages = [
 	'/img/systems/sega-genesis.png',
 	'/img/systems/sega-master-system.png',
 	'/img/systems/sega-sg-1000.png',
-	'/img/systems/super-nintendo-(snes).png',
+	'/img/systems/super-nintendo-snes.png',
 	'/img/systems/turbografx-16.png',
 	'/img/systems/nintendo-virtual-boy.png',
 ];
