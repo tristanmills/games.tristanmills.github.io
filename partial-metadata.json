@@ -5690,14 +5690,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "3-D Tetris",
                 "players": 1
@@ -5705,14 +5705,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Bomberman: Panic Bomber",
                 "players": 1
@@ -5720,14 +5720,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Galactic Pinball",
                 "players": 1
@@ -5735,14 +5735,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Golf",
                 "players": 1
@@ -5750,14 +5750,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Insmouse no Yakata",
                 "players": 1
@@ -5765,14 +5765,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Jack Bros.",
                 "players": 1
@@ -5780,14 +5780,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Mario Clash",
                 "players": 1
@@ -5810,14 +5810,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Nester's Funky Bowling",
                 "players": 1
@@ -5825,14 +5825,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Red Alarm",
                 "players": 1
@@ -5840,14 +5840,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "SD Gundam Dimension War",
                 "players": 1
@@ -5855,14 +5855,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Space Invaders: Virtual Collection",
                 "players": 1
@@ -5870,14 +5870,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Space Squash",
                 "players": 1
@@ -5885,14 +5885,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Teleroboxer",
                 "players": 1
@@ -5900,14 +5900,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "V-Tetris",
                 "players": 1
@@ -5915,14 +5915,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Vertical Force",
                 "players": 1
@@ -5930,14 +5930,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Virtual Bowling",
                 "players": 1
@@ -5945,14 +5945,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Virtual Boy Wario Land",
                 "players": 1
@@ -5960,14 +5960,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Virtual Fishing",
                 "players": 1
@@ -5975,14 +5975,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Virtual Lab",
                 "players": 1
@@ -5990,14 +5990,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Virtual League Baseball",
                 "players": 1
@@ -6005,14 +6005,14 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "licensed": true,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Waterworld",
                 "players": 1
