@@ -1087,6 +1087,21 @@
                     "simultaneous-coop": null,
                     "simultaneous-vs": null
                 },
+                "name": "Melon Chan's Growth Diary",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
                 "name": "Melon-chan no Seichou Nikki",
                 "players": 1
             },
@@ -1205,6 +1220,21 @@
             {
                 "compatibility": {
                     "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Baseball Stars Color",
+                "players": 2
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
                     "pi3": true
                 },
                 "licensed": true,
@@ -1229,7 +1259,37 @@
                     "simultaneous-coop": null,
                     "simultaneous-vs": null
                 },
+                "name": "Neo Cherry Master Color",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
                 "name": "Neo Geo Cup '98 Plus Color",
+                "players": 2
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Pocket Tennis Color",
                 "players": 2
             },
             {
@@ -1290,6 +1350,21 @@
                     "simultaneous-vs": false
                 },
                 "name": "Samurai Shodown! 2",
+                "players": 1
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "licensed": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Shogi no Tatsujin Color",
                 "players": 1
             }
         ],
