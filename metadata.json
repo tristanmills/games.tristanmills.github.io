@@ -1503,7 +1503,7 @@
                 "genre": "Sports",
                 "id": null,
                 "image": "./images/Baseball Stars-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1547,7 +1547,7 @@
                 "genre": "Life Simulation",
                 "id": null,
                 "image": "./images/Melon Chan's Growth Diary-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1564,34 +1564,12 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "description": "Melon Chan's Growth Diary (Japan: Melon-chan no Seichouki) is a Life simulation game it is comparable to Tamagotchi and other virtual life simulations. In Melon Chan's Growth Diary the player raises and nurtures little girl Melon Chan. The games was only released in Japan and was one of the earliest titles released for the Neo Geo Pocket.\n\nThe game was released for the Neo Geo Pocket and features monochrome graphics; however the Neo Geo Pocket Color is backwards compatible with the game.",
-                "developer": "ADK",
-                "genre": "Life Simulation",
-                "id": null,
-                "image": "./images/Melon-chan no Seichou Nikki-image.jpg",
-                "licensed": null,
-                "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
-                },
-                "name": "Melon-chan no Seichou Nikki",
-                "players": 1,
-                "publisher": "SNK",
-                "releaseDate": "1998-01-01"
-            },
-            {
-                "compatibility": {
-                    "pi0": null,
-                    "pi3": null
-                },
                 "description": "Neo Cherry Master (or Real Casino Series: Neo Cherry Master) is a fruit machine/\"one-armed bandit\" simulator. Simple - spin the reels and wait for luck - identical fruits in the row. Controls are simple: player push A button to spin the reels and the B button to increase \"credits\". No real gambling \u2013 player can't lose real money.",
                 "developer": "DYNA",
                 "genre": "Puzzle",
                 "id": null,
                 "image": "./images/Neo Cherry Master-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1613,7 +1591,7 @@
                 "genre": "Sports",
                 "id": null,
                 "image": "./images/Neo Geo Cup '98-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1635,7 +1613,7 @@
                 "genre": "Sports",
                 "id": null,
                 "image": "./images/Neo Geo Cup '98 Plus-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1657,7 +1635,7 @@
                 "genre": "Sports",
                 "id": null,
                 "image": "./images/Pocket Tennis-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1679,7 +1657,7 @@
                 "genre": "Puzzle",
                 "id": null,
                 "image": "./images/Puzzle Tsunagete Pon!-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1722,8 +1700,8 @@
                 "developer": "ADK",
                 "genre": "Strategy",
                 "id": null,
-                "image": "./images/Shougi no Tatsujin-image.jpg",
-                "licensed": null,
+                "image": "./images/Shogi no Tatsujin-image.jpg",
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1737,7 +1715,7 @@
             }
         ],
         "id": 4922,
-        "licensed": null,
+        "licensed": 10,
         "name": "Neo Geo Pocket"
     },
     {
@@ -1752,7 +1730,7 @@
                 "genre": "Sports",
                 "id": null,
                 "image": "./images/Baseball Stars Color-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1796,7 +1774,7 @@
                 "genre": null,
                 "id": null,
                 "image": "./images/Neo Cherry Master Color-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1818,7 +1796,7 @@
                 "genre": "Sports",
                 "id": null,
                 "image": "./images/NeoGeo Cup '98 Plus Color-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1840,7 +1818,7 @@
                 "genre": "Sports",
                 "id": null,
                 "image": "./images/Pocket Tennis Color-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1862,7 +1840,7 @@
                 "genre": "Puzzle",
                 "id": null,
                 "image": "./images/Puzzle Link-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1884,7 +1862,7 @@
                 "genre": "Puzzle",
                 "id": null,
                 "image": "./images/Puzzle Link 2-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1950,7 +1928,7 @@
                 "genre": "Puzzle",
                 "id": null,
                 "image": "./images/Shogi no Tatsujin Color-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -8376,7 +8354,7 @@
                 "genre": null,
                 "id": null,
                 "image": "./images/Innsmouth no Yakata-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -8508,7 +8486,7 @@
                 "genre": "Strategy",
                 "id": null,
                 "image": "./images/SD Gundam Dimension War-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -8530,7 +8508,7 @@
                 "genre": "Shooter",
                 "id": null,
                 "image": "./images/Space Invaders - Virtual Collection-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -8552,7 +8530,7 @@
                 "genre": null,
                 "id": null,
                 "image": "./images/Space Squash-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -8596,7 +8574,7 @@
                 "genre": "Puzzle",
                 "id": null,
                 "image": "./images/V-Tetris-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -8640,7 +8618,7 @@
                 "genre": "Sports",
                 "id": null,
                 "image": "./images/Virtual Bowling-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -8684,7 +8662,7 @@
                 "genre": "Sports",
                 "id": null,
                 "image": "./images/Virtual Fishing-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -8706,7 +8684,7 @@
                 "genre": null,
                 "id": null,
                 "image": "./images/Virtual Lab-image.jpg",
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,

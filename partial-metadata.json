@@ -1050,7 +1050,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1080,7 +1080,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1095,22 +1095,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
-                "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
-                },
-                "name": "Melon-chan no Seichou Nikki",
-                "players": 1
-            },
-            {
-                "compatibility": {
-                    "pi0": null,
-                    "pi3": null
-                },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1125,7 +1110,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1140,7 +1125,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1155,7 +1140,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1170,7 +1155,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1200,7 +1185,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1212,7 +1197,7 @@
             }
         ],
         "id": 4922,
-        "licensed": null,
+        "licensed": 10,
         "name": "Neo Geo Pocket"
     },
     {
@@ -1222,7 +1207,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1252,7 +1237,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1267,7 +1252,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1282,7 +1267,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1297,7 +1282,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1312,7 +1297,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1357,7 +1342,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5767,7 +5752,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5857,7 +5842,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5872,7 +5857,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5887,7 +5872,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5917,7 +5902,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5947,7 +5932,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5977,7 +5962,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5992,7 +5977,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "licensed": true,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
