@@ -155,6 +155,17 @@ def merge_systems_into_metadata(systems, metadata):
 
 			games = systems[system['name']]
 
+			# released = 0
+
+			# for game in games:
+
+			# 	print game
+
+			# 	if game['released']:
+
+			# 		released += 1
+
+			# metadata[key]['collection'] = released
 			metadata[key]['games'] = sorted(games.values(), key=lambda k: k['name'])
 
 	metadata = sorted(metadata, key=lambda k: k['name'])
@@ -208,8 +219,6 @@ def update_metadata():
 		for game in games:
 
 			if game['name'] not in systems[system]:
-
-				# print game['name']
 
 				systems[system][game['name']] = game
 

@@ -115,18 +115,18 @@ var Metadata = (function() {
 
 		metadata.forEach(function(system) {
 
-			var licensedGames = [];
-			var unlicensedGames = [];
+			var releasedGames = [];
+			var unreleasedGames = [];
 
 			system.games.forEach(function(game) {
 
-				if (game.licensed) {
+				if (game.released) {
 
-					licensedGames.push(game);
+					releasedGames.push(game);
 
 				} else {
 
-					unlicensedGames.push(game);
+					unreleasedGames.push(game);
 
 				}
 
@@ -135,28 +135,22 @@ var Metadata = (function() {
 			var systemHeading = system.name.replace(/\s+/g, '-').replace(/\(|\)/g, '').toLowerCase();
 			var systemContent = systemHeading + '-games';
 
-			var complete = '';
-
-			if (system.licensed !== null) {
-				complete = ' (Complete)';
-			}
-
 			html += '<h5 id="' + systemHeading + '">';
 				html += '<a data-toggle="collapse" data-parent="#games" href="#' + systemContent + '" aria-controls="' + systemContent + '">';
 					html += '<img class="system-icon" src="/img/systems/' + systemHeading + '.png">';
-					html += '<span>' + system.name + complete + ' (' + system.games.length + ')</span>';
+					html += '<span>' + system.name + ' (' + system.games.length + ')</span>';
 				html += '</a>';
 			html += '</h5>';
 
 			html += '<div id="' + systemContent + '" class="collapse" role="tabpanel" aria-labelledby="' + systemHeading + '">';
 
-			html += '<h6>Licensed</h6>';
+			html += '<h6>Released (Collection: ' + system.collection +')</h6>';
 
-			html += renderGames(licensedGames);
+			html += renderGames(releasedGames);
 
-			html += '<h6>Unlicensed</h6>';
+			html += '<h6>Unreleased</h6>';
 
-			html += renderGames(unlicensedGames);
+			html += renderGames(unreleasedGames);
 
 			html += '</div>';
 
