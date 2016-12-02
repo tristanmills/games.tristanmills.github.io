@@ -59,8 +59,8 @@ def parse_gameslist(file):
 			'id': None,
 			'name': game['name'],
 			'description': game['desc'],
-			'image': game['image'],
-			'licensed': None,
+			# 'image': game['image'],
+			'released': None,
 			'releaseDate': None,
 			'developer': None,
 			'publisher': None,
@@ -82,9 +82,9 @@ def parse_gameslist(file):
 
 			processed_game['id'] = int(game['id'])
 
-		if 'licensed' in game:
+		if 'released' in game:
 
-			processed_game['licensed'] = str2bool(game['licensed'])
+			processed_game['released'] = str2bool(game['released'])
 
 		if 'releasedate' in game:
 
@@ -155,17 +155,24 @@ def merge_systems_into_metadata(systems, metadata):
 
 			games = systems[system['name']]
 
-			# released = 0
+			released = 0
 
-			# for game in games:
+			for game in games.values():
 
-			# 	print game
+				if game['released']:
 
-			# 	if game['released']:
+					released += 1
 
-			# 		released += 1
+			if metadata[key]['released'] is None:
 
-			# metadata[key]['collection'] = released
+				metadata[key]['collection'] = 'Unknown'
+
+			else:
+
+				collection = 100 * float(released) / float(metadata[key]['released'])
+
+				metadata[key]['collection'] = format(collection, '.2f') + '%'
+
 			metadata[key]['games'] = sorted(games.values(), key=lambda k: k['name'])
 
 	metadata = sorted(metadata, key=lambda k: k['name'])
@@ -188,7 +195,7 @@ def put_metadata_partial(metadata):
 
 			del game['id']
 			del game['description']
-			del game['image']
+			# del game['image']
 			del game['releaseDate']
 			del game['developer']
 			del game['publisher']

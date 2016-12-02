@@ -1,24 +1,27 @@
 [
     {
+        "collection": "Unknown",
         "games": [],
         "id": 4914,
         "name": "Amstrad CPC",
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": 23,
         "name": "Arcade",
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Frogger-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -34,7 +37,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Frogger II - ThreeeDeep!-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -50,7 +53,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pitfall II - Lost Caverns-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -66,7 +69,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pitfall!-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -82,7 +85,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pole Position-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -99,13 +102,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Asteroids-image.jpg",
                 "multiplayer": {
                     "alternating-coop": true,
                     "alternating-vs": true,
@@ -121,7 +125,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Centipede-image.jpg",
                 "multiplayer": {
                     "alternating-coop": true,
                     "alternating-vs": true,
@@ -137,7 +141,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/DigDug-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -153,7 +157,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pole Position II-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -170,13 +174,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/California Games-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -193,25 +198,28 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": 4936,
         "name": "Famicom Disk System",
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": null,
         "name": "Final Burn Alpha",
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Donkey Kong Land-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -227,7 +235,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Donkey Kong Land 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -243,7 +251,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Donkey Kong Land III-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -259,7 +267,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Kirby's Dream Land-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -275,7 +283,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Kirby's Dream Land 2-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -291,7 +299,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Metroid II - Return of Samus-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -307,7 +315,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Blue Version-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -323,7 +331,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Red Version-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -339,7 +347,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Yellow Version-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -355,7 +363,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Mario Land-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -371,7 +379,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Mario Land 2 - 6 Golden Coins-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -387,7 +395,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Legend of Zelda - Link's Awakening-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -403,7 +411,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Wario Land II-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -419,7 +427,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Wario Land - Super Mario Land 3-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -436,13 +444,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Doom-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -458,7 +467,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Doom II-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -474,7 +483,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Duke Nukem Advance-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -490,7 +499,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Gauntlet - Dark Legacy-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -506,7 +515,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Metroid Fusion-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -522,7 +531,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Metroid - Zero Mission-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -538,7 +547,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon LeafGreen Version-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -554,7 +563,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Emerald Version-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -570,7 +579,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon FireRed Version-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -586,7 +595,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Ruby Version-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -602,7 +611,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Sapphire Version-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -618,7 +627,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Spyro 2 - Season of Flame-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -634,7 +643,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Spyro Orange - The Cortex Conspiracy-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -650,7 +659,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Spyro - Attack of The Rhynocs-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -666,7 +675,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Spyro - Season of Ice-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -682,7 +691,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Legend of Spyro - The Eternal Night-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -698,7 +707,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Legend of Zelda - The Minish Cap-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -715,13 +724,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Duke Nukem-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -737,7 +747,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Grand Theft Auto-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -753,7 +763,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Grand Theft Auto 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -769,7 +779,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Harvest Moon-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -785,7 +795,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Harvest Moon 2-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -801,7 +811,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Harvest Moon 3-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -817,7 +827,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mario Tennis-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -833,7 +843,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man Xtreme-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -849,7 +859,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man Xtreme 2-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -865,7 +875,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Metal Gear Solid-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -881,7 +891,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mortal Kombat 4-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -897,7 +907,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Crystal Version-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -913,7 +923,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Gold Version-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -929,7 +939,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Pinball-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -945,7 +955,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Silver Version-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -961,7 +971,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Trading Card Game-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -977,7 +987,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Star Wars - Yoda Stories-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -993,7 +1003,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Mario Bros. Deluxe-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1009,7 +1019,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Legend of Zelda - Link's Awakening DX-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1025,7 +1035,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Legend of Zelda - Oracle of Ages-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1041,7 +1051,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Legend of Zelda - Oracle of Seasons-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1057,7 +1067,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Wario Land 3-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1073,7 +1083,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Wario Land II-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1090,31 +1100,35 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": null,
         "name": "MAME",
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": 4929,
         "name": "MSX",
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": 24,
         "name": "Neo Geo",
         "released": null
     },
     {
+        "collection": "100.00%",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Baseball Stars-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1130,7 +1144,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/King of Fighters R-1-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1146,7 +1160,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Melon Chan's Growth Diary-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1162,7 +1176,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Neo Cherry Master-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1178,7 +1192,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Neo Geo Cup '98-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1194,7 +1208,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Neo Geo Cup '98 Plus-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1210,7 +1224,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Pocket Tennis-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1226,7 +1240,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Puzzle Tsunagete Pon!-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1242,7 +1256,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Samurai Shodown!-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1258,7 +1272,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Shogi no Tatsujin-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1275,13 +1289,14 @@
         "released": 10
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Baseball Stars Color-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1297,7 +1312,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/King of Fighters R-2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1313,7 +1328,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Neo Cherry Master Color-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1329,7 +1344,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/NeoGeo Cup '98 Plus Color-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1345,7 +1360,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Pocket Tennis Color-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1361,7 +1376,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Puzzle Link-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1377,7 +1392,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Puzzle Link 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1393,7 +1408,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/SNK vs. Capcom - Match Of The Millennium-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1409,7 +1424,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Samurai Shodown! 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1425,7 +1440,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Shogi no Tatsujin Color-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1442,13 +1457,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/007 - The World Is Not Enough-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1464,7 +1480,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/1080 Snowboarding-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1480,7 +1496,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Aidyn Chronicles - The First Mage-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1496,7 +1512,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Banjo-Kazooie-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1512,7 +1528,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Banjo-Tooie-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1528,7 +1544,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Bomberman 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1544,7 +1560,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Bomberman 64 - The Second Attack!-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1560,7 +1576,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Bomberman Hero-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1576,7 +1592,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/California Speed-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1592,7 +1608,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Castlevania-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1608,7 +1624,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Castlevania - Legacy of Darkness-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1624,7 +1640,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Command & Conquer-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1640,7 +1656,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Conker's Bad Fur Day-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1656,7 +1672,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Cruis'n Exotica-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1672,7 +1688,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Cruis'n USA-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1688,7 +1704,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Cruis'n World-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1704,7 +1720,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Diddy Kong Racing-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1720,7 +1736,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Disney's Tarzan-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1736,7 +1752,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Donkey Kong 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1752,7 +1768,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Doom 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1768,7 +1784,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Duke Nukem 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1784,7 +1800,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Duke Nukem - Zero Hour-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1800,7 +1816,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Earthworm Jim 3D-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1816,7 +1832,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Excitebike 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1832,7 +1848,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/F-Zero X-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1848,7 +1864,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/F1 Pole Position 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1864,7 +1880,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Gauntlet Legends-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1880,7 +1896,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Glover-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1896,7 +1912,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/GoldenEye 007-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1912,7 +1928,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Harvest Moon 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1928,7 +1944,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Hydro Thunder-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1944,7 +1960,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Jet Force Gemini-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1960,7 +1976,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Killer Instinct Gold-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1976,7 +1992,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Kirby 64 - The Crystal Shards-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1992,7 +2008,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/LEGO Racers-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2008,7 +2024,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Madden NFL 2000-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2024,7 +2040,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Madden NFL 2001-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2040,7 +2056,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Madden NFL 2002-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2056,7 +2072,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Madden NFL 99-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2072,7 +2088,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mario Golf-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2088,7 +2104,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mario Kart 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2104,7 +2120,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mario Party-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2120,7 +2136,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mario Party 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2136,7 +2152,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mario Party 3-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2152,7 +2168,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Mario Tennis-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2168,7 +2184,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2184,7 +2200,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Mortal Kombat 4-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2200,7 +2216,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mortal Kombat Trilogy-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2216,7 +2232,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Nuclear Strike 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2232,7 +2248,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Off Road Challenge-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2248,7 +2264,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Ogre Battle 64 - Person of Lordly Caliber-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2264,7 +2280,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Paper Mario-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2280,7 +2296,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Perfect Dark-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2296,7 +2312,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Stadium-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2312,7 +2328,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Stadium 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2328,7 +2344,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Pokemon Snap-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2344,7 +2360,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Quake-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2360,7 +2376,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Quake II-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2376,7 +2392,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Quest 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2392,7 +2408,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Rampage 2 - Universal Tour-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2408,7 +2424,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Rampage - World Tour-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2424,7 +2440,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Road Rash 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2440,7 +2456,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Spider-Man-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2456,7 +2472,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Star Fox 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2472,7 +2488,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Star Wars Episode I - Racer-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2488,7 +2504,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Star Wars - Rogue Squadron-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2504,7 +2520,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Star Wars - Shadows of the Empire-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2520,7 +2536,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/StarCraft 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2536,7 +2552,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Mario 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2552,7 +2568,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Smash Bros.-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2568,7 +2584,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Superman-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2584,7 +2600,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Legend of Zelda - Majora's Mask-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2600,7 +2616,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Legend of Zelda - Ocarina of Time-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2616,7 +2632,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Tom Clancy's Rainbow Six-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2632,7 +2648,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Tony Hawk's Pro Skater-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2648,7 +2664,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Tony Hawk's Pro Skater 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2664,7 +2680,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Tony Hawk's Pro Skater 3-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2680,7 +2696,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Turok 2 - Seeds of Evil-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2696,7 +2712,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Turok 3 - Shadow of Oblivion-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2712,7 +2728,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Turok - Dinosaur Hunter-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2728,7 +2744,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Turok - Rage Wars-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2744,7 +2760,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/WWF Attitude-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2760,7 +2776,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/WWF No Mercy-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2776,7 +2792,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/WWF War Zone-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2792,7 +2808,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/WWF WrestleMania 2000-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2808,7 +2824,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Wave Race 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2824,7 +2840,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Wipeout 64-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2840,7 +2856,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Worms Armageddon-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2856,7 +2872,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Yoshi's Story-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2873,13 +2889,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Balloon Fight-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2895,7 +2912,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Battletoads-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2911,7 +2928,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Castlevania-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2927,7 +2944,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Castlevania II - Simon's Quest-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2943,7 +2960,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Castlevania III - Dracula's Curse-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2959,7 +2976,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Contra-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2975,7 +2992,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Contra Force-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2991,7 +3008,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Donkey Kong-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -3007,7 +3024,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Donkey Kong 3-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -3023,7 +3040,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Donkey Kong Jr.-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -3039,7 +3056,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Double Dragon-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3055,7 +3072,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Double Dragon II - The Revenge-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3071,7 +3088,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Double Dragon III - The Sacred Stones-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3087,7 +3104,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Dr. Mario-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3103,7 +3120,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Excitebike-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3119,7 +3136,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Final Fantasy-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3135,7 +3152,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Galaga-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -3151,7 +3168,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Gauntlet-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3167,7 +3184,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Gauntlet II-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3183,7 +3200,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Ghosts 'n Goblins-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -3199,7 +3216,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Gradius-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -3215,7 +3232,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Ice Climber-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3231,7 +3248,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Ice Hockey-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3247,7 +3264,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Kid Icarus-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3263,7 +3280,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Kirby's Adventure-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3279,7 +3296,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3295,7 +3312,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3311,7 +3328,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man 3-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3327,7 +3344,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man 4-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3343,7 +3360,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man 5-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3359,7 +3376,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man 6-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3375,7 +3392,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Metal Gear-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3391,7 +3408,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Metroid-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3407,7 +3424,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Ninja Gaiden-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3423,7 +3440,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Ninja Gaiden II - The Dark Sword of Chaos-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3439,7 +3456,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Ninja Gaiden III - The Ancient Ship of Doom-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3455,7 +3472,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Punch-Out!!-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3471,7 +3488,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Rampage-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3487,7 +3504,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Star Wars-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3503,7 +3520,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Star Wars - The Empire Strikes Back-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3519,7 +3536,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Startropics-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3535,7 +3552,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Zoda's Revenge - StarTropics II-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3551,7 +3568,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super C-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3567,7 +3584,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Mario Bros.-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -3583,7 +3600,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Mario Bros. 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3599,7 +3616,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Mario Bros. 3-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -3615,7 +3632,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Pitfall-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -3631,7 +3648,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Tecmo Bowl-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3647,7 +3664,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Tecmo Super Bowl-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3663,7 +3680,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Tetris-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3679,7 +3696,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Tetris 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3695,7 +3712,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Legend of Zelda-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3711,7 +3728,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Simpsons - Bart vs. the Space Mutants-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3727,7 +3744,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Simpsons - Bart vs. the World-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3743,7 +3760,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Simpsons - Bartman Meets Radioactive Man-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3759,7 +3776,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Treasure Master-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3775,7 +3792,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Zelda II - The Adventure of Link-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3792,13 +3809,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Ape Escape-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3814,7 +3832,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Crash Bandicoot-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3830,7 +3848,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Crash Bandicoot 2 - Cortex Strikes Back-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3846,7 +3864,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Crash Bandicoot 3 - Warped-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3862,7 +3880,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Resident Evil-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3878,7 +3896,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Resident Evil 3 - Nemesis (Demo)-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3894,7 +3912,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Silent Hill-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3910,7 +3928,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Spyro 2 - Ripto's Rage!-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3926,7 +3944,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Spyro the Dragon-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3942,7 +3960,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Spyro - Year of the Dragon-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3959,13 +3977,14 @@
         "released": null
     },
     {
+        "collection": "100.00%",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/After Burner-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -3981,7 +4000,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/BC Racers-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -3997,7 +4016,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Blackthorne-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4013,7 +4032,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Brutal - Above the Claw-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4029,7 +4048,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Cosmic Carnage-image.png",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4045,7 +4064,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/DarXide-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4061,7 +4080,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Doom-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4077,7 +4096,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/FIFA Soccer 96-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4093,7 +4112,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Golf Magazine - 36 Great Holes Starring Fred Couples-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4109,7 +4128,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Knuckles' Chaotix-image.png",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4125,7 +4144,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Kolibri-image.png",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4141,7 +4160,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Metal Head-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4157,7 +4176,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Mortal Kombat II-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4173,7 +4192,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Motocross Championship-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4189,7 +4208,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/NBA Jam Tournament Edition-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4205,7 +4224,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/NFL Quarterback Club-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4221,7 +4240,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Pitfall - The Mayan Adventure-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4237,7 +4256,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Primal Rage-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4253,7 +4272,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/RBI Baseball '95-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4269,7 +4288,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Romance of the Three Kingdoms IV - Wall of Fire-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4285,7 +4304,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Shadow Squadron-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4301,7 +4320,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Space Harrier-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4317,7 +4336,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Star Trek - Starfleet Academy - Starship Bridge Simulator-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4333,7 +4352,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Star Wars Arcade-image.png",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4349,7 +4368,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/T-MEK-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4365,7 +4384,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Tempo-image.png",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4381,7 +4400,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/The Amazing Spider-Man - Web of Fire-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4397,7 +4416,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Toughman Contest-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4413,7 +4432,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Virtua Fighter-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4429,7 +4448,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Virtua Racing Deluxe-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4445,7 +4464,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/WWF RAW-image.png",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4461,7 +4480,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/WWF Wrestlemania - The Arcade Game-image.png",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4477,7 +4496,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/World Series Baseball Starring Deion Sanders-image.png",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4493,7 +4512,7 @@
                     "pi0": null,
                     "pi3": null
                 },
-                "licensed": null,
+                "image": "./images/Zaxxon's Motherbase 2000-image.jpg",
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4510,13 +4529,14 @@
         "released": 34
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Sonic CD-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4533,13 +4553,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Sonic Labyrinth-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4556,13 +4577,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Knuckles in Sonic 2-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4578,7 +4600,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Shining Force-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4594,7 +4616,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Shining Force II-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4610,7 +4632,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Sonic & Knuckles-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4626,7 +4648,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Sonic 3 & Knuckles-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4642,7 +4664,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Sonic Blue Sphere-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4658,7 +4680,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Sonic the Hedgehog-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4674,7 +4696,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Sonic the Hedgehog 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4690,7 +4712,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Sonic the Hedgehog 3-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4706,7 +4728,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Vectorman-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4722,7 +4744,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Vectorman 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4739,13 +4761,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Phantasy Star-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4762,13 +4785,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Orguss-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4785,13 +4809,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Battletoads & Double Dragon-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4807,7 +4832,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Chrono Trigger-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4823,7 +4848,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Contra III - The Alien Wars-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4839,7 +4864,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Desert Strike - Return to the Gulf-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4855,7 +4880,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Donkey Kong Country-image.jpg",
                 "multiplayer": {
                     "alternating-coop": true,
                     "alternating-vs": true,
@@ -4871,7 +4896,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Donkey Kong Country 2 - Diddy's Kong Quest-image.jpg",
                 "multiplayer": {
                     "alternating-coop": true,
                     "alternating-vs": true,
@@ -4887,7 +4912,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Donkey Kong Country 3 - Dixie Kong's Double Trouble!-image.jpg",
                 "multiplayer": {
                     "alternating-coop": true,
                     "alternating-vs": true,
@@ -4903,7 +4928,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Doom-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4919,7 +4944,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/EarthBound-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4935,7 +4960,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Earthworm Jim-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4951,7 +4976,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Earthworm Jim 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4967,7 +4992,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/F-Zero-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4983,7 +5008,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/F1 Pole Position-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4999,7 +5024,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Final Fantasy II-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5015,7 +5040,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Final Fantasy III-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5031,7 +5056,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Frogger-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -5047,7 +5072,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Harvest Moon-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5063,7 +5088,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Jungle Strike-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5079,7 +5104,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Jurassic Park-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5095,7 +5120,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Jurassic Park 2 - The Chaos Continues-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5111,7 +5136,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Kirby Super Star-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5127,7 +5152,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Kirby's Dream Land 3-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5143,7 +5168,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Madden NFL '94-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5159,7 +5184,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Madden NFL '95-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5175,7 +5200,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Madden NFL '96-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5191,7 +5216,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Madden NFL 97-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5207,7 +5232,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Madden NFL 98-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5223,7 +5248,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/Mario Paint-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5239,7 +5264,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mechwarrior-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5255,7 +5280,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mechwarrior 3050-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5271,7 +5296,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man 7-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5287,7 +5312,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man X-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5303,7 +5328,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man X2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5319,7 +5344,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mega Man X3-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5335,7 +5360,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mortal Kombat-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5351,7 +5376,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mortal Kombat 3-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5367,7 +5392,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mortal Kombat II-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5383,7 +5408,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Ms. Pac-Man-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -5399,7 +5424,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/NBA Jam Tournament Edition-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5415,7 +5440,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Primal Rage-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5431,7 +5456,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/R-Type III - The Third Lightning-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -5447,7 +5472,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Secret of Mana-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5463,7 +5488,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Shaq Fu-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5479,7 +5504,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/SimCity-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5495,7 +5520,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Star Fox-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5511,7 +5536,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Street Fighter II Turbo-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5527,7 +5552,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Bomberman-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5543,7 +5568,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Bomberman 2-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5559,7 +5584,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Castlevania IV-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5575,7 +5600,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Double Dragon-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5591,7 +5616,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Ghouls 'n Ghosts-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5607,7 +5632,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Mario Kart-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5623,7 +5648,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Mario RPG - Legend of the Seven Stars-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5639,7 +5664,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Mario World-image.jpg",
                 "multiplayer": {
                     "alternating-coop": true,
                     "alternating-vs": false,
@@ -5655,7 +5680,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Mario World 2 - Yoshi's Island-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5671,7 +5696,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Metroid-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5687,7 +5712,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Punch-Out!!-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5703,7 +5728,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super R-Type-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5719,7 +5744,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Star Wars-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5735,7 +5760,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Star Wars - Return of the Jedi-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5751,7 +5776,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Super Star Wars - The Empire Strikes Back-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5767,7 +5792,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Legend of Zelda - A Link to the Past-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5783,7 +5808,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/The Simpsons - Bart's Nightmare-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5799,7 +5824,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Todd McFarlane's Spawn - The Video Game-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5815,7 +5840,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Ultimate Mortal Kombat 3-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5831,7 +5856,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Urban Strike-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5847,7 +5872,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Wolfenstein 3-D-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5863,7 +5888,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "licensed": null,
+                "image": "./images/X-Men vs. Street Fighter-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5879,7 +5904,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/X-Men - Mutant Apocalypse-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5895,7 +5920,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Zombies Ate My Neighbors-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5912,13 +5937,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Blazing Lazers-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5934,7 +5960,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Bonk 3 - Bonk's Big Adventure-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5950,7 +5976,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Bonk's Adventure-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5966,7 +5992,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Bonk's Revenge-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5982,7 +6008,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Neutopia-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5998,7 +6024,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Neutopia II-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6014,7 +6040,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/New Adventure Island-image.png",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6030,7 +6056,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Splatterhouse-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6047,19 +6073,21 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": 4939,
         "name": "Vectrex",
         "released": null
     },
     {
+        "collection": "100.00%",
         "games": [
             {
                 "compatibility": {
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/3-D Tetris-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6075,7 +6103,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Bomberman - Panic Bomber-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6091,7 +6119,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Galactic Pinball-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6107,7 +6135,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Golf-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6123,7 +6151,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Innsmouth no Yakata-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6139,7 +6167,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Jack Bros.-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6155,7 +6183,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mario Clash-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6171,7 +6199,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Mario's Tennis-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6187,7 +6215,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Nester's Funky Bowling-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6203,7 +6231,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Red Alarm-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6219,7 +6247,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/SD Gundam Dimension War-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6235,7 +6263,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Space Invaders - Virtual Collection-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6251,7 +6279,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Space Squash-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6267,7 +6295,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Teleroboxer-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6283,7 +6311,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/V-Tetris-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6299,7 +6327,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Vertical Force-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6315,7 +6343,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Virtual Bowling-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6331,7 +6359,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Virtual Boy Wario Land-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6347,7 +6375,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Virtual Fishing-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6363,7 +6391,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Virtual Lab-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6379,7 +6407,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Virtual League Baseball-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6395,7 +6423,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "licensed": null,
+                "image": "./images/Waterworld-image.jpg",
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6412,6 +6440,7 @@
         "released": 22
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": 4913,
         "name": "Sinclair ZX Spectrum",

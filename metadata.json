@@ -1,17 +1,20 @@
 [
     {
+        "collection": "Unknown",
         "games": [],
         "id": 4914,
         "name": "Amstrad CPC",
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": 23,
         "name": "Arcade",
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -22,8 +25,6 @@
                 "developer": "Konami",
                 "genre": "Strategy",
                 "id": null,
-                "image": "./images/Frogger-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -45,8 +46,6 @@
                 "developer": "Parker Brothers",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Frogger II - ThreeeDeep!-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -68,8 +67,6 @@
                 "developer": "Activision",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Pitfall II - Lost Caverns-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -91,8 +88,6 @@
                 "developer": "Activision",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Pitfall!-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -114,8 +109,6 @@
                 "developer": "Namco",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Pole Position-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -134,6 +127,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -144,8 +138,6 @@
                 "developer": "Atari",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Asteroids-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": true,
                     "alternating-vs": true,
@@ -167,8 +159,6 @@
                 "developer": "Atari",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Centipede-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": true,
                     "alternating-vs": true,
@@ -190,8 +180,6 @@
                 "developer": "Namco",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/DigDug-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -213,8 +201,6 @@
                 "developer": "Namco",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Pole Position II-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -233,6 +219,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -243,8 +230,6 @@
                 "developer": "Epyx",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/California Games-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -263,18 +248,21 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": 4936,
         "name": "Famicom Disk System",
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": null,
         "name": "Final Burn Alpha",
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -285,8 +273,6 @@
                 "developer": "Rare",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Donkey Kong Land-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -308,8 +294,6 @@
                 "developer": "Rare",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Donkey Kong Land 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -331,8 +315,6 @@
                 "developer": "Rare",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Donkey Kong Land III-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -354,8 +336,6 @@
                 "developer": "HAL Laboratory",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Kirby's Dream Land-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -377,8 +357,6 @@
                 "developer": "HAL Laboratory",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Kirby's Dream Land 2-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -400,8 +378,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Metroid II - Return of Samus-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -423,8 +399,6 @@
                 "developer": "Game Freak",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Pokemon Blue Version-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -446,8 +420,6 @@
                 "developer": "Game Freak",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Pokemon Red Version-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -469,8 +441,6 @@
                 "developer": "Game Freak",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Pokemon Yellow Version-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -492,8 +462,6 @@
                 "developer": "Nintendo",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Super Mario Land-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -515,8 +483,6 @@
                 "developer": "Nintendo",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Super Mario Land 2 - 6 Golden Coins-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -538,8 +504,6 @@
                 "developer": "Nintendo",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/The Legend of Zelda - Link's Awakening-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -561,8 +525,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Wario Land II-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -584,8 +546,6 @@
                 "developer": "Nintendo",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Wario Land - Super Mario Land 3-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -604,6 +564,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -614,8 +575,6 @@
                 "developer": "David A. Palmer Productions",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Doom-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -637,8 +596,6 @@
                 "developer": "Torus Games",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Doom II-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -660,8 +617,6 @@
                 "developer": "3D Realms",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Duke Nukem Advance-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -683,8 +638,6 @@
                 "developer": "Pocket Studios",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Gauntlet - Dark Legacy-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -706,8 +659,6 @@
                 "developer": "Nintendo Research & Development 1",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Metroid Fusion-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -729,8 +680,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Metroid - Zero Mission-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -752,8 +701,6 @@
                 "developer": "Game Freak",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Pokemon LeafGreen Version-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -775,8 +722,6 @@
                 "developer": "Game Freak",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Pokemon Emerald Version-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -798,8 +743,6 @@
                 "developer": "Game Freak",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Pokemon FireRed Version-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -821,8 +764,6 @@
                 "developer": "Game Freak",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Pokemon Ruby Version-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -844,8 +785,6 @@
                 "developer": "Game Freak",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Pokemon Sapphire Version-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -867,8 +806,6 @@
                 "developer": "Digital Eclipse",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Spyro 2 - Season of Flame-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -890,8 +827,6 @@
                 "developer": "Vicarious Visions",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Spyro Orange - The Cortex Conspiracy-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -913,8 +848,6 @@
                 "developer": "Digital Eclipse",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Spyro - Attack of The Rhynocs-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -936,8 +869,6 @@
                 "developer": "Digital Eclipse",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Spyro - Season of Ice-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -959,8 +890,6 @@
                 "developer": "Amaze Entertainment",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/The Legend of Spyro - The Eternal Night-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -982,8 +911,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/The Legend of Zelda - The Minish Cap-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1002,6 +929,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -1012,8 +940,6 @@
                 "developer": "Torus Games",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Duke Nukem-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1035,8 +961,6 @@
                 "developer": "Tarantula Studios",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Grand Theft Auto-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1058,8 +982,6 @@
                 "developer": "Tarantula Studios",
                 "genre": "Sandbox",
                 "id": null,
-                "image": "./images/Grand Theft Auto 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1081,8 +1003,6 @@
                 "developer": "Victor Interactive Software, Inc.",
                 "genre": "Life Simulation",
                 "id": null,
-                "image": "./images/Harvest Moon-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1104,8 +1024,6 @@
                 "developer": "Natsume",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Harvest Moon 2-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1127,8 +1045,6 @@
                 "developer": "Natsume",
                 "genre": "Construction and Management Simulation",
                 "id": null,
-                "image": "./images/Harvest Moon 3-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1150,8 +1066,6 @@
                 "developer": "Camelot Software Planning",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Mario Tennis-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1173,8 +1087,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man Xtreme-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1196,8 +1108,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man Xtreme 2-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1219,8 +1129,6 @@
                 "developer": "Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Metal Gear Solid-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1242,8 +1150,6 @@
                 "developer": "DIgital Eclipse",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Mortal Kombat 4-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1265,8 +1171,6 @@
                 "developer": "Game Freak",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Pokemon Crystal Version-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1288,8 +1192,6 @@
                 "developer": "Game Freak",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Pokemon Gold Version-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1311,8 +1213,6 @@
                 "developer": "Jupiter",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/Pokemon Pinball-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1334,8 +1234,6 @@
                 "developer": "Game Freak",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Pokemon Silver Version-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1357,8 +1255,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Pokemon Trading Card Game-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1380,8 +1276,6 @@
                 "developer": "Torus Games",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Star Wars - Yoda Stories-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1403,8 +1297,6 @@
                 "developer": "Nintendo",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Super Mario Bros. Deluxe-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1426,8 +1318,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/The Legend of Zelda - Link's Awakening DX-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1449,8 +1339,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/The Legend of Zelda - Oracle of Ages-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1472,8 +1360,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/The Legend of Zelda - Oracle of Seasons-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1495,8 +1381,6 @@
                 "developer": "Nintendo",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Wario Land 3-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1518,8 +1402,6 @@
                 "developer": "Nintendo",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Wario Land II-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1538,24 +1420,28 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": null,
         "name": "MAME",
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": 4929,
         "name": "MSX",
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": 24,
         "name": "Neo Geo",
         "released": null
     },
     {
+        "collection": "100.00%",
         "games": [
             {
                 "compatibility": {
@@ -1566,8 +1452,6 @@
                 "developer": "SNK",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Baseball Stars-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1589,8 +1473,6 @@
                 "developer": "SNK",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/King of Fighters R-1-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1612,8 +1494,6 @@
                 "developer": "ADK",
                 "genre": "Life Simulation",
                 "id": null,
-                "image": "./images/Melon Chan's Growth Diary-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1635,8 +1515,6 @@
                 "developer": "DYNA",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/Neo Cherry Master-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1658,8 +1536,6 @@
                 "developer": "SNK",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Neo Geo Cup '98-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1681,8 +1557,6 @@
                 "developer": "SNK",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Neo Geo Cup '98 Plus-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1704,8 +1578,6 @@
                 "developer": "Yumekobo",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Pocket Tennis-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1727,8 +1599,6 @@
                 "developer": "Yumekobo",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/Puzzle Tsunagete Pon!-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1750,8 +1620,6 @@
                 "developer": "SNK",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Samurai Shodown!-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1773,8 +1641,6 @@
                 "developer": "ADK",
                 "genre": "Strategy",
                 "id": null,
-                "image": "./images/Shogi no Tatsujin-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1793,6 +1659,7 @@
         "released": 10
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -1803,8 +1670,6 @@
                 "developer": "SNK",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Baseball Stars Color-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1826,8 +1691,6 @@
                 "developer": "SNK",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/King of Fighters R-2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1849,8 +1712,6 @@
                 "developer": "Dyna Corporation",
                 "genre": null,
                 "id": null,
-                "image": "./images/Neo Cherry Master Color-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1872,8 +1733,6 @@
                 "developer": "SNK",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/NeoGeo Cup '98 Plus Color-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1895,8 +1754,6 @@
                 "developer": "Yumekobo",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Pocket Tennis Color-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1918,8 +1775,6 @@
                 "developer": "Yumekobo",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/Puzzle Link-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1941,8 +1796,6 @@
                 "developer": "Yumekobo",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/Puzzle Link 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1964,8 +1817,6 @@
                 "developer": "Capcom",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/SNK vs. Capcom - Match Of The Millennium-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1987,8 +1838,6 @@
                 "developer": "SNK",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Samurai Shodown! 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2010,8 +1859,6 @@
                 "developer": "ADK",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/Shogi no Tatsujin Color-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -2030,6 +1877,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -2040,8 +1888,6 @@
                 "developer": "Eurocom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/007 - The World Is Not Enough-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2063,8 +1909,6 @@
                 "developer": "Nintendo EAD",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/1080 Snowboarding-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2086,8 +1930,6 @@
                 "developer": "H2O Interactive",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Aidyn Chronicles - The First Mage-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2109,8 +1951,6 @@
                 "developer": "Rareware",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Banjo-Kazooie-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2132,8 +1972,6 @@
                 "developer": "Rareware",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Banjo-Tooie-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2155,8 +1993,6 @@
                 "developer": "Hudson Soft",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Bomberman 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2178,8 +2014,6 @@
                 "developer": "Hudson Soft",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Bomberman 64 - The Second Attack!-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2201,8 +2035,6 @@
                 "developer": "Hudson Soft",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Bomberman Hero-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2224,8 +2056,6 @@
                 "developer": "Atari",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/California Speed-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2247,8 +2077,6 @@
                 "developer": "Konami Computer, Entertainment Kobe",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Castlevania-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2270,8 +2098,6 @@
                 "developer": "Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Castlevania - Legacy of Darkness-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2293,8 +2119,6 @@
                 "developer": "Westwood Studios",
                 "genre": "Strategy",
                 "id": null,
-                "image": "./images/Command & Conquer-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2316,8 +2140,6 @@
                 "developer": "Rare Ltd.",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Conker's Bad Fur Day-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2339,8 +2161,6 @@
                 "developer": "Midway Games",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Cruis'n Exotica-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2362,8 +2182,6 @@
                 "developer": "Midway Games",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Cruis'n USA-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2385,8 +2203,6 @@
                 "developer": "Midway Games",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Cruis'n World-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2408,8 +2224,6 @@
                 "developer": "Rareware",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Diddy Kong Racing-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2431,8 +2245,6 @@
                 "developer": "Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Disney's Tarzan-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2454,8 +2266,6 @@
                 "developer": "Rare",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Donkey Kong 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2477,8 +2287,6 @@
                 "developer": "Midway",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Doom 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2500,8 +2308,6 @@
                 "developer": "GT Interactive",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Duke Nukem 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2523,8 +2329,6 @@
                 "developer": "Eurocom Ent.",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Duke Nukem - Zero Hour-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2546,8 +2350,6 @@
                 "developer": "VIS Entertainment",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Earthworm Jim 3D-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2569,8 +2371,6 @@
                 "developer": "Nintendo",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Excitebike 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2592,8 +2392,6 @@
                 "developer": "Nintendo",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/F-Zero X-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2615,8 +2413,6 @@
                 "developer": "Human Entertainment",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/F1 Pole Position 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2638,8 +2434,6 @@
                 "developer": "Atari Games",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Gauntlet Legends-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2661,8 +2455,6 @@
                 "developer": "Interactive Studios",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Glover-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2684,8 +2476,6 @@
                 "developer": "Rareware",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/GoldenEye 007-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2707,8 +2497,6 @@
                 "developer": "Toy Box Studios",
                 "genre": "Construction and Management Simulation",
                 "id": null,
-                "image": "./images/Harvest Moon 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2730,8 +2518,6 @@
                 "developer": "Midway Games",
                 "genre": "Vehicle Simulation",
                 "id": null,
-                "image": "./images/Hydro Thunder-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2753,8 +2539,6 @@
                 "developer": "Rare",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Jet Force Gemini-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2776,8 +2560,6 @@
                 "developer": "Rare Ltd.",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Killer Instinct Gold-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2799,8 +2581,6 @@
                 "developer": "HAL Laboratory",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Kirby 64 - The Crystal Shards-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2822,8 +2602,6 @@
                 "developer": "High Voltage Software",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/LEGO Racers-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2845,8 +2623,6 @@
                 "developer": "EA Sports",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Madden NFL 2000-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2868,8 +2644,6 @@
                 "developer": "EA SPorts",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Madden NFL 2001-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2891,8 +2665,6 @@
                 "developer": "Budcat",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Madden NFL 2002-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2914,8 +2686,6 @@
                 "developer": "Electronic Arts",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Madden NFL 99-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2937,8 +2707,6 @@
                 "developer": "Camelot Software Planning",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Mario Golf-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2960,8 +2728,6 @@
                 "developer": "Nintendo",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Mario Kart 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -2983,8 +2749,6 @@
                 "developer": "Hudson Soft",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Mario Party-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3006,8 +2770,6 @@
                 "developer": "Hudson Soft",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Mario Party 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3029,8 +2791,6 @@
                 "developer": "Hudson Soft",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Mario Party 3-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3052,8 +2812,6 @@
                 "developer": "Nintendo",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Mario Tennis-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3075,8 +2833,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3098,8 +2854,6 @@
                 "developer": "Eurocom Ent.",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Mortal Kombat 4-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3121,8 +2875,6 @@
                 "developer": "Midway",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Mortal Kombat Trilogy-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3144,8 +2896,6 @@
                 "developer": "Pacific Coast Power and Light",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Nuclear Strike 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3167,8 +2917,6 @@
                 "developer": "Midway",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Off Road Challenge-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3190,8 +2938,6 @@
                 "developer": "Quest",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Ogre Battle 64 - Person of Lordly Caliber-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3213,8 +2959,6 @@
                 "developer": "Intelligent Systems",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Paper Mario-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3236,8 +2980,6 @@
                 "developer": "Rare Ltd.",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Perfect Dark-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3259,8 +3001,6 @@
                 "developer": "Nintendo EAD",
                 "genre": "Strategy",
                 "id": null,
-                "image": "./images/Pokemon Stadium-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3282,8 +3022,6 @@
                 "developer": "Nintendo EAD, HAL Laboratory",
                 "genre": "Strategy",
                 "id": null,
-                "image": "./images/Pokemon Stadium 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3305,8 +3043,6 @@
                 "developer": "HAL Laboratory | Pax Softnica",
                 "genre": "Life Simulation",
                 "id": null,
-                "image": "./images/Pokemon Snap-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3328,8 +3064,6 @@
                 "developer": "id Software",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Quake-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3351,8 +3085,6 @@
                 "developer": "id Software",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Quake II-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3374,8 +3106,6 @@
                 "developer": "Imagineer",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Quest 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3397,8 +3127,6 @@
                 "developer": "Avalanche Software",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Rampage 2 - Universal Tour-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3420,8 +3148,6 @@
                 "developer": "Saffire",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Rampage - World Tour-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3443,8 +3169,6 @@
                 "developer": "Pacific Coast Power and Light",
                 "genre": "Vehicle Simulation",
                 "id": null,
-                "image": "./images/Road Rash 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3466,8 +3190,6 @@
                 "developer": "Neversoft Entertainment, Inc.",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Spider-Man-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3489,8 +3211,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Star Fox 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3512,8 +3232,6 @@
                 "developer": "LucasArts",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Star Wars Episode I - Racer-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3535,8 +3253,6 @@
                 "developer": "Factor 5",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Star Wars - Rogue Squadron-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3558,8 +3274,6 @@
                 "developer": "LucasArts",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Star Wars - Shadows of the Empire-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3581,8 +3295,6 @@
                 "developer": "Mass Media",
                 "genre": "Strategy",
                 "id": null,
-                "image": "./images/StarCraft 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3604,8 +3316,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super Mario 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3627,8 +3337,6 @@
                 "developer": "HAL Laboratory",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Super Smash Bros.-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3650,8 +3358,6 @@
                 "developer": "Titus France",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Superman-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3673,8 +3379,6 @@
                 "developer": "Nintendo EAD",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/The Legend of Zelda - Majora's Mask-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3696,8 +3400,6 @@
                 "developer": "Nintendo EAD",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/The Legend of Zelda - Ocarina of Time-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3719,8 +3421,6 @@
                 "developer": "Red Storm Entertainment",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Tom Clancy's Rainbow Six-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3742,8 +3442,6 @@
                 "developer": "Edge Of Reality",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Tony Hawk's Pro Skater-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3765,8 +3463,6 @@
                 "developer": "Edge Of Reality",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Tony Hawk's Pro Skater 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3788,8 +3484,6 @@
                 "developer": "Edge Of Reality",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Tony Hawk's Pro Skater 3-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3811,8 +3505,6 @@
                 "developer": "Iguana",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Turok 2 - Seeds of Evil-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3834,8 +3526,6 @@
                 "developer": "Acclaim",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Turok 3 - Shadow of Oblivion-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3857,8 +3547,6 @@
                 "developer": "Iguana Entertainment",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Turok - Dinosaur Hunter-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3880,8 +3568,6 @@
                 "developer": "Acclaim",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Turok - Rage Wars-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3903,8 +3589,6 @@
                 "developer": "Iguana Entertainment",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/WWF Attitude-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3926,8 +3610,6 @@
                 "developer": "Aki Corp.",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/WWF No Mercy-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3949,8 +3631,6 @@
                 "developer": "Iguana West",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/WWF War Zone-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3972,8 +3652,6 @@
                 "developer": "Aki Corp.",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/WWF WrestleMania 2000-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -3995,8 +3673,6 @@
                 "developer": "Nintendo",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Wave Race 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4018,8 +3694,6 @@
                 "developer": "Psygnosis Limited",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Wipeout 64-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4041,8 +3715,6 @@
                 "developer": "Team17",
                 "genre": "Strategy",
                 "id": null,
-                "image": "./images/Worms Armageddon-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4064,8 +3736,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Yoshi's Story-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4084,6 +3754,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -4094,8 +3765,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Balloon Fight-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4117,8 +3786,6 @@
                 "developer": "Rare",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Battletoads-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4140,8 +3807,6 @@
                 "developer": "Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Castlevania-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4163,8 +3828,6 @@
                 "developer": "Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Castlevania II - Simon's Quest-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4186,8 +3849,6 @@
                 "developer": "Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Castlevania III - Dracula's Curse-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4209,8 +3870,6 @@
                 "developer": "Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Contra-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4232,8 +3891,6 @@
                 "developer": "Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Contra Force-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4255,8 +3912,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Donkey Kong-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -4278,8 +3933,6 @@
                 "developer": "Nintendo",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Donkey Kong 3-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -4301,8 +3954,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Donkey Kong Jr.-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -4324,8 +3975,6 @@
                 "developer": "Technos Japan",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Double Dragon-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4347,8 +3996,6 @@
                 "developer": "Technos Japan",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Double Dragon II - The Revenge-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4370,8 +4017,6 @@
                 "developer": "East Technology",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Double Dragon III - The Sacred Stones-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4393,8 +4038,6 @@
                 "developer": "Nintendo",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/Dr. Mario-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4416,8 +4059,6 @@
                 "developer": "Nintendo Research & Development 1",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Excitebike-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4439,8 +4080,6 @@
                 "developer": "Squaresoft",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Final Fantasy-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4462,8 +4101,6 @@
                 "developer": "Namco",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Galaga-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -4485,8 +4122,6 @@
                 "developer": "Tengen",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Gauntlet-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4508,8 +4143,6 @@
                 "developer": "Atari",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Gauntlet II-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4531,8 +4164,6 @@
                 "developer": "Capcom",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Ghosts 'n Goblins-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -4554,8 +4185,6 @@
                 "developer": "Konami",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Gradius-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -4577,8 +4206,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Ice Climber-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4600,8 +4227,6 @@
                 "developer": "Pax Softonica",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Ice Hockey-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4623,8 +4248,6 @@
                 "developer": "Nintendo",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Kid Icarus-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4646,8 +4269,6 @@
                 "developer": "HAL Laboratory",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Kirby's Adventure-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4669,8 +4290,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4692,8 +4311,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4715,8 +4332,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man 3-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4738,8 +4353,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man 4-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4761,8 +4374,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man 5-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4784,8 +4395,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man 6-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4807,8 +4416,6 @@
                 "developer": "Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Metal Gear-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4830,8 +4437,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Metroid-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4853,8 +4458,6 @@
                 "developer": "Tecmo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Ninja Gaiden-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4876,8 +4479,6 @@
                 "developer": "Tecmo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Ninja Gaiden II - The Dark Sword of Chaos-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4899,8 +4500,6 @@
                 "developer": "Tecmo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Ninja Gaiden III - The Ancient Ship of Doom-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4922,8 +4521,6 @@
                 "developer": "Nintendo",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Punch-Out!!-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4945,8 +4542,6 @@
                 "developer": "Data East",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Rampage-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4968,8 +4563,6 @@
                 "developer": "Beam Software",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Star Wars-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -4991,8 +4584,6 @@
                 "developer": "Sculptured Software",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Star Wars - The Empire Strikes Back-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5014,8 +4605,6 @@
                 "developer": "Nintendo IRD",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Startropics-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5037,8 +4626,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Zoda's Revenge - StarTropics II-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5060,8 +4647,6 @@
                 "developer": "Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super C-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5083,8 +4668,6 @@
                 "developer": "Nintendo",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Super Mario Bros.-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -5106,8 +4689,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super Mario Bros. 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5129,8 +4710,6 @@
                 "developer": "Nintendo EAD",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Super Mario Bros. 3-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -5152,8 +4731,6 @@
                 "developer": "Micronics",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super Pitfall-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -5175,8 +4752,6 @@
                 "developer": "Tecmo",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Tecmo Bowl-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5198,8 +4773,6 @@
                 "developer": "Tecmo",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Tecmo Super Bowl-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5221,8 +4794,6 @@
                 "developer": "Bullet-Proof Software",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/Tetris-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5244,8 +4815,6 @@
                 "developer": "TOSE",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/Tetris 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5267,8 +4836,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/The Legend of Zelda-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5290,8 +4857,6 @@
                 "developer": "Imagineering",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/The Simpsons - Bart vs. the Space Mutants-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5313,8 +4878,6 @@
                 "developer": "Imagineering",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/The Simpsons - Bart vs. the World-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5336,8 +4899,6 @@
                 "developer": "Imagineering",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/The Simpsons - Bartman Meets Radioactive Man-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5359,8 +4920,6 @@
                 "developer": "Software Creations",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Treasure Master-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5382,8 +4941,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Zelda II - The Adventure of Link-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5402,6 +4959,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -5412,8 +4970,6 @@
                 "developer": "Sony Japan Studio",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Ape Escape-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5435,8 +4991,6 @@
                 "developer": "Naughty Dog",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Crash Bandicoot-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5458,8 +5012,6 @@
                 "developer": "Naughty Dog",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Crash Bandicoot 2 - Cortex Strikes Back-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5481,8 +5033,6 @@
                 "developer": "Naughty Dog",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Crash Bandicoot 3 - Warped-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5504,8 +5054,6 @@
                 "developer": "Capcom",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Resident Evil-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5527,8 +5075,6 @@
                 "developer": "Capcom",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Resident Evil 3 - Nemesis (Demo)-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5550,8 +5096,6 @@
                 "developer": "Team Silent, Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Silent Hill-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5573,8 +5117,6 @@
                 "developer": "Insomniac Games",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Spyro 2 - Ripto's Rage!-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5596,8 +5138,6 @@
                 "developer": "Insomniac Games",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Spyro the Dragon-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5619,8 +5159,6 @@
                 "developer": "Insomniac Games",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Spyro - Year of the Dragon-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5639,6 +5177,7 @@
         "released": null
     },
     {
+        "collection": "100.00%",
         "games": [
             {
                 "compatibility": {
@@ -5649,8 +5188,6 @@
                 "developer": "Sega",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/After Burner-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5672,8 +5209,6 @@
                 "developer": "Core Design",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/BC Racers-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5695,8 +5230,6 @@
                 "developer": "Blizzard",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Blackthorne-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5718,8 +5251,6 @@
                 "developer": "GameTek",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Brutal - Above the Claw-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5741,8 +5272,6 @@
                 "developer": "Almanic",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Cosmic Carnage-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5764,8 +5293,6 @@
                 "developer": "Frontier Developments",
                 "genre": null,
                 "id": null,
-                "image": "./images/DarXide-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5787,8 +5314,6 @@
                 "developer": "id Software",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Doom-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5810,8 +5335,6 @@
                 "developer": "Electronic Arts",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/FIFA Soccer 96-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5833,8 +5356,6 @@
                 "developer": "Flashpoint",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Golf Magazine - 36 Great Holes Starring Fred Couples-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5856,8 +5377,6 @@
                 "developer": "Sonic Team",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Knuckles' Chaotix-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5879,8 +5398,6 @@
                 "developer": "Novotrade",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Kolibri-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5902,8 +5419,6 @@
                 "developer": "Sega",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Metal Head-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5925,8 +5440,6 @@
                 "developer": "Acclaim",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Mortal Kombat II-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5948,8 +5461,6 @@
                 "developer": "Artech Digital Entertainment",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Motocross Championship-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5971,8 +5482,6 @@
                 "developer": "Midway",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/NBA Jam Tournament Edition-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -5994,8 +5503,6 @@
                 "developer": "Iguana Entertainment",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/NFL Quarterback Club-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6017,8 +5524,6 @@
                 "developer": "Activision",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Pitfall - The Mayan Adventure-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6040,8 +5545,6 @@
                 "developer": "Atari",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Primal Rage-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6063,8 +5566,6 @@
                 "developer": "Time Warner",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/RBI Baseball '95-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6086,8 +5587,6 @@
                 "developer": "Koei",
                 "genre": "Strategy",
                 "id": null,
-                "image": "./images/Romance of the Three Kingdoms IV - Wall of Fire-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6109,8 +5608,6 @@
                 "developer": "SEGA",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Shadow Squadron-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6132,8 +5629,6 @@
                 "developer": "Sega",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Space Harrier-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6155,8 +5650,6 @@
                 "developer": "Interplay",
                 "genre": "Flight Simulator",
                 "id": null,
-                "image": "./images/Star Trek - Starfleet Academy - Starship Bridge Simulator-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6178,8 +5671,6 @@
                 "developer": "Sega",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Star Wars Arcade-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6201,8 +5692,6 @@
                 "developer": "Atari",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/T-MEK-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6224,8 +5713,6 @@
                 "developer": "Red Company",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Tempo-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6247,8 +5734,6 @@
                 "developer": "Bluesky",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/The Amazing Spider-Man - Web of Fire-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6270,8 +5755,6 @@
                 "developer": "High Score",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Toughman Contest-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6293,8 +5776,6 @@
                 "developer": "SEGA AM-2",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Virtua Fighter-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6316,8 +5797,6 @@
                 "developer": "SEGA",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Virtua Racing Deluxe-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6339,8 +5818,6 @@
                 "developer": "Sculptured Software",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/WWF RAW-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6362,8 +5839,6 @@
                 "developer": "Midway",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/WWF Wrestlemania - The Arcade Game-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6385,8 +5860,6 @@
                 "developer": "BlueSky Software",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/World Series Baseball Starring Deion Sanders-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6408,8 +5881,6 @@
                 "developer": "CSK",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Zaxxon's Motherbase 2000-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -6428,6 +5899,7 @@
         "released": 34
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -6438,8 +5910,6 @@
                 "developer": "Sega",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Sonic CD-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6458,6 +5928,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -6468,8 +5939,6 @@
                 "developer": "Sega",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Sonic Labyrinth-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6488,6 +5957,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -6498,8 +5968,6 @@
                 "developer": "Sega",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Knuckles in Sonic 2-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6521,8 +5989,6 @@
                 "developer": "Camelot Software Planning",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Shining Force-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6544,8 +6010,6 @@
                 "developer": "Camelot Software Planning",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Shining Force II-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6567,8 +6031,6 @@
                 "developer": "Sega",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Sonic & Knuckles-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6590,8 +6052,6 @@
                 "developer": "Sega",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Sonic 3 & Knuckles-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6613,8 +6073,6 @@
                 "developer": "Sega",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Sonic Blue Sphere-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6636,8 +6094,6 @@
                 "developer": "Sonic Team",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Sonic the Hedgehog-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6659,8 +6115,6 @@
                 "developer": "Sonic Team",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Sonic the Hedgehog 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6682,8 +6136,6 @@
                 "developer": "Sonic Team",
                 "genre": "Adventure",
                 "id": null,
-                "image": "./images/Sonic the Hedgehog 3-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6705,8 +6157,6 @@
                 "developer": "BlueSky Software",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Vectorman-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6728,8 +6178,6 @@
                 "developer": "BlueSky Software",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Vectorman 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6748,6 +6196,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -6758,8 +6207,6 @@
                 "developer": "Sega",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Phantasy Star-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6778,6 +6225,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -6788,8 +6236,6 @@
                 "developer": "Sega",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Orguss-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6808,6 +6254,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -6818,8 +6265,6 @@
                 "developer": "Rare Ltd.",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Battletoads & Double Dragon-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6841,8 +6286,6 @@
                 "developer": "Squaresoft",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Chrono Trigger-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6864,8 +6307,6 @@
                 "developer": "Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Contra III - The Alien Wars-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6887,8 +6328,6 @@
                 "developer": "Visual Concepts",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Desert Strike - Return to the Gulf-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6910,8 +6349,6 @@
                 "developer": "Rare",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Donkey Kong Country-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": true,
                     "alternating-vs": true,
@@ -6933,8 +6370,6 @@
                 "developer": "Rare",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Donkey Kong Country 2 - Diddy's Kong Quest-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": true,
                     "alternating-vs": true,
@@ -6956,8 +6391,6 @@
                 "developer": "Rare",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Donkey Kong Country 3 - Dixie Kong's Double Trouble!-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": true,
                     "alternating-vs": true,
@@ -6979,8 +6412,6 @@
                 "developer": "ID Software",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Doom-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7002,8 +6433,6 @@
                 "developer": "Ape Studios",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/EarthBound-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7025,8 +6454,6 @@
                 "developer": "Shiny Entertainment, Inc.",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Earthworm Jim-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7048,8 +6475,6 @@
                 "developer": "Shiny Entertainment",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Earthworm Jim 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7071,8 +6496,6 @@
                 "developer": "Nintendo",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/F-Zero-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7094,8 +6517,6 @@
                 "developer": "Ubisoft",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/F1 Pole Position-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7117,8 +6538,6 @@
                 "developer": "Squaresoft",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Final Fantasy II-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7140,8 +6559,6 @@
                 "developer": "Squaresoft",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Final Fantasy III-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7163,8 +6580,6 @@
                 "developer": "Morning Star Multi",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Frogger-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -7186,8 +6601,6 @@
                 "developer": "Natsume",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Harvest Moon-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7209,8 +6622,6 @@
                 "developer": "Gremlin Interactive",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Jungle Strike-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7232,8 +6643,6 @@
                 "developer": "Ocean",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Jurassic Park-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7255,8 +6664,6 @@
                 "developer": "Ocean Software",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Jurassic Park 2 - The Chaos Continues-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7278,8 +6685,6 @@
                 "developer": "HAL Laboratory",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Kirby Super Star-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7301,8 +6706,6 @@
                 "developer": "HAL Laboratory",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Kirby's Dream Land 3-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7324,8 +6727,6 @@
                 "developer": "Visual Concepts",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Madden NFL '94-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7347,8 +6748,6 @@
                 "developer": "Visual Concepts",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Madden NFL '95-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7370,8 +6769,6 @@
                 "developer": "Tiburon Entertainment",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Madden NFL '96-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7393,8 +6790,6 @@
                 "developer": "Electronic Arts",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Madden NFL 97-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7416,8 +6811,6 @@
                 "developer": "EA Sports",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Madden NFL 98-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7439,8 +6832,6 @@
                 "developer": "Intelligent Systems",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/Mario Paint-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7462,8 +6853,6 @@
                 "developer": "Beam Software",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mechwarrior-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7485,8 +6874,6 @@
                 "developer": "Activision",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mechwarrior 3050-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7508,8 +6895,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man 7-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7531,8 +6916,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man X-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7554,8 +6937,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man X2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7577,8 +6958,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mega Man X3-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7600,8 +6979,6 @@
                 "developer": "Sculptured Software",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Mortal Kombat-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7623,8 +7000,6 @@
                 "developer": "Sculptured Software",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Mortal Kombat 3-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7646,8 +7021,6 @@
                 "developer": "Sculptured Software",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Mortal Kombat II-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7669,8 +7042,6 @@
                 "developer": "Namco",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/Ms. Pac-Man-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -7692,8 +7063,6 @@
                 "developer": "Iguana Entertainment",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/NBA Jam Tournament Edition-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7715,8 +7084,6 @@
                 "developer": "Bitmasters",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Primal Rage-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7738,8 +7105,6 @@
                 "developer": "Irem",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/R-Type III - The Third Lightning-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -7761,8 +7126,6 @@
                 "developer": "Squaresoft",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Secret of Mana-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7784,8 +7147,6 @@
                 "developer": "Delphine Software International",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Shaq Fu-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7807,8 +7168,6 @@
                 "developer": "Intelligent Systems",
                 "genre": "Construction and Management Simulation",
                 "id": null,
-                "image": "./images/SimCity-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7830,8 +7189,6 @@
                 "developer": "Argonaut",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Star Fox-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7853,8 +7210,6 @@
                 "developer": "Capcom",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Street Fighter II Turbo-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7876,8 +7231,6 @@
                 "developer": "Hudson Soft",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super Bomberman-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7899,8 +7252,6 @@
                 "developer": "Produce",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super Bomberman 2-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7922,8 +7273,6 @@
                 "developer": "Konami",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super Castlevania IV-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7945,8 +7294,6 @@
                 "developer": "Technos",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super Double Dragon-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7968,8 +7315,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super Ghouls 'n Ghosts-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -7991,8 +7336,6 @@
                 "developer": "Nintendo",
                 "genre": "Racing",
                 "id": null,
-                "image": "./images/Super Mario Kart-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8014,8 +7357,6 @@
                 "developer": "Squaresoft",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Super Mario RPG - Legend of the Seven Stars-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8037,8 +7378,6 @@
                 "developer": "Nintendo",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Super Mario World-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": true,
                     "alternating-vs": false,
@@ -8060,8 +7399,6 @@
                 "developer": "GoldenYoshi",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Super Mario World 2 - Yoshi's Island-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8083,8 +7420,6 @@
                 "developer": "Intelligent Systems",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super Metroid-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8106,8 +7441,6 @@
                 "developer": "Nintendo",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Super Punch-Out!!-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8129,8 +7462,6 @@
                 "developer": "Irem",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Super R-Type-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8152,8 +7483,6 @@
                 "developer": "Sculptured Software",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super Star Wars-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8175,8 +7504,6 @@
                 "developer": "Sculptured Software",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super Star Wars - Return of the Jedi-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8198,8 +7525,6 @@
                 "developer": "Sculptured Software",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Super Star Wars - The Empire Strikes Back-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8221,8 +7546,6 @@
                 "developer": "Nintendo EAD",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/The Legend of Zelda - A Link to the Past-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8244,8 +7567,6 @@
                 "developer": "Sculptured Software",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/The Simpsons - Bart's Nightmare-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8267,8 +7588,6 @@
                 "developer": "Ukiyotei",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Todd McFarlane's Spawn - The Video Game-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8290,8 +7609,6 @@
                 "developer": "Avalanche Software",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Ultimate Mortal Kombat 3-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8313,8 +7630,6 @@
                 "developer": "Solid Sofware",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Urban Strike-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8336,8 +7651,6 @@
                 "developer": "Imagineer",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Wolfenstein 3-D-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8359,8 +7672,6 @@
                 "developer": "Unknown",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/X-Men vs. Street Fighter-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8382,8 +7693,6 @@
                 "developer": "Capcom",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/X-Men - Mutant Apocalypse-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8405,8 +7714,6 @@
                 "developer": "LucasArts",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Zombies Ate My Neighbors-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8425,6 +7732,7 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [
             {
                 "compatibility": {
@@ -8435,8 +7743,6 @@
                 "developer": "Compile",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Blazing Lazers-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8458,8 +7764,6 @@
                 "developer": "Hudson Soft",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Bonk 3 - Bonk's Big Adventure-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8481,8 +7785,6 @@
                 "developer": "Hudson",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Bonk's Adventure-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8504,8 +7806,6 @@
                 "developer": "Mutech",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Bonk's Revenge-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8527,8 +7827,6 @@
                 "developer": "Hudson",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Neutopia-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8550,8 +7848,6 @@
                 "developer": "Hudson",
                 "genre": "Role-Playing",
                 "id": null,
-                "image": "./images/Neutopia II-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8573,8 +7869,6 @@
                 "developer": "Hudson",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/New Adventure Island-image.png",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8596,8 +7890,6 @@
                 "developer": "Namco",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Splatterhouse-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8616,12 +7908,14 @@
         "released": null
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": 4939,
         "name": "Vectrex",
         "released": null
     },
     {
+        "collection": "100.00%",
         "games": [
             {
                 "compatibility": {
@@ -8632,8 +7926,6 @@
                 "developer": "T&E Soft",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/3-D Tetris-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8655,8 +7947,6 @@
                 "developer": "Hudson Soft",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/Bomberman - Panic Bomber-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8678,8 +7968,6 @@
                 "developer": "Intelligent Systems",
                 "genre": null,
                 "id": null,
-                "image": "./images/Galactic Pinball-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8701,8 +7989,6 @@
                 "developer": "T&E Soft",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Golf-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8724,8 +8010,6 @@
                 "developer": "Betop",
                 "genre": null,
                 "id": null,
-                "image": "./images/Innsmouth no Yakata-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8747,8 +8031,6 @@
                 "developer": "Atlus",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Jack Bros.-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8770,8 +8052,6 @@
                 "developer": "Nintendo",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Mario Clash-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8793,8 +8073,6 @@
                 "developer": "Nintendo",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Mario's Tennis-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8816,8 +8094,6 @@
                 "developer": "Saffire Corporation",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Nester's Funky Bowling-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8839,8 +8115,6 @@
                 "developer": "T&E Soft",
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Red Alarm-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8862,8 +8136,6 @@
                 "developer": "Locomotive Corporation",
                 "genre": "Strategy",
                 "id": null,
-                "image": "./images/SD Gundam Dimension War-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8885,8 +8157,6 @@
                 "developer": null,
                 "genre": "Shooter",
                 "id": null,
-                "image": "./images/Space Invaders - Virtual Collection-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8908,8 +8178,6 @@
                 "developer": "Tomcat System",
                 "genre": null,
                 "id": null,
-                "image": "./images/Space Squash-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8931,8 +8199,6 @@
                 "developer": "Nintendo",
                 "genre": "Fighting",
                 "id": null,
-                "image": "./images/Teleroboxer-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8954,8 +8220,6 @@
                 "developer": "Locomotive Corporation",
                 "genre": "Puzzle",
                 "id": null,
-                "image": "./images/V-Tetris-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -8977,8 +8241,6 @@
                 "developer": "Hudson Soft",
                 "genre": null,
                 "id": null,
-                "image": "./images/Vertical Force-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -9000,8 +8262,6 @@
                 "developer": "Athena",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Virtual Bowling-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -9023,8 +8283,6 @@
                 "developer": "Nintendo",
                 "genre": "Platform",
                 "id": null,
-                "image": "./images/Virtual Boy Wario Land-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -9046,8 +8304,6 @@
                 "developer": "Locomotive Corporation",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Virtual Fishing-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -9069,8 +8325,6 @@
                 "developer": null,
                 "genre": null,
                 "id": null,
-                "image": "./images/Virtual Lab-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -9092,8 +8346,6 @@
                 "developer": "Kemco",
                 "genre": "Sports",
                 "id": null,
-                "image": "./images/Virtual League Baseball-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -9115,8 +8367,6 @@
                 "developer": "Ocean Software",
                 "genre": "Action",
                 "id": null,
-                "image": "./images/Waterworld-image.jpg",
-                "licensed": null,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -9135,6 +8385,7 @@
         "released": 22
     },
     {
+        "collection": "Unknown",
         "games": [],
         "id": 4913,
         "name": "Sinclair ZX Spectrum",
