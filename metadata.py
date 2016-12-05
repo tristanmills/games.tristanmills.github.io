@@ -163,7 +163,7 @@ def merge_systems_into_metadata(systems, metadata):
 
 					released += 1
 
-			if metadata[key]['released'] is None:
+			if metadata[key]['released'] == 'Unknown':
 
 				metadata[key]['collection'] = 'Unknown'
 
