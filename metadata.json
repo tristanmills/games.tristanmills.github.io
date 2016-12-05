@@ -6400,6 +6400,27 @@
                     "pi0": null,
                     "pi3": true
                 },
+                "description": "Ninja Princess known as Sega Ninja in the west, is a Sega System 1 arcade game by Sega. It is a top-down shooter/action game, in which you play as a princess disguised as a ninja who is attempting to stop the evil tyrant Gyokuro.\n\nThe game was ported to the SG-1000 in 1986 exclusively for Japan, with an MSX port following shortly afterwards. It was also brought to the Sega Master System as The Ninja, however The Ninja makes several adjustments to the story and characters, as well as updating the gameplay.",
+                "developer": "Pony Canyon",
+                "genre": "Action",
+                "id": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Ninja Princess",
+                "players": 1,
+                "publisher": "Sega",
+                "releaseDate": "1986-01-01",
+                "released": true
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": true
+                },
                 "description": "Orguss is a shoot-'em-up game developed and published by Sega for the SG-1000. In the game, the player takes control of a robot which can transform into a starship. It is based on the science fiction anime series Super Dimension Century Orguss.\n\nThe player can swap between robot and starship modes freely, though both come with their own set advantages and disadvantages. In robot mode, you are able to destroy ground targets and have greater freedom across the screen at the expense of being a bigger target for enemies. You can shoot rapidfire, but move slower. In starship mode you cannot destroy ground targets, but are less likely to be destroyed thanks to the smaller surface area of the ship. You can move faster, but cannot shoot rapidfire. 1 switches between the two forms and 2 shoots.\n\nOrguss had a spiritual sequel in the form of TransBot, released for the Sega Master System in 1985.",
                 "developer": "Sega",
                 "genre": "Shooter",

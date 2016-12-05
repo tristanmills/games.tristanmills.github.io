@@ -4625,6 +4625,21 @@
                     "pi3": true
                 },
                 "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Ninja Princess",
+                "players": 1,
+                "released": true
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": true
+                },
+                "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
                     "simultaneous-coop": false,
