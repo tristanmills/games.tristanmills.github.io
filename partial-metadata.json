@@ -4,14 +4,14 @@
         "games": [],
         "id": 4914,
         "name": "Amstrad CPC",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
         "games": [],
         "id": 23,
         "name": "Arcade",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -94,7 +94,7 @@
         ],
         "id": 22,
         "name": "Atari 2600",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -162,7 +162,7 @@
         ],
         "id": 27,
         "name": "Atari 7800",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -185,7 +185,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -195,12 +195,12 @@
                 },
                 "name": "Lemmings",
                 "players": 1,
-                "released": null
+                "released": true
             },
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -210,12 +210,12 @@
                 },
                 "name": "Paperboy",
                 "players": 1,
-                "released": null
+                "released": true
             },
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -225,26 +225,26 @@
                 },
                 "name": "Xenophobe",
                 "players": 4,
-                "released": null
+                "released": true
             }
         ],
         "id": 4924,
         "name": "Atari Lynx",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
         "games": [],
         "id": 4936,
         "name": "Famicom Disk System",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
         "games": [],
         "id": null,
         "name": "Final Burn Alpha",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -462,7 +462,7 @@
         ],
         "id": 4,
         "name": "Nintendo Game Boy",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -725,7 +725,7 @@
         ],
         "id": 5,
         "name": "Nintendo Game Boy Advance",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -1078,28 +1078,28 @@
         ],
         "id": 41,
         "name": "Nintendo Game Boy Color",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
         "games": [],
         "id": null,
         "name": "MAME",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
         "games": [],
         "id": 4929,
         "name": "MSX",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
         "games": [],
         "id": 24,
         "name": "Neo Geo",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "100.00%",
@@ -1107,7 +1107,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1137,7 +1137,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": false
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1152,7 +1152,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1167,7 +1167,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1182,7 +1182,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1197,7 +1197,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1212,7 +1212,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1242,7 +1242,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1265,7 +1265,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1295,7 +1295,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1310,7 +1310,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1325,7 +1325,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1340,7 +1340,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1355,7 +1355,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1400,7 +1400,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -1415,7 +1415,7 @@
         ],
         "id": 4923,
         "name": "Neo Geo Pocket Color",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -2758,7 +2758,7 @@
         ],
         "id": 3,
         "name": "Nintendo 64",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -3621,7 +3621,7 @@
         ],
         "id": 7,
         "name": "Nintendo Entertainment System (NES)",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -3779,7 +3779,7 @@
         ],
         "id": 10,
         "name": "Sony PlayStation",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "100.00%",
@@ -3787,7 +3787,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3802,7 +3802,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3817,7 +3817,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3832,7 +3832,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3847,7 +3847,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3862,7 +3862,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3877,7 +3877,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3892,7 +3892,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3907,7 +3907,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3922,7 +3922,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3937,7 +3937,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3952,7 +3952,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3967,7 +3967,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3982,7 +3982,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -3997,7 +3997,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": false
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4012,7 +4012,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": false
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4027,7 +4027,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4042,7 +4042,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4057,7 +4057,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4072,7 +4072,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4087,7 +4087,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4102,7 +4102,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4117,7 +4117,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4132,7 +4132,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4147,7 +4147,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4162,7 +4162,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4177,7 +4177,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4192,7 +4192,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4207,7 +4207,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4222,7 +4222,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4237,7 +4237,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4252,7 +4252,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4267,7 +4267,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4282,7 +4282,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4320,7 +4320,7 @@
         ],
         "id": 21,
         "name": "Sega CD",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -4328,7 +4328,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4338,12 +4338,12 @@
                 },
                 "name": "Ecco the Dolphin",
                 "players": 1,
-                "released": null
+                "released": true
             },
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4353,7 +4353,7 @@
                 },
                 "name": "Mickey's Ultimate Challenge",
                 "players": 1,
-                "released": null
+                "released": true
             },
             {
                 "compatibility": {
@@ -4373,7 +4373,7 @@
         ],
         "id": 20,
         "name": "Sega Game Gear",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -4546,7 +4546,7 @@
         ],
         "id": 18,
         "name": "Sega Genesis",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -4554,7 +4554,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4564,12 +4564,12 @@
                 },
                 "name": "After Burner",
                 "players": 1,
-                "released": null
+                "released": true
             },
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": true
+                    "pi3": false
                 },
                 "multiplayer": {
                     "alternating-coop": false,
@@ -4584,7 +4584,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4594,12 +4594,12 @@
                 },
                 "name": "Psycho Fox",
                 "players": 1,
-                "released": null
+                "released": true
             }
         ],
         "id": 35,
         "name": "Sega Master System",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -4607,7 +4607,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4617,7 +4617,7 @@
                 },
                 "name": "Exerion",
                 "players": 2,
-                "released": null
+                "released": true
             },
             {
                 "compatibility": {
@@ -4637,7 +4637,7 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": null
+                    "pi3": true
                 },
                 "multiplayer": {
                     "alternating-coop": null,
@@ -4647,12 +4647,12 @@
                 },
                 "name": "Pacar",
                 "players": 1,
-                "released": null
+                "released": true
             }
         ],
         "id": 4949,
         "name": "Sega SG-1000",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -5710,7 +5710,7 @@
         ],
         "id": 6,
         "name": "Super Nintendo (SNES)",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
@@ -5838,14 +5838,14 @@
         ],
         "id": 34,
         "name": "TurboGrafx 16",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "Unknown",
         "games": [],
         "id": 4939,
         "name": "Vectrex",
-        "released": null
+        "released": "Unknown"
     },
     {
         "collection": "100.00%",
@@ -6190,6 +6190,6 @@
         "games": [],
         "id": 4913,
         "name": "Sinclair ZX Spectrum",
-        "released": null
+        "released": "Unknown"
     }
 ]
