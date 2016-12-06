@@ -219,7 +219,7 @@
         "released": "Unknown"
     },
     {
-        "collection": "Unknown",
+        "collection": "5.56%",
         "games": [
             {
                 "compatibility": {
@@ -234,7 +234,7 @@
                     "alternating-coop": false,
                     "alternating-vs": false,
                     "simultaneous-coop": false,
-                    "simultaneous-vs": false
+                    "simultaneous-vs": true
                 },
                 "name": "California Games",
                 "players": 1,
@@ -252,10 +252,10 @@
                 "genre": null,
                 "id": null,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Lemmings",
                 "players": 1,
@@ -273,10 +273,10 @@
                 "genre": "Action",
                 "id": null,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
                 },
                 "name": "Paperboy",
                 "players": 1,
@@ -294,10 +294,10 @@
                 "genre": null,
                 "id": null,
                 "multiplayer": {
-                    "alternating-coop": null,
-                    "alternating-vs": null,
-                    "simultaneous-coop": null,
-                    "simultaneous-vs": null
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": true,
+                    "simultaneous-vs": true
                 },
                 "name": "Xenophobe",
                 "players": 4,
@@ -308,7 +308,7 @@
         ],
         "id": 4924,
         "name": "Atari Lynx",
-        "released": "Unknown"
+        "released": 72
     },
     {
         "collection": "Unknown",
@@ -5991,7 +5991,7 @@
         "released": "Unknown"
     },
     {
-        "collection": "Unknown",
+        "collection": "0.83%",
         "games": [
             {
                 "compatibility": {
@@ -6059,7 +6059,7 @@
         ],
         "id": 20,
         "name": "Sega Game Gear",
-        "released": "Unknown"
+        "released": 363
     },
     {
         "collection": "Unknown",
