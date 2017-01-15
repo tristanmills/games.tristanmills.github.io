@@ -140,7 +140,7 @@
                     "simultaneous-coop": false,
                     "simultaneous-vs": false
                 },
-                "name": "DigDug",
+                "name": "Dig Dug",
                 "players": 2,
                 "released": true
             },
@@ -179,7 +179,7 @@
                     "simultaneous-vs": true
                 },
                 "name": "California Games",
-                "players": 1,
+                "players": 4,
                 "released": true
             },
             {

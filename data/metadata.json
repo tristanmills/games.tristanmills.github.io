@@ -186,7 +186,7 @@
                     "simultaneous-coop": false,
                     "simultaneous-vs": false
                 },
-                "name": "DigDug",
+                "name": "Dig Dug",
                 "players": 2,
                 "publisher": "Atari",
                 "releaseDate": "1987-06-01",
@@ -237,7 +237,7 @@
                     "simultaneous-vs": true
                 },
                 "name": "California Games",
-                "players": 1,
+                "players": 4,
                 "publisher": "Atari",
                 "releaseDate": "1989-07-07",
                 "released": true
