@@ -216,7 +216,7 @@ class Utilities(object):
 
 		open(self.partial_metadata_path, 'w').write(metadata)
 
-	def update_metadata(self):
+	def sync_metadata(self):
 
 		metadata = self.get_metadata()
 
@@ -247,7 +247,7 @@ class Utilities(object):
 		self.put_metadata(metadata)
 		self.put_partial_metadata(metadata)
 
-	def update_ids(self):
+	def associate_ids(self):
 
 		metadata = self.get_metadata()
 
