@@ -269,7 +269,7 @@ class Utilities(object):
 
 						if 'Game' in data:
 
-							metadata[system_index]['games'][game_index]['id'] = data['Game']['id']
+							metadata[system_index]['games'][game_index]['id'] = int(data['Game']['id'])
 
 					else:
 
