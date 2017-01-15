@@ -5,6 +5,13 @@ import requests
 import datetime
 
 
+def put_metadata(metadata):
+
+	metadata = json.dumps(metadata, indent=4, sort_keys=True, separators=(',', ': '))
+
+	open('metadata2.json', 'w').write(metadata)
+
+
 def parse_data(data):
 
 	game = {
@@ -47,52 +54,74 @@ def validate_metadata():
 
 	metadata = json.loads(json_)
 
-	for system in metadata:
+	for system_index, system in enumerate(metadata):
 
-		base_url = 'http://thegamesdb.net/api/GetGame.php?platform=' + urllib.quote(system['name'].encode('utf8')) + '&exactname='
+		name_url = 'http://thegamesdb.net/api/GetGame.php?platform=' + urllib.quote(system['name'].encode('utf8')) + '&exactname='
 
-		for game in system['games']:
+		id_url = 'http://thegamesdb.net/api/GetGame.php?id='
 
-			url = base_url + urllib.quote(game['name'].encode('utf8'))
+		for game_index, game in enumerate(system['games']):
 
-			response = requests.get(url)
+			if game['id'] is not None:
 
-			if response.status_code == 200:
+				url = id_url + game['id']
 
-				data = xmltodict.parse(response.text)['Data']
+				if response.status_code == 200:
 
-				if 'Game' in data:
+					data = xmltodict.parse(response.text)['Data']
 
-					_game = parse_data(data)
+					if 'Game' in data:
 
-					if game['releaseDate'] != _game['releaseDate']:
+						_game = parse_data(data)
 
-						pass
-						# print system['name'] + ' - ' + game['name'] + ' - Wrong releaseDate'
+						if game['releaseDate'] != _game['releaseDate']:
 
-					if game['developer'] != _game['developer']:
+							pass
+							# print system['name'] + ' - ' + game['name'] + ' - Wrong releaseDate'
 
-						print system['name'] + ' - ' + game['name'] + ' - Wrong developer'
+						if game['developer'] != _game['developer']:
 
-					if game['publisher'] != _game['publisher']:
+							print system['name'] + ' - ' + game['name'] + ' - Wrong developer'
 
-						print system['name'] + ' - ' + game['name'] + ' - Wrong publisher'
+						if game['publisher'] != _game['publisher']:
 
-					if game['players'] != _game['players']:
+							print system['name'] + ' - ' + game['name'] + ' - Wrong publisher'
 
-						print system['name'] + ' - ' + game['name'] + ' - Wrong players'
+						if game['players'] != _game['players']:
 
-					if game['genre'] not in _game['genre']:
+							print system['name'] + ' - ' + game['name'] + ' - Wrong players'
 
-						print system['name'] + ' - ' + game['name'] + ' - Wrong genre'
+						if game['genre'] not in _game['genre']:
+
+							print system['name'] + ' - ' + game['name'] + ' - Wrong genre'
+
+					else:
+
+						print system['name'] + ' - ' + game['name'] + ' - Wrong Name'
 
 				else:
 
-					print system['name'] + ' - ' + game['name'] + ' - Wrong Name'
+					print system['name'] + ' - ' + game['name'] + ' - Failed'
 
 			else:
 
-				print system['name'] + ' - ' + game['name'] + ' - Failed'
+				url = name_url + urllib.quote(game['name'].encode('utf8'))
+
+				response = requests.get(url)
+
+				if response.status_code == 200:
+
+					data = xmltodict.parse(response.text)['Data']
+
+					if 'Game' in data:
+
+						metadata[system_index]['games'][game_index]['id'] = data['Game']['id']
+
+				else:
+
+					print system['name'] + ' - ' + game['name'] + ' - Failed'
+
+	put_metadata(metadata)
 
 
 validate_metadata()
