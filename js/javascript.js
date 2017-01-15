@@ -37,7 +37,7 @@ jQuery(document).ready(function($) {
 
 	preloadImages(systemImages);
 
-	$.getJSON('partial-metadata.json', function(metadata) {
+	$.getJSON('/data/partial-metadata.json', function(metadata) {
 
 		metadata = Metadata.filterMetadata(metadata);
 

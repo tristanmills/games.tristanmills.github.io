@@ -184,7 +184,7 @@ def put_metadata(metadata):
 
 	metadata = json.dumps(metadata, indent=4, sort_keys=True, separators=(',', ': '))
 
-	open('metadata.json', 'w').write(metadata)
+	open('../data/metadata.json', 'w').write(metadata)
 
 
 def put_metadata_partial(metadata):
@@ -203,19 +203,18 @@ def put_metadata_partial(metadata):
 
 	metadata = json.dumps(metadata, indent=4, sort_keys=True, separators=(',', ': '))
 
-	open('partial-metadata.json', 'w').write(metadata)
+	open('../data/partial-metadata.json', 'w').write(metadata)
 
 
 def update_metadata():
 
-	json_ = open('metadata.json', 'r').read()
+	json_ = open('../data/metadata.json', 'r').read()
 
 	metadata = json.loads(json_)
 
 	systems = convert_metadata_to_systems(metadata)
 
 	gameslists = get_gameslists('/retropie/roms/')
-	# gameslists = get_gameslists('//RETROPIE/roms/')
 
 	for system, games in gameslists.iteritems():
 
