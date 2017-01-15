@@ -179,7 +179,7 @@
                 "description": "Based on the 1982 Namco coin-op, this game was developed by Atari in 1984. A pretty good translation of a classic arcade game.",
                 "developer": "Namco",
                 "genre": "Puzzle",
-                "id": null,
+                "id": 38189,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -805,7 +805,7 @@
                 "description": "Pokemon FireRed and LeafGreen take place mostly in the fictional region of Kanto. This is one distinct region of many in the Pokemon world, which includes varied geographical habitats for the Pokemon species, human-populated towns and cities, and routes between locations. Some areas are only accessible once the player acquires a special item or one of the player's Pokemon learns a special ability. Near the end of the plot, the protagonist is able to venture to the Sevii Islands, a new area not available in the original Red or Blue games. It consists of an archipelago of seven islands that contain Pokemon normally exclusive to the Johto region.",
                 "developer": "Game Freak",
                 "genre": "Adventure",
-                "id": null,
+                "id": 3490,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1065,7 +1065,7 @@
                 "description": "You have inherited the family ranch from an ancestor. With only a shed of rusted tools and a small amount of money, you must prove yourself worthy of owning the ranch by returning it to its former glory. To do this, you must till the soil and cultivate vegetables. When you have earned enough money, you can add chickens and livestock to help increase your profits. While you work, you will receive visits from the local townsfolk, who will ask for your help. You should always help them as much as possible, because they will be willing to return the favor later. Once you have built your ranch to a significant level, you can trade it with other farm masters via link cable. Try to restore the family ranch in HARVEST MOON.",
                 "developer": "Victor Interactive Software, Inc.",
                 "genre": "Life Simulation",
-                "id": null,
+                "id": 19575,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1149,7 +1149,7 @@
                 "description": "The future world is in turmoil. The peace keeping mother computer has been hacked and a virus runs rampant throughout the world. Only Mega Man X has the ability to traverse eight dangerous levels in cyberspace, battle huge bosses along the way and restore the mother computer to its normal state. When the going gets too intence, Mega Man X's pal, Zero can be summoned to help him out of the most dangerous situations. It's an X-treme situation that only Mega Man X can resolve!",
                 "developer": "Capcom",
                 "genre": "Action",
-                "id": null,
+                "id": 8630,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1170,7 +1170,7 @@
                 "description": "Something mysterious is going on at the reploid research island. The reploids have ceased functionality... their data strangely erased. Now the investigation team encounters \"irregular\" reploids infected with a strange new DNA chip. This strange DNA chip, known as \"DNA Soul\", replaces useful data with a devastating Sigma virus and places all reploids in imminent danger. Now, it's up to Mega Man X and his comrade, Zero, to get to the damaged island and find out who is behind the DNA Soul virus.",
                 "developer": "Capcom",
                 "genre": "Action",
-                "id": null,
+                "id": 8631,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1556,7 +1556,7 @@
                 "description": "Melon Chan's Growth Diary (Japan: Melon-chan no Seichouki) is a Life simulation game it is comparable to Tamagotchi and other virtual life simulations. In Melon Chan's Growth Diary the player raises and nurtures little girl Melon Chan. The games was only released in Japan and was one of the earliest titles released for the Neo Geo Pocket.\n\nThe game was released for the Neo Geo Pocket and features monochrome graphics; however the Neo Geo Pocket Color is backwards compatible with the game.",
                 "developer": "ADK",
                 "genre": "Life Simulation",
-                "id": null,
+                "id": 34149,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1619,7 +1619,7 @@
                 "description": "Neo Geo Cup '98 Plus is a soccer game for the Neo Geo Pocket. The game features single match play, head-to-head play (using a link cable), and story mode. You can choose to play one of 16 international teams. Each team has their own collective stats. On the field you can perform passes, shots, dribbles, slidings and charges. In the story mode you have to win as many matches as possible in a series of tournaments. Before and during matches you can change the field formations and switch players. Each won match gives you prize money, this can be used to buy items for your team. These items usually improve one stat, but decrease another.",
                 "developer": "SNK",
                 "genre": "Sports",
-                "id": null,
+                "id": 27871,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -1753,7 +1753,7 @@
                 "description": "Mix it up in COLOR with King Of Fighters R-2 now on NEOGEO Pocket Color! Get SKILLS in the MAKING Mode and create your very own custom-made character! You can also play two-player VS. MODE battles and trade SKILLS using the NEOGEO Pocket Link Cable! 14 characters to choose from including 2 new characters make King Of Fighters R-2 H-O-T!",
                 "developer": "SNK",
                 "genre": "Fighting",
-                "id": null,
+                "id": 18483,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -1921,7 +1921,7 @@
                 "description": "Syougi no Tatsujin is a Japanese style chess game. In single player mode the player must compete against computerized opponents (represented by a digitized photograph) to win the tournament. In two player mode, each player competes against each another.",
                 "developer": "ADK",
                 "genre": "Puzzle",
-                "id": null,
+                "id": 35929,
                 "multiplayer": {
                     "alternating-coop": null,
                     "alternating-vs": null,
@@ -4163,7 +4163,7 @@
                 "description": "The objective of Galaga is to score as many points as possible by destroying insect-like enemies. The player controls a starfighter that can move left and right along the bottom of the playfield. Enemies swarm in groups in a formation near the top of the screen, and then begin flying down toward the player, firing bombs at the fighter. The game ends when the player's last fighter is lost, either by colliding with an enemy or one of its bullets, or by being captured.\nGalaga introduces a number of new features over its predecessor, Galaxian. Among these is the ability to fire more than one bullet at a time, a count of the player's \"hit/miss ratio\" at the end of the game, and a bonus \"Challenging Stage\" that occurs every few levels, in which a series of enemies fly onto and out of the screen in set patterns without firing at the player's ship or trying to crash into it. These stages award a large point bonus if the player manages to destroy every enemy.\nAnother gameplay feature new to Galaga is the ability for enemies to capture the player's fighter. While the player is in control of just one fighter, a \"boss Galaga\" (which takes two shots to kill) periodically attempts to capture the fighter using a tractor beam. If successful, the fighter joins the enemy formation. If the player has more lives remaining, play resumes with a new fighter. The captured fighter flies down with the enemy that captured it, firing upon the player just like normal enemies, and can be shot and destroyed. The player can free the fighter by destroying the boss Galaga while in flight, causing the captured fighter to link up with the player's current fighter, doubling his or her firepower but also making a target twice as large.\nGalaga has an exploitable bug that can cause the attackers to stop firing bullets at the player, due to a coding error. In addition, similar to the famous \"Split-Screen bug\" in Pac-Man, a bug exists in Galaga in which the game \"rolls over\" from Level 255 to Level 0. Depending on the difficulty setting of the machine, this can cause the game to stall, requiring that the machine be reset or power-cycled in order to start a new game.",
                 "developer": "Namco",
                 "genre": "Shooter",
-                "id": null,
+                "id": 1834,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": true,
@@ -5158,7 +5158,7 @@
                 "description": "Join Jill Valentine, the heroine and amazing survivor of the notorious disaster at the mansion, as her nightmare continues. After resigning from S.T.A.R.S. Jill now prepares to head out of Raccoon City...but it's not going to be easy. Caught in a town crawling with flesh eating zombies, more than ever she must rely on brute force and cunning to find a way to escape alive. This unique adventure intricately reveals more of Umbrella Corporation's nightmarish plot and picks up just hours before the events from Resident Evil 2.\n\nMore zombies, more terror, and even more evil.\nMore challenging enemies that come back to life at any time.\nFace off against the most terrifying mutations stalking the streets of Raccoon City.\nMore detailed character actions: Try the dodge move to avoid an enemy's attack.\nInteract with the environment like never before: Use background objects defensively.\nA unique new drama which reveals more details of Umbrella Corporation's devious activities from the Resident Evil series.",
                 "developer": "Capcom",
                 "genre": "Adventure",
-                "id": null,
+                "id": 1013,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -5200,7 +5200,7 @@
                 "description": "Ripto's Rage is the second game in the Spyro the Dragon series, which started with Spyro the Dragon in 1998. The protagonist of the series, Spyro, is placed in the land of Avalar, rather than the Dragon Worlds, where the previous installment was set. A dinosaur-riding sorcerer, known as Ripto, has invaded the world of Avalar, and is wreaking havoc on its citizens with his magic. The player, as Spyro, must travel through the world of Avalar and undo the damage done by Ripto.",
                 "developer": "Insomniac Games",
                 "genre": "Platform",
-                "id": null,
+                "id": 9337,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6093,7 +6093,7 @@
                 "description": "Knuckles in Sonic 2 is the resulting game when Sonic the Hedgehog 2 is locked onto Sonic & Knuckles with its passthrough port. Sonic is replaced by Knuckles and Tails is not playable whatsoever. The title screen features Knuckles also but removes the two player mode and options selections from it. This game is identical to Sonic 2 (aside from a few changes to make it more playable with Knuckles) but with Knuckles now playable instead of Sonic or Tails.",
                 "developer": "Sega",
                 "genre": "Platform",
-                "id": null,
+                "id": 20944,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -6198,7 +6198,7 @@
                 "description": "When Sonic 3 is locked-on to the original Sonic the Hedgehog or Sonic Compilation via Lock-On Technology, the result is a deceptive \"No Way!\" screen. However, by pressing the A, B and C buttons together players can access Special Stage levels, commonly known as the \"Blue Sphere\" levels. Levels can be accessed by inputting a twelve digit code, every number combination a different variation of a Special Stage level.",
                 "developer": "Sega",
                 "genre": "Platform",
-                "id": null,
+                "id": 16924,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
