@@ -242,10 +242,40 @@ class Utilities(object):
 
 						systems[system][game['name']][key] = value
 
+					elif value != systems[system][game['name']][key]:
+
+						systems[system][game['name']][key] = value
+
 		self.merge_systems_into_metadata(systems, metadata)
 
 		self.put_metadata(metadata)
 		self.put_partial_metadata(metadata)
+
+	def get_game_id(self, system, game):
+
+		game_id = None
+
+		system_encoded = urllib.quote(system.encode('utf8'))
+
+		game_encoded = urllib.quote(game.encode('utf8'))
+
+		url = 'http://thegamesdb.net/api/GetGame.php?platform=' + system_encoded + '&exactname=' + game_encoded
+
+		response = requests.get(url)
+
+		if response.status_code == 200:
+
+			data = xmltodict.parse(response.text)['Data']
+
+			if 'Game' in data:
+
+				game_id = int(data['Game']['id'])
+
+		if game_id is None:
+
+			print 'https://www.google.com/#q=thegamesdb.net+' + game_encoded
+
+		return game_id
 
 	def associate_ids(self):
 
@@ -253,27 +283,13 @@ class Utilities(object):
 
 		for system_index, system in enumerate(metadata):
 
-			base_url = 'http://thegamesdb.net/api/GetGame.php?platform=' + urllib.quote(system['name'].encode('utf8')) + '&exactname='
-
 			for game_index, game in enumerate(system['games']):
 
 				if game['id'] is None:
 
-					url = base_url + urllib.quote(game['name'].encode('utf8'))
+					game_id = self.get_game_id(system['name'], game['name'])
 
-					response = requests.get(url)
-
-					if response.status_code == 200:
-
-						data = xmltodict.parse(response.text)['Data']
-
-						if 'Game' in data:
-
-							metadata[system_index]['games'][game_index]['id'] = int(data['Game']['id'])
-
-					else:
-
-						print system['name'] + ' - ' + game['name'] + ' - Failed'
+					metadata[system_index]['games'][game_index]['id'] = game_id
 
 		self.put_metadata(metadata)
 
