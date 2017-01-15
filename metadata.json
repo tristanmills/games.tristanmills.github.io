@@ -4305,6 +4305,27 @@
             {
                 "compatibility": {
                     "pi0": null,
+                    "pi3": null
+                },
+                "description": "Grab the wheel and hit the gas! For the first time ever, race up to 4 players simultaneously with Ivan \"Ironman\" Stewart's Super Off-Road. Based on the #1 arcade game, this all-out dirt-grinding race is now available for the NES. Watch out for the mud holes, jumps and other obstacles on the 8 different Stadium tracks. From match-offs to spin-outs, Super Off-Road is as close to genuine short-course racing as you can get!",
+                "developer": "Rare Ltd.",
+                "genre": "Racing",
+                "id": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Ivan \"Ironman\" Stewart's Super Off Road",
+                "players": 4,
+                "publisher": "Tradewest",
+                "releaseDate": "1990-04-01",
+                "released": null
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
                     "pi3": true
                 },
                 "description": "Far away in a kingdom called \"Angel Land,\" the evil goddess Medusa has stolen the Three Sacred Treasures and imprisoned the goddess of light, Palutena. As Kid Icarus, your mission is to find the treasures, destroy Medusa and rescue Palutena from the depths of the Palace in the Sky. To find the treasures you'll travel through ruins collecting weapons and storing power for use in combat against creatures of Medusa's army. Use your bow and arrow to ward off gatekeepers of the Underworld, Overworld and Skyworld as you strive towards your battle against Medusa. Will you survive to restore Palutena's light and return it to \"Angel Land?\" Only you know!",
@@ -7641,6 +7662,48 @@
                 "publisher": "Nintendo",
                 "releaseDate": "1994-04-18",
                 "released": true
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Grab the wheel and hit the gas! For the first time ever, race up to 4 players simultaneously with Ivan \"Ironman\" Stewart's Super Off-Road. Based on the #1 arcade game, this all-out dirt-grinding race is now available for the NES. Watch out for the mud holes, jumps and other obstacles on the 8 different Stadium tracks. From match-offs to spin-outs, Super Off-Road is as close to genuine short-course racing as you can get!",
+                "developer": "Software Creations",
+                "genre": "Racing",
+                "id": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Super Off Road",
+                "players": 4,
+                "publisher": "Tradewest",
+                "releaseDate": "1991-12-01",
+                "released": null
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "description": "Super Off Road: The Baja is a sequel of Super Off Road. Unlike its predecessor which uses an isometric top-down view of a single-screen track, this arcade racing game is made specifically for the SNES and uses its Mode 7 hardware for a 3D racing experience with a 3rd person perspective.",
+                "developer": "Leland Interactive Media",
+                "genre": "Racing",
+                "id": null,
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Super Off Road: The Baja",
+                "players": 4,
+                "publisher": "Tradewest",
+                "releaseDate": "1993-09-01",
+                "released": null
             },
             {
                 "compatibility": {

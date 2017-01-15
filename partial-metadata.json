@@ -3111,6 +3111,21 @@
             {
                 "compatibility": {
                     "pi0": null,
+                    "pi3": null
+                },
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Ivan \"Ironman\" Stewart's Super Off Road",
+                "players": 4,
+                "released": null
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
                     "pi3": true
                 },
                 "multiplayer": {
@@ -5511,6 +5526,36 @@
                 "name": "Super Metroid",
                 "players": 1,
                 "released": true
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Super Off Road",
+                "players": 4,
+                "released": null
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": null
+                },
+                "multiplayer": {
+                    "alternating-coop": null,
+                    "alternating-vs": null,
+                    "simultaneous-coop": null,
+                    "simultaneous-vs": null
+                },
+                "name": "Super Off Road: The Baja",
+                "players": 4,
+                "released": null
             },
             {
                 "compatibility": {
