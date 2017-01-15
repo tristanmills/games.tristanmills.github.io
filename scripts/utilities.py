@@ -224,7 +224,7 @@ class Utilities(object):
 
 		gameslists = self.get_gameslists(self.roms_path)
 
-		ggg = ['name', 'description', 'releasedate', 'developer', 'publisher', 'genre', 'players']
+		important_keys = ['name', 'description', 'releasedate', 'developer', 'publisher', 'genre', 'players']
 
 		for system, games in gameslists.iteritems():
 
@@ -244,7 +244,7 @@ class Utilities(object):
 
 						systems[system][game['name']][key] = value
 
-					elif key in ggg and value != systems[system][game['name']][key]:
+					elif key in important_keys and value != systems[system][game['name']][key]:
 
 						systems[system][game['name']][key] = value
 

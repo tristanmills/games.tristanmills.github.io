@@ -377,7 +377,7 @@
                 "description": "Donkey Kong Land 3 ist the last part in the Donkey Kong Land series and was released f\u00fcr the Game Boy by Nintendo in 1997.\n\nFame-and-fortune seekers have flooded Donkey Kong Country in search of the fabled Lost World. Dixie Kong & Kiddy Kong rush through 36 Kong-sized levels of action and adventure. Use your animal friends - Squitter the spider, Squawks the parrot, Ellie the elephant, Enguarde the swordfish and Parry the parallel bird - to help you prove your adventuring skills and find the Lost World before someone else does!",
                 "developer": "Rare",
                 "genre": "Platform",
-                "id": null,
+                "id": 3175,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -503,7 +503,7 @@
                 "description": "You\u2019ve finally been granted your Pok\u00e9mon trainer\u2019s license, and now you\u2019re on your way to becoming the world\u2019s greatest Pok\u00e9mon trainer! The shockingly-cute Pikachu tags along behind you as you search the enormous world for monsters to train and evolve. Face off against Blastoise\u2019s torrential water gun. Stand strong when facing Pidgeot\u2019s stormy Gust. Develop the ultimate Pok\u00e9mon strategy to defeat the eight GYM Leaders and become the greatest Pok\u00e9mon Master of all time! * Battle a friend in the new Colosseum 2 for the Pika Cup, Petit Cup and Pok\u00e9 Cup titles. * Print out your Pok\u00e9dex data with a Game Boy Printer and a Game Link cable. * Trade Pok\u00e9mon with your friends using a Game Link cable. You\u2019ll need to trade with both the Red and Blue versions to catch all 150 Pok\u00e9mon and complete your Pok\u00e9dex!",
                 "developer": "Game Freak",
                 "genre": "Adventure",
-                "id": null,
+                "id": 41422,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
@@ -658,14 +658,14 @@
                 "description": "Hell's fury has been unleashed. Billions are dead. To save humanity from certain extinction, you'll have to battle the most powerful demon scum to ever walk the Earth...alone. Blast your way through id Software's original mind-blowing, adrenaline-pumping, record-breaking sequel. It's your bloodiest demon slaughter yet. Now in an explosive handheld version!",
                 "developer": "Torus Games",
                 "genre": "Shooter",
-                "id": null,
+                "id": 3394,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
                     "simultaneous-coop": false,
                     "simultaneous-vs": false
                 },
-                "name": "Doom II",
+                "name": "Doom II: Hell on Earth",
                 "players": 1,
                 "publisher": "Activision",
                 "releaseDate": "2002-10-29",
@@ -763,7 +763,7 @@
                 "description": "Pokemon FireRed and LeafGreen take place mostly in the fictional region of Kanto. This is one distinct region of many in the Pokemon world, which includes varied geographical habitats for the Pokemon species, human-populated towns and cities, and routes between locations. Some areas are only accessible once the player acquires a special item or one of the player's Pokemon learns a special ability. Near the end of the plot, the protagonist is able to venture to the Sevii Islands, a new area not available in the original Red or Blue games. It consists of an archipelago of seven islands that contain Pokemon normally exclusive to the Johto region.",
                 "developer": "Game Freak",
                 "genre": "Adventure",
-                "id": null,
+                "id": 2314,
                 "multiplayer": {
                     "alternating-coop": false,
                     "alternating-vs": false,
