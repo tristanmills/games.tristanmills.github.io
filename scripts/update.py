@@ -2,4 +2,5 @@ from utilities import Utilities
 
 Utilities = Utilities()
 
-Utilities.validate_metadata()
+# Utilities.update_metadata()
+# Utilities.update_ids()
