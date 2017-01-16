@@ -83,7 +83,7 @@ class Utilities(object):
 					'pi0': None,
 					'pi3': None,
 				},
-				'validatedDatetime': None,
+				'validatedDate': None,
 			}
 
 			if 'id' in game:
@@ -131,9 +131,9 @@ class Utilities(object):
 
 					processed_game['compatibility']['pi3'] = self.str2bool(game['compatibility']['@pi3'])
 
-			if 'validatedDatetime' in game:
+			if 'validatedDate' in game:
 
-				processed_game['validatedDatetime'] = game['validatedDatetime']
+				processed_game['validatedDate'] = game['validatedDate']
 
 			processed_games.append(processed_game)
 
@@ -216,7 +216,7 @@ class Utilities(object):
 				del game['developer']
 				del game['publisher']
 				del game['genre']
-				del game['validatedDatetime']
+				del game['validatedDate']
 
 		metadata = json.dumps(metadata, indent=4, sort_keys=True, separators=(',', ': '))
 
@@ -342,7 +342,7 @@ class Utilities(object):
 
 		failed = []
 
-		now = datetime.datetime.utcnow().replace(microsecond=0)
+		now = datetime.datetime.utcnow()
 
 		metadata = self.get_metadata()
 
@@ -354,13 +354,13 @@ class Utilities(object):
 
 				revalidate = True
 
-				if game['validatedDatetime'] is not None:
+				if game['validatedDate'] is not None:
 
-					validated_datetime = datetime.datetime.strptime(game['validatedDatetime'], '%Y-%m-%dT%H:%M:%SZ')
+					validated_date = datetime.datetime.strptime(game['validatedDate'], '%Y-%m-%d')
 
-					revalidate_datetime = validated_datetime + datetime.timedelta(days=10)
+					revalidate_date = validated_date + datetime.timedelta(days=10)
 
-					if game['id'] is not None and now > revalidate_datetime:
+					if game['id'] is not None and now > revalidate_date:
 
 						revalidate = False
 
@@ -388,7 +388,7 @@ class Utilities(object):
 							if game['description'] != api_metadata['description']:
 
 								valid = False
-								print system['description'] + ' - ' + game['description'] + ' - Wrong description'
+								print system['name'] + ' - ' + game['name'] + ' - Wrong description'
 
 							if game['releaseDate'] is None or game['releaseDate'] != api_metadata['releaseDate']:
 
@@ -418,7 +418,7 @@ class Utilities(object):
 
 							if valid is True:
 
-								metadata[system_index]['games'][game_index]['validatedDatetime'] = now.strftime('%Y-%m-%dT%H:%M:%SZ')
+								metadata[system_index]['games'][game_index]['validatedDate'] = now.strftime('%Y-%m-%d')
 
 								self.put_metadata(metadata)
 

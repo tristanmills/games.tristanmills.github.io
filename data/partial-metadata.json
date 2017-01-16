@@ -568,21 +568,6 @@
                     "simultaneous-coop": false,
                     "simultaneous-vs": false
                 },
-                "name": "Pokemon LeafGreen Version",
-                "players": 1,
-                "released": true
-            },
-            {
-                "compatibility": {
-                    "pi0": null,
-                    "pi3": true
-                },
-                "multiplayer": {
-                    "alternating-coop": false,
-                    "alternating-vs": false,
-                    "simultaneous-coop": false,
-                    "simultaneous-vs": false
-                },
                 "name": "Pok\u00e9mon Emerald Version",
                 "players": 1,
                 "released": true
@@ -599,6 +584,21 @@
                     "simultaneous-vs": false
                 },
                 "name": "Pok\u00e9mon FireRed Version",
+                "players": 1,
+                "released": true
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": true
+                },
+                "multiplayer": {
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": false
+                },
+                "name": "Pok\u00e9mon LeafGreen Version",
                 "players": 1,
                 "released": true
             },
@@ -2218,36 +2218,6 @@
             {
                 "compatibility": {
                     "pi0": null,
-                    "pi3": true
-                },
-                "multiplayer": {
-                    "alternating-coop": false,
-                    "alternating-vs": false,
-                    "simultaneous-coop": false,
-                    "simultaneous-vs": true
-                },
-                "name": "Pokemon Stadium",
-                "players": 4,
-                "released": true
-            },
-            {
-                "compatibility": {
-                    "pi0": null,
-                    "pi3": false
-                },
-                "multiplayer": {
-                    "alternating-coop": false,
-                    "alternating-vs": false,
-                    "simultaneous-coop": false,
-                    "simultaneous-vs": true
-                },
-                "name": "Pokemon Stadium 2",
-                "players": 4,
-                "released": true
-            },
-            {
-                "compatibility": {
-                    "pi0": null,
                     "pi3": false
                 },
                 "multiplayer": {
@@ -2258,6 +2228,36 @@
                 },
                 "name": "Pok\u00e9mon Snap",
                 "players": 1,
+                "released": true
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": true
+                },
+                "multiplayer": {
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": true
+                },
+                "name": "Pok\u00e9mon Stadium",
+                "players": 4,
+                "released": true
+            },
+            {
+                "compatibility": {
+                    "pi0": null,
+                    "pi3": false
+                },
+                "multiplayer": {
+                    "alternating-coop": false,
+                    "alternating-vs": false,
+                    "simultaneous-coop": false,
+                    "simultaneous-vs": true
+                },
+                "name": "Pok\u00e9mon Stadium 2",
+                "players": 4,
                 "released": true
             },
             {
