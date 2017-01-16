@@ -315,7 +315,10 @@ class Utilities(object):
 
 		if 'ReleaseDate' in metadata['Game']:
 
-			game['releaseDate'] = datetime.datetime.strptime(metadata['Game']['ReleaseDate'], '%m/%d/%Y').strftime('%Y-%m-%d')
+			try:
+				game['releaseDate'] = datetime.datetime.strptime(metadata['Game']['ReleaseDate'], '%m/%d/%Y').strftime('%Y-%m-%d')
+			except ValueError:
+				pass
 
 		if 'Developer' in metadata['Game']:
 
@@ -387,22 +390,22 @@ class Utilities(object):
 								valid = False
 								print system['description'] + ' - ' + game['description'] + ' - Wrong description'
 
-							if game['releaseDate'] != api_metadata['releaseDate']:
+							if game['releaseDate'] is None or game['releaseDate'] != api_metadata['releaseDate']:
 
 								valid = False
 								print system['name'] + ' - ' + game['name'] + ' - Wrong releaseDate'
 
-							if game['developer'] != api_metadata['developer']:
+							if game['developer'] is None or game['developer'] != api_metadata['developer']:
 
 								valid = False
 								print system['name'] + ' - ' + game['name'] + ' - Wrong developer'
 
-							if game['publisher'] != api_metadata['publisher']:
+							if game['publisher'] is None or game['publisher'] != api_metadata['publisher']:
 
 								valid = False
 								print system['name'] + ' - ' + game['name'] + ' - Wrong publisher'
 
-							if game['genre'] not in api_metadata['genre']:
+							if game['genre'] is None or game['genre'] not in api_metadata['genre']:
 
 								valid = False
 								print system['name'] + ' - ' + game['name'] + ' - Wrong genre'
@@ -417,6 +420,8 @@ class Utilities(object):
 
 								metadata[system_index]['games'][game_index]['validatedDatetime'] = now.strftime('%Y-%m-%dT%H:%M:%SZ')
 
+								self.put_metadata(metadata)
+
 						else:
 
 							failed.append(system['name'] + ' - ' + game['name'])
@@ -424,7 +429,5 @@ class Utilities(object):
 					else:
 
 						failed.append(system['name'] + ' - ' + game['name'])
-
-		self.put_metadata(metadata)
 
 		print str(len(failed)) + ' failed'
