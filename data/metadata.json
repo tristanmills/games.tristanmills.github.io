@@ -7716,7 +7716,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "description": "COME AND GET YOURS!\nSHAQ BRINGS HIS AWESOME SKILL AND SIZE TO A MULTI-WORLD FIGHTING GAME.\n\nAs Shaq, use your lightning-fast shuriken and other martial art techniques to prevail over 6 intesely evil warriors in the enforcement of justice. Or choose any of the 7 warriors and fight head to head. Summon Voodoo's bone shattering earthquake, rebound with Rajah's shockwave sword or lash out with Sett's terrifying mummy wrap. Scores of secret power moves to discover and master.\n\n* Awesome animation from the designers of FLASHBACK\n* Destroy your opponent with special power moves\n* Choose Shaq or one of the 6 other inter-dimensional martial artists\n* Tournament, Duel and Story modes\n* Battle against the computer or go head-to-head with another player",
+                "description": "Shaq brings his awesome skill and size to a multiworld fighting game! As Shaq, use your lightning-fast shuriken and other martial art techniques to prevail over 11 intensely evil warriors in the enforcement of justice. Or choose any of the 12 warriors and fight head to head. Summon Voodoo's bone-shattering earthquake, rebound with Rajah's shockwave sword or lash out with Sett's terrifying mummy wrap! Scores of secret power moves to discover and master!",
                 "developer": "Delphine Software International",
                 "genre": "Fighting",
                 "id": 3258,
@@ -7980,8 +7980,8 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "description": "The first of several full-length hacks of 'Super Mario World 2: Yoshi's Island' created by Golden Yoshi.  This hack brings a total of 54 entirely original levels to the classic Yoshi's Island that we all love.  While not as polished as his second (and most popular) hack, this one still features excellent level design with some of the most challenging Yoshi stages you'll see.  Make no mistake, these stages are tough, but not unfair.  Veteran players rejoice, but newbies beware; Conquer the original Yoshi's Island first, then give this one a try.",
-                "developer": "GoldenYoshi",
+                "description": "The Evil Magikoopa, Kamek, is out to kidnap Baby Mario! In this sequel to Super Mario World, you play as Yoshi. Your goal is to successfully carry Baby Mario back to his parents in the Mushroom Kingdom while avoiding all of Kamek\u2019s clever traps and evil minions. Enjoy the various backgrounds of the rich and vibrant locales of Yoshi\u2019s Island as you race to complete your quest.\n\nIs Yoshi up to the momentous task at hand? Help him toss his eggs, manipulate unique objects and solve puzzling situations! When in doubt, don\u2019t be afraid to try EVERYTHING!!\n\n* 16 megs of memory provide 6 worlds - each with 8 stages!\n* Morphmation delivers powerful special effects - scaling, rotating, and 360 degree scrolling.\n* Huge characters and even bigger bosses require quick thinking!\n* Battery back-up to save your progress.",
+                "developer": "Nintendo",
                 "genre": "Platform",
                 "id": 137,
                 "multiplayer": {
@@ -7993,7 +7993,7 @@
                 "name": "Super Mario World 2: Yoshi's Island",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "2005-08-22",
+                "releaseDate": "1995-10-04",
                 "released": true,
                 "validatedDate": null
             },
