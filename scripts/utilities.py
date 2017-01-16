@@ -83,6 +83,7 @@ class Utilities(object):
 					'pi0': None,
 					'pi3': None,
 				},
+				'validatedDatetime': None,
 			}
 
 			if 'id' in game:
@@ -129,6 +130,10 @@ class Utilities(object):
 				if '@pi3' in game['compatibility']:
 
 					processed_game['compatibility']['pi3'] = self.str2bool(game['compatibility']['@pi3'])
+
+			if 'validatedDatetime' in game:
+
+				processed_game['validatedDatetime'] = game['validatedDatetime']
 
 			processed_games.append(processed_game)
 
@@ -211,6 +216,7 @@ class Utilities(object):
 				del game['developer']
 				del game['publisher']
 				del game['genre']
+				del game['validatedDatetime']
 
 		metadata = json.dumps(metadata, indent=4, sort_keys=True, separators=(',', ': '))
 
@@ -224,7 +230,7 @@ class Utilities(object):
 
 		gameslists = self.get_gameslists(self.roms_path)
 
-		important_keys = ['name', 'description', 'releasedate', 'developer', 'publisher', 'genre', 'players']
+		important_keys = ['name', 'description', 'releaseDate', 'developer', 'publisher', 'genre', 'players']
 
 		for system, games in gameslists.iteritems():
 
@@ -309,8 +315,7 @@ class Utilities(object):
 
 		if 'ReleaseDate' in metadata['Game']:
 
-			pass
-			# game['releaseDate'] = datetime.datetime.strptime(metadata['Game']['ReleaseDate'], '%m/%d/%Y').strftime('%Y-%m-%d')
+			game['releaseDate'] = datetime.datetime.strptime(metadata['Game']['ReleaseDate'], '%m/%d/%Y').strftime('%Y-%m-%d')
 
 		if 'Developer' in metadata['Game']:
 
@@ -332,6 +337,10 @@ class Utilities(object):
 
 	def validate_metadata(self):
 
+		failed = []
+
+		now = datetime.datetime.utcnow().replace(microsecond=0)
+
 		metadata = self.get_metadata()
 
 		for system_index, system in enumerate(metadata):
@@ -340,7 +349,19 @@ class Utilities(object):
 
 			for game_index, game in enumerate(system['games']):
 
-				if game['id'] is not None:
+				revalidate = True
+
+				if game['validatedDatetime'] is not None:
+
+					validated_datetime = datetime.datetime.strptime(game['validatedDatetime'], '%Y-%m-%dT%H:%M:%SZ')
+
+					revalidate_datetime = validated_datetime + datetime.timedelta(days=10)
+
+					if game['id'] is not None and now > revalidate_datetime:
+
+						revalidate = False
+
+				if revalidate:
 
 					url = base_url + str(game['id'])
 
@@ -354,35 +375,56 @@ class Utilities(object):
 
 							api_metadata = self.parse_api_metadata(api_metadata)
 
+							valid = True
+
+							if game['name'] != api_metadata['name']:
+
+								valid = False
+								print system['name'] + ' - ' + game['name'] + ' - Wrong name'
+
+							if game['description'] != api_metadata['description']:
+
+								valid = False
+								print system['description'] + ' - ' + game['description'] + ' - Wrong description'
+
 							if game['releaseDate'] != api_metadata['releaseDate']:
 
-								pass
-								# print system['name'] + ' - ' + game['name'] + ' - Wrong releaseDate'
+								valid = False
+								print system['name'] + ' - ' + game['name'] + ' - Wrong releaseDate'
 
 							if game['developer'] != api_metadata['developer']:
 
+								valid = False
 								print system['name'] + ' - ' + game['name'] + ' - Wrong developer'
 
 							if game['publisher'] != api_metadata['publisher']:
 
+								valid = False
 								print system['name'] + ' - ' + game['name'] + ' - Wrong publisher'
-
-							if game['players'] != api_metadata['players']:
-
-								print system['name'] + ' - ' + game['name'] + ' - Wrong players'
 
 							if game['genre'] not in api_metadata['genre']:
 
+								valid = False
 								print system['name'] + ' - ' + game['name'] + ' - Wrong genre'
+
+							if game['players'] != api_metadata['players']:
+
+								pass
+								# valid = False
+								# print system['name'] + ' - ' + game['name'] + ' - Wrong players'
+
+							if valid is True:
+
+								metadata[system_index]['games'][game_index]['validatedDatetime'] = now.strftime('%Y-%m-%dT%H:%M:%SZ')
 
 						else:
 
-							print system['name'] + ' - ' + game['name'] + ' - Wrong Name'
+							failed.append(system['name'] + ' - ' + game['name'])
 
 					else:
 
-						print system['name'] + ' - ' + game['name'] + ' - Failed'
+						failed.append(system['name'] + ' - ' + game['name'])
 
-				else:
+		self.put_metadata(metadata)
 
-						print system['name'] + ' - ' + game['name'] + ' - Missing ID'
+		print str(len(failed)) + ' failed'

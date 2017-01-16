@@ -35,7 +35,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": null,
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -56,7 +57,8 @@
                 "players": 1,
                 "publisher": "Parker Brothers",
                 "releaseDate": null,
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -77,7 +79,8 @@
                 "players": 1,
                 "publisher": "Activision",
                 "releaseDate": "1983-09-16",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -98,7 +101,8 @@
                 "players": 1,
                 "publisher": "Activision",
                 "releaseDate": "1982-04-20",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -119,7 +123,8 @@
                 "players": 1,
                 "publisher": "Atari",
                 "releaseDate": "1983-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 22,
@@ -148,7 +153,8 @@
                 "players": 2,
                 "publisher": "Atari",
                 "releaseDate": "1987-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -169,7 +175,8 @@
                 "players": 2,
                 "publisher": "Atari",
                 "releaseDate": "1987-06-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -190,7 +197,8 @@
                 "players": 2,
                 "publisher": "Atari",
                 "releaseDate": "1987-06-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -211,7 +219,8 @@
                 "players": 1,
                 "publisher": "Atari",
                 "releaseDate": "1987-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 27,
@@ -240,7 +249,8 @@
                 "players": 4,
                 "publisher": "Atari",
                 "releaseDate": "1989-07-07",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -261,7 +271,8 @@
                 "players": 1,
                 "publisher": null,
                 "releaseDate": null,
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -282,7 +293,8 @@
                 "players": 1,
                 "publisher": "Atari",
                 "releaseDate": "1990-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -303,7 +315,8 @@
                 "players": 4,
                 "publisher": "Atari",
                 "releaseDate": null,
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 4924,
@@ -346,7 +359,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-07-26",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -367,7 +381,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-01-16",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -388,7 +403,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1997-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -409,7 +425,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1992-08-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -430,7 +447,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-05-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -451,7 +469,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1991-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -472,7 +491,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-10-15",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -493,7 +513,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-02-27",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -514,7 +535,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1998-09-12",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -535,7 +557,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1989-04-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -556,7 +579,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1992-10-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -577,7 +601,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1993-06-06",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -598,7 +623,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1998-03-02",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -619,7 +645,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1994-01-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 4,
@@ -648,7 +675,8 @@
                 "players": 1,
                 "publisher": "Activision",
                 "releaseDate": "2001-10-28",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -669,7 +697,8 @@
                 "players": 1,
                 "publisher": "Activision",
                 "releaseDate": "2002-10-29",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -690,7 +719,8 @@
                 "players": 1,
                 "publisher": "Take-Two Interactive",
                 "releaseDate": "2002-08-13",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -711,7 +741,8 @@
                 "players": 1,
                 "publisher": "Midway",
                 "releaseDate": "2002-11-25",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -732,7 +763,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2002-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -753,7 +785,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2004-02-09",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -774,7 +807,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2004-01-29",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -795,7 +829,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2004-09-16",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -816,7 +851,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2004-01-29",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -837,7 +873,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2002-11-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -858,7 +895,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2002-11-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -879,7 +917,8 @@
                 "players": 1,
                 "publisher": "Universal Interactive",
                 "releaseDate": "2002-09-25",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -900,7 +939,8 @@
                 "players": 1,
                 "publisher": "Vivendi Universal Games",
                 "releaseDate": "2004-06-03",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -921,7 +961,8 @@
                 "players": 1,
                 "publisher": "VU Games",
                 "releaseDate": "2003-10-27",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -942,7 +983,8 @@
                 "players": 1,
                 "publisher": "Universal Interactive",
                 "releaseDate": "2001-10-29",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -963,7 +1005,8 @@
                 "players": 1,
                 "publisher": "Sierra Entertainment",
                 "releaseDate": "2007-10-02",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -984,7 +1027,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2005-01-10",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 5,
@@ -1013,7 +1057,8 @@
                 "players": 1,
                 "publisher": "GT Interactive",
                 "releaseDate": "1999-09-10",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1034,7 +1079,8 @@
                 "players": 1,
                 "publisher": "Rockstar Games",
                 "releaseDate": "1999-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1055,7 +1101,8 @@
                 "players": 1,
                 "publisher": "Rockstar",
                 "releaseDate": "2000-12-15",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1076,7 +1123,8 @@
                 "players": 1,
                 "publisher": "Natsume, Inc.",
                 "releaseDate": "1999-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1097,7 +1145,8 @@
                 "players": 1,
                 "publisher": "Natsume",
                 "releaseDate": "2000-11-07",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1118,7 +1167,8 @@
                 "players": 1,
                 "publisher": "Natsume",
                 "releaseDate": "2000-09-29",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1139,7 +1189,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2001-06-16",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1160,7 +1211,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "2001-01-11",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1181,7 +1233,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "2001-10-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1202,7 +1255,8 @@
                 "players": 1,
                 "publisher": "Konami",
                 "releaseDate": "2000-05-05",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1223,7 +1277,8 @@
                 "players": 1,
                 "publisher": "Midway",
                 "releaseDate": "1998-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1244,7 +1299,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2000-12-14",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1265,7 +1321,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1999-11-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1286,7 +1343,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1999-06-28",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1307,7 +1365,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1999-11-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1328,7 +1387,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2000-04-10",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1349,7 +1409,8 @@
                 "players": 1,
                 "publisher": "THQ",
                 "releaseDate": "1999-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1370,7 +1431,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1999-04-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1391,7 +1453,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1998-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1412,7 +1475,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2001-05-14",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1433,7 +1497,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2001-05-14",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1454,7 +1519,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2000-05-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1475,7 +1541,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1999-03-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 41,
@@ -1525,7 +1592,8 @@
                 "players": 2,
                 "publisher": "SNK",
                 "releaseDate": "1998-10-28",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1546,7 +1614,8 @@
                 "players": 1,
                 "publisher": "SNK",
                 "releaseDate": "1999-03-16",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1567,7 +1636,8 @@
                 "players": 1,
                 "publisher": "SNK",
                 "releaseDate": "1998-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1588,7 +1658,8 @@
                 "players": 1,
                 "publisher": "SNK",
                 "releaseDate": "1998-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1609,7 +1680,8 @@
                 "players": 2,
                 "publisher": "SNK",
                 "releaseDate": "1998-10-28",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1630,7 +1702,8 @@
                 "players": 2,
                 "publisher": "SNK",
                 "releaseDate": "1998-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1651,7 +1724,8 @@
                 "players": 2,
                 "publisher": "SNK",
                 "releaseDate": "1998-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1672,7 +1746,8 @@
                 "players": 2,
                 "publisher": "SNK",
                 "releaseDate": "1998-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1693,7 +1768,8 @@
                 "players": 1,
                 "publisher": "SNK",
                 "releaseDate": "1998-12-25",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1714,7 +1790,8 @@
                 "players": 2,
                 "publisher": "SNK",
                 "releaseDate": "1998-11-20",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 4922,
@@ -1743,7 +1820,8 @@
                 "players": 2,
                 "publisher": "SNK",
                 "releaseDate": "1999-03-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1764,7 +1842,8 @@
                 "players": 1,
                 "publisher": "SNK",
                 "releaseDate": "1999-03-19",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1785,7 +1864,8 @@
                 "players": 1,
                 "publisher": "SNK",
                 "releaseDate": "1999-04-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1806,7 +1886,8 @@
                 "players": 2,
                 "publisher": "SNK",
                 "releaseDate": "1998-10-28",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1827,7 +1908,8 @@
                 "players": 2,
                 "publisher": "SNK",
                 "releaseDate": "1999-04-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1848,7 +1930,8 @@
                 "players": 2,
                 "publisher": "SNK",
                 "releaseDate": "1999-09-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1869,7 +1952,8 @@
                 "players": 2,
                 "publisher": "SNK",
                 "releaseDate": "2000-04-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1890,7 +1974,8 @@
                 "players": 1,
                 "publisher": "SNK",
                 "releaseDate": "1999-12-22",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1911,7 +1996,8 @@
                 "players": 1,
                 "publisher": "SNK",
                 "releaseDate": "1999-04-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1932,7 +2018,8 @@
                 "players": 1,
                 "publisher": "SNK",
                 "releaseDate": "1999-03-19",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 4923,
@@ -1961,7 +2048,8 @@
                 "players": 4,
                 "publisher": "Electronic Arts",
                 "releaseDate": "2000-10-17",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -1982,7 +2070,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1998-04-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2003,7 +2092,8 @@
                 "players": 1,
                 "publisher": "THQ",
                 "releaseDate": "2001-03-14",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2024,7 +2114,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1998-06-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2045,7 +2136,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2000-11-19",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2066,7 +2158,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "1997-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2087,7 +2180,8 @@
                 "players": 4,
                 "publisher": "Vatical Entertainment",
                 "releaseDate": "2000-05-18",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2108,7 +2202,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1998-09-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2129,7 +2224,8 @@
                 "players": 2,
                 "publisher": "Midway",
                 "releaseDate": "1999-02-28",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2150,7 +2246,8 @@
                 "players": 1,
                 "publisher": "Konami",
                 "releaseDate": "1999-01-26",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2171,7 +2268,8 @@
                 "players": 1,
                 "publisher": "Konami",
                 "releaseDate": "1999-11-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2192,7 +2290,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1999-06-29",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2213,7 +2312,8 @@
                 "players": 4,
                 "publisher": "Rare Ltd.",
                 "releaseDate": "2001-03-04",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2234,7 +2334,8 @@
                 "players": 4,
                 "publisher": "Midway Games",
                 "releaseDate": "1998-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2255,7 +2356,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-12-18",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2276,7 +2378,8 @@
                 "players": 4,
                 "publisher": "Midway Games",
                 "releaseDate": "1996-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2297,7 +2400,8 @@
                 "players": 4,
                 "publisher": "Rareware",
                 "releaseDate": "1997-11-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2318,7 +2422,8 @@
                 "players": 1,
                 "publisher": "Activision",
                 "releaseDate": "1999-07-15",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2339,7 +2444,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1999-11-24",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2360,7 +2466,8 @@
                 "players": 1,
                 "publisher": "Midway",
                 "releaseDate": "1997-03-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2381,7 +2488,8 @@
                 "players": 4,
                 "publisher": "Eurocom",
                 "releaseDate": "1997-10-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2402,7 +2510,8 @@
                 "players": 4,
                 "publisher": "GT Interactive",
                 "releaseDate": "1999-08-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2423,7 +2532,8 @@
                 "players": 1,
                 "publisher": "Interplay/Rockstar",
                 "releaseDate": "1999-10-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2444,7 +2554,8 @@
                 "players": 4,
                 "publisher": "Ninteno",
                 "releaseDate": "2000-04-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2465,7 +2576,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "1998-07-14",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2486,7 +2598,8 @@
                 "players": 1,
                 "publisher": "Ubisoft",
                 "releaseDate": "1997-10-15",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2507,7 +2620,8 @@
                 "players": 4,
                 "publisher": "Atari Games",
                 "releaseDate": "1999-08-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2528,7 +2642,8 @@
                 "players": 1,
                 "publisher": "Hasbro Interactive",
                 "releaseDate": "1998-10-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2549,7 +2664,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "1997-08-23",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2570,7 +2686,8 @@
                 "players": 1,
                 "publisher": "Natsume",
                 "releaseDate": "1999-11-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2591,7 +2708,8 @@
                 "players": 4,
                 "publisher": "Midway Games",
                 "releaseDate": "1999-09-09",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2612,7 +2730,8 @@
                 "players": 4,
                 "publisher": "Rare",
                 "releaseDate": "1999-10-11",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2633,7 +2752,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-11-25",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2654,7 +2774,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "2000-06-26",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2675,7 +2796,8 @@
                 "players": 2,
                 "publisher": "Lego Media",
                 "releaseDate": "1999-10-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2696,7 +2818,8 @@
                 "players": 4,
                 "publisher": "Ea",
                 "releaseDate": "1999-08-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2717,7 +2840,8 @@
                 "players": 4,
                 "publisher": "EA",
                 "releaseDate": "2000-09-05",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2738,7 +2862,8 @@
                 "players": 4,
                 "publisher": "Electronic Arts",
                 "releaseDate": "2001-09-12",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2759,7 +2884,8 @@
                 "players": 4,
                 "publisher": "Electronic Arts",
                 "releaseDate": "1998-09-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2780,7 +2906,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "1999-07-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2801,7 +2928,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-12-14",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2822,7 +2950,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "1998-12-14",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2843,7 +2972,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "1999-12-17",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2864,7 +2994,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "2000-12-07",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2885,7 +3016,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "2000-07-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2906,7 +3038,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "2000-11-22",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2927,7 +3060,8 @@
                 "players": 2,
                 "publisher": "Midway",
                 "releaseDate": "1998-06-23",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2948,7 +3082,8 @@
                 "players": 2,
                 "publisher": "Midway",
                 "releaseDate": "1996-10-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2969,7 +3104,8 @@
                 "players": 1,
                 "publisher": "THQ",
                 "releaseDate": "1999-12-02",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -2990,7 +3126,8 @@
                 "players": 2,
                 "publisher": "Midway",
                 "releaseDate": "1998-06-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3011,7 +3148,8 @@
                 "players": 1,
                 "publisher": "Atlus",
                 "releaseDate": "2000-10-07",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3032,7 +3170,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2001-02-05",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3053,7 +3192,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "2000-05-22",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3074,7 +3214,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "2000-02-29",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3095,7 +3236,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "2001-03-28",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3116,7 +3258,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1999-06-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3137,7 +3280,8 @@
                 "players": 2,
                 "publisher": "Midway",
                 "releaseDate": "1998-03-24",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3158,7 +3302,8 @@
                 "players": 4,
                 "publisher": "Activision",
                 "releaseDate": "1999-06-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3179,7 +3324,8 @@
                 "players": 1,
                 "publisher": "THQ",
                 "releaseDate": "1998-06-11",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3200,7 +3346,8 @@
                 "players": 3,
                 "publisher": "Midway",
                 "releaseDate": "1999-03-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3221,7 +3368,8 @@
                 "players": 3,
                 "publisher": "Midway",
                 "releaseDate": "1998-03-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3242,7 +3390,8 @@
                 "players": 4,
                 "publisher": "THQ",
                 "releaseDate": "1999-09-22",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3263,7 +3412,8 @@
                 "players": 1,
                 "publisher": "Activision",
                 "releaseDate": "2000-11-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3284,7 +3434,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "1997-04-27",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3305,7 +3456,8 @@
                 "players": 2,
                 "publisher": "LucasArts",
                 "releaseDate": "1999-05-17",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3326,7 +3478,8 @@
                 "players": 1,
                 "publisher": "LucasArts",
                 "releaseDate": "1998-12-03",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3347,7 +3500,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-12-03",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3368,7 +3522,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "2000-06-13",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3389,7 +3544,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-06-23",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3410,7 +3566,8 @@
                 "players": 4,
                 "publisher": "Nintendo",
                 "releaseDate": "1999-01-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3431,7 +3588,8 @@
                 "players": 4,
                 "publisher": "Titus",
                 "releaseDate": "1999-05-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3452,7 +3610,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2000-10-26",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3473,7 +3632,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1998-11-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3494,7 +3654,8 @@
                 "players": 2,
                 "publisher": "Red Storm Entertainment",
                 "releaseDate": "1998-05-15",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3515,7 +3676,8 @@
                 "players": 2,
                 "publisher": "Activision",
                 "releaseDate": "2000-03-29",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3536,7 +3698,8 @@
                 "players": 2,
                 "publisher": "Activision",
                 "releaseDate": "2001-08-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3557,7 +3720,8 @@
                 "players": 2,
                 "publisher": "Activision",
                 "releaseDate": "2002-08-20",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3578,7 +3742,8 @@
                 "players": 4,
                 "publisher": "Acclaim",
                 "releaseDate": "1998-10-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3599,7 +3764,8 @@
                 "players": 4,
                 "publisher": "Acclaim",
                 "releaseDate": "2000-08-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3620,7 +3786,8 @@
                 "players": 1,
                 "publisher": "Acclaim Entertainment",
                 "releaseDate": "1997-03-04",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3641,7 +3808,8 @@
                 "players": 4,
                 "publisher": "Acclaim",
                 "releaseDate": "1999-10-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3662,7 +3830,8 @@
                 "players": 4,
                 "publisher": "Acclaim",
                 "releaseDate": "1999-07-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3683,7 +3852,8 @@
                 "players": 4,
                 "publisher": "THQ",
                 "releaseDate": "2000-11-17",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3704,7 +3874,8 @@
                 "players": 4,
                 "publisher": "Acclaim",
                 "releaseDate": "1998-08-11",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3725,7 +3896,8 @@
                 "players": 4,
                 "publisher": "THQ",
                 "releaseDate": "1999-10-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3746,7 +3918,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-09-27",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3767,7 +3940,8 @@
                 "players": 4,
                 "publisher": "Midway Games",
                 "releaseDate": "1998-11-03",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3788,7 +3962,8 @@
                 "players": 4,
                 "publisher": "Infogrames",
                 "releaseDate": "1999-04-23",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3809,7 +3984,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1998-03-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 3,
@@ -3838,7 +4014,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1985-01-02",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3859,7 +4036,8 @@
                 "players": 2,
                 "publisher": "Tradewest",
                 "releaseDate": "1991-06-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3880,7 +4058,8 @@
                 "players": 1,
                 "publisher": "Konami",
                 "releaseDate": "1986-09-26",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3901,7 +4080,8 @@
                 "players": 1,
                 "publisher": "Konami",
                 "releaseDate": "1987-08-28",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3922,7 +4102,8 @@
                 "players": 1,
                 "publisher": "Konami",
                 "releaseDate": "1992-12-22",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3943,7 +4124,8 @@
                 "players": 2,
                 "publisher": "Konami",
                 "releaseDate": "1987-02-20",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3964,7 +4146,8 @@
                 "players": 2,
                 "publisher": "Konami",
                 "releaseDate": "1992-09-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -3985,7 +4168,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1982-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4006,7 +4190,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1984-07-04",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4027,7 +4212,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1987-07-15",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4048,7 +4234,8 @@
                 "players": 2,
                 "publisher": "Taito",
                 "releaseDate": "1987-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4069,7 +4256,8 @@
                 "players": 2,
                 "publisher": "Technos Japan",
                 "releaseDate": "1988-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4090,7 +4278,8 @@
                 "players": 2,
                 "publisher": "Technos Japan",
                 "releaseDate": "1990-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4111,7 +4300,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1990-07-27",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4132,7 +4322,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1984-11-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4153,7 +4344,8 @@
                 "players": 1,
                 "publisher": "Squaresoft",
                 "releaseDate": "1990-10-10",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4174,7 +4366,8 @@
                 "players": 2,
                 "publisher": "Midway",
                 "releaseDate": "1988-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4195,7 +4388,8 @@
                 "players": 2,
                 "publisher": "Tengen",
                 "releaseDate": "1987-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4216,7 +4410,8 @@
                 "players": 4,
                 "publisher": "Mindscape",
                 "releaseDate": "1990-09-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4237,7 +4432,8 @@
                 "players": 2,
                 "publisher": "Capcom",
                 "releaseDate": "1986-09-19",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4258,7 +4454,8 @@
                 "players": 2,
                 "publisher": "Konami",
                 "releaseDate": "1985-05-29",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4279,7 +4476,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1985-01-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4300,7 +4498,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1988-04-15",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4321,7 +4520,8 @@
                 "players": 4,
                 "publisher": "Tradewest",
                 "releaseDate": "1990-04-01",
-                "released": null
+                "released": null,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4342,7 +4542,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1986-12-18",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4363,7 +4564,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1993-03-26",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4384,7 +4586,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1987-12-17",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4405,7 +4608,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1988-11-24",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4426,7 +4630,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1990-09-28",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4447,7 +4652,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1991-12-06",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4468,7 +4674,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1992-12-04",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4489,7 +4696,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1992-10-06",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4510,7 +4718,8 @@
                 "players": 1,
                 "publisher": "Ultra Games",
                 "releaseDate": "1987-07-07",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4531,7 +4740,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1986-08-06",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4552,7 +4762,8 @@
                 "players": 1,
                 "publisher": "Tecmo",
                 "releaseDate": "1988-12-09",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4573,7 +4784,8 @@
                 "players": 1,
                 "publisher": "Tecmo",
                 "releaseDate": "1990-05-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4594,7 +4806,8 @@
                 "players": 1,
                 "publisher": "Tecmo",
                 "releaseDate": "1991-08-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4615,7 +4828,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1990-08-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4636,7 +4850,8 @@
                 "players": 2,
                 "publisher": "Data East",
                 "releaseDate": "1988-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4657,7 +4872,8 @@
                 "players": 1,
                 "publisher": "JVC, Lucasfilm Games",
                 "releaseDate": "1991-11-15",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4678,7 +4894,8 @@
                 "players": 1,
                 "publisher": "JVC",
                 "releaseDate": "1992-03-13",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4699,7 +4916,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1990-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4720,7 +4938,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1994-03-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4741,7 +4960,8 @@
                 "players": 2,
                 "publisher": "Konami",
                 "releaseDate": "1990-04-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4762,7 +4982,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1985-09-13",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4783,7 +5004,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1988-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4804,7 +5026,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1988-10-23",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4825,7 +5048,8 @@
                 "players": 2,
                 "publisher": "Activision",
                 "releaseDate": "1986-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4846,7 +5070,8 @@
                 "players": 2,
                 "publisher": "Tecmo",
                 "releaseDate": "1989-02-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4867,7 +5092,8 @@
                 "players": 2,
                 "publisher": "Tecmo",
                 "releaseDate": "1991-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4888,7 +5114,8 @@
                 "players": 1,
                 "publisher": "Bullet-Proof Software",
                 "releaseDate": "1988-07-15",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4909,7 +5136,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1993-10-13",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4930,7 +5158,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1986-02-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4951,7 +5180,8 @@
                 "players": 1,
                 "publisher": "Acclaim",
                 "releaseDate": "1991-02-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4972,7 +5202,8 @@
                 "players": 1,
                 "publisher": "Acclaim",
                 "releaseDate": "1991-12-13",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -4993,7 +5224,8 @@
                 "players": 1,
                 "publisher": "Acclaim",
                 "releaseDate": "1992-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5014,7 +5246,8 @@
                 "players": 1,
                 "publisher": "American Softworks",
                 "releaseDate": "1991-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5035,7 +5268,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1988-09-26",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 7,
@@ -5064,7 +5298,8 @@
                 "players": 1,
                 "publisher": "Sony",
                 "releaseDate": "1999-06-18",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5085,7 +5320,8 @@
                 "players": 1,
                 "publisher": "Sony Computer Entertainment",
                 "releaseDate": "1996-08-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5106,7 +5342,8 @@
                 "players": 1,
                 "publisher": "Sony Computer Entertainment",
                 "releaseDate": "1997-10-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5127,7 +5364,8 @@
                 "players": 1,
                 "publisher": "Sony",
                 "releaseDate": "1998-10-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5148,7 +5386,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1996-03-22",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5169,7 +5408,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1999-09-22",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5190,7 +5430,8 @@
                 "players": 1,
                 "publisher": "Konami Digital Entertainment",
                 "releaseDate": "1999-01-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5211,7 +5452,8 @@
                 "players": 1,
                 "publisher": "Sony",
                 "releaseDate": "1999-10-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5232,7 +5474,8 @@
                 "players": 1,
                 "publisher": "Sony",
                 "releaseDate": "1998-09-10",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5253,7 +5496,8 @@
                 "players": 1,
                 "publisher": "Sony",
                 "releaseDate": "2000-10-23",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 10,
@@ -5282,7 +5526,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1995-01-13",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5303,7 +5548,8 @@
                 "players": 2,
                 "publisher": "Front Street",
                 "releaseDate": "1995-10-19",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5324,7 +5570,8 @@
                 "players": 1,
                 "publisher": "Interplay",
                 "releaseDate": "1995-08-24",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5345,7 +5592,8 @@
                 "players": 2,
                 "publisher": "GameTek",
                 "releaseDate": "1995-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5366,7 +5614,8 @@
                 "players": 2,
                 "publisher": "Sega",
                 "releaseDate": "1994-03-02",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5387,7 +5636,8 @@
                 "players": 1,
                 "publisher": "SEGA",
                 "releaseDate": "1995-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5408,7 +5658,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1994-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5429,7 +5680,8 @@
                 "players": 2,
                 "publisher": "Electronic Arts",
                 "releaseDate": "1995-11-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5450,7 +5702,8 @@
                 "players": 1,
                 "publisher": "SEGA",
                 "releaseDate": "1994-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5471,7 +5724,8 @@
                 "players": 2,
                 "publisher": "Sega",
                 "releaseDate": "1995-04-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5492,7 +5746,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1995-09-08",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5513,7 +5768,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1995-02-24",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5534,7 +5790,8 @@
                 "players": 1,
                 "publisher": "Midway",
                 "releaseDate": "1994-12-04",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5555,7 +5812,8 @@
                 "players": 2,
                 "publisher": "Sega",
                 "releaseDate": "1994-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5576,7 +5834,8 @@
                 "players": 4,
                 "publisher": "Acclaim",
                 "releaseDate": "1995-05-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5597,7 +5856,8 @@
                 "players": 4,
                 "publisher": "Acclaim",
                 "releaseDate": "1995-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5618,7 +5878,8 @@
                 "players": 1,
                 "publisher": "Activision",
                 "releaseDate": "1995-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5639,7 +5900,8 @@
                 "players": 2,
                 "publisher": "Time Warner",
                 "releaseDate": "1995-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5660,7 +5922,8 @@
                 "players": 1,
                 "publisher": "Time Warner",
                 "releaseDate": "1995-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5681,7 +5944,8 @@
                 "players": 1,
                 "publisher": "Koei",
                 "releaseDate": "1995-07-28",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5702,7 +5966,8 @@
                 "players": 2,
                 "publisher": "Sega",
                 "releaseDate": "1995-05-25",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5723,7 +5988,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1994-12-03",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5744,7 +6010,8 @@
                 "players": 2,
                 "publisher": "Interplay",
                 "releaseDate": "1995-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5765,7 +6032,8 @@
                 "players": 2,
                 "publisher": "Sega",
                 "releaseDate": "1994-12-02",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5786,7 +6054,8 @@
                 "players": 2,
                 "publisher": "Time Warner",
                 "releaseDate": "1995-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5807,7 +6076,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1995-03-24",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5828,7 +6098,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1996-04-26",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5849,7 +6120,8 @@
                 "players": 1,
                 "publisher": "EA Sports",
                 "releaseDate": "1995-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5870,7 +6142,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1995-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5891,7 +6164,8 @@
                 "players": 2,
                 "publisher": "Sega",
                 "releaseDate": "1994-02-05",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5912,7 +6186,8 @@
                 "players": 4,
                 "publisher": "Acclaim",
                 "releaseDate": "1995-01-31",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5933,7 +6208,8 @@
                 "players": 2,
                 "publisher": "Midway",
                 "releaseDate": "1995-07-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5954,7 +6230,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1995-11-17",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -5975,7 +6252,8 @@
                 "players": 2,
                 "publisher": "Sega",
                 "releaseDate": "1995-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 33,
@@ -6004,7 +6282,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1993-09-23",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 21,
@@ -6033,7 +6312,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1994-03-11",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6054,7 +6334,8 @@
                 "players": 1,
                 "publisher": "Hi Tech Expressions",
                 "releaseDate": "1994-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6075,7 +6356,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1995-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 20,
@@ -6104,7 +6386,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1994-10-18",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6125,7 +6408,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1992-03-19",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6146,7 +6430,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1994-10-19",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6167,7 +6452,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1994-10-18",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6188,7 +6474,8 @@
                 "players": 2,
                 "publisher": "Sega",
                 "releaseDate": "1994-10-18",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6209,7 +6496,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1994-10-18",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6230,7 +6518,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1991-06-23",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6251,7 +6540,8 @@
                 "players": 2,
                 "publisher": "Sega",
                 "releaseDate": "1992-11-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6272,7 +6562,8 @@
                 "players": 2,
                 "publisher": "Sega",
                 "releaseDate": "1994-02-02",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6293,7 +6584,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1995-10-24",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6314,7 +6606,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1996-11-15",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 18,
@@ -6343,7 +6636,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1987-11-02",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6364,7 +6658,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1987-12-20",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6385,7 +6680,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1989-07-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 35,
@@ -6414,7 +6710,8 @@
                 "players": 2,
                 "publisher": "Sega",
                 "releaseDate": "1983-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6435,7 +6732,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1986-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6456,7 +6754,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1984-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6477,7 +6776,8 @@
                 "players": 1,
                 "publisher": "Sega",
                 "releaseDate": "1983-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 4949,
@@ -6506,7 +6806,8 @@
                 "players": 2,
                 "publisher": "Tradewest",
                 "releaseDate": "1993-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6527,7 +6828,8 @@
                 "players": 1,
                 "publisher": "Squaresoft",
                 "releaseDate": "1995-03-11",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6548,7 +6850,8 @@
                 "players": 2,
                 "publisher": "Konami",
                 "releaseDate": "1992-04-06",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6569,7 +6872,8 @@
                 "players": 1,
                 "publisher": "Electronic Arts",
                 "releaseDate": "1992-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6590,7 +6894,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1994-11-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6611,7 +6916,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-11-20",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6632,7 +6938,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-11-22",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6653,7 +6960,8 @@
                 "players": 1,
                 "publisher": "Williams Entertainment",
                 "releaseDate": "1995-09-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6674,7 +6982,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1994-08-27",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6695,7 +7004,8 @@
                 "players": 1,
                 "publisher": "Playmates Interactive Entertainment, Inc.",
                 "releaseDate": "1994-08-02",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6716,7 +7026,8 @@
                 "players": 1,
                 "publisher": "Playmates",
                 "releaseDate": "1996-01-25",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6737,7 +7048,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1991-08-23",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6758,7 +7070,8 @@
                 "players": 2,
                 "publisher": "Ubisoft",
                 "releaseDate": "1993-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6779,7 +7092,8 @@
                 "players": 1,
                 "publisher": "Squaresoft",
                 "releaseDate": "1991-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6800,7 +7114,8 @@
                 "players": 1,
                 "publisher": "Squaresoft",
                 "releaseDate": "1994-04-02",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6821,7 +7136,8 @@
                 "players": 2,
                 "publisher": "Majesco Games",
                 "releaseDate": "1998-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6842,7 +7158,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-08-09",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6863,7 +7180,8 @@
                 "players": 1,
                 "publisher": "Electronic Arts",
                 "releaseDate": "1995-06-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6884,7 +7202,8 @@
                 "players": 1,
                 "publisher": "Ocean",
                 "releaseDate": "1993-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6905,7 +7224,8 @@
                 "players": 2,
                 "publisher": "Ocean Software",
                 "releaseDate": "1994-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6926,7 +7246,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-09-20",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6947,7 +7268,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1997-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6968,7 +7290,8 @@
                 "players": 4,
                 "publisher": "Electronic Arts",
                 "releaseDate": "1993-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -6989,7 +7312,8 @@
                 "players": 4,
                 "publisher": "Electronic Arts",
                 "releaseDate": "1994-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7010,7 +7334,8 @@
                 "players": 2,
                 "publisher": "EA Sports",
                 "releaseDate": "1995-11-30",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7031,7 +7356,8 @@
                 "players": 4,
                 "publisher": "Electronic Arts",
                 "releaseDate": "1996-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7052,7 +7378,8 @@
                 "players": 4,
                 "publisher": "Electronic Arts",
                 "releaseDate": "1997-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7073,7 +7400,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1992-05-05",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7094,7 +7422,8 @@
                 "players": 1,
                 "publisher": "Activision",
                 "releaseDate": "1993-05-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7115,7 +7444,8 @@
                 "players": 2,
                 "publisher": "Tiburon Entertainment",
                 "releaseDate": "1995-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7136,7 +7466,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1995-03-24",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7157,7 +7488,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1994-01-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7178,7 +7510,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1995-01-27",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7199,7 +7532,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1996-01-26",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7220,7 +7554,8 @@
                 "players": 2,
                 "publisher": "Acclaim",
                 "releaseDate": "1993-09-13",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7241,7 +7576,8 @@
                 "players": 2,
                 "publisher": "Williams",
                 "releaseDate": "1995-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7262,7 +7598,8 @@
                 "players": 2,
                 "publisher": "Acclaim",
                 "releaseDate": "1994-09-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7283,7 +7620,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7304,7 +7642,8 @@
                 "players": 2,
                 "publisher": "Acclaim",
                 "releaseDate": "1995-02-23",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7325,7 +7664,8 @@
                 "players": 2,
                 "publisher": "Time Warner Interactive",
                 "releaseDate": "1995-08-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7346,7 +7686,8 @@
                 "players": 2,
                 "publisher": "Jaleco",
                 "releaseDate": "1994-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7367,7 +7708,8 @@
                 "players": 3,
                 "publisher": "Squaresoft",
                 "releaseDate": "1993-08-06",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7388,7 +7730,8 @@
                 "players": 2,
                 "publisher": "Electronic Arts",
                 "releaseDate": "1994-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7409,7 +7752,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1991-08-13",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7430,7 +7774,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1993-02-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7451,7 +7796,8 @@
                 "players": 2,
                 "publisher": "Capcom",
                 "releaseDate": "1993-07-10",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7472,7 +7818,8 @@
                 "players": 4,
                 "publisher": "Hudson Soft",
                 "releaseDate": "1993-09-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7493,7 +7840,8 @@
                 "players": 4,
                 "publisher": "Hudson Soft",
                 "releaseDate": "1994-12-12",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7514,7 +7862,8 @@
                 "players": 1,
                 "publisher": "Konami",
                 "releaseDate": "1991-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7535,7 +7884,8 @@
                 "players": 2,
                 "publisher": "Tradewest",
                 "releaseDate": "1992-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7556,7 +7906,8 @@
                 "players": 1,
                 "publisher": "Capcom",
                 "releaseDate": "1991-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7577,7 +7928,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1992-09-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7598,7 +7950,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-05-13",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7619,7 +7972,8 @@
                 "players": 2,
                 "publisher": "Nintendo",
                 "releaseDate": "1990-11-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7640,7 +7994,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "2005-08-22",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7661,7 +8016,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1994-04-18",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7682,7 +8038,8 @@
                 "players": 4,
                 "publisher": "Tradewest",
                 "releaseDate": "1991-12-01",
-                "released": null
+                "released": null,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7703,7 +8060,8 @@
                 "players": 4,
                 "publisher": "Tradewest",
                 "releaseDate": "1993-09-01",
-                "released": null
+                "released": null,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7724,7 +8082,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1994-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7745,7 +8104,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1991-09-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7766,7 +8126,8 @@
                 "players": 1,
                 "publisher": "JVC",
                 "releaseDate": "1992-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7787,7 +8148,8 @@
                 "players": 1,
                 "publisher": "JVC",
                 "releaseDate": "1994-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7808,7 +8170,8 @@
                 "players": 1,
                 "publisher": "JVC",
                 "releaseDate": "1993-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7829,7 +8192,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1992-04-13",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7850,7 +8214,8 @@
                 "players": 1,
                 "publisher": "Acclaim",
                 "releaseDate": "1992-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7871,7 +8236,8 @@
                 "players": 1,
                 "publisher": "Acclaim",
                 "releaseDate": "1995-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7892,7 +8258,8 @@
                 "players": 2,
                 "publisher": "Williams",
                 "releaseDate": "1996-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7913,7 +8280,8 @@
                 "players": 1,
                 "publisher": "Black Pearl",
                 "releaseDate": "1995-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7934,7 +8302,8 @@
                 "players": 1,
                 "publisher": "Imagineer",
                 "releaseDate": "1994-03-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7955,7 +8324,8 @@
                 "players": 2,
                 "publisher": "DVS Electronic",
                 "releaseDate": "1998-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7976,7 +8346,8 @@
                 "players": 1,
                 "publisher": "Avalon",
                 "releaseDate": "1994-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -7997,7 +8368,8 @@
                 "players": 2,
                 "publisher": "Konami",
                 "releaseDate": "1993-09-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 6,
@@ -8026,7 +8398,8 @@
                 "players": 1,
                 "publisher": "NEC",
                 "releaseDate": "1989-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8047,7 +8420,8 @@
                 "players": 1,
                 "publisher": "NEC",
                 "releaseDate": "1993-04-02",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8068,7 +8442,8 @@
                 "players": 1,
                 "publisher": "NEC",
                 "releaseDate": "1989-12-15",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8089,7 +8464,8 @@
                 "players": 1,
                 "publisher": "NEC",
                 "releaseDate": "1991-03-08",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8110,7 +8486,8 @@
                 "players": 1,
                 "publisher": "NEC",
                 "releaseDate": "1989-11-17",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8131,7 +8508,8 @@
                 "players": 1,
                 "publisher": "NEC",
                 "releaseDate": "1991-09-27",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8152,7 +8530,8 @@
                 "players": 1,
                 "publisher": "Hudson",
                 "releaseDate": "1992-06-26",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8173,7 +8552,8 @@
                 "players": 1,
                 "publisher": "NEC",
                 "releaseDate": "1990-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 34,
@@ -8209,7 +8589,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-03-22",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8230,7 +8611,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-01-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8251,7 +8633,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-08-14",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8272,7 +8655,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-11-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8293,7 +8677,8 @@
                 "players": 1,
                 "publisher": "I'Max",
                 "releaseDate": null,
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8314,7 +8699,8 @@
                 "players": 1,
                 "publisher": "Atlus",
                 "releaseDate": "1995-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8335,7 +8721,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-10-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8356,7 +8743,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-08-14",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8377,7 +8765,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1996-02-26",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8398,7 +8787,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-08-14",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8419,7 +8809,8 @@
                 "players": 1,
                 "publisher": "Bandai",
                 "releaseDate": null,
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8440,7 +8831,8 @@
                 "players": 1,
                 "publisher": null,
                 "releaseDate": null,
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8461,7 +8853,8 @@
                 "players": 1,
                 "publisher": "Coconuts Japan",
                 "releaseDate": null,
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8482,7 +8875,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-08-14",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8503,7 +8897,8 @@
                 "players": 1,
                 "publisher": "Bullet Proof Software",
                 "releaseDate": null,
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8524,7 +8919,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-12-01",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8545,7 +8941,8 @@
                 "players": 1,
                 "publisher": "Athena",
                 "releaseDate": null,
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8566,7 +8963,8 @@
                 "players": 1,
                 "publisher": "Nintendo",
                 "releaseDate": "1995-11-27",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8587,7 +8985,8 @@
                 "players": 1,
                 "publisher": "Pack-In-Video",
                 "releaseDate": "1995-10-06",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8608,7 +9007,8 @@
                 "players": 1,
                 "publisher": null,
                 "releaseDate": null,
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8629,7 +9029,8 @@
                 "players": 1,
                 "publisher": "Kemco",
                 "releaseDate": "1995-09-11",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             },
             {
                 "compatibility": {
@@ -8650,7 +9051,8 @@
                 "players": 1,
                 "publisher": "Ocean Software",
                 "releaseDate": "1995-12-21",
-                "released": true
+                "released": true,
+                "validatedDatetime": null
             }
         ],
         "id": 4918,
