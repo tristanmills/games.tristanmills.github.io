@@ -159,7 +159,7 @@ class Utilities(object):
 
 	def merge_systems_into_metadata(self, systems, metadata):
 
-		for key, system in enumerate(metadata):
+		for system_index, system in enumerate(metadata):
 
 			if system['name'] in systems:
 
@@ -173,17 +173,17 @@ class Utilities(object):
 
 						released += 1
 
-				if metadata[key]['released'] == 'Unknown':
+				if metadata[system_index]['released'] == 'Unknown':
 
-					metadata[key]['collection'] = 'Unknown'
+					metadata[system_index]['collection'] = 'Unknown'
 
 				else:
 
-					collection = 100 * float(released) / float(metadata[key]['released'])
+					collection = 100 * float(released) / float(metadata[system_index]['released'])
 
-					metadata[key]['collection'] = format(collection, '.2f') + '%'
+					metadata[system_index]['collection'] = format(collection, '.2f') + '%'
 
-				metadata[key]['games'] = sorted(games.values(), key=lambda k: k['name'])
+				metadata[system_index]['games'] = sorted(games.values(), key=lambda k: k['name'])
 
 		metadata = sorted(metadata, key=lambda k: k['name'])
 
