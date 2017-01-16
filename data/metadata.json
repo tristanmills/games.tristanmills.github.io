@@ -389,7 +389,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "description": "Donkey Kong Land 3 ist the last part in the Donkey Kong Land series and was released f\u00fcr the Game Boy by Nintendo in 1997.\n\nFame-and-fortune seekers have flooded Donkey Kong Country in search of the fabled Lost World. Dixie Kong & Kiddy Kong rush through 36 Kong-sized levels of action and adventure. Use your animal friends - Squitter the spider, Squawks the parrot, Ellie the elephant, Enguarde the swordfish and Parry the parallel bird - to help you prove your adventuring skills and find the Lost World before someone else does!",
+                "description": "Donkey Kong Land III is the last part in the Donkey Kong Land series and was released for the Game Boy by Nintendo in 1997.\n\nFame-and-fortune seekers have flooded Donkey Kong Country in search of the fabled Lost World. Dixie Kong & Kiddy Kong rush through 36 Kong-sized levels of action and adventure. Use your animal friends - Squitter the spider, Squawks the parrot, Ellie the elephant, Enguarde the swordfish and Parry the parallel bird - to help you prove your adventuring skills and find the Lost World before someone else does!",
                 "developer": "Rare",
                 "genre": "Platform",
                 "id": 3175,
@@ -1776,7 +1776,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "description": "Shougi no Tatsujin is a Japanese style chess game. In single player mode the player must compete against computerized opponents (represented by a digitized photograph) to win the tournament. In two player mode, each player competes against each another.",
+                "description": "Shogi no Tatsujin is a Japanese style chess game. In single player mode the player must compete against computerized opponents (represented by a digitized photograph) to win the tournament. In two player mode, each player competes against each another.",
                 "developer": "ADK",
                 "genre": "Strategy",
                 "id": 34150,
@@ -1852,7 +1852,7 @@
                 },
                 "description": "Neo Cherry Master Color is a Miscellaneous game, developed by Dyna Corporation and published by SNK, which was released in Japan in 1999.",
                 "developer": "Dyna Corporation",
-                "genre": null,
+                "genre": "Puzzle",
                 "id": 18516,
                 "multiplayer": {
                     "alternating-coop": null,
@@ -2004,7 +2004,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "description": "Syougi no Tatsujin is a Japanese style chess game. In single player mode the player must compete against computerized opponents (represented by a digitized photograph) to win the tournament. In two player mode, each player competes against each another.",
+                "description": "Shogi no Tatsujin is a Japanese style chess game. In single player mode the player must compete against computerized opponents (represented by a digitized photograph) to win the tournament. In two player mode, each player competes against each another.",
                 "developer": "ADK",
                 "genre": "Puzzle",
                 "id": 35929,
