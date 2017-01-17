@@ -340,8 +340,6 @@ class Utilities(object):
 
 	def validate_metadata(self):
 
-		failed = []
-
 		now = datetime.datetime.utcnow()
 
 		metadata = self.get_metadata()
@@ -358,7 +356,7 @@ class Utilities(object):
 
 					validated_date = datetime.datetime.strptime(game['validatedDate'], '%Y-%m-%d')
 
-					revalidate_date = validated_date + datetime.timedelta(days=10)
+					revalidate_date = validated_date + datetime.timedelta(days=30)
 
 					if game['id'] is not None and now < revalidate_date:
 
@@ -412,9 +410,8 @@ class Utilities(object):
 
 							if game['players'] != api_metadata['players']:
 
-								pass
-								# valid = False
-								# print system['name'] + ' - ' + game['name'] + ' - Wrong players'
+								valid = False
+								print system['name'] + ' - ' + game['name'] + ' - Wrong players'
 
 							if valid is True:
 
@@ -424,10 +421,8 @@ class Utilities(object):
 
 						else:
 
-							failed.append(system['name'] + ' - ' + game['name'])
+							print system['name'] + ' - ' + game['name'] + ' - Failed'
 
 					else:
 
-						failed.append(system['name'] + ' - ' + game['name'])
-
-		print str(len(failed)) + ' failed'
+						print system['name'] + ' - ' + game['name'] + ' - Failed'
