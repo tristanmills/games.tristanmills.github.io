@@ -196,7 +196,7 @@
                 "name": "Dig Dug",
                 "players": 2,
                 "publisher": "Atari",
-                "releaseDate": "1987-06-01",
+                "releaseDate": "1987-01-01",
                 "released": true,
                 "validatedDate": null
             },
@@ -303,7 +303,7 @@
                 },
                 "description": "Can this motley crew of Xeno Exterminators wipe out the hoards of alien creatures aboard the infested space stations? Hurry up and blast away or your mission may end in a blizzard of ooze!\nYou and up to three of your friends can \"Lynx up\" for a multi player frenzy. Choose your character, find the weapons and Zap the Xenos!",
                 "developer": "Bally",
-                "genre": null,
+                "genre": "Shooter",
                 "id": 19558,
                 "multiplayer": {
                     "alternating-coop": false,
@@ -521,7 +521,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "description": "You\u2019ve finally been granted your Pok\u00e9mon trainer\u2019s license, and now you\u2019re on your way to becoming the world\u2019s greatest Pok\u00e9mon trainer! The shockingly-cute Pikachu tags along behind you as you search the enormous world for monsters to train and evolve. Face off against Blastoise\u2019s torrential water gun. Stand strong when facing Pidgeot\u2019s stormy Gust. Develop the ultimate Pok\u00e9mon strategy to defeat the eight GYM Leaders and become the greatest Pok\u00e9mon Master of all time! * Battle a friend in the new Colosseum 2 for the Pika Cup, Petit Cup and Pok\u00e9 Cup titles. * Print out your Pok\u00e9dex data with a Game Boy Printer and a Game Link cable. * Trade Pok\u00e9mon with your friends using a Game Link cable. You\u2019ll need to trade with both the Red and Blue versions to catch all 150 Pok\u00e9mon and complete your Pok\u00e9dex!",
+                "description": "You've finally been granted your Pok\u00e9mon trainer's license, and now you're on your way to becoming the world's greatest Pok\u00e9mon trainer! The shockingly-cute Pikachu tags along behind you as you search the enormous world for monsters to train and evolve. Face off against Blastoise's torrential water gun. Stand strong when facing Pidgeot's stormy Gust. Develop the ultimate Pok\u00e9mon strategy to defeat the eight GYM leaders and become the greatest Pok\u00e9mon Master of all time!",
                 "developer": "Game Freak",
                 "genre": "Adventure",
                 "id": 41422,
@@ -2289,7 +2289,7 @@
                 "name": "Command & Conquer",
                 "players": 1,
                 "publisher": "Nintendo",
-                "releaseDate": "1999-06-29",
+                "releaseDate": "1999-05-31",
                 "released": true,
                 "validatedDate": null
             },
@@ -3125,7 +3125,7 @@
                 "name": "Off Road Challenge",
                 "players": 2,
                 "publisher": "Midway",
-                "releaseDate": "1998-06-30",
+                "releaseDate": "1998-06-01",
                 "released": true,
                 "validatedDate": null
             },
@@ -8896,7 +8896,7 @@
                 "name": "V-Tetris",
                 "players": 1,
                 "publisher": "Bullet Proof Software",
-                "releaseDate": null,
+                "releaseDate": "1995-08-25",
                 "released": true,
                 "validatedDate": null
             },
@@ -8940,7 +8940,7 @@
                 "name": "Virtual Bowling",
                 "players": 1,
                 "publisher": "Athena",
-                "releaseDate": null,
+                "releaseDate": "1995-12-22",
                 "released": true,
                 "validatedDate": null
             },
