@@ -360,7 +360,7 @@ class Utilities(object):
 
 					revalidate_date = validated_date + datetime.timedelta(days=10)
 
-					if game['id'] is not None and now > revalidate_date:
+					if game['id'] is not None and now < revalidate_date:
 
 						revalidate = False
 
