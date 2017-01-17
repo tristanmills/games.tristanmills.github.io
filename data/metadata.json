@@ -34,7 +34,7 @@
                 "name": "Frogger",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": null,
+                "releaseDate": "1982-01-01",
                 "released": true,
                 "validatedDate": null
             },
@@ -176,7 +176,7 @@
                 "publisher": "Atari",
                 "releaseDate": "1987-06-01",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -198,7 +198,7 @@
                 "publisher": "Atari",
                 "releaseDate": "1987-01-01",
                 "released": true,
-                "validatedDate": null
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -220,7 +220,7 @@
                 "publisher": "Atari",
                 "releaseDate": "1987-01-01",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             }
         ],
         "id": 27,
@@ -272,7 +272,7 @@
                 "publisher": "Psygnosis Limited",
                 "releaseDate": "1993-01-01",
                 "released": true,
-                "validatedDate": null
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -404,7 +404,7 @@
                 "publisher": "Nintendo",
                 "releaseDate": "1997-10-01",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -448,7 +448,7 @@
                 "publisher": "Nintendo",
                 "releaseDate": "1995-05-01",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -536,7 +536,7 @@
                 "publisher": "Nintendo",
                 "releaseDate": "1998-09-12",
                 "released": true,
-                "validatedDate": null
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -1102,7 +1102,7 @@
                 "publisher": "Rockstar",
                 "releaseDate": "2000-12-15",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -1190,7 +1190,7 @@
                 "publisher": "Nintendo",
                 "releaseDate": "2001-06-16",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -1234,7 +1234,7 @@
                 "publisher": "Capcom",
                 "releaseDate": "2001-10-30",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -1278,7 +1278,7 @@
                 "publisher": "Midway",
                 "releaseDate": "1998-12-01",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -1366,7 +1366,7 @@
                 "publisher": "Nintendo",
                 "releaseDate": "1999-11-21",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -1843,7 +1843,7 @@
                 "publisher": "SNK",
                 "releaseDate": "1999-03-19",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -2049,7 +2049,7 @@
                 "publisher": "Electronic Arts",
                 "releaseDate": "2000-10-17",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -2071,7 +2071,7 @@
                 "publisher": "Nintendo",
                 "releaseDate": "1998-04-01",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -2203,7 +2203,7 @@
                 "publisher": "Nintendo",
                 "releaseDate": "1998-09-01",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -2277,7 +2277,7 @@
                     "pi3": true
                 },
                 "description": "Command & Conquer  is a real-time strategy game developed by Westwood Studios and released by Nintendo in 1999.\nLike the PC version released in 1995, C&C focuses on the war between two ficitional organizations - The Brotherhood of NOD & the Global Defense Initiative. When a mysterious resource called Tiberium emerged on Earth, a conflict developed between both factions, as the GDI wanted to contain the biological material while the Brotherhood wanted to harness it.\n\n15 missions on either side are available in which various units and structures, including artillery, tanks or light infantry, have to be used adequately to crush the enemy base, find traitors, protect vehicles or conquer certain areas.",
-                "developer": "Westwood Studios",
+                "developer": "Looking Glass Studios",
                 "genre": "Strategy",
                 "id": 1560,
                 "multiplayer": {
@@ -2511,7 +2511,7 @@
                 "publisher": "GT Interactive",
                 "releaseDate": "1999-08-01",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -2929,7 +2929,7 @@
                 "publisher": "Nintendo",
                 "releaseDate": "1996-12-14",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -3127,7 +3127,7 @@
                 "publisher": "Midway",
                 "releaseDate": "1998-06-01",
                 "released": true,
-                "validatedDate": null
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -3222,7 +3222,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "description": "Pokemon Stadium does not have a storyline. Progress in the game can only be made by winning \"Cups\" in the Stadium and completing the Gym Leader Castle. When all Cups have been won and the Gym Leader Castle completed, Mewtwo will appear in the sky over the Stadium. Defeating Mewtwo will unlock the much harder Round 2, in which the player must re-challenge the Stadium, Gym Leader Castle, and Mewtwo, in order to complete the game.",
+                "description": "Pok\u00e9mon Stadium does not have a storyline. Progress in the game can only be made by winning \"Cups\" in the Stadium and completing the Gym Leader Castle. When all Cups have been won and the Gym Leader Castle completed, Mewtwo will appear in the sky over the Stadium. Defeating Mewtwo will unlock the much harder Round 2, in which the player must re-challenge the Stadium, Gym Leader Castle, and Mewtwo, in order to complete the game.",
                 "developer": "Nintendo EAD",
                 "genre": "Strategy",
                 "id": 391,
@@ -3244,7 +3244,7 @@
                     "pi0": null,
                     "pi3": false
                 },
-                "description": "While Pokemon Stadium 2 does have a storyline, progress in the game can be made by winning Cups in the Stadium and completing the Gym Leader Castle. When all Cups have been won and the Gym Leader Castle completed, the player's Rival will appear. Defeating the Rival will unlock Round 2, in which the player must re-challenge the Stadium, Gym Leader Castle, and the Rival in order to complete the game. But, they have different Pokemon and the difficulty is much higher.\n\nStadium:\nThe player begins by choosing 6 different Pokemon. There are 250 different Pokemon to choose from; including some legendary Pokemon. Pokemon tournaments take place in the Stadium. There are four Cups to participate in. Each round consists of eight battles, and every Cup except the Little and Prime Cup consists of four rounds, named after Poke Balls, that must be cleared to win that Cup.",
+                "description": "While Pok\u00e9mon Stadium 2 does have a storyline, progress in the game can be made by winning Cups in the Stadium and completing the Gym Leader Castle. When all Cups have been won and the Gym Leader Castle completed, the player's Rival will appear. Defeating the Rival will unlock Round 2, in which the player must re-challenge the Stadium, Gym Leader Castle, and the Rival in order to complete the game. But, they have different Pok\u00e9mon and the difficulty is much higher.\n\nStadium:\nThe player begins by choosing 6 different Pok\u00e9mon. There are 250 different Pok\u00e9mon to choose from; including some legendary Pok\u00e9mon. Pok\u00e9mon tournaments take place in the Stadium. There are four Cups to participate in. Each round consists of eight battles, and every Cup except the Little and Prime Cup consists of four rounds, named after Pok\u00e9 Balls, that must be cleared to win that Cup.",
                 "developer": "Nintendo EAD, HAL Laboratory",
                 "genre": "Strategy",
                 "id": 392,
@@ -3567,7 +3567,7 @@
                 "publisher": "Nintendo",
                 "releaseDate": "1999-01-21",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -3765,7 +3765,7 @@
                 "publisher": "Acclaim",
                 "releaseDate": "2000-08-30",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -4257,7 +4257,7 @@
                 "publisher": "Technos Japan",
                 "releaseDate": "1988-12-01",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -4367,7 +4367,7 @@
                 "publisher": "Midway",
                 "releaseDate": "1988-01-01",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -4851,7 +4851,7 @@
                 "publisher": "Data East",
                 "releaseDate": "1988-12-01",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -5299,7 +5299,7 @@
                 "publisher": "Sony",
                 "releaseDate": "1999-06-18",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -5615,7 +5615,7 @@
                 "publisher": "Sega",
                 "releaseDate": "1994-03-02",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
@@ -5703,7 +5703,7 @@
                 "publisher": "SEGA",
                 "releaseDate": "1994-01-01",
                 "released": true,
-                "validatedDate": "2017-01-16"
+                "validatedDate": "2017-01-17"
             },
             {
                 "compatibility": {
