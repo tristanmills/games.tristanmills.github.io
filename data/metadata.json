@@ -56,7 +56,7 @@
                 "name": "Frogger II: Threeedeep!",
                 "players": 1,
                 "publisher": "Parker Brothers",
-                "releaseDate": null,
+                "releaseDate": "1984-01-01",
                 "released": true,
                 "validatedDate": null
             },
@@ -183,7 +183,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "description": "Based on the 1982 Namco coin-op, this game was developed by Atari in 1984. A pretty good translation of a classic arcade game.",
+                "description": "The objective of Dig Dug is to eliminate underground-dwelling monsters by inflating them with an air pump until they explode, or by dropping rocks on them. There are two kinds of enemies in the game: \"Pookas\" (a race of round red monsters, said to be modeled after tomatoes, that wear yellow goggles) and \"Fygars\" (a race of green dragons that can breathe fire while their wings flash).",
                 "developer": "Namco",
                 "genre": "Puzzle",
                 "id": 38189,
@@ -258,8 +258,8 @@
                     "pi3": true
                 },
                 "description": "They climb, they dig, they explore...but they can't fly! As the only member of the Save The Lemmings Foundation, it's your job to guide these munchkins to safety before they realize they have no landing gear.",
-                "developer": null,
-                "genre": null,
+                "developer": "DMA Design",
+                "genre": "Puzzle",
                 "id": 19553,
                 "multiplayer": {
                     "alternating-coop": false,
@@ -269,8 +269,8 @@
                 },
                 "name": "Lemmings",
                 "players": 1,
-                "publisher": null,
-                "releaseDate": null,
+                "publisher": "Psygnosis Limited",
+                "releaseDate": "1993-01-01",
                 "released": true,
                 "validatedDate": null
             },
@@ -314,7 +314,7 @@
                 "name": "Xenophobe",
                 "players": 4,
                 "publisher": "Atari",
-                "releaseDate": null,
+                "releaseDate": "1990-01-01",
                 "released": true,
                 "validatedDate": null
             }
@@ -404,7 +404,7 @@
                 "publisher": "Nintendo",
                 "releaseDate": "1997-10-01",
                 "released": true,
-                "validatedDate": null
+                "validatedDate": "2017-01-16"
             },
             {
                 "compatibility": {
@@ -1865,7 +1865,7 @@
                 "publisher": "SNK",
                 "releaseDate": "1999-04-30",
                 "released": true,
-                "validatedDate": null
+                "validatedDate": "2017-01-16"
             },
             {
                 "compatibility": {
@@ -2019,7 +2019,7 @@
                 "publisher": "SNK",
                 "releaseDate": "1999-03-19",
                 "released": true,
-                "validatedDate": null
+                "validatedDate": "2017-01-16"
             }
         ],
         "id": 4923,
@@ -5615,7 +5615,7 @@
                 "publisher": "Sega",
                 "releaseDate": "1994-03-02",
                 "released": true,
-                "validatedDate": null
+                "validatedDate": "2017-01-16"
             },
             {
                 "compatibility": {
@@ -5624,7 +5624,7 @@
                 },
                 "description": "One of the last 32X games released (and exclusively in Europe), DarXide is a 3-D space shooter, inspired in part by the arcade gameplay of Asteroids. It is one of the few 32X games to used texture-mapped polygons.\n\nPlayers control a lone starship rushing to destroy oncoming asteroids and alien vessels before they annihilate defenseless human miners and colonies. Asteroids break apart into smaller rocks, which much also be hunted down and destroyed. Aliens likewise arrive in larger, more dangerous vessels.",
                 "developer": "Frontier Developments",
-                "genre": null,
+                "genre": "Shooter",
                 "id": 9075,
                 "multiplayer": {
                     "alternating-coop": null,
@@ -5879,7 +5879,7 @@
                 "publisher": "Activision",
                 "releaseDate": "1995-10-01",
                 "released": true,
-                "validatedDate": null
+                "validatedDate": "2017-01-16"
             },
             {
                 "compatibility": {
@@ -6108,7 +6108,7 @@
                 },
                 "description": "Toughman Contest is a game based on the world famous boxing competition of the same name. You pick one of 24 fighters, compete in one of 5 locations from around the world, and re-create the Toughman tournament as seen on TV.\n\nThe boxing action is viewed from behind the back of fighter you control. Your fighter is rendered as an outline, so you can see what your opponent is up to and react accordingly. Toughman matches consist of three one minute rounds. Your goal is to KO your opponent by causing their stamina meter to decrease to the point where they fall down, or beating on them enough that you are scored the winner at end of the third round.",
                 "developer": "High Score",
-                "genre": "Sports",
+                "genre": "Fighting",
                 "id": 9082,
                 "multiplayer": {
                     "alternating-coop": null,
@@ -6229,7 +6229,7 @@
                 "name": "World Series Baseball Starring Deion Sanders",
                 "players": 1,
                 "publisher": "Sega",
-                "releaseDate": "1995-11-17",
+                "releaseDate": "1995-01-01",
                 "released": true,
                 "validatedDate": null
             },
@@ -7716,7 +7716,7 @@
                     "pi0": null,
                     "pi3": true
                 },
-                "description": "Shaq brings his awesome skill and size to a multiworld fighting game! As Shaq, use your lightning-fast shuriken and other martial art techniques to prevail over 11 intensely evil warriors in the enforcement of justice. Or choose any of the 12 warriors and fight head to head. Summon Voodoo's bone-shattering earthquake, rebound with Rajah's shockwave sword or lash out with Sett's terrifying mummy wrap! Scores of secret power moves to discover and master!",
+                "description": "COME AND GET YOURS!\nSHAQ BRINGS HIS AWESOME SKILL AND SIZE TO A MULTI-WORLD FIGHTING GAME.\n\nAs Shaq, use your lightning-fast shuriken and other martial art techniques to prevail over 6 intesely evil warriors in the enforcement of justice. Or choose any of the 7 warriors and fight head to head. Summon Voodoo's bone shattering earthquake, rebound with Rajah's shockwave sword or lash out with Sett's terrifying mummy wrap. Scores of secret power moves to discover and master.\n\n* Awesome animation from the designers of FLASHBACK\n* Destroy your opponent with special power moves\n* Choose Shaq or one of the 6 other inter-dimensional martial artists\n* Tournament, Duel and Story modes\n* Battle against the computer or go head-to-head with another player",
                 "developer": "Delphine Software International",
                 "genre": "Fighting",
                 "id": 3258,
@@ -8237,7 +8237,7 @@
                 "publisher": "Acclaim",
                 "releaseDate": "1995-10-01",
                 "released": true,
-                "validatedDate": null
+                "validatedDate": "2017-01-16"
             },
             {
                 "compatibility": {
@@ -8325,7 +8325,7 @@
                 "publisher": "DVS Electronic",
                 "releaseDate": "1998-01-01",
                 "released": true,
-                "validatedDate": null
+                "validatedDate": "2017-01-16"
             },
             {
                 "compatibility": {
@@ -8621,7 +8621,7 @@
                 },
                 "description": "Prepare to enter the vast expanse of the Milky Way. Put your pinball skills to an interstellar test with four incredible space tables.\n\nBlast your pinball at rotating planets and turn them into dust in the Cosmic world. Send your puck flying through galactic formations in the deep-space Colony. Defeat an evil skeleton and hit the ultimate UFO jackpot! Knock down multiple rings and destroy wicked assailants in an Alien place. Defy arduous obstacles and save the world from impending devastation!",
                 "developer": "Intelligent Systems",
-                "genre": null,
+                "genre": "Puzzle",
                 "id": 14738,
                 "multiplayer": {
                     "alternating-coop": false,
@@ -8665,7 +8665,7 @@
                 },
                 "description": "Innsmouth no Yakata is an Action game, developed by Betop and published by I'Max, which was released in Japan in 1995.",
                 "developer": "Betop",
-                "genre": null,
+                "genre": "Shooter",
                 "id": 19238,
                 "multiplayer": {
                     "alternating-coop": false,
@@ -8676,7 +8676,7 @@
                 "name": "Insmouse no Yakata",
                 "players": 1,
                 "publisher": "I'Max",
-                "releaseDate": null,
+                "releaseDate": "1995-10-13",
                 "released": true,
                 "validatedDate": null
             },
@@ -8808,7 +8808,7 @@
                 "name": "SD Gundam Dimension War",
                 "players": 1,
                 "publisher": "Bandai",
-                "releaseDate": null,
+                "releaseDate": "1995-12-22",
                 "released": true,
                 "validatedDate": null
             },
@@ -8818,7 +8818,7 @@
                     "pi3": true
                 },
                 "description": "Attention all Earthlings! Relentless alien hordes have been identified near you. Prevent the dangerous Space Invaders from landing on your territory. Use your cannon to defend against waves of descending alien invaders. Don't let them hit the ground or it's all over for you and the Earth! Destroy them and score points!",
-                "developer": null,
+                "developer": "Taito",
                 "genre": "Shooter",
                 "id": 19240,
                 "multiplayer": {
@@ -8829,8 +8829,8 @@
                 },
                 "name": "Space Invaders: Virtual Collection",
                 "players": 1,
-                "publisher": null,
-                "releaseDate": null,
+                "publisher": "Taito",
+                "releaseDate": "1995-12-05",
                 "released": true,
                 "validatedDate": null
             },
@@ -8841,7 +8841,7 @@
                 },
                 "description": "Space Squash is a Sports game, developed by Tomcat System and published by Coconuts Japan, which was released in Japan in 1995.",
                 "developer": "Tomcat System",
-                "genre": null,
+                "genre": "Sports",
                 "id": 19179,
                 "multiplayer": {
                     "alternating-coop": false,
@@ -8852,7 +8852,7 @@
                 "name": "Space Squash",
                 "players": 1,
                 "publisher": "Coconuts Japan",
-                "releaseDate": null,
+                "releaseDate": "1995-09-09",
                 "released": true,
                 "validatedDate": null
             },
@@ -8907,7 +8907,7 @@
                 },
                 "description": "Pilot a Futuristic Star Fighter in a Battle for Mankind!\n\nGALACTIC YEAR 210. The earth and its colonies face annihilation in a futuristic war against the human race. YOU have been chosen to pilot RAGNAROK, a star fighter from an advanced alien civilization.\n\nReinforced by fearless AI CHARACTERS, you must locate and destroy menacing fighters and enemy droids. With sheer VERTICAL FORCE blast your way into another dimension to the final Virtual frontier. This mission for mankind is brutal. Be prepared, for it has only just begun!",
                 "developer": "Hudson Soft",
-                "genre": null,
+                "genre": "Shooter",
                 "id": 14750,
                 "multiplayer": {
                     "alternating-coop": false,
@@ -8994,8 +8994,8 @@
                     "pi3": true
                 },
                 "description": "Virtual Lab is a Miscellaneous game, developed and published by J-Wing, which was released in Japan in 1995.",
-                "developer": null,
-                "genre": null,
+                "developer": "Nacoty",
+                "genre": "Puzzle",
                 "id": 19244,
                 "multiplayer": {
                     "alternating-coop": false,
@@ -9005,8 +9005,8 @@
                 },
                 "name": "Virtual Lab",
                 "players": 1,
-                "publisher": null,
-                "releaseDate": null,
+                "publisher": "J-Wing",
+                "releaseDate": "1995-12-08",
                 "released": true,
                 "validatedDate": null
             },
